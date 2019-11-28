@@ -49,7 +49,18 @@ http://streaming.arcast.com.ar:1935/canal2deanfunes/canal2deanfunes/chunklist_w1
 
 #EXTINF:-1 group-title="ARG ",canal 3 aldeia brasileira
 http://stmv2.srvstm.com/brasil2/brasil2/playlist.m3u8
-
+#EXTINF:-1 group-title="ARG ",FOX SPORTS PREMIUM HD 1
+http://extremo.dyndns.ws:25461/123456/123456/2628
+#EXTINF:-1 group-title="ARG ",FOX SPORTS PREMIUM HD 2
+http://extremo.dyndns.ws:25461/123123/123123/2628
+#EXTINF:-1 group-title="ARG ",FOX SPORTS PREMIUM HD 3
+http://extremo.dyndns.ws:25461/6942/6942/2628
+#EXTINF:-1 group-title="ARG ",FOX SPORTS PREMIUM HD 4
+http://extremo.dyndns.ws:25461/adrian/adrian/2628
+#EXTINF:-1 group-title="ARG ",FOX SPORTS PREMIUM HD 5
+http://extremo.dyndns.ws:25461/fer/fer/2628
+#EXTINF:-1 group-title="ARG ",FOX SPORTS PREMIUM HD 6
+http://extremo.dyndns.ws:25461/gianmarco/gianmarco/2628
 #EXTINF:-1 group-title="ARG ",canal 4 la matanza
 http://panel.dattalive.com:1935/8002/8002/playlist.m3u8
 
