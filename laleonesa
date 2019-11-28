@@ -61,6 +61,30 @@ http://extremo.dyndns.ws:25461/adrian/adrian/2628
 http://extremo.dyndns.ws:25461/fer/fer/2628
 #EXTINF:-1 group-title="ARG ",FOX SPORTS PREMIUM HD 6
 http://extremo.dyndns.ws:25461/gianmarco/gianmarco/2628
+#EXTINF:-1 group-title="ARG ",FOX SPORTS PREMIUM HD 1
+http://extremo.dyndns.ws:25461/live/123456/123456/2628.rtmp
+#EXTINF:-1 group-title="ARG ",FOX SPORTS PREMIUM HD 2
+http://extremo.dyndns.ws:25461/live/123123/123123/2628.rtmp
+#EXTINF:-1 group-title="ARG ",FOX SPORTS PREMIUM HD 3
+http://extremo.dyndns.ws:25461/live/6942/6942/2628.rtmp
+#EXTINF:-1 group-title="ARG ",FOX SPORTS PREMIUM HD 4
+http://extremo.dyndns.ws:25461/live/adrian/adrian/2628.rtmp
+#EXTINF:-1 group-title="ARG ",FOX SPORTS PREMIUM HD 5
+http://extremo.dyndns.ws:25461/live/fer/fer/2628.rtmp
+#EXTINF:-1 group-title="ARG ",FOX SPORTS PREMIUM HD 6
+http://extremo.dyndns.ws:25461/live/gianmarco/gianmarco/2628.rtmp
+#EXTINF:-1 group-title="ARG ",TNT SPORTS 1
+http://extremo.dyndns.ws:25461/live/123456/123456/2627.rtmp
+#EXTINF:-1 group-title="ARG ",TNT SPORTS 2
+http://extremo.dyndns.ws:25461/live/123123/123123/2627.rtmp
+#EXTINF:-1 group-title="ARG ",TNT SPORTS 3
+http://extremo.dyndns.ws:25461/live/6942/6942/2627.rtmp
+#EXTINF:-1 group-title="ARG ",TNT SPORTS 4
+http://extremo.dyndns.ws:25461/live/adrian/adrian/2627.rtmp
+#EXTINF:-1 group-title="ARG ",TNT SPORTS 5
+http://extremo.dyndns.ws:25461/live/fer/fer/2627.rtmp
+#EXTINF:-1 group-title="ARG ",TNT SPORTS 6
+http://extremo.dyndns.ws:25461/live/gianmarco/gianmarco/2627.rtmp
 #EXTINF:-1 group-title="ARG ",canal 4 la matanza
 http://panel.dattalive.com:1935/8002/8002/playlist.m3u8
 
