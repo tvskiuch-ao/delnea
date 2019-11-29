@@ -841,7 +841,1548 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 #EXTINF:-1 group-title="World ", Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://1.bp.blogspot.com/-qgZFTaRwMSs/XdilRy9zFxI/AAAAAAAApE4/SXffDHKIy7UsNfH2f53fgDUWpEb0a7OfwCK4BGAYYCw/s200/giezi-manuel.png" size="Medium", 18094913197 Giezi Manuel
+http://stream.zenolive.com/492ru4zwh4duv
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-xbm_Y9ihbLM/XZLZvVasegI/AAAAAAAAoMk/Rh5L_dQjKAYOe2N4pRN2AkQbxaansLtgACLcBGAsYHQ/s200/logoTeleantillas122x90.webp", Teleantillas Sto. Dgo. (RD)
+http://ss1.domint.net:2126/ta2_str/teleantillas/chunklist_w460875019.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-sNq8hlRQoDM/XKdEL6nT9tI/AAAAAAAAiXk/5iEAvzj834UBv0fS2dp6ZgyicarDNW9aQCK4BGAYYCw/s1600/misioneltvlogo.jpg", Misión ELTV  Higüey (RD)
+https://5790d294af2dc.streamlock.net:443/8286/8286/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://i.imgur.com/PY4Nzef.png", Canal 4 Sto. Dgo. RD
+http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
+#EXTINF:0 type="stream" channelId="3835" group="Rep. Dom." logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png", Telemicro Sto. Dgo. (RD)
+https://api.new.livestream.com/accounts/27456795/events/8825585/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png", Telemicro HD Sto. Dgo. (RD)
+https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://2.bp.blogspot.com/-xTsc_BMX3A8/XccIgUoDoXI/AAAAAAAAo_g/_boGfMUVikA-x4mJoaasUME_zX6TGJb5gCK4BGAYYCw/s120/ELTV%2BKids%2BLogo.png", ELTV Kids (Rep. Dom.)
+https://5790d294af2dc.streamlock.net/8050/8050/chunklist_w377617682.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://1.bp.blogspot.com/-aLnopnw7_aA/Xb5KdslKdmI/AAAAAAAAooc/ybqpm6cGUgYFBkXFUwCEoGHL8ogdIjeUACK4BGAYYCw/s1600/Bellavision.png", Bellavisión Higüey (RD)
+http://ss1.domint.net:2128/bev_str/bella/chunklist_w332864853.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-tlVvAwA8FZ8/Wrud3_Bxh1I/AAAAAAAAdDk/SkUrZawgOf0Psqio2Hps_08aD7O0uzJNACLcBGAs/s200/Color%2BVision.png", Color Visión Sto. Dgo. (RD)
+https://ss5.domint.net:3018/cvh_str/colorvisionhd/chunklist_w1556269922.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://cielotvcristiana.com/images/LOGO.png", CieloTV La Romana (RD)
+https://5d79ae45bc63b.streamlock.net/cielotv/cielotv/chunklist_w1400485280.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-tFyUxtYTHuk/Wsfs3m1Dv8I/AAAAAAAAdQY/iSDaMxjA57QTwGrRsqvaD9cQIL7uZDjfQCLcBGAs/s200/Telesistema.png", Telesistema Sto. Dgo. (RD)
+http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-OlrTJEjmmAI/Wr1YlnuxLOI/AAAAAAAAdIU/vTw_1pzwsTUbHwz_4zPiZwnbaeHDwiYAwCLcBGAs/s200/Zol%2B106.png", ZOL 106 Sto. Dgo. (RD)
+https://ss3.domint.net:3108/zol_str/vzol/chunklist_w1436990381.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/07/telecentro-13.jpg", Telecentro Sto. Dgo. (RD)
+https://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://i.imgur.com/zSRGlam.png", AcentoTV Sto. Dgo. (RD)
+http://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/07/digital-15-trans.jpg", Digital 15 Sto. Dgo. (RD)
+http://api.new.livestream.com/accounts/27456795/events/8268514/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-_meL7KqO3IA/Wr0zrd9-kJI/AAAAAAAAdHI/NTLkovpii18Soqad4KVlpQXCgG_WuicqACLcBGAs/s200/Telebendicion.png", TeleBendicion Bonao (RD)
+http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://1.bp.blogspot.com/-DvbAup2Pot4/Xcq90GOp-TI/AAAAAAAApAk/SlSRtI8I7f0O4ptKGQ66NcrJ06lwo95gACLcBGAsYHQ/s200/tvluz.png", TV Luz Higuey (RD)
+https://5790d294af2dc.streamlock.net/8204/8204/chunklist_w2054377758.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://www.vallevision.com.do/images/vallevision.png", Vallevision La Vega (RD)
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-OyGda7x4ma0/WskGwhu7INI/AAAAAAAAdTg/m3iGx8lteugAxvbEtiFnQm7gqZoyLeAJQCLcBGAs/s200/Cinevision.jpg", Cinevision19 Sto. Dgo. (RD)
+http://cinevision01.streamprolive.com/hls/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-tc2iZpkTiAM/Wsf6ritbEnI/AAAAAAAAdRM/4BhFz3ErjfAq1vJry37Ut_rhbq02gRWhwCLcBGAs/s200/CanaTV.png", CanaTV La Altagracia (RD)
+https://59f1cbe63db89.streamlock.net:1443/canavisiontv/_definst_/canavisiontv/chunklist_w1522574806.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://www.hilandofinotv.com/wp-content/uploads/2017/04/cropped-logo-tv-3.png", Hilando Fino (RD)
+https://hd.streamingmedios.com/HilandoFinoTV/myStream/chunklist_w367073370.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://colimdotv.com/logo.fw.png", ColimdoTV (RD)
+https://595b85410a151.streamlock.net/8040/8040/chunklist_w1885327249.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-dxFegqrXFoY/XZtMMmjr0bI/AAAAAAAAoTo/Xq_4fLLVDFoWDp04syQ_1zLss5pRDwDKACLcBGAsYHQ/s200/Telever%2BCanal%2B12.png", Telever Canal 12 (RD)
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://pbs.twimg.com/profile_images/1134438511308869632/u9ztepqa_400x400.jpg", Dajabon TV (RD)
+http://ss1.domint.net:2314/mtv_str/maimon/chunklist_w127566966.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png", Canal 25 Santiago (RD)
+https://ss1.domint.net:3108/c25_str/canal25/chunklist_w2053655496.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-ODdqweEDT08/WpSgiynWxcI/AAAAAAAAcRc/YMGG81ZMAg8btoN_xz2-GkDR-EYYhy3NQCKgBGAs/s320/OTRA%2BBANDA%2BTV.jpg", Otra Banda TV Higüey (RD)
+http://ad.mysisli.com/live/otrabandatvlive/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-dNgkjv_lHvA/WrukdUgXxuI/AAAAAAAAdEc/lr2WVL7zy20Nl9G1XIXzwu9BlBJj4buhwCLcBGAs/s200/RNN%2B-%2BRed%2BNacional%2BNoticias.png", RNN Sto. Dgo. (RD)
+https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1813055510.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-kYzsHZyzs9E/XArq6i2CVcI/AAAAAAAAhH8/abuIEQ6uo10k6PaFtSGtmBXNs1dWJbmpACLcBGAs/s200/Faro%2BVision.png", Faro Visión MTS (RD)
+http://184.173.181.2:1935/8060/8060/chunklist_w41087696.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://teleuniversotv.com/wp-content/uploads/2018/11/logo_teleuniverso_400px.png", Teleuniverso Santiago (RD)
+https://ss5.domint.net:3006/tu_str/universo/chunklist_w777182816.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-IxLrIqz20sU/WsAcGiLZGdI/AAAAAAAAdO0/g5cLvjMQZSoe5zuDO7STLAik7K8QtWNwwCLcBGAs/s200/Carivisi%25C3%25B3n.png", Carivision Sto. Dgo. (RD)
+http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png", Microvision La Vega (RD)
+http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-N3U_0xKqcn8/Wr09H3EBXAI/AAAAAAAAdHk/u-HcbTtLGwAtgrHtUbKQeQiRdISSearcACLcBGAs/s200/La%2BVoz%2Bdel%2BTropico.jpg", La Voz del Trópico Sto. Dgo. (RD)
+http://ss8.domint.net:2084/vttv_str/tropicotv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg", HM  Salcedo (RD)
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png", PH Higüey (RD)
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/sport.jpg", SportVision Sto. Dgo. (RD)
+https://5b59c7a47236a.streamlock.net/sportvision35tv/sportvision35tv/chunklist_w1884094742.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-1e0viy-XtK8/XYugidQtXhI/AAAAAAAAoBI/yv7hogt4R3EIPJHQ5zs7WI5PRSMrGV2rACLcBGAsYHQ/s200/Cotubanama.jpg", CotubanamaTV Higüey  (RD)
+https://cdn.hostlagarto.com:4445/cotubanamatv/cotubanamatv.myStream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3736" group="Rep. Dom." logo="https://1.bp.blogspot.com/-M7Z8NK3r3aM/WtJ5kbney0I/AAAAAAAAeQA/5VcLxK2SSUkMlg8oIShjCVLmd3azb4NCwCLcBGAs/s200/CDN.png" aspect-ratio="1,85:1", CDN37 Sto. Dgo. (RD)
+https://5790d294af2dc.streamlock.net/8048/8048/chunklist_w168195588.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://pbs.twimg.com/profile_images/1007342971220525056/JKUwTMab_400x400.jpg", CDN Sports Max (RD)
+http://tv.latintvweb.com:25461/giezimanuel7/16msZd8iBp/3643
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://i.imgur.com/5bBhi3Q.png", Yuna Vision 10 (RD)
+http://ss1.domint.net:2300/yv_str/yuna/chunklist_w1312196465.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-la6MeSVFxmk/XAXXrfNoYjI/AAAAAAAAhFk/r92B43J8ijwtrfWJeBHGB_w6PV0qzPPPACLcBGAs/s200/FuegoTV.png", FuegoTV Santiago (RD)
+http://184.173.181.2:1935/8020/8020/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-FyLPxqdST6M/XazIXRTtZwI/AAAAAAAAocM/chfs4tJmLQUIQaaN3hMdwYpNnxr2g_UaACLcBGAsYHQ/s200/SEn%25CC%2583ALESTV.png", Señales TV (RD)
+https://5b646fb69c0ad.streamlock.net:1935/senalestv/senalestv.stream/chunklist_w1187780293.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-Ydoeseu7sw0/Wr16YgBvcqI/AAAAAAAAdKk/4BHSFm8KRNwrh9N_DuyPybfIsGkRJZW5wCLcBGAs/s200/RomanaTV.jpg", RomanaTV (RD)
+http://tv.romanatv42.com/hls/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://i.imgur.com/FsJesCO.png", Telenovisa 43 Mao (RD)
+http://74.108.36.101:1935/telenovisa43/telenovisa43/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://www.teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png", TRA Sto. Dgo. (RD)
+https://ss1.domint.net:3310/tra_str/canal45/chunklist_w718216467.m3u8
+#EXTINF:0 type="stream" channelId="3794" group="Rep. Dom." logo="https://3.bp.blogspot.com/-1P8ozDYekaw/XbBkLrf0Q4I/AAAAAAAAodQ/5qTLYC9km6YVHW8E1WoELvFneAUm1U7bwCPcBGAYYCw/s200/Teleunion%2B%25281%2529.png", Teleunion Santiago (RD)
+http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w2042982926.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://caribeteve.com/images/LOGO-WEB.png", Caribe Teve (RD)
+http://74.108.36.101:1935/caribeteve/caribeteve/chunklist_w443290067.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-jDnx_UBoAxc/XbYPP9ZeLUI/AAAAAAAAof0/T12fg7dCmhYfaQdAbCXV0a3z_jyrK257ACK4BGAYYCw/s1600/Ame47.jpg", Ame 47 Sto. Dgo. (RD)
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-V8ZyzsGFiOo/Wr0xO-i31hI/AAAAAAAAdG8/SrmsBscKPcI1KmcKvbhbVJA1gRXpw_vSwCLcBGAs/s200/Sabor%2Ba%2BMerengue.jpg", Sabor a merengue (RD)
+http://ss6.domint.net:2004/sam_str/sabor-video/chunklist_w533683600.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://mir-s3-cdn-cf.behance.net/projects/202/19839661.549005a5a2716.png", Comunión TV Sto. Dgo. (RD)
+http://50.30.37.36:1935/live/stream/chunklist_w769879495.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://www.las-terrenas-live.com/upload/logo-telenord.jpg", TeleNord 10 SFM (RD)
+http://newyorkstreamss2.ddns.net:28987/telenord10/telenord10/chunklist_w579731506.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://i.imgur.com/iE1xhA5.png", Telenord 12
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://cableondaoriental.com/images/logo_tv_new_md.png", Onda TV 10 (RD)
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://dominicanchannels.com/wp-content/uploads/2014/02/lunatv-1.jpg", LunaTV Santiago (RD)
+http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w719846308.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png", ORBIT TV Los Alcarrizos (RD)
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg", SuperTV55 Santiago (RD)
+http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://1.bp.blogspot.com/-8IeXyzjPufM/VsSv1khYTjI/AAAAAAAAOIk/geQgV_bLhCs/s1600/Somos%2BTV%2BCanal%2B56%2Bdesafinenet.jpg", Somos TV 56 SFM (RD)
+http://castv10.plugstreaming.com:1935/somos56/somos56/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://1.bp.blogspot.com/--7V0FgPaipY/XaS9XlQHK6I/AAAAAAAAoW0/4ju4nzlWvToWKovonBdAAQuQDOm2qJsPgCLcBGAsYHQ/s200/GH%2BTelevision.png", GH television Gaspar  Hernández (RD)
+https://ss6.domint.net:3046/gh_str/tv10/chunklist_w1699232612.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://1.bp.blogspot.com/-5JBZ6ZO0ybk/XaS-xAYTF7I/AAAAAAAAoXA/u1OK-aVn_sQNM86uwWFBqLuk5Q-Uzo7hgCLcBGAsYHQ/s200/vegateve.jpg", Vega Teve La Vega (RD)
+https://ss6.domint.net:3012/tes_str/teleelsalvador/chunklist_w757952389.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://is4-ssl.mzstatic.com/image/thumb/Purple4/v4/2f/63/27/2f6327ce-edb5-b892-b0e0-4ac536a04ee9/source/512x512bb.jpg", Mango TV (RD)
+http://mangotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://dominicanchannels.com/wp-content/uploads/2014/09/naranjatv-1.jpg", Naranja TV (RD)
+http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://1.bp.blogspot.com/-33hgi3XzfLk/XaTZchnPFzI/AAAAAAAAoXM/_4Dev7Cb_II0S6JPEDyqOShzfmInR42vACLcBGAsYHQ/s200/tvplata.png", TV Plata (Puerto Plata RD)
+https://ss6.domint.net:3104/tvp_str/tvplata/chunklist_w1651029128.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-WUVlfMgyAnw/XaTa1oyGrrI/AAAAAAAAoXc/k_dGuOKnfm4TtuUxLl6bTh_4fr-4S8uSACLcBGAsYHQ/s200/TNI%252C%2BCanal%2B51.png", TNI Digital (RD)
+https://ss8.domint.net:3126/tni_str/tni51/chunklist_w1185758933.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-oNQ57yn5qq0/Wr0s-LMaxEI/AAAAAAAAdGI/qQqFdsmY51gUBISC1D478h78xSFMvup0QCLcBGAs/s200/Digital%2BVision%2B63.jpg", Digital Visión Sto. Dgo. (RD)
+http://ss1.domint.net:2106/dv6_str/digitalvision/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3457" group="Rep. Dom." logo="https://2.bp.blogspot.com/-5LF-9Jp1eL8/XaTe1vz0cCI/AAAAAAAAoYI/n3Ca0bZ-MW4ERsYmVncgFg5X5GOEjdnLwCLcBGAsYHQ/s200/TVO%2BDominicana.jpg", TVO (RD)
+https://5b646fb69c0ad.streamlock.net:1935/tvoromana/tvoromana.stream/chunklist_w1055047923.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-yOUuOfjWcNU/XaTdbRAGB1I/AAAAAAAAoX0/glU0qnb_-5wEp4ARNvbc3EUkhLHXLHMWgCLcBGAsYHQ/s200/canaldelsol.png", Canal de Sol (RD)
+http://canaldelsol01.streamprolive.com/hls/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-noIW0xEp9So/XaTfl3Xh_kI/AAAAAAAAoYU/AW2tk8iFrZ8Z5rj_9xZEcuV1-gVg30HAgCLcBGAsYHQ/s200/Peravia%2BVision.png", Peravia Vision (RD)
+https://ss6.domint.net:3002/pvv_str/peravia/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-D_lFigaBPtk/XaTgkYjjOrI/AAAAAAAAoYg/jhIBm5DHRmwfcY1MmXWmJ5MNkMNnWnVDwCLcBGAsYHQ/s200/EL%2BPuerto%2BTV.png", El Puerto TV (RD)
+https://5983a4e15f07f.streamlock.net:8443/puertotv/puertotv/chunklist_w1822137763.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://buenatv.com/wp-content/uploads/2019/06/Captura.png", Buena TV (RD)
+https://cdn.hostlagarto.com:4445/buenatv/buenatv.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://cdn-profiles.tunein.com/s196674/images/logoq.png", tdn tv (RD)
+http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://1.bp.blogspot.com/-f8W8pozJEGo/XbxjWAuEchI/AAAAAAAAol8/4xy5TbMcEJgdiOyFTv-y2wHjE5eSU3KnwCLcBGAsYHQ/s1600/ennti%2Bvision%252C%2BRomana%252C%2BRD.png", ennti Vision (RD)
+https://59f1cbe63db89.streamlock.net:1443/enntivision/_definst_/enntivision/chunklist_w888329749.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://telecanal12.net/wp-content/uploads/2017/10/cropped-tele-canal-12-logo-2k17-5.png", Tele Canal 12 (RD)
+https://59f2354c05961.streamlock.net:1443/tele12/_definst_/tele12/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://i.imgur.com/5NCuyez.png", Bonao TV Canal 12 (RD)
+http://ss1.domint.net:2226/btv_str/bonao/chunklist_w482371085.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://i.imgur.com/3L2r63a.png", Telecontacto 57 (RD)
+https://cdn.hostlagarto.com:4445/telecontacto/telecontacto.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://i.imgur.com/2bj6efg.png", Telekaribe (RD)
+http://ss1.domint.net:2208/tka_str/telekaribe/chunklist_w37205285.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png", Telemilenio (RD)
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/vegavision2019.jpg", VegaVision(RD)
+https://cdn.hostlagarto.com:4445/Vegavision18/vegavisoncanal18.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://i.imgur.com/TyVUlYx.png", Vision 3000 (RD)
+http://ss1.domint.net:2202/v3_str/v3000/chunklist_w223748530.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://teleradionorte.com//wp-content/uploads/2018/08/LOGO-1.png", Tele Radio Norte (RD)
+https://cdn.hostlagarto.com:4445/teleradionorte/teleradionorte.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-uVXrzSYxQWE/XcDIheRqgGI/AAAAAAAAo4o/B62PGwT29xMv7Ryj0DkKV-pEE_ofmYyDACK4BGAYYCw/s1600/GlobalTV.jpg", Global HD (RD)
+https://ss6.domint.net:3016/gtv_str/globalhd/chunklist_w1882231442.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-WKLyQ7tVoAE/XbxlpEBBY-I/AAAAAAAAomI/sGnNfLJRNTEtG52F_Pj2M1NBihRMCjKagCLcBGAsYHQ/s200/Teletur%2B%2528RD%2529.png", Teletur (RD)
+https://cdn.hostlagarto.com:4445/teletur/teletur.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png", Ready TV (RD)
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/MORROTV-300x194.jpg", Morro Tv (RD)
+http://cm.hostlagarto.com:8081/morrotv/Morrotv.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-iEZHkniFo-c/XZrABaV7oJI/AAAAAAAAoTM/bbg2j4BvRmcwUtQsOR6RgfcmFtFqN97wACLcBGAsYHQ/s200/Television%2Bdel%2BEste.jpg", Televisión del Este (RD)
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-vI6hdE3K2QU/XbBmVmyyg0I/AAAAAAAAodg/gPz2BBjFH8Qe2P2oSQnw_IPGlROTV-hbACLcBGAsYHQ/s200/galaxiatv.png", GalaxiaTV (RD)
+http://cdn.hostlagarto.com:8081/galaxiatv/galaxiatv.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-cJp5TqvuB68/XbBltTNoN8I/AAAAAAAAodY/qTHIrguoevQhWkzV3FGlxP8LJ_95cj-CgCLcBGAsYHQ/s200/Imbert%2BTV.jpg", Imbert TV (RD)
+http://cm.hostlagarto.com:8081/imberttv/imberttv.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://2.bp.blogspot.com/-v9AgSCTkNJ0/XcDSZNkLTeI/AAAAAAAAo58/V8a479dKrMEcFYlQUXHAWmNHNpoBGeONACK4BGAYYCw/s1600/CurroTV.jpg", Curro TV  (RD)
+https://59f1cbe63db89.streamlock.net:1443/currotv/_definst_/currotv/chunklist_w1840273389.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://3.bp.blogspot.com/-Q7LN9U7TTzs/XcGNXQbWAfI/AAAAAAAAo6Q/5IpCdKY21XE-89ukBTV9IaZh8ZccZ5LKACK4BGAYYCw/s1600/SensacionTV.png", SensacionTV(RD)
+http://ss6.domint.net:1996//rtv_str/rvision/chunklist_w122420359.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-ZuCp5RmcFwA/XbcT2NFUdiI/AAAAAAAAohE/qfgI5E9bQAwHeTIj7b-16ZQb4Qsw_PddgCLcBGAsYHQ/s200/MegaVision%2B%2528RD%2529.jpg", Mega Vision 88(RD)
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1383240275.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-pX_ttpSeQKY/XAsm-JV6RqI/AAAAAAAAhKA/7sREln9bxD0cav6LCKDGr0XOvniBfCvVQCLcBGAs/s200/MaimonTVDigital.jpg", Maimon TV(RD)
+http://ss8.domint.net:8112/mtd_str/miamontv/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom.", San Isidro TV (RD)
+https://cdn.hostlagarto.com:4445/sanisidrotv/sanisidrotv.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="2560" group="Rep. Dom." logo="https://2.bp.blogspot.com/-3y2ZCZKOE7A/XbT5ZFbczpI/AAAAAAAAoe0/PZkKyNolFbMKXRoa53asbs9gB4i3IiC6QCLcBGAsYHQ/s1600/megatv.jpg", Mega TV (RD)
+https://cdn.hostlagarto.com:4445/megatv/megatv.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://1.bp.blogspot.com/-ApJ7-2xMCeA/Wr1x2YEQ04I/AAAAAAAAdKA/4tJ2ognXxBIqCvhw1QLFjhcIS8V9_knEwCLcBGAs/s200/RVIDATV.png", RVida(RD)
+http://ss1.domint.net:2312/rv_str/rvida/chunklist_w1686845418.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://tumusicahd.com/wp-content/uploads/2019/06/LOGOWEB-300x239.png", TuMusicaHD (RD)
+https://59f1cbe63db89.streamlock.net:1443/tumusicahd/_definst_/tumusicahd/chunklist_w953826473.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-Je1auqFeJGY/XZtJ74JsVCI/AAAAAAAAoTc/bq0XHVgMKEw9wenihwDmaJn7Vs3GzggpgCLcBGAsYHQ/s1600/punaltv.png", Puñal TV (RD)
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-LhwExEzTwdA/XbyVy_B4yMI/AAAAAAAAomg/uVHe-pJhc4sF5-aRULuAM_Tghb04V1KyACLcBGAsYHQ/s200/RocaVision%2B%2528RD%2529.png", Roca Visión (RD)
+http://cm.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-mTp8d0ulnoI/XArokzXHIII/AAAAAAAAhHo/X75E-zC2U9UOpOrUUsKQGYPNYwV3orWvgCLcBGAs/s1600/Musavision.jpg", Musa Visión 96(RD)
+https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/chunks.m3u8
+#EXTINF:0 type="stream" channelId="2422" group="Rep. Dom." logo="https://2.bp.blogspot.com/-MgFDf8g1D5o/XbyaryCHJmI/AAAAAAAAoms/bwC5XaZ9oZ8M7Gjgm_s657LY9T5MVRlMwCLcBGAsYHQ/s200/tvs%252C%2Bcanal22%252C%2Belcanaldetodos.jpg", TVS (RD)
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://3.bp.blogspot.com/-yGZOecmImYY/XbcztLTVHnI/AAAAAAAAoiE/5ky8tzObx5cojE-eov05MZhy5Ikc-6ZjACK4BGAYYCw/s1600/Ecovision%2B%2528RD%2529.png", Eco Vision (RD)
+https://cdn.hostlagarto.com:4445/ecovision/ecovision.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://sitv.com.do/imgs/sitv.png", SiTV (RD)
+http://190.122.104.221/Player/sitv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-2X0eRO50hsY/XbykxkQ1RDI/AAAAAAAAom4/vZpAunUU4ggZAmzrL-81BSMl0xWdgA1SQCLcBGAsYHQ/s200/tc28.png", Telecanal 28 (RD)
+https://cm.hostlagarto.com:4445/Telecanal-28/telecanal.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://z101digital.com/wp-content/themes/z-101-digital/imgs/podcasts/audios-destacados.jpg", ZTV Sto. Dgo. (RD)
+https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-7IMCZGoTSFM/XbymaiOOjxI/AAAAAAAAonE/HftEKECv_yU01ejpT91WRM6BnUatbAHbACLcBGAsYHQ/s200/BajoTecho%252C%2Bcanal26.png", Bajo Techo (RD)
+https://cdn.hostlagarto.com:4445/bajotechotv/bajotechotv.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-CIIL9YFIXIo/Xb4iX-kPD2I/AAAAAAAAooM/tQnM-j_g_cUzjj9yBr8BdZpgr0dCiOcVwCLcBGAsYHQ/s200/GDM%2BEstudioTV.png", GDM Estudio TV (RD)
+https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-iJHmX7auF-c/XArdMh8rORI/AAAAAAAAhGs/q9iCbPVOEnISDn8aVb2c_V-HACM7yhEQwCLcBGAs/s200/CTN.png", CTN (RD)
+https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w1020470609.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://www.cascaratv.com/wp-content/uploads/2019/07/cropped-LOGO-CASCARA-PNG-baner.png", CascaraTV (RD)
+https://cdn.hostlagarto.com:4445/cascaratv/cascaratv.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tigres_Del_Licey_logo.svg/1200px-Tigres_Del_Licey_logo.svg.png", LiceyTV
+https://ss6.domint.net:2936/ly_str/licey/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-7GZMQfodBOQ/XcOYkLbSoNI/AAAAAAAAo98/E5O3UITgOtcu2K3ur-VBbnJANI4O6LRCgCLcBGAsYHQ/s200/TV%2BCotui.png", TV Cotui (RD)
+http://74.108.36.101:1935/tvcotui/tvcotui/chunklist_w2066250848.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-UXDZA-bvoP0/XcOU4oZknlI/AAAAAAAAo9w/RdIzNFPR_60WLBvUurOaRrIOkGvCTvkiACLcBGAsYHQ/s200/tv-10-san-juan.jpg", TV 10 San Juan (RD)
+https://5c21f7ec1999d.streamlock.net/8082/8082/chunklist_w1139939372.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-gKp4IVyQrfQ/XFJkS5JGHlI/AAAAAAAAiEU/cVyqTcJljikNakrR8Wc5TsKgnq8XgGK8gCLcBGAs/s200/Punta-Cana-TV-Logo.png", Punta Cana TV La Altagracia (RD)
+https://59f1cbe63db89.streamlock.net:1443/domart/_definst_/domart/chunklist_w2129670608.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://2.bp.blogspot.com/-Q0m4KDQEH5U/W-Hn_Kd2GlI/AAAAAAAA0ts/u8nxCzAM-SoxGG54P5au_yT-aRMH-sObACK4BGAYYCw/s1600/Sin%2Bti%25CC%2581tulo-1.png", Xtremo Channel
+http://ss1.domint.net:2120/xtr_str/xtremo/chunklist_w1106627689.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png", LVM La Vega (RD)
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w1124872790.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png", Telemicro Internacional (RD)
+http://tv.latintvweb.com:25461/giezimanuel7/16msZd8iBp/3268
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://pbs.twimg.com/profile_images/905113197383892992/7Y5_3Jq7.jpg", entelevision Sto. Dgo. (RD)
+http://184.173.181.2:1935/8114/8114/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom.", HispanaTV (USA)
+http://siglo21.dnsalias.com:8080/mylive/hispanatv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", CNNE
+http://tv.latintvweb.com:25461/giezimanuel7/16msZd8iBp/1288
+#EXTINF:0 type="stream" channelId="-1" group="HD-LATINOS" logo="https://www.nbcumv.com/sites/default/files/styles/300_x_300/public/images/preview/2015/07/14/NUP_170087/NUP_170087_0001.JPG", T
+http://tv.latintvweb.com:25461/giezimanuel7/16msZd8iBp/1271
+#EXTINF:0 type="stream" channelId="-1" group="HD-LATINOS" logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" size="Medium", Lifetime
+http://tv.latintvweb.com:25461/giezimanuel7/16msZd8iBp/2484
+#EXTINF:0 type="stream" channelId="-1" group="HD-LATINOS" logo="https://www.lamac.org/system/channels/logos/000/000/026/original/pic_home_health.png", H&H
+http://tv.latintvweb.com:25461/giezimanuel7/16msZd8iBp/1894
+#EXTINF:0 type="stream" channelId="-1" group="HD-LATINOS" logo="https://sc.dish.com/shared/images/station-logos/ngmdo.png", NatGeo Mundo
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HD-LATINOS" logo="https://www.directv.com.ve/Cinema/Content/Images/directvcinemalogo.png", DirecTv Cinema
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:0 type="stream" channelId="-1" group="HD-LATINOS" logo="https://www.newslinereport.com/online/nota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg", DW Latino
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="893" group="HD-LATINOS" logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png", CGTN (Spanish)
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HD-LATINOS" logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_mundo_Logo.jpg/220px-Zee_mundo_Logo.jpg", Zee mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HD-LATINOS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png", Pasiones
+http://tv.latintvweb.com:25461/giezimanuel7/16msZd8iBp/3253
+#EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Canal_iPe.png/200px-Logo_Canal_iPe.png", IPe (Infantil)
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Infantil", La Banda Canal Sur (Infantil)
+https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/chunklist_w2122019364.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="http://2.bp.blogspot.com/-xTsc_BMX3A8/XccIgUoDoXI/AAAAAAAAo_g/_boGfMUVikA-x4mJoaasUME_zX6TGJb5gCK4BGAYYCw/s120/ELTV%2BKids%2BLogo.png", ELTV Kids (Infantil)
+https://5790d294af2dc.streamlock.net/8050/8050/chunklist_w377617682.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kids" logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d6/519px-smile_of_a_child_svg1.png", Smile of a Child  (Infantil)
+https://bozztv.com/36bay2/gin/giniko_smilechild_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://4.bp.blogspot.com/-sNq8hlRQoDM/XKdEL6nT9tI/AAAAAAAAiXk/5iEAvzj834UBv0fS2dp6ZgyicarDNW9aQCK4BGAYYCw/s1600/misioneltvlogo.jpg", Misión ELTV (RD)
+https://5790d294af2dc.streamlock.net:443/8286/8286/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://3.bp.blogspot.com/-UNGxODligmo/Wr-sO2cBvqI/AAAAAAAAdMA/5NgXCGqclQ8hImMfrh5JKooqZF-Yu3Z9wCLcBGAs/s200/Betheltv.jpg", BethelTV (Perú)
+https://api.new.livestream.com/accounts/16199200/events/4590066/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://3.bp.blogspot.com/-UNGxODligmo/Wr-sO2cBvqI/AAAAAAAAdMA/5NgXCGqclQ8hImMfrh5JKooqZF-Yu3Z9wCLcBGAs/s200/Betheltv.jpg", Bethel PLUS (Perú)
+https://api.new.livestream.com/accounts/16199200/events/8132584/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://www.soymanantial.com/wp-content/uploads/2016/07/Enlace-logo.png", Enlace Intarnacional
+https://api.new.livestream.com/accounts/2675843/events/1839332/live.m3u8
+#EXTINF:0 type="stream" channelId="3735" group="Religion" logo="https://4.bp.blogspot.com/-D--Pt2otOhA/WoHsvQlirsI/AAAAAAAAcGQ/J7Oa7fInBOAzpJ3FS77Y0JMRwrsWTyTXQCLcBGAs/s1600/CDMinternacional.png", CDM Internacional
+https://player-api.new.livestream.com/accounts/16199200/events/4590066/broadcasts/198029593.secure.m3u8?
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="http://www.diosteve.org/img/p/360-240/1.jpg", Dios Te Ve
+https://cdn.hostlagarto.com:4445/Diosteve/Diosteve.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="http://www.cmbcolombia.tv/images/logo-tv.png", CMB (Colombia)
+http://liveingesta118.cdnmedia.tv//bethesdalive/smil:tv.smil/chunklist_b750000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="http://directostv.teleame.com/wp-content/uploads/2018/03/jbn.png", JBN
+http://138.117.4.70:8079/streams/d/Canal-39/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://www.soymanantial.com/wp-content/uploads/2016/07/Enlace-logo.png", ENLACE (Nicaragua)
+http://138.117.4.70:8079/streams/d/Canal-21/playlist.m3u8
+#EXTINF:0 type="stream" channelId="261" group="Religion", JCTV
+https://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://mir-s3-cdn-cf.behance.net/projects/202/19839661.549005a5a2716.png", Comunión TV (RD)
+http://50.30.37.36:1935/live/stream/chunklist_w1755544715.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://images-na.ssl-images-amazon.com/images/I/716-HOOFC4L.png", ReformaTV (Venezuela)
+http://livestreamcdn.net:1935/ReformaTV/smil:ReformaTV.smil/chunklist_w1662381270_b1300000_slen.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="http://www.omeganet.org/images/livetv_visioncelestial.png", Vision Celestial
+http://streaming.omeganet.org:1935/vc/envivo/chunklist_w1874831699.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://televida.org.do/wp-content/uploads/2018/02/LOGOS_TELEVIDA_Movil-01.png", TEVE VIDA (RD)
+http://205.164.56.130:1935/francescojavier522/francescojavier522/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://i2.wp.com/alfamedianetwork.com/wp-content/uploads/2018/08/genesistelevisionlogo.png", Genesis TV
+http://201.144.184.98:1935/genesis/smil:television.smil/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="http://static1.squarespace.com/static/5553563ae4b08689b8eeaf65/t/55535926e4b054270906d87c/1554924092511/?format=1500w", Aliento Vision (PR)
+http://livestreamcdn.net:1935/AlientoSD/AlientoSD/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://1.bp.blogspot.com/-OOPAH-P_l1o/XZvF9v1wgeI/AAAAAAAAoT0/zQ3cpug4kbQANkFPQPHew6b936j1KAaeQCLcBGAsYHQ/s1600/JosueTV.jpg", JOSUE TV
+http://va1.ministeriotv.com:1936/264/stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://i2.wp.com/alfamedianetwork.com/wp-content/uploads/2018/08/genesistelevisionlogo.png?w=1080", Hosanna Vision
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="Brazil", Rede Super (Brazil)
+https://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="http://radiocadenacret.com/wp-content/uploads/LOGO-CRET-NEW-2.png", TV CRET
+http://radiocret.net:1935/live/tvcret.sdp/media_playlist.m3u8?wowzasessionid=2025070830
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://4.bp.blogspot.com/-hkHuuQwF8Cs/WoHsOm5RLOI/AAAAAAAAcGI/QGRjaD2-pN8fVkbFncV9yc2tpO8dUNHOACLcBGAs/s200/CBNespanol.png", CBN ESPAÑOL
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://directorioadventistavenezuela.files.wordpress.com/2013/09/logo-esperanza-tv-venezuela.jpg", Esperanza Tv
+http://ca1.ministeriotv.com:1935/1521/1521/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion", RTV
+https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d8/ABN_Colombia_2001.png/revision/latest/scale-to-width-down/388?cb=20170730015021", ABN (Colombia)
+https://s3.abntelevision.com/avivamiento/avivamiento/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion", Telefamilia (Colombia)
+https://595b85410a151.streamlock.net/8172/8172/chunklist_w1348628418.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://uncion24.com/wp-content/uploads/2018/09/NEW-LOGO-UNCION24-1.png", Uncion 24
+http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion", JerusalenTV (Colombia)
+https://5cbe03422c876.streamlock.net/ccj/ccj/chunklist_w185519915.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion", SobrenaturalTV
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w1350668781.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion", Luz TV (Peru)
+http://serverstreamgroup.biz:1935/luztvperu/luztvperu/chunklist_w2143429661.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion", Vida (Venezuela)
+https://1-fss-fso36.streamhoster.com/lv_rod_tvf3/_definst_/smil:broadcast17.smil/chunklist_b1700000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion", ElimTV (San Salvador)
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:0 type="stream" channelId="-1" group="Religion", Ebenezer TV (Honduras)
+http://p1.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/chunklist_w1424115902_b1228800.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion", PresenciaTV
+https://5c51d3942f000.streamlock.net:90/presenciatv/presenciatv/chunklist_w537238174.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" shift="2", Esperanza TV (2)
+https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_2096_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="-1" group="Religion", BendicionTV (RD)
+https://59825a54e4454.streamlock.net:8443/manuel284/manuel284/chunklist_w1471996692.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion", AleluyaTV
+https://59825a54e4454.streamlock.net:8443/ruben560/ruben560/chunklist_w1816042881.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion", Unico TV
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w1324096426.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion", Zoe TV Mision Vid
+https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w466374407.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion", TV Elohim
+https://59825a54e4454.streamlock.net:8443/radhames706/radhames706/chunklist_w1588379807.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="http://vivacristotv.com/images/viva_cristo_logo_med.png", Viva Cristo TV
+http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1491" group="Religion", EWTN (Espanol)
+https://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion", Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+#EXTINF:0 type="stream" channelId="-1" group="Religion", 3ABN Latino [SD]
+http://moiptvus-lh.akamaihd.net/i/moiptv2_1@304497/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="-1" group="Religion", Red Advenir [SD]
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3838" group="Religion", Alfa tv [SD]
+http://streamer1.streamhost.org:1935/salive/GMIalfah/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://i1.wp.com/unored.tv/wp-content/uploads/2019/02/ATV-LOGO-CON-APSON.png", AlcanceTV (Mexico)
+https://livestreamcdn.net:444/AlcanceTV/AlcanceTV/chunklist_w1324043347.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://i0.wp.com/unored.tv/wp-content/uploads/2019/06/Gracias-y-Poder-logo-2.jpg", BNGG
+https://5983a4e15f07f.streamlock.net:8443/pastordomingo46/pastordomingo46/chunklist_w1652451115.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://i0.wp.com/unored.tv/wp-content/uploads/2018/03/Extrema-TV-portal-Unored-1.png", XtremaTV
+https://www.livestreamcdn.net:444/ExtremaTV/_definst_/ExtremaTV/chunklist_w755934857.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://i3.wp.com/unored.tv/wp-content/uploads/2018/10/Shalom-TV-logo-oficial.jpg", Shalom TV
+https://livestreamcdn.net:444/ShalomTV/ShalomTV/chunklist_w1625794902.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://i3.wp.com/unored.tv/wp-content/uploads/2016/02/Cover-Wisdom-1RED-1-1.jpg", Wisdom Vision TV
+https://5983a4e15f07f.streamlock.net:8443/wisdomvisiontv/wisdomvisiontv/chunklist_w1740246103.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://i2.wp.com/unored.tv/wp-content/uploads/2018/03/Monte-de-Dios-TV-2.jpg", Monte De Dios TV
+https://5983a4e15f07f.streamlock.net:8443/montedediostv/montedediostv/chunklist_w786193165.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion", Único Televisión
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w1107046141.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion", Woro Canal 13 (Puerto Rico)
+https://5983a4e15f07f.streamlock.net:8443/worocanal13pr/worocanal13pr/chunklist_w1874302818.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion", CTNI (Puerto Rico)
+https://584097344c1f0.streamlock.net/48/48.smil/chunklist_w379990319_b1564000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Puerto Rico" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/615px-WAPA-TV_logo.svg.png", Wapa Puerto Rico
+http://tv.latintvweb.com:25461/giezimanuel7/16msZd8iBp/3265
+#EXTINF:0 type="stream" channelId="-1" group="Puerto Rico" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/615px-WAPA-TV_logo.svg.png", Wapa America Puerto Rico
+http://tv.latintvweb.com:25461/giezimanuel7/16msZd8iBp/3266
+#EXTINF:0 type="stream" channelId="-1" group="Puerto Rico" logo="https://i1.wp.com/unored.tv/wp-content/uploads/2016/03/Pura-Palabra-TV.jpg", Pura Palabra (Puerto Rico)
+https://59825a54e4454.streamlock.net:8443/william233/william233/chunklist_w2112770980.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Puerto Rico" logo="https://bloximages.newyork1.vip.townnews.com/notiuno.com/content/tncms/custom/image/1910fac6-b6a6-11e8-bedc-73fa7469f5d8.png", Noti Uno Puerto Rico
+https://59514edd5dd8e.streamlock.net/unoradio/unoradio1/chunklist_w782728706.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Puerto Rico", Woro Canal 13 Puerto Rico
+https://5983a4e15f07f.streamlock.net:8443/worocanal13pr/worocanal13pr/chunklist_w1874302818.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Puerto Rico" logo="Puerto Rico", WIPR Puerto Rico
+https://api.new.livestream.com/accounts/16550960/events/8600941/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="México", RCG TV1 (México)
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="México", RCG TV2 (México)
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="México", CANAL 15 FRESNILLO (México)
+http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15fresnillo/livestream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="México", Canal 15 Zacatecas (México)
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="México", Telemar Campeche (México)
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="México", Sipse TV Cancun (México)
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="México", Canal 10 Chetumal (México)
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="México", SQCS Chetumal (México)
+http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="México", TV HIDALGO (México)
+http://189.204.60.62/hls-live/livepkgr/_definst_/liveevent/mylivestream3.m3u8
+#EXTINF:0 type="stream" channelId="1914" group="México", TMTV  (México)
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="México", Canal 4.1  (México)
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/chunklist_w481386766_b13128000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="México", Canal 4.2  (México)
+https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/chunklist_w1657506489_b13128000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="México", Canal 6 (Michoacan)  (México)
+http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="México", Ultra TV Puebla  (México)
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="México", Ultra TV Aguascalientes  (México)
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="México", NEX TV  (México)
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="México", IngenioTV (México)
+https://srvstream01.televisioneducativa.gob.mx/hls/ingeniotv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="México", Capacita TV (México)
+https://srvstream01.televisioneducativa.gob.mx/hls/capacitatv.m3u8
+#EXTINF:0 type="stream" channelId="1357" group="NICARAGUA", Canal 2 (Nicaragua)
+http://162.244.81.181:1935/live/Stream1/chunklist_w192269669.m3u8
+#EXTINF:0 type="stream" channelId="3366" group="NICARAGUA", Canal 8 (Nicaragua)
+https://59802217c6db4.streamlock.net/tn8/videotn8/chunklist_w1130265081.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NICARAGUA" logo="http://www.canal12.com.ni/assets/logo_default_150px_150px-7b9663fca253e855caf7b21ceda1e689c9467bffdb3faf4aa81ab269a368bc7a.png", Canal 12 (Nicaragua)
+https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w1693615713.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HONDURAS", AZ (Honduras)
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="3638" group="HONDURAS", TEN (Honduras)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HONDURAS", 5 El Lider (Honduras)
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HONDURAS", TSi (Honduras)
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+#EXTINF:0 type="stream" channelId="2659" group="COSTA RICA", Multimedios (Costa Rica)
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:0 type="stream" channelId="-1" group="COSTA RICA", TV Sur 14 (Costa Rica)
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COSTA RICA", BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC" logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png" tvg-country="us", Classic Arts Showcase (Music)
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC" logo="http://www.giniko.com/logos/190x110/979.jpg", Bass Channel (6 Mbps) (Music)
+https://bozztv.com/36bay2/gin/giniko_bassriffs_3000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC", Guitar Relax (Music)
+https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC", Frecuencia Musical Tv (Music)
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC", Retroplus Tv (Music)
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC", RETRO TV (Music)
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2285" group="MUSIC", m2o TV (Music)
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC", Radio Montecarlo (Music)
+http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC", Radio 105 Network (Music)
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1973" group="MUSIC", MTV (Music)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC", MTV LIVE (Music)
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0 type="stream" channelId="146" group="MUSIC", MTV Dance (Music)
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC", MusicTop (Music)
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC", La Mega Mundial (Music)
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC", TOP Latino TV (Music)
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC", PORTAL FOXMIX (Music)
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC", Telemax (Music)
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="1181" group="MUSIC", U TV (Music)
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC", MC Play (Music)
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="2124" group="Spain" logo="http://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg", Antena 3 (España)
+https://livestartover.atresmedia.com/antena3/master.m3u8
+#EXTINF:0 type="stream" channelId="2813" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png", La 1 HD (España)
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:0 type="stream" channelId="2819" group="Spain" logo="https://www.formulatv.com/images/noticias/46500/46553/2_bb2bd46121.jpg", Mega (España)
+https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
+#EXTINF:0 type="stream" channelId="1685" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/800px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png", FDF (España)
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8
+#EXTINF:0 type="stream" channelId="1683" group="Spain" logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png", Energy (España)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png", Energy HD (España)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1200px-Divinity.svg.png", Divinity HD (España)
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png", Be Mad HD (España)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:0 type="stream" channelId="4036" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png", Paramount Network (España)
+https://paramount-live.flumotion.com/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4035" group="Spain" logo="https://i.imgur.com/3N90uxs.png", TRECE (España)
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://www.mundoplus.tv/img/b3bb95fe90711707f6e782a72d87a1e9", mtmad 24h HD (España)
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://static.elcomercio.es/www/multimedia/201809/05/media/cortadas/gh-vip-kvBE-U60836832921C2C-624x385@El%20Comercio.jpg", GH Dúo 24h (España)
+https://livehlsdai-i.akamaihd.net/hls/live/670612/granhermano01/bitrate_2.m3u8
+#EXTINF:0 type="stream" channelId="1382" group="Spain" logo="https://i.imgur.com/8KHnBwx.png", Canal Parlamento (España)
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/NC3rEUq.png", Betis TV HD (España)
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Canal-Sur-TV.png", Canal Sur TV HD (España)
+http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/ngU6UBb.png", Canal Andalucia Turismo HD (España)
+https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/CIOQGyj.png", Canal Andalucia Flamenco (España)
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/3siqxhh.png", Canal Andalucia Cocina (España)
+https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/JkM7YSM.png", Canal Sur Eventos 1 HD  (España)
+http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/eventos_01/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/CXHLhZD.png", 101TV Malaga ?(España)
+https://wowzaprod178-i.akamaihd.net/hls/live/677404/156dc2a6/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="http://www.lebrija.tv/wp-content/uploads/2016/06/logo-web-2.png", Lebrija TV (España)
+http://212.104.160.156:1935/live/lebrijatv2/playlist2.m3u8?wowzasessionid=1758058924.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/vpWSsZ7.png", Teleonuba (España)
+http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/1RVS7Wh.png", CanalCosta (España)
+http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/u0lyhFX.png", interalmería HD (España)
+http://interalmeria.tv/directo/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/MCaturZ.png", Canal Málaga (España)
+http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/b39mMlx.png", Canal Doñana (España)
+https://secure.todostreaming.es/live/disvision-alm.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/AFT43kx.png", Cadena Elite (España)
+https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="http://directostv.teleame.com/wp-content/uploads/2018/02/television-municipal-de-cordoba-tvm-t.v.m-cordoba.png", Televisión Municipal de Córdoba (España)
+http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://image.winudf.com/v2/image1/Y29tLmFwcC50dnJhZGlvYWx0ZXJuYXRpdmFfaWNvbl8xNTU0NTMxNjk4XzA0Nw/icon.png?w=170&fakeurl=1", Alternativa TV (España)
+https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/hmYDqGV.png", Huesca TV (España)
+https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo-tpa7.jpg", TPA7 (España)
+https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://www.mirametv.com/images/wSystem/logoWhite.png", Mírame TV (España)
+https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/hCZUn3g.png", Lancelot TV (España)
+http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/YM9pltb.png", Gigante TV (España)
+http://85.214.130.95:8080/live/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/Rhmi0Y1.png", Televisión Mogán (España)
+https://5b38ce71f1f00.streamlock.net/8162/8162/chunklist_w1059529458.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Canal_10_%28Espa%C3%B1a%29.svg/1024px-Canal_10_%28Espa%C3%B1a%29.svg.png", Canal 10 TV (España)
+https://5940924978228.streamlock.net/8269/smil:8269.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/w9LqkSW.png", Tenerife 2030 TV HD (España)
+http://livestream.iter.es:9876/tdt/tdt.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/hwlTrtF.png", Popular TV Cantabria (España)
+https://secure.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://www.portalparados.es/wp-content/uploads/castilla-la-mancha-television.png", CMM
+http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/gyGKUcL.png", Canal 4 Mancha Centro HD (España)
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/nGuGVTO.png", Telearanda (España)
+https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/khRXhT1.png", TV Girona (España)
+http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF:0 type="stream" channelId="1569" group="Spain" logo="https://i.imgur.com/sADbx7S.png", 25 TV (España)
+http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/OFZCqGj.png", Canal Taronja Osona i Moianés (España)
+http://ventdelnord.tv:8080/taronja/directe.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/KFLdopL.png", Canal 10 Empordà (España)
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RtvCeuta.svg/1200px-RtvCeuta.svg.png", RTVCE HD (España)
+http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2531" group="Spain" logo="https://i.imgur.com/v5d0xMH.png", TVG (España)
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4038" group="Spain" logo="https://i.imgur.com/v5d0xMH.png", TVG 2 (España)
+http://amodino-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/v5d0xMH.png", TVG América (España)
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/v5d0xMH.png", TVG Musigal HD (España)
+http://musigal-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/v5d0xMH.png", TVG Cultura HD (España)
+http://cultural-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/v5d0xMH.png", TVG Momentos G (España)
+http://momentog-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/v5d0xMH.png", TVG Evento 1 HD (España)
+http://events1-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/v5d0xMH.png", TVG Evento 2 HD (España)
+http://events2-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/v5d0xMH.png", TVG Evento 3 HD (España)
+http://events3-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/09qP7mv.png", Canal 4 (España)
+http://149.202.68.178:1935/live/peprecasens/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OndaMadrid.svg/1280px-OndaMadrid.svg.png", Webcam OndaMadrid (España)
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OndaMadrid.svg/1280px-OndaMadrid.svg.png", Webcam OndaMadrid (España)
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="http://2.bp.blogspot.com/_4Y2bIc9pPwU/SOif93r4sXI/AAAAAAAAAb0/4HwF32lFEVs/S208/logo+canal+33+p.JPG", C33 Madrid HD (España)
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/tdx3odj.png", Distrito TV (España)
+https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://i.vimeocdn.com/portrait/13039790_300x300", Logos TV (España)
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/hwlTrtF.png", Popular TV Melilla (España)
+https://5940924978228.streamlock.net/8009/8009/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/7TVRM.svg/1200px-7TVRM.svg.png", 7 RM (España)
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/mrGvcPV.png", ETB SAT Canal Vasco (España)
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/mrGvcPV.png", ETB 1 HD (España)
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/mrGvcPV.png", ETB 2 HD (España)
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/w83wr1S.png", Urola Telebista (España)
+https://5940924978228.streamlock.net/j_Directo1/smil:j_Directo1.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/3DbgcjD.png", Erlo Telebista (España)
+https://5940924978228.streamlock.net/8159/8159/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/ya3k9wU.png", 28 Kanala HD (España)
+https://5940924978228.streamlock.net/8157/8157/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/2do66TO.png", GITB Goierri Irrati Telebista (España)
+https://5940924978228.streamlock.net/8155/8155/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/E9EqoiD.png", 7 TeleValencia (España)
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/mobile/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1693" group="Spain" logo="https://i.imgur.com/YeFOuol.png", Levante TV (España)
+http://teledifusion.tv:1935/levantetvlive/mp4:levantetvlive/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/HA2OJcN.png", telesafor (España)
+http://video.telesafor.com/hls/video.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon-150x150.png", TV Vega Baja (España)
+http://185.29.68.24/tvb.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/FYIM7SD.png", Canal 56 (España)
+https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8
+#EXTINF:0 type="stream" channelId="3720" name="A (España)" group="Spain", tv-A (España)
+http://5.39.65.105/hls/tvaxa.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://noticias.adventista.es/wp-content/uploads/sites/8/2014/05/Captura-de-pantalla-2014-05-28-a-las-14.22.231.png", TV4 La Vall (España)
+https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="http://diretele.com/wp-content/uploads/2018/09/alacanti-tv-en-directo.png", Alicantí TV (España)
+http://5.39.65.105/hls/alacantixa.m3u8
+#EXTINF:0 type="stream" channelId="2725" group="ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png", 13 Max (Argentina)
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://i.imgur.com/5HTSXV4.png", Canal 26 (Argentina)
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/NETargentina.png", Net TV (Argentina)
+http://unlimited2-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4039" group="ARGENTINA" logo="https://i.imgur.com/iLh4q2x.png", Garage TV (Argentina)
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://k61.kn3.net/E/2/C/5/B/9/8BE.png", Aire de Santa Fe (Argentina)
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://i.imgur.com/fgrauI0.png", Canal 4 Posadas (Argentina)
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://i.imgur.com/OBLO4Ac.png", Canal 9 Salta (Argentina)
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Tv-rionegrina-lu92-tv-canal-10-logo.png", Canal 10 Rio Negro (Argentina)
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://i.imgur.com/TpRgjdj.png", Canal Provincial San Miguel (Argentina)
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://i.imgur.com/WxzqqFQ.jpg", Ciudad TV Chaco (Argentina)
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="http://www.rtnweb.gob.ar/wp-content/uploads/2017/04/LOGO-RTN-Web.png", Radio TV Neuquen (Argentina)
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://i.imgur.com/nR6Fcm2.png", DeporTV (Argentina)
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://i.imgur.com/hWMFLTh.png", Music Top (Argentina)
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="EL SALVADOR" logo="https://i.imgur.com/xJoLadg.png", TVO Canal 23 (El Salvador) (Opt-2)
+https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HONDURAS" logo="http://live.campushd.tv/wp-content/uploads/2017/04/LOGO-CAMPUS.png", Campus TV (Honduras)
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HONDURAS" logo="https://imagenes.gatotv.com/logos/canales/5_el_lider_honduras.png", Canal 5 El Lider (Honduras)
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HONDURAS" logo="https://i.imgur.com/RrnQlQg.png", SiTV (Honduras)
+http://st2.worldkast.com/8030/8030/chunklist_w246409275.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HONDURAS" logo="https://i.imgur.com/DvOtC0S.png", Suyapa TV (Honduras)
+http://173.236.71.62:1935/canal48/c48.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HONDURAS" logo="https://i.imgur.com/FwcwAJ7.png", Teleceiba Canal 7 (Honduras)
+http://190.11.224.14:8134/liveevent.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HONDURAS" logo="https://i.imgur.com/4kplu7b.png", TEN Canal 10 (Honduras)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HONDURAS" logo="https://i.imgur.com/kuvGwOg.png", Todo Deportes TV (Honduras)
+http://rtmp.zafra.cloud:1935/securelive/tdcampeones20161/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HONDURAS" logo="https://i.imgur.com/dq5GcLH.png", TSi (Honduras)
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="VENEZUELA" logo="https://i.imgur.com/iC7DA9n.png", Cadena Digital 100.7 FM Caracas (Venezuela)
+http://vcp1.myplaytv.com:1935/radiodigitalfm/radiodigitalfm/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="2663" group="VENEZUELA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png", TeleSUR  (Venezuela)
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="VENEZUELA" logo="https://i.imgur.com/mL3DGhc.png", Televisora de Oriente (Venezuela)
+http://vcp1.myplaytv.com:1935/tvo/tvo/chunklist_w545582271.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="VENEZUELA" logo="https://i.imgur.com/ylXec53.png", Vepaco TV (Venezuela)
+http://edge.wms28.lorini.net/tvepaco/tvepaco/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="VENEZUELA", Canal 9 Multivision (Venezuela)
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="VENEZUELA", El 13 (Venezuela)
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="VENEZUELA", TVEPACO (Venezuela)
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2073389661.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="VENEZUELA", Canal M (Venezuela)
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="BOLIVIA" logo="http://www.boliviatv.bo/principal/assets/images/the-voyager/btv1.png", Bolivia TV (Bolivia)
+http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w1102242933.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="BOLIVIA", Bolivia TV 7.1
+http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w1778950088.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="BOLIVIA", Bolivia TV 7.2
+http://btvboliviatv.srfms.com:6568/live/livestream/chunklist_w1606305192.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="BOLIVIA" logo="https://i.imgur.com/DCAtokY.png", ATB (Opt-1) (Bolivia)
+http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="BOLIVIA" logo="https://i.imgur.com/ajkJKs9.png", Bolivia Deportes TV (Bolivia)
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="BOLIVIA" logo="https://i.imgur.com/THFFd5u.png", PAT La Paz  (Bolivia)
+http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="BOLIVIA", Bolivia Deportes
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3780" group="COLOMBIA" logo="https://imagenesnoticias.canalrcn.com/ImgNoticias/styles/530xauto/s3/noticias/ntn24.jpg", NTN24 (Colombia)
+https://rcnhd.cdn.net.co/live04/ntn24_480p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Telemedellin.svg/1200px-Telemedellin.svg.png", TeleMedellin (Colombia)
+https://api.new/livestream.com/accounts/4608897/events/7111788/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="CO: Caracol HD" group="COLOMBIA" logo="https://www.caracoltv.com/sites/default/files/caracoltv_logo_200.png" tvg-country="co", Caracol HD (Colombia)
+http://tv.latintvweb.com:25461/giezimanuel7/16msZd8iBp/2905
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_del_canal_rcn.JPG", RCN HD (Colombia)
+http://tv.latintvweb.com:25461/giezimanuel7/16msZd8iBp/1046
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA", TeleCaribe (Colombia)
+https://59f1cbe63db89.streamlock.net:1443/tumusicahd/_definst_/tumusicahd/chunklist_w217066809.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA" logo="https://i.imgur.com/4DqwBlp.png", Canal 13 (Colombia)
+https://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/chunklist_b4500000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA" logo="https://i.imgur.com/osBE0Et.png", CTV Barranquilla (Colombia)
+http://wmoy8w6ky2a7-hls-live.5centscdn.com/ctvbaq/live/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA" logo="https://i.imgur.com/stQQgsQ.png", La Super TV (Colombia)
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA" logo="https://i.imgur.com/CREs19T.png", Mundo Mas (Colombia)
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA" logo="https://i.imgur.com/R2Xb44n.png", Telecaribe (Colombia)
+https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA" logo="https://i.imgur.com/93KWYKj.png", Teleenvigado (Colombia)
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA" logo="https://i.imgur.com/PAVd3LS.png", Teleislas (Opt-1) (Colombia)
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="http://www.cmbcolombia.tv/images/logo-tv.png", CMB (Colombia)
+http://liveingesta118-ahoramedia-tv.akamaized.net//bethesdalive/smil:tv.smil/chunklist_b750000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/Efu5mUQ.png", Antares TV (Colombia)
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://3.bp.blogspot.com/-UNGxODligmo/Wr-sO2cBvqI/AAAAAAAAdMA/5NgXCGqclQ8hImMfrh5JKooqZF-Yu3Z9wCLcBGAs/s200/Betheltv.jpg", BethelTV (Perú)
+https://api.new.livestream.com/accounts/16199200/events/4590066/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://3.bp.blogspot.com/-UNGxODligmo/Wr-sO2cBvqI/AAAAAAAAdMA/5NgXCGqclQ8hImMfrh5JKooqZF-Yu3Z9wCLcBGAs/s200/Betheltv.jpg", Bethel PLUS
+tvg-logo="https://3.bp.blogspot.com/-UNGxODligmo/Wr-sO2cBvqI/AAAAAAAAdMA/5NgXCGqclQ8hImMfrh5JKooqZF-Yu3Z9wCLcBGAs/s200/Betheltv.jpg" group-title="PERU",Bethel PLUS
+#EXTINF:0 type="stream" channelId="-1" group="PERU", Luz TV (Perú)
+https://api.new.livestream.com/accounts/16199200/events/8132584/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/FQYDb15.png", BHTV (Opt-1) (Perú)
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/FQYDb15.png", BHTV (Opt-2) (Perú)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/FQYDb15.png", BHTV (Opt-3) (Perú)
+https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/ibCPO5D.png", CTC TV Cusco (Perú)
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/OdwZnWY.png", Vision Noticias Peru
+http://v8.ciclano.io:1935/visionnoticias/_definst_/visionnoticias/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/cvoNi6F.png", Cultura 24 (Opt-1) (Perú)
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/cvoNi6F.png", Cultura 24 (Opt-2) (Perú)
+http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/chunklist_w1999901240.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/sUdPsMZ.png", IPe (Perú)
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/VFCEPgF.png", Monterrico TV (Perú)
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1956" group="PERU" logo="https://i.imgur.com/4NiVS6e.png", Panamericana TV (Perú)
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/qz2R7ca.png", Retro Plus TV (Perú)
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/tzckTA4.png", Top Latino TV (Perú)
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="http://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png", TV Cosmos (Perú)
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2542" group="PERU" logo="https://i.imgur.com/50TYb45.png", TV Peru (Opt-1) (Perú)
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/0THQOZn.png", TVPeru Noticias (Perú)
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/kKyDFWC.png", VIA TV Tarapoto (Perú)
+http://wse8.player.tv.br:1935/viatv/viatv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/OdwZnWY.png", Vision Noticias (Opt-1) (Perú)
+http://v8.ciclano.io:1935/visionnoticias/_definst_/visionnoticias/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/OdwZnWY.png", Vision Noticias (Opt-2) (Perú)
+https://v8.ciclano.io:1443/visionnoticias/_definst_/visionnoticias/chunklist_w1485541251.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/wZLK2SW.png", Vision TV Musica (Perú)
+http://v8.ciclano.io:1935/visionmusica/_definst_/visionmusica/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="PERU", PERU TV
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="URUGUAY" logo="http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png", Canal M (Perú)
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CUBA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg/1200px-Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg.png", TV MARTÍ (Cuba)
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="CUB-Cubavision Internacional (M)" group="CUBA", CUB-Cubavision Internacional (M)
+http://tv.latintvweb.com:25461/giezimanuel7/16msZd8iBp/3730
+#EXTINF:0 type="stream" channelId="-1" group="PARAGUAY" logo="https://i.imgur.com/X3hZekg.png", TVS Encarnacion (Paraguay)
+http://201.217.3.212/TV/tvs/chunklist_w1493272816.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COSTA RICA" logo="https://i.imgur.com/0SrZD5r.png", 88 Stereo (Costa Rica)
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COSTA RICA" logo="https://i.imgur.com/lC0uliW.png", Anexion TV 36 (Costa Rica)
+http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COSTA RICA" logo="https://i.imgur.com/juukQO4.png", Canal UCR (Costa Rica)
+http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COSTA RICA" logo="https://i.imgur.com/Da5V8bP.png", Colosal TV (Costa Rica)
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COSTA RICA" logo="https://i.imgur.com/1tKwiZM.png", Guapiles TV (Costa Rica)
+http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COSTA RICA" logo="https://i.imgur.com/yr9M9Kj.png", Multimedios CR (Costa Rica)
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COSTA RICA" logo="https://i.imgur.com/hXbiTT5.png", Telered (Costa Rica)
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2663" group="COSTA RICA" logo="https://i.imgur.com/Fp9ReNL.png", Telesur (Costa Rica)
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COSTA RICA" logo="https://i.imgur.com/mmj1BUK.png", TicaVision (Costa Rica)
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="COSTA RICA" logo="https://i.imgur.com/jBlueAT.png", TV Sur 14 (Costa Rica)
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-KPdL6Y0Hf1c/XKfUonB9XXI/AAAAAAAAn6M/IB3n8dnXnP4pLDKiTccUYJze4WdrpgiDgCK8BGAs/s0/2019-04-05.png", STGO.TV
+http://cdnapi.kaltura.com/p/2359831/sp/0/playManifest/entryId/1_3jx9rpfo/format/applehttp/protocol/http/manifest.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-McxFICDN8qI/XNoLBPqtDxI/AAAAAAAAodw/hVi_SG4nkwwFSSFjsWFJtItPFRNn8cy4gCK8BGAs/s0/2019-05-13.png", Mega Plus (Chile)
+http://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-JKWMHOkaYSs/XKqsVNLOSxI/AAAAAAAAn7U/s2wQnMDHd4w0Zoksd4eziWt3RwqJqGoKgCK8BGAs/s0/2019-04-07.png", EMOL TV
+https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="http://api.agamba.cl/tv/chile/img/nacionales/iconcdtv.png", Cámara de Diputados (Chile)
+http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2567" group="CHILE" logo="https://www.foromedios.com/uploads/monthly_2016_10/large.5813af8d3c152_TVSenado(TVS).png.806198708aefc785b5a9cc7b6c84b65c.png", TV Senado
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-Yg6X4T5JVDU/WoBORinr3kI/AAAAAAAAgyU/PoCyGXScfC0DPGIMp1SjuLFrvs3gPamwwCK8BGAs/s132/2018-02-11.png", Futuro TV (Chile)
+http://unlimited10-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-meAzUeTtFFM/W9xivJqI-qI/AAAAAAAAmUA/mqDsCKVAWdcMLr7p2iMn56sxXEPE4MOmACL0BGAYYCw/h437/2018-11-02.png", LTV canal
+http://204.12.194.82:1935/ltv/myStream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-mEW5hnh06kk/Wn9iDwBJ__I/AAAAAAAAgvs/bC-yY_Bj6tg4vkWwuxvb30Q4_rDt34TQwCK8BGAs/s225/2018-02-10.png", Estacion TV
+http://unlimited1-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="http://127.0.0.1/", Holvoet TV (Chile)
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="http://127.0.0.1/", Canal 2 Choapa (Chile)
+http://unlimited1-cl.dps.live/tv2choapa/tv2choapa.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-139lFbspmqQ/Wn9i-dwl09I/AAAAAAAAgv8/FNhrpJjzo-YoLJR0GqIvfm4dKEFoahxUACK8BGAs/s227/2018-02-10.png", Canal 2 de San Antonio (Chile)
+http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-zdameN8RkN4/Wn9k02_XleI/AAAAAAAAgwU/o7QWyXJUMuUIqbZ7vPAZ7eOHYmFLIBDNwCK8BGAs/s265/2018-02-10.png", Canal 21 Chillán (Chile)
+http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="http://www.tv5.cl/wp-content/uploads/2018/08/TV5-LOGO-2018-FULLB.png", Canal 5 Linares (Chile)
+http://unlimited2-cl.dps.live/tv5/tv5.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://www.tvu.cl/_templates/desktop/includes/img/main-logo.png", TVU 2 (Chile)
+https://unlimited4-cl.dps.live/tvu2/tvu2.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1076" group="CHILE" logo="https://lh3.googleusercontent.com/-snwIA-MbUYs/W15lFEEE7TI/AAAAAAAAkqA/75Rrun41uOMufo_zTiUBpJu4icQcjpSOwCK8BGAs/s317/2018-07-29.png", TV8 (Chile)
+https://593b04c4c5670.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-NxeQx17jc7E/Wn9lvKl4XyI/AAAAAAAAgwk/yg9OmGL8ZdoUeruk7i0dYYzmhDa4xOB8gCK8BGAs/s225/2018-02-10.png", Gracia TV (Chile)
+http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-uSEbJ_o0QlY/Wn9mgCZRMnI/AAAAAAAAgww/FemZGM5N_GQI7T4IgYhq3zTDPbhl_tfpQCK8BGAs/s302/2018-02-10.png", ITV Patagonia (Chile)
+http://unlimited2-cl.dps.live/itv/itv.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-TmPM1gqdUS8/Wn9m_65JtNI/AAAAAAAAgw4/Kr6ucgq8g7wJsJ6oiIHaSrEA3R5A6I7ggCK8BGAs/s132/2018-02-10.png", PinguinoTV
+http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-p3LlUC__MhE/Wn9ntTT4umI/AAAAAAAAgxA/ahIA2oru5JgDmruisQROdYlLiVOr6-DygCK8BGAs/s230/2018-02-10.png", ThemaTV (Chile)
+https://unlimited5-cl.dps.live/thema/thema.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-68ZfaG3S-uE/Wn9pq4PFv0I/AAAAAAAAgxg/Vh064kD8_-sjhEBRqnbEQE9NnA6f-MwAQCK8BGAs/s289/2018-02-10.png", UesTV (Chile)
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-Z4lnBH9o1Xg/Wn9qH_CN1nI/AAAAAAAAgxo/4OeIVek2OzIIfRaMqxKTs-M-_D9TrgYuACK8BGAs/s230/2018-02-10.png", VTV Aconcagua (Chile)
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-Z4lnBH9o1Xg/Wn9qH_CN1nI/AAAAAAAAgxo/4OeIVek2OzIIfRaMqxKTs-M-_D9TrgYuACK8BGAs/s230/2018-02-10.png", VTV Viña del Mar (Chile)
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-tRkb11g6GOI/WoBPJm9cd4I/AAAAAAAAgyc/lrR7FPg27aoiQryOJXRQGuG8FLpKoXxBQCK8BGAs/s132/2018-02-11.png", Pintana TV (Chile)
+http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3687" group="CHILE" logo="https://lh3.googleusercontent.com/-xyk2_KFlnyQ/WycRffTYWbI/AAAAAAAAj2I/H3wImrej3y8ryyTZOsLtkd8fVB12d5aKQCK8BGAs/s200/2018-06-17.png", TVR (Chile)
+https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="http://logo.vconline.cl/logotv.jpg", TV vconline.cl (Chile)
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-1MO5Q5LHa5Y/WT1sz41Cp8I/AAAAAAAAX2M/tplu6FqA5yMQnE06hf- G0XxcxWuc26ssgCL0B/h176/2017-06-11.png", Pandero (Chile)
+http://190.107.176.55:1935/panderocl/stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="http://portalfoxmix.club/wp-content/uploads/2016/07/logoPFM.png", Portal FoxMix (Chile)
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="http://www.fevochi.cl/wp-content/uploads/2012/04/CDO-250.jpg", CDO (Chile)
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="http://www.lyngsat-stream.com/logo/tv/tt/teleislas_co.png", Teleislas (Chile)
+https://5ab772334c39c.streamlock.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="http://www.lyngsat-stream.com/logo/tv/mm/mundo_plus_co.png", Mundo + (Chile)
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE", Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="http://www.lyngsat-stream.com/logo/tv/cc/canal_capital_co.png", Canal Capital
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="CHILE", 24 TV CULTURALES
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ECUADOR" logo="AN0sVwt.png", UCSG | SD (Ecuador)
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ECUADOR" logo="8YPXrcX.png", Hechos | SD (Ecuador)
+http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ECUADOR" logo="fRftGGV.png", Oromar TV | SD (Ecuador)
+http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ECUADOR", ECUADOR: Ecuavisa Internacional (Ecuador)
+http://plexonline.club:25461/live/iptvactivador/listaiptvactivaodr/1509.ts
+#EXTINF:0 type="stream" channelId="-1" group="ECUADOR", ECUADOR:  Ecuavisa UHD (Ecuador)
+http://plexonline.club:25461/live/iptvactivador/listaiptvactivaodr/1508.ts
+#EXTINF:0 type="stream" channelId="-1" group="ECUADOR", ECUADOR:  Ecuador TV Internacional (Ecuador)
+http://plexonline.club:25461/live/iptvactivador/listaiptvactivaodr/1510.ts
+#EXTINF:0 type="stream" channelId="-1" group="ECUADOR", ECUADOR:  ECDF (Ecuador)
+http://plexonline.club:25461/live/iptvactivador/listaiptvactivaodr/1511.ts
+#EXTINF:0 type="stream" channelId="-1" group="ECUADOR", ECUADOR: Canal Uno UHD (Ecuador)
+http://plexonline.club:25461/live/iptvactivador/listaiptvactivaodr/1507.ts
+#EXTINF:0 type="stream" channelId="-1" group="HAITI" logo="https://i.imgur.com/uisopuM.png", Nago TV (HAITI)
+http://haititivi.com:8088/haititv/tele6NY/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HAITI" logo="https://i.imgur.com/aUkeQtr.png", Opa TV (HAITI)
+http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_opatv/as/live/hln_opatv_3.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HAITI" logo="https://i.imgur.com/ulZhFlt.png", Radio Tele Ginen (HAITI)
+http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_ginen/as/live/hln_ginen_4.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HAITI" logo="https://i.imgur.com/ksaY4n9.png", Radio TeleBoston (USA) (HAITI)
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="HAITI" logo="https://i.imgur.com/73qugyJ.png", TNH (HAITI)
+http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_nhaiti/as/live/hln_nhaiti_1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/86/4f/b0/864fb0ca-d090-b4da-ac15-f11cef17f538/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg", Euronews Opt 1 (English)
+http://45.126.83.51/qwr9ew/s/s15/index2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/86/4f/b0/864fb0ca-d090-b4da-ac15-f11cef17f538/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg", Euronews Opt 2 (English)
+http://164.40.161.46:8002/play/s4
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png", CBN News (English)
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
+#EXTINF:0 type="stream" channelId="1317" group="News" logo="https://d12jofbmgge65s.cloudfront.net/blog/wp-content/uploads/2019/04/Fox-news-logo.png", Fox News
+http://kstv.xyz:8080/ddelprado/7291426838/22530
+#EXTINF:0 type="stream" channelId="3205" group="News" logo="https://images-na.ssl-images-amazon.com/images/I/217-UaqAAcL._SY355_.png", CBS  (English)
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="English" logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png", Redbull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/250px-WGN_9_logo.svg.png", WGN Chicago | HD
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Noticias" logo="https://i.imgur.com/AAN2Qyu.png", HispanTV
+https://5a61de8ed719d.streamlock.net/live/smil:live.smil/chunklist_w1441489711_b394100_slen.m3u8
+#EXTINF:0 type="stream" channelId="143" group="Noticias" logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png", RT
+https://rt-esp.secure.footprint.net/1102.m3u8
+#EXTINF:0 type="stream" channelId="460" group="English", Big Ten Network
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="English", Better Health
+http://uni5rtmp.tulix.tv/betterhealth/betterhealth/chunklist_w848830638.m3u8
+#EXTINF:0 type="stream" channelId="1201" group="English", H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:0 type="stream" channelId="56" group="English", NatGeo
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:0 type="stream" channelId="164" group="English", NatGeo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="English", TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="English" logo="https://cdn.mitvstatic.com/channels/co_life-design-tv-hd_m.png", Lifedesign
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8
+#EXTINF:0 type="stream" channelId="258" group="English", World Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="English", TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2799" group="English", Travel HD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://miro.medium.com/max/629/1*Jbc-9Yzs76bOVHhe05c0GA.png" shift="1", MLB Network (1)
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="USA|| NBA TV" group="USA" logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png", USA|| NBA TV
+http://kstv.xyz:8080/ddelprado/7291426838/15946
+#EXTINF:0 type="stream" channelId="-1" group="Sports", Stadium Sports Network
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:0 type="stream" channelId="3737" group="Sports", SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:0 type="stream" channelId="3668" group="Sports", BFM Sport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports", CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1591" group="Sports", Bein Sports
+http://95.170.215.101:80/hls/m3u8/Bein-Sport-HD4.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports", EDGEsport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports", Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports", UFC TV
+http://dominiopersonal.xyz:25461/whiteitv/AgfgETfghtZCVs/353
+#EXTINF:0 type="stream" channelId="-1" group="Sports", UFC NETWORK
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://static.beinconnect.es/uploads/beinsports/web/img/og-image.jpg", Bein Sports Truevision
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://www.exchange4media.com/news-photo/94729-dsportMain.jpg", DSport (English)
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kids" logo="https://namu.wiki/w/%ED%8C%8C%EC%9D%BC:EBS_Kids.png", EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ad_sports.jpg/220px-Ad_sports.jpg", AD SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ad_sports.jpg/220px-Ad_sports.jpg", AD SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwid1NDu05DlAhUSUt8KHRjJC4UQjRx6BAgBEAQ&url=http%3A%2F%2Flive.wcbu2015.org%2F&psig=AOvVaw1JiEZ-ttdt_3z8-cKD3Rwu&ust=1570761241309771", DUBAI SPORTS
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2013" group="Religious" logo="https://files.rightwingwatch.org/uploads/CBN-logo2.png", CBN (English)
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religious" logo="http://www.sonlifetv.com/images/sbndomesticlogo.jpg", SBN
+http://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch53/ch53.m3u8
+#EXTINF:0 type="stream" channelId="3495" group="Religious" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/God-TV-Logo.svg/200px-God-TV-Logo.svg.png", GOD
+https://zypelive-lh.akamaihd.net/i/default_1@710958/index_720_av-p.m3u8?F38b1dF4=5c62c7772121531184000bb0&6pLKMQ3y=Sqi3Ng90&video_id=5beee6138c550014a2005e28&sd=10&dw=10800&rebase=on&hdntl=exp=1550063865~acl=%2f*%40710958%2f*~data=hdntl~hmac=67c07b0001ef3855f7fd25b90658e8ed154f72809df8b83feac9ed04e6eab88a
+#EXTINF:0 type="stream" channelId="-1" group="Religious" logo="https://www.astra.org.au/images/pages/Daystar.png", Daystar
+https://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master_240p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religious", Better Life (English)
+http://uni5rtmp.tulix.tv/betterlife/betterlife/chunklist_w1585979567.m3u8
+#EXTINF:0 type="stream" channelId="2663" group="Noticias" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png", Telesur (Venezuela)
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="2013" group="Religious" logo="https://files.rightwingwatch.org/uploads/CBN-logo2.png", CBN (English)
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_2000_av-b.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religious" logo="https://i.ytimg.com/vi/_Jt1yB1y-MM/hqdefault.jpg", Trinity Channel
+http://rtmp1.abnsat.com/hls/trinity.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religious" logo="https://image.roku.com/channels/images/8e24969bfce84aa68bcc6dae2d1bb14d-hd.jpg", InspirationTV (English)
+https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/index_2_av-p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religious" logo="http://www.daystar.com/wp-content/uploads/programmers/Daystar-Programmer-Graphic-Sid-Roth.jpg", Its SupernaturalTV (English)
+http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/index_1728_av-p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religious" logo="https://myersinfosys.com/wp-content/uploads/2015/07/NRB_Logo.png", NRB Network (English)
+http://uni6rtmp.tulix.tv:1935/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religious" logo="https://revelationtv.com/assets/images/logo-trans-r.png", Revelation TV (English)
+http://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religious" logo="http://photos.prnewswire.com/prnfull/20160729/394313LOGO", TCT (English)
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/TCTHLS_Live_192.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kids" logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png", TCT Kids (English)
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_250.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religious" logo="http://channels.roku.com/images/afc630bf55fe475cb7571ae4e0633f88-hd.jpg", Watchmen Broadcasting
+http://fss28.streamhoster.com/lv_rod_tvf1/_definst_/smil:lv_rod_tvf1-wbpi.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religious" logo="https://www.scoan.org/v3/files/2016/09/emmanuel_tv_icon.png", EmmanuelTV
+https://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religious", Hope Channel
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="-1" group="Religious", Christian Television Network
+https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w808319251_b1764000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religious", 3ABN [SD]
+http://moiptvus-lh.akamaihd.net/i/moiptv1_1@303632/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religious", 3ABN International [SD]
+http://moiptvus-lh.akamaihd.net/i/moiptv8_1@310133/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religious", 3ABN Proclaim [SD]
+http://moiptvus-lh.akamaihd.net/i/moiptv3_1@304498/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Kids", 3ABN Kids
+http://moiptvus-lh.akamaihd.net/i/moiptv5_1@304500/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW NEWS (English)
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://yt3.ggpht.com/a/AGF-l7-ROxk4wco8xCKXtbSltQpYTsAvqNkrkQv1nA=s900-c-k-c0xffffffff-no-rj-mo", Bloomberg (English)
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://cdn.imgbin.com/22/5/20/imgbin-equatorial-guinea-tvge-asonga-tv-radio-nacional-de-guinea-ecuatorial-television-international-0KafVfvTHQLf2injDLijFUTAq.jpg", TVGE
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="139" group="News" logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png", France 24 (French)
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png", VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="http://cdn-radiotime-logos.tunein.com/s272071q.png", Syria News
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://cbsnews1.cbsistatic.com/hub/i/r/2017/12/12/77e5d36d-5915-46ce-b496-218c87d98c5d/thumbnail/1200x630/15dcb72c6fdec4125306ed9638345480/cbsnews-1600x900.jpg", CBS News (Opt-1)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://cbsnews1.cbsistatic.com/hub/i/r/2017/12/12/77e5d36d-5915-46ce-b496-218c87d98c5d/thumbnail/1200x630/15dcb72c6fdec4125306ed9638345480/cbsnews-1600x900.jpg", CBS News (Opt-2)
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://radio.foxnews.com/wp-content/uploads/2012/12/FOX-News-Talk-Radio-1.jpg", Fox News Talk Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="http://313watkins.com/images/whiteLogo.png", WHPR TV 33 Detroit
+http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://boston.cbslocal.com/wp-content/uploads/sites/3859903/2018/06/wbz-tvnewsbriefs.jpg", WBZ 4 News (Boston)
+http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://mediaweb.wpxi.com/theme/images/placeholder-square.jpg", Channel 11 News WPXI (Pittsburgh)
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://1.bp.blogspot.com/-YX58NpYE8OI/XAMFtcl4jtI/AAAAAAAAB3g/_u6ECy1zPf87QMTgY0J8emZC-AqqbXfpwCPcBGAYYCw/s1600/TV5MONDEInfologo.png", TV5 Monde Info  (French)
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:0 type="stream" channelId="2107" group="News" logo="http://www.qcountryfm.ca/typo3temp/_processed_/6/1/csm_The_Weather_Network_bigger_03_f8d8026027.png", The Weather Network
+http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Aruba" logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Telearuba_Logo.png", TELEARUBA
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w158123675_b596000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="http://166.88.21.114/~unoredtv/wp-content/uploads/2015/08/rema-TV-portal-Unored-1.png", rema TV
+http://livestreamcdn.net:1935/remaTV/remaTV/chunklist_w1544157761.m3u8
+#EXTINF:0 type="stream" channelId="1944" group="News" logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png", ABC News
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png", ABC 15
+https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News", WGN News
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:0 type="stream" channelId="119" group="News", Bloomberg
+https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png", Voice of America (PST)
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png", Voice of America (EST)
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://images-na.ssl-images-amazon.com/images/I/514-05DbHCL._SY355_.png", NEWSMAX TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://i.pinimg.com/280x280_RS/6b/3c/6a/6b3c6a5dc068436522b9f68775dea1c0.jpg", NEWS 12  Brooklyn
+http://hls.iptv.optimum.net/news12/nipadlive/04_new.m3u8?cdnHost=167.206.237.144&callsign=N12KN
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/160px-The_Weather_Channel_logo_2005-present.svg.png", Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0 type="stream" channelId="1175" group="News", Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/04/01/727e357a-a126-4138-a2c5-4d3222669d57/thumbnail/1200x630/795a64db6b16dd5a299672df438ad0b4/cbsn2-logo-1920x1080.jpg", CBS News
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA" logo="https://image.roku.com/developer_channels/prod/04108b0d177afdddd43e321db231eeeb22addc8e37665b2c29e15800ad3b69a1.png", Escambia TV
+https://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w213610257.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://4.bp.blogspot.com/-sNq8hlRQoDM/XKdEL6nT9tI/AAAAAAAAiXk/5iEAvzj834UBv0fS2dp6ZgyicarDNW9aQCK4BGAYYCw/s1600/misioneltvlogo.jpg", Mision ELTV Radio (RD)
+http://stream.zenolive.com/492ru4zwh4duv
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/us/images/bbn.gif", BBN Radio Español
+https://bbnspanish-lh.akamaihd.net/i/BibleBroadcasting_Spanishios@87757/index_48_a-p.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://nuevavida.fm/wp-content/uploads/2016/02/nv-logo-slider2.png", Radio Nueva Vida (Puerto Rico)
+http://radio.ministeriotv.com:8042/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://cdn-radiotime-logos.tunein.com/s174866g.png", 88.10 	HIJ20 Primera FM
+http://stream.grupotelemicro.com:8801/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/primera-santiago.png", Primera 88.1 FM Santiago (RD)
+http://stream.grupotelemicro.com:8801/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/studio88.gif", 88.50 	HIJ24 Studio 88 (RD)
+http://radio2.domint.net:8248/stream
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://www.laluzfm.com/wp-content/uploads/2019/03/logo-e1551738424797.png", 88.70 FM La Luz  Higüey (RD)
+https://streamingv2.shoutcast.com/la-luz-887-fm
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/azucar-hato-mayor.png", 89.1 FM Azúcar  Hato Mayor (RD)
+http://sirius.shoutca.st:9269/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/maravillosa-barahona.png", 89.7 FM Maravillosa (Barahona)
+http://radio7a.domint.net:8220/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/escape.gif", 88.90 	HIJ29 Escape FM (RD)
+http://radio1.domint.net:8066/stream
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/fuego.gif", 90.10 	HIJ48 Fuego 90 (RD)
+http://209.126.116.143:9222/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/renuevo.gif", 89.70 	HIJ43 Radio Renuevo (RD)
+http://radiotvstream.com:8031/renuevo.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/disco-santiago.png", 88.9 FM Disco 89  Santiago (RD)
+http://radio2.rgradio.net:9020/disco89.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/magia.png", 90.3 FM Magia  Higüey (RD)
+http://81.169.223.197:5592/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/calor-90-3-fm.png", 90.3 FM  Calor Dajabón
+http://212.83.135.226:7840/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/90-3-fm-san-juan.png", 90.3 FM Radio San Juan
+http://radio.domiplay.net:9438/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/estrella90.gif", 90.50 	HIJ56 Estrella 90 (RD)
+http://streaming.estrella90.com:7110/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://www.la91fm.com/wp-content/uploads/2017/10/LOGOLA91DEF.png", 91.30 	HIJ63 La 91 FM (RD)
+http://radio.domint.net:8040/stream
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://s3.amazonaws.com/cdn.radionewproject.com/4e1803b9b5764693286ad88bdd8ed9e0.jpg", 91.50 Misionera FM  (RD)
+http://ample-zeno-05.radiojar.com/61cn8f4dv6duv
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/larocka.gif", 91.70 	HIJ69 La Rocka (RD)
+http://5.135.183.124:8243/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/melody.png", 91.7 FM Melody (RD)
+http://puertoplataradio.com:8022/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/melody.png", 91.7 FM Melody
+http://puertoplataradio.com:8022/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/sierra-santiago.png", 91.9 FM  Sierra Santiago (RD)
+http://147.135.11.82:9686/
+#EXTINF:0 type="stream" channelId="-1" group="Audio", 91.9 FM Amor  La Romana (RD)
+http://radio.domiplay.net:9190/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/hits92.gif", 92.10 	HIJ76 Hits 92 (RD)
+http://radio2.rgradio.net:8520/hits92.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/pesa-barahona.png", 92.3 FM Pesá (Barahona)
+http://radio7a.domint.net:8176/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/play/cdn.htm", 92.50 	HIJ83 CDN Radio (RD)
+http://104.197.151.190/cdnlive
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/puravida929.gif", 92.90 	HIJ87 Pura Vida FM (RD)
+http://23.239.68.71:9700/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/orbita-puerto-plata.png", 92.9 FM Órbita  Puerto Plata
+http://puertoplataradio.com:8004/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/bavaro-92-9-fm.png", 92.9 FM Radio Bávaro
+http://81.169.223.197:5594/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/independencia.gif", 93.30 HIJ90 Independencia FM (RD)
+http://stream.grupotelemicro.com:9303/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/marien-dajabon.png", 93.3 FM Radio Marién  Dajabón
+http://108.163.229.102:8055/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/latidos.gif", 93.70 	HIJ95 Latidos FM (RD)
+http://72.29.87.97:8010/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/luz-santiago.png", 93.7 FM Radio Luz  Santiago
+http://stm2.grupointernet.com:8209/;
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/fidelity.gif", 94.10 	HIJ99 Fidelity 94.1  (RD)
+http://playerservices.streamtheworld.com/api/livestream-redirect/FIDELITY.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/full-94-1.png", 94.1 FM Full
+http://72.29.70.19:8110/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://cdn-radiotime-logos.tunein.com/s118676g.png", 94.3  Mambo Higuey (RD)
+http://199.195.194.12:8246/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/noble-94-digital.png", 94.3 FM Noble 94 Digital  (RD)
+http://78.129.193.103:38052/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/kq945.gif", 94.50 	HIK22 KQ 94.5 (RD)
+http://radio.yaservers.com:9990/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/arca-puerto-plata.png", 95.3 FM  Radio Arca De Salvación Puerto Plata
+http://puertoplataradio.com:8000/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/digital-santiago.png", 95.5 FM  Digital Santiago
+http://stm2.grupointernet.com:8050/;
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/lanota957.gif", 95.70 	HIK39 La Nota 95.7 (RD)
+http://69.64.83.145:18511/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://www.quisqueyafmrd.com/images/logo-quisqueya2.png", 96.10 	HIK42 Quisqueya FM (RD)
+http://69.163.34.102:8620/;
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/kiss-me.png", 95.7 FM Radio Kiss Me  (RD)
+http://streaming.xtremdesign.net:8142/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/la-kalle-96-3-santiago-rodrigu.png", 96.3  FM La Kalle Santiago Rodríguez
+http://www.streamingvc.net:9052/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/ritmo96.gif", 96.50 	HIK46 Ritmo 96  (RD)
+http://streaming.ritmo96.com:7100/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/pura-vida-967.png", 96.7 FM  Pura Vida (RD)
+http://23.239.68.71:9778/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/mx/images/exa.gif", 96.90 	HIK52 Exa FM  (RD)
+http://72.29.70.22:8007
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/eclipse-96-9-fm.png", 96.9 FM Eclipse
+http://72.29.87.97:8038/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/pura-97-1.png", 97.1 FM Pura  (RD)
+http://209.126.69.145:8620/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/97-1-montecristi.png", La 97.1 FM (Montecristi)
+http://stream7a.domint.net:8090/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/uvafm.png", 97.3 FM Uva  Neyba (RD)
+http://paginas.moisespaulino.com:8028/stream
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/us/images/disney.gif", 97.30 	HIK56 Radio Disney (RD)
+http://radio7a.domint.net:8026/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://pbs.twimg.com/profile_images/378800000474952702/92928e5eb135a1e232d704fc5fc7a079_400x400.jpeg", 97.50 FM La Mega  (RD)
+http://vip.livecastnet.com:8000/capitalmega.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/estacion977.gif", 97.70 	HIK63 Estación 97.7  (RD)
+http://ca5.rcast.net:8072/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/emociones.png", 97.9 FM Radio Emociones (Barahona)
+http://radio1.domint.net:8072/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/estudio-97-9.png", 97.9  FM Estudio (RD)
+http://paginas.moisespaulino.com:8067/stream
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/amanecer.gif", 98.10 	HIK69 Radio Amanecer (RD)
+http://radioamanecer.soluvision.net:9035/;?1572045827173
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/raices-fm.png", 98.3 FM Raíces  (RD)
+http://stream1.servercristianonetwork.com:8236/live
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/rumba985.gif", 98.50 	HIK71 Rumba 98.5  (RD)
+http://radio7a.domint.net:8226/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/rumba-san-cristobal.png", 98.5 FM Rumba  San Cristóbal
+http://radio7a.domint.net:8226/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/cosmos-azua.png", 98.7 FM Cosmos  Azua (RD)
+http://radio1.domint.net:8068/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/poder-98-7.png", 98.7 Poder 98 Jarabacoa (RD)
+http://72.167.220.17:9000/;
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/arcoiris-digital-98-9-fm-mao.png", 98.9 FM Arcoiris Digital  Mao
+http://isrd.internetsolutionsrd.com:8028/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/certv_dominicanafm.gif", 98.90 	HIK77 Domincana FM (RD)
+http://69.163.34.102:8610/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/reyna-san-pedro.png", La Reyna 98 FM San Pedro (RD)
+http://69.64.83.145:15633/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/sonidosuave.gif", 99.30 	HIK79 Sonido Suave (RD)
+http://radio.domint.net:8002/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/sultana.png", 99.5 FM Sultana  San Pedro de Macorís (RD)
+http://69.64.83.145:15622/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://1.bp.blogspot.com/-RN_AvoZoUlg/XXu9nlLxScI/AAAAAAAAnec/MIatkWa3mw8MjxEuZWTzgqomBGx1CB9bQCK4BGAYYCw/s1600/Radio%2BFortaleza%2BMia.jpg", 99.70 FM Radio Fortaleza Mia (RD)
+http://stream.zenolive.com/sq1tzzbqs6duv
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/be997.gif", 99.70 	HIK90 Be 99.7 (RD)
+http://ca5.rcast.net:8070/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/la-99-7-fm-la-primera.png", La 99.7 FM (La Primera)
+http://199.195.194.12:8052/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/cima100.gif", 100.50 	HIL23 Cima 100 (RD)
+http://167.114.223.51:9384/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/super-k-la-vega.png", 100.70  Super K (RD)
+http://streaming.superkfm.com:7050/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/superq.gif", 100.90 	HIL27 Super Q (RD)
+http://23.239.68.71:9756/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/premium-santiago.png", 101.1 FM  Premium Santiago
+http://radio2.domint.net:8058/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/z101.gif", 101.30 	HIL31 Z101 (RD)
+http://14943.live.streamtheworld.com:3690/Z101FM_SC
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/toplatina.gif", 101.70 	HIL40 Top Latina (RD)
+http://radio2.domint.net:8022/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://1.bp.blogspot.com/-pUOG35eMVJI/Xda53H5slcI/AAAAAAAASvw/pP7mR4CXQ8w8U8rc9u6bW5O-BsaXMqveACK4BGAYYCw/s752/TARJETA%2BJUAN%2BDIAZ.png", 101.90 	HIL Amar FM (RD)
+http://node-16.zeno.fm/v3c46820fnruv?1574479395=&rj-tok=AAABbpZSO4EAJUVqiVSItsId8Q&rj-ttl=5
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/lax102.gif", 102.10 	HIL45 La X-102 (RD)
+http://vip.livecastnet.com:8000/x1021.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/escandalo.gif", 102.50 	HIL48 Escándalo (RD)
+http://radio3.domint.net:8028/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/raices.gif", 102.90 	HIL50 Raíces Radio (RD)
+http://radio7a.domint.net:8120/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://radiomap.eu/es/images/los40.gif", 103.30 	HIL59 Los 40 (RD)
+http://radio.domint.net:8092/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/kosta-punta-cana.png", 103.3 FM Kosta (Punta Cana)
+http://radio.domint.net:8516/;
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/la-n-santiago.png", La N 103.5 FM Santiago (RD)
+http://69.175.13.34:9982/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://radiomap.eu/es/images/los40.gif", 103.70 	HIL65 Power 103 (RD)
+http://199.217.118.215:8412/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/delta-la-romana.png", 103.9 FM Delta La Romana (RD)
+http://radio.domiplay.net:5240/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/caliente104.gif", 104.10 	HIL70 Caliente 104  (RD)
+http://radio7a.domint.net:8064/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/sonido-espaillat.png", 104.1 FM Sonido Alegre (Espaillat)
+http://puertoplataradio.com:8006/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/tropicalisima-jarabacoa.png", 104.1 FM Tropicalísima (Jarabacoa)
+http://streaming.tropicalisima104.com:7150/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/sonido-espaillat.png", 104.1 FM Sonido Alegre Espaillat
+http://puertoplataradio.com:8006/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/horizonte-la-romana.png", 104.3 FM Horizonte La Romana (RD)
+http://37.187.90.121:3520/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/mixx.gif", 104.50 	HIL79 Mixx 104.5 (RD)
+http://radio2.domint.net:8050/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/la-104-san-juan.png", La 104.7 FM (San Juan)
+http://stream.grupotelemicro.com:9303/;
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/mortal.gif", 104.90 	HIL84 Mortal FM (RD)
+http://stream.grupotelemicro.com:1249
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/canal-la-vega.png", 105.10 FM Canal La Vega (RD)
+http://streaming.superkfm.com:7050/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/vida.gif", 105.30 	HIL87 Vida FM  (RD)
+http://paginas.moisespaulino.com:8036/stream?type=.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/mega-barahona.png", 105.1 FM Mega (Barahona)
+http://radio7a.domint.net:8170/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/kebuena-santiago.png", 105.5 FM  KeBuena Santiago
+http://vcradios.net:9014/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://radioven.com/wp-content/uploads/2019/09/ven-900-x-900.png", 105.5 Radio Ven (RD)
+http://s1media.hosting.nassever.com:6004/radioven1055
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/labakana1057.gif", 105.70 	HIL91 La Bakana  (RD)
+http://radio1.domint.net:8124/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/la-bakana-105-9.png", 105.9 FM La Bakana  Santiago (RD)
+http://radio.domint.net:8238/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/criolla-santiago.png", 106 FM Criolla  Santiago (RD)
+http://rgradio.net:8060/criolla106.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/disco106.gif", 106.10 	HIL96 Disco 106 (RD)
+http://radio2.domint.net:8048/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/escala-barahona.png", 106.3 FM Escala (Barahona)
+http://radio1.domint.net:8084/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/tropicana-montecristi.png", 106.3 FM Tropicana  Montecristi
+http://streaming.tropicana106.com:7140/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/perla-puerto-plata.png", 106.3 FM Perla  Puerto Plata
+http://radio7a.domint.net:8216/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/zol.gif", 106.50 	HIM21 Zol FM (RD)
+http://radio2.domint.net:8022/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/linea-106-7-fm.png", 106.7 FM Línea Mao
+http://streaminglivehd.com:8188/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/hifa.gif", 106.90 	HIM26 HIFA (RD)
+http://radio.domint.net:8028/stream
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/la-nueva-santiago.png", 106.9 FM Radio La Nueva  Santiago (RD)
+http://procyon.shoutca.st:8807/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/kool.png", 106.9 FM Radio Kool
+http://s2.voscast.com:8584/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/master-puerto-plata.png", 106.9 FM Máster  Puerto Plata
+http://radio7a.domint.net:8216/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/lakalle1073.gif", 107.30 	HIM31 La Kalle (RD)
+http://stream.grupotelemicro.com:1073/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/suave-santiago.png", 107.3 FM Suave  Santiago (RD)
+http://streaming.suave107.com:7000/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/fm-107-la-romana.png", FM 107.5 La Romana (RD)
+http://radio.domiplay.net:9200/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/super7.gif", 107.70 	HIM33 Súper 7 FM (RD)
+http://radio7a.domint.net:8066/stream
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/abc.gif", 540 	HICM Radio ABC  (RD)
+http://paginas.moisespaulino.com:8046/live
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/santa-maria.png", 590 AM Radio Santa María
+http://paginas.moisespaulino.com:8069/live
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/crystal.gif", 570 	HIMS Radio Crystal  (RD)
+http://streaming.cristal570.com:7200/;.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/certv_santodomingoam.gif", 620  HISD Radio Santo Domingo  (RD)
+http://69.163.34.102:8630/;
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/universal.gif", 650 	HIAT Radio Universal (RD)
+http://192.99.44.11:1488/stream
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/dial670.gif", 670 	HIBS Radio Dial  (RD)
+http://69.64.83.145:18611/live
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/rnc.gif", 710 	HIWP Red Nacional Cristiana  (RD)
+http://195.154.182.222:2052//live
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/norte-santiago.png", 720 AM Radio Norte  Santiago (RD)
+http://streaming.norte720.com:7190/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/jesus-santiago.png", 750 AM Radio Jesús 750 AM Santiago (RD)
+http://paginas.moisespaulino.com:8005/stream
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/lavozdeltropico.gif", 790 	HIL La Voz del Trópico  (RD)
+http://ss8.domint.net:2084/vttv_str/tropicotv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/us/images/rtm.gif", 800 	PJB Radio Trans Mundial  (RD)
+https://cdn.instream.audio/:9050/stream?_=16ea89f9b69
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/hijb.gif", 830 	HIJB  (RD)
+http://69.64.83.145:18522/live
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/consentida-890-am.png", 890 AM Consentida  Mao
+http://streaminglivehd.com:8230/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/popular.gif", 950 	HIIG Radio Popular  (RD)
+http://radio7a.domint.net:8060/stream
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/olimpica-la-vega.png", 970 AM Radio Olímpica  La Vega
+http://streaming.olimpica970.com:7170/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://is3-ssl.mzstatic.com/image/thumb/Purple22/v4/d3/35/8e/d3358e45-979d-f9f8-ed75-7d3b6e095ca1/source/512x512bb.jpg", 990 AM Radio Eternidad (RD)
+http://66.128.53.117:9950/stream
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/hispaniola-santiago.png", 1150 AM Radio Hispaniola  Santiago (RD)
+http://streaming.radiohispaniola.com:7180/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/amanecer.gif", 1060 	HIAJ Radio Amanecer  (RD)
+http://radioamanecer.soluvision.net:9035/;?1572058562295
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/pio.gif", 1080 	HIMC Pío Deportes Radio  (RD)
+http://radio.radiostreaming.us:9948/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://s3.amazonaws.com/cdn.radionewproject.com/728d8cc1e3da7aea7867072a440f760c.jpg", 1090 AM Radio Amistad Santiago (RD)
+http://amistad1090.com:8040/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://radioven.com/wp-content/uploads/2019/09/ven-900-x-900.png", 1200 	HIAH Radio VEN (RD)
+http://s1media.hosting.nassever.com:6002/radioven1200
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://radiomap.eu/it/images/maria.gif", 1240    Radio María  (RD)
+http://dreamsiteradiocp4.com:8100/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://radiomap.eu/va/images/rv.gif", 1240    Radio Vaticano
+http://live.vaticanwebradio.org/channel4.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://s3.amazonaws.com/cdn.radionewproject.com/22976c46c21502609590a3a8e04d0cb0.jpg", 1310 AM Radio Real  La Vega (RD)
+http://audio.domiradio.com:9362/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/visioncristiana.gif", 1330 	HIVC Radio Visión Cristiana
+http://166.88.21.98:9660/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/1370-am-seibo.png", 1370 AM Radio Seibo  (RD)
+http://5.135.183.124:8081/stream
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/nacional-santiago.png", 1380 AM Radio Nacional  Santiago (RD)
+http://88.208.232.166:9010/radionacional.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/emanuel-santiago.png", 1430 AM  Radio Emanuel Santiago (RD)
+http://unoredradio.com:9670/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/impacto.gif", 1440 	HIAK Radio Impacto  (RD)
+http://206.190.141.116:8074/stream
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/vibra-barahona.png", 1470 AM Vibra  Barahona (RD)
+http://radio7a.domint.net:8092/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/pueblo.gif", 1510 	HIBL Radio Pueblo  (RD)
+http://lapatrona.kydsecurity.com:8000/live
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/1560-am-pedernales.png", 1560 AM Radio Pedernales
+http://node-06.zeno.fm/492ru4zwh4duv?rj-ttl=5&rj-tok=AAABbpuajUgALgcjQeNiAr1wHQ
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/juventusdonbosco.gif", 1640 	HIC80 R. Juventus Don Bosco  (RD)
+http://paginas.moisespaulino.com:8009/live
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/senda.png", 1680 AM  Radio Senda San Pedro de Macorís (RD)
+http://209.126.69.145:8004/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/kv-fm-santiago.png", 94.7 FM La Megaestación (RD)
+http://audio.domiradio.com:9386/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/air-romana.png", Stream AIR Romana Radio (RD)
+https://14833.live.streamtheworld.com/SAM04AAC165_SC
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://node-07.zeno.fm/nqu2g6e6queuv?rj-ttl=5&rj-tok=AAABbh31B9wAipy_1Fq40yUqvg", Stream Romantísima (RD)
+http://node-07.zeno.fm/nqu2g6e6queuv?rj-ttl=5&rj-tok=AAABbh31B9wAipy_1Fq40yUqvg
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/fieramix-la-romantica.png", Stream Fieramix La Romántica (RD)
+http://81.169.223.197:5606/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/disco-suave.png", Disco Suave (RD)
+http://epsilon.shoutca.st:9309/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/radio-bani.png", Radio Bani (RD)
+http://192.240.102.133:8245/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/samantha.png", Samantha Radio Online (RD)
+http://paginas.moisespaulino.com:8028/stream
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/azua-santo-domingo.png", Radio Azua Santo Domingo (RD)
+http://ny2.radiocast.us:8038/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/azua.png", Azua FM Radio (RD)
+https://edge.mixlr.com/channel/scqck
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/azul.png", Azul Radio (RD)
+http://radio.domiplay.net:9300/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/bengaleses.png", Bengaleses (RD)
+http://87.98.130.255:8309/live
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/restauracion-celestial.png", Radio Restauracion Celestial (RD)
+http://217.182.239.23:8742/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/cristiana-dominicana.png", Radio Cristiana Dominicana (RD)
+http://node-03.zeno.fm/qwfamng733duv?rj-ttl=5&rj-tok=AAABbh4Px3kAByFyg8Dp5And_A
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/voz-misionera.png", Radio Voz Misionera (RD)
+http://cassini.shoutca.st:8613/live
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/onice.png", Radio Ónice (RD)
+http://37.187.90.121:3526/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/solo-dios.png", Solo Dios Radio (RD)
+http://new-york-ssd.myautodj.com:8048/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/bonao-bendicion.png", Radio Bonao Bendición (RD)
+http://178.33.166.7:7504/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/hermosa.png", Hermosa Radio (RD)
+http://192.99.8.170:6571/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/la-voz-de-la-famlia.png", La Voz De La Famlia (RD)
+http://radioserver10.profesionalhosting.com:40984/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/iglesia-ciudad-de-refugio-rd.png", Iglesia Ciudad de Refugio (RD)
+http://streaming.radionomy.com/JamendoLounge
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/fuente-de-fe.png", Radio Fuente de Fe (RD)
+http://s2.free-shoutcast.com:18004/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/camino-rd.png", Radio Camino (RD)
+https://rapidocdn.us/streaming/8108/stream
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/evangelistica-dominicana.png", Radio Evangelística Dominicana (RD)
+http://usa13.fastcast4u.com:5112/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/unidos-en-la-vision.png", Unidos En La Visión (RD)
+http://puertoplataradio.com:8010/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/alma-cristiana.png", Radio Alma Cristiana (RD)
+http://node-09.zeno.fm/szu33qnppyduv?rj-ttl=5&rj-tok=AAABbh4egzUAm_NL1TbNaeE8JQ
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/ccpv-la.png", CCPV La Radio  (RD)
+https://streaming.radionomy.com/CCPVRADIO
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/innovacion-cristiana.png", Innovación Cristiana Radio (RD)
+http://69.175.13.34:9982/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/salsa.png", Salsa Radio (RD)
+http://radio.domiplay.net:2002/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/robertdj-net-la-chivirica.png", RobertDj.net La Chivirica
+http://172.246.248.113:8910/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/vida-rd.png", Radio Vida RD
+http://server.webhostingelforo.com:9400/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/los-40.png", Los 40 República Dominicana (RD)
+http://server.webhostingelforo.com:9400/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/bacharengue.png", El Bacharengue (RD)
+http://node-29.zeno.fm/492ru4zwh4duv?rj-ttl=5&rj-tok=AAABbh_3Ht8AN7aa6Xlmog03Fw
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/cristo-puerto-plata.png", Radio Cristo Puerto Plata
+http://puertoplataradio.com:9000/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/bendiciendote-fm.png", Bendiciéndote FM
+http://puertoplataradio.com:8002/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/elias-pina-fm.png", Elías Piña FM
+http://icecasthd.net:3207/live
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/aguilas-cibaenas.png", Aguilas Cibaeñas Radio
+http://stream1.wernerstreamhd.net:6676/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://makaoradio.com/wp-content/uploads/2019/10/LOGOWEB3.png", Makao Radio
+http://81.169.223.197:5564/stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="BOLIVIA" logo="https://3.bp.blogspot.com/-o_iPgvN5GR0/XCI680KIEJI/AAAAAAAAHQA/WFtw0xcxtwckxqmAX2OhcB98zSpw6DQ-ACLcBGAs/s1600/RTp%2Ben%2Bvivo%2BBolivia.png", RTP (Bolivia)
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="BOLIVIA", Catolica TV (Bolivia)
+http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/chunklist_w1456255672.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/jarabacoateve.png", Jarabacoa teve Radio
+http://radio.domint.net:8024/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/merengue.png", Sabor a Merengue
+http://streaming.tropicalisima104.com:7150/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/suspiro-barahona.png", Suspiro (Barahona)
+http://5.135.183.124:8081/stream
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/palma-fm-barahona.png", Palma (Barahona)
+http://radio7a.domint.net:8162/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/fieramix-la-cristiana.png", Stream Fieramix La Cristiana
+http://81.169.223.197:5626/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/fieramix.png", Stream FieraMIX  La Brava (RD)
+http://81.169.223.197:5638/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/fieramix-la-bachatera.png", Stream Fieramix La Bachatera
+http://81.169.223.197:5602/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/fieramix-la-merenguera.png", Stream Fieramix La Merenguera (RD)
+http://81.169.223.197:5622/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/fieramix-la-salsera.png", Fieramix La Salsera (RD)
+http://81.169.223.197:5598/stream/1/
+#EXTINF:0 type="stream" channelId="-1", Stream FieraMix La Mexicana
+http://81.169.223.197:5634/stream/1/
+#EXTINF:0 type="stream" channelId="-1" logo="http://worldradiomap.com/2013/flags/46/cu.png", CMBA Radio Rebelde (FM) - Cuba
+http://media.ohc.cu/habanaradio
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/2013/flags/46/cu.png", CMKC Radio Revolución - Santiago de Cuba
+https://icecast.teveo.cu/C9vVPN7h
+#EXTINF:0 type="stream" channelId="-1" logo="http://worldradiomap.com/2013/flags/46/cu.png", CMKZ Radio Baraguá - Palma Soriano\\\\\, Cuba
+https://icecast.teveo.cu/3CMM7zph
+#EXTINF:0 type="stream" channelId="-1" logo="http://worldradiomap.com/2013/flags/46/cu.png", CMDV Radio Siboney - Santiago de Cuba
+https://icecast.teveo.cu/Hb9jFPns
+#EXTINF:0 type="stream" channelId="-1" group="Audio", 96.7 FM Radio Rebelde (Cuba)
+https://icecast.teveo.cu/zrXXWK9F
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/habana.png", Stream Radio Habana (Cuba)
+https://icecast.teveo.cu/McW3fLhs
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/reloj.png", 760 AM Radio Reloj
+https://icecast.teveo.cu/b3jbfThq
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/taino.png", Stream Radio Taino (Cuba)
+https://icecast.teveo.cu/3MCwWg3V
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/habana-radio.png", Stream Habana Radio
+http://media.ohc.cu/habanaradio
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/enciclopedia.png", 94.1 FM Radio Enciclopedia (Cuba)
+https://icecast.teveo.cu/9Rnrbjzq
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/progreso.png", Stream Radio Progreso (Cuba)
+https://icecast.teveo.cu/XjfW7qWN
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/cmbf.png", 99.1 FM CMBF Radio (Cuba)
+https://icecast.teveo.cu/Nbtz7HT3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/baire.png", 103.9 FM Radio Grito de Baire (Cuba)
+https://icecast.teveo.cu/PMxFRLK7
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/cuba-he.png", Stream Cuba HE (Cuba)
+https://streaming.radionomy.com/CubaHE
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/marti.png", Radio Marti (Cuba)
+https://n07.radiojar.com/3ds9yqpgq3quv?rj-ttl=5&rj-tok=AAABbqjAwVUAN4JrsV4rCZ6YtQ
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/cubana.png", Stream Radio Cubana
+https://streaming.radionomy.com/Radio-Cubana
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/emisora-cuba.png", Emisora Salsa (Cuba)
+http://radio.domiplay.net:2002/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/cuba-libre.png", Radio Cuba Libre Internacional (Cuba)
+http://192.99.0.170:5002/;
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/zona-cubana.png", La Zona Cubana Radio (Cuba)
+http://centova2.whsh4u.com:9287/stream/1/
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/ciudad-del-mar.png", Radio Ciudad Del Mar (Cuba)
+https://icecast.teveo.cu/CL7jRXqn
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/cadena-habana.png", Stream Radio Cadena Habana (Cuba)
+https://icecast.teveo.cu/Jdq3Rbrg
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/guama.png", Stream Radio Guamá (Cuba)
+https://icecast.teveo.cu/ngcdcV3k
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/caribe.png", Stream Radio Caribe (Cuba)
+https://icecast.teveo.cu/dXhtHs4P
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/mayabeque.png", Radio Mayabeque (Cuba)
+https://icecast.teveo.cu/Rsrm7P9h
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/ciudad-de-la-habana.png", 94.7 FM Radio Ciudad de La Habana (Cuba)
+https://icecast.teveo.cu/g73XCjCH
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/radio-26.png", Stream Radio 26 (Cuba)
+https://icecast.teveo.cu/LsxKNz7b
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/cmhw.png", Radio CMHW (Cuba)
+https://icecast.teveo.cu/TsxMM94R
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/sancti-spiritus.png", 102.9 FM Radio Sancti Spiritus (Cuba)
+https://icecast.teveo.cu/NqWrgw7j
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/cadena-agramonte.png", 105.3 FM Radio Cadena Agramonte (Cuba)
+https://icecast.teveo.cu/j99xztkT
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/bayamo.png", Stream Radio Bayamo (Cuba)
+https://icecast.teveo.cu/7hdNcTbM
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/revolucion.png", Stream Radio Revolución (Cuba)
+https://icecast.teveo.cu/C9vVPN7h
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/minas.png", Radio Minas (Cuba)
+https://icecast.teveo.cu/X9XNRkW4
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/jaruco.png", 104.9 FM Radio Jaruco (Cuba)
+https://icecast.teveo.cu/KH9tVwrC
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/metropolitana.png", 98.3 FM Radio Metropolitana (Cuba)
+https://icecast.teveo.cu/ktW3mW74
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/coco.png", Radio Coco (Cuba)
+https://icecast.teveo.cu/fvc4RVRz
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/ciudad-bandera.png", Radio Ciudad Bandera (Cuba)
+https://icecast.teveo.cu/rvNtC9rC
+#EXTINF:0 type="stream" channelId="-1", Ox-Tv
+https://cdn.hostlagarto.com:4445/Oxtv36/oxtv36.myStream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://i1.wp.com/puntacanahits.com/wp-content/uploads/2018/06/cropped-Punta-CanaHits.jpg", Punta Cana Hits (RD)
+http://radio.hostlagarto.com:9970/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://cdn-radiotime-logos.tunein.com/s273695g.png", Radio Renacer
+http://radio.hostlagarto.com:9964/;stream.mp3
 #EXTINF:-1 group-title="World ", ABC NEWS
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 
