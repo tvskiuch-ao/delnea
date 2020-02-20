@@ -52,7 +52,8 @@ http://panel.dattalive.com:1935/8002/8002/chunklist_w1972506024.m3u8
 
 #EXTINF:-1 group-title="ARG ",chacra tv
 http://s8.stweb.tv:1935/chacra/live/playlist.m3u8
-
+#EXTINF:-1 group-title = "ARG",TD 35 HD DIGITAL
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0164
 #EXTINF:-1 group-title="ARG ",Garage tv
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 #EXTINF:-1 group-title = "ARG",CATAMARCA TV
