@@ -687,7 +687,82 @@ https://archive.org/download/13Fantasmas2001720pDubladoAlan680/A%20Familia%20Add
 https://archive.org/download/13Fantasmas2001720pDubladoAlan680/A%20Conquista%20do%20Planeta%20dos%20Macacos%20(1972)%20BluRay%201080p%20Dual%20%C3%81udio.mp4
 #EXTINF:-1 group-title="Cine", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
+#EXTINF:-1 group-title = "Cine",Amc
+http://disfruta.net:80/usar/hW2bmskG0A/75
+#EXTINF:-1 group-title = "Cine",Axn
+http://disfruta.net:80/usar/hW2bmskG0A/152
+#EXTINF:-1 group-title = "Cine",Axn
+http://186.103.228.50:8000/play/a03e
+#EXTINF:-1 group-title = "Cine",Axn
+http://200.73.59.84:8000/play/a03e
+#EXTINF:-1 group-title = "Cine",Cinecanal
+http://186.103.228.50:8000/play/a01k
+#EXTINF:-1 group-title = "Cine",Cinecanal
+http://200.73.59.84:8000/play/a01k
+#EXTINF:-1 group-title = "Cine",Cinemax
+http://186.103.228.50:8000/play/a03c
+#EXTINF:-1 group-title = "Cine",Cinemax 
+http://200.73.59.84:8000/play/a03c
+#EXTINF:-1 group-title = "Cine",Claro Cinema
+http://186.103.228.50:8000/play/a03n
+#EXTINF:-1 group-title = "Cine",Claro Cinema
+http://200.73.59.84:8000/play/a03n
+#EXTINF:-1 group-title = "Cine",Fox LAT
+http://186.103.228.50:8000/play/a01m
+#EXTINF:-1 group-title = "Cine",Fox LAT 
+http://200.73.59.84:8000/play/a01m
+#EXTINF:-1 group-title = "Cine",Fox Action
+http://186.103.228.50:8000/play/a017
+#EXTINF:-1 group-title = "Cine",Fox Action
+http://200.73.59.84:8000/play/a017
+#EXTINF:-1 group-title = "Cine",Fox Life
+http://186.103.228.50:8000/play/a01q
+#EXTINF:-1 group-title = "Cine",Fox Life
+http://200.73.59.84:8000/play/a01q
+#EXTINF:-1 group-title = "Cine",Fox Series
+http://186.103.228.50:8000/play/a016
+#EXTINF:-1 group-title = "Cine",Fox Series
+http://200.73.59.84:8000/play/a016
+#EXTINF:-1 group-title = "Cine",Fx LAT
+http://186.103.228.50:8000/play/a03g
+#EXTINF:-1 group-title = "Cine",Fx LAT
+http://200.73.59.84:8000/play/a03g
+#EXTINF:-1 group-title = "Cine",Fxm
+http://186.103.228.50:8000/play/a012
+#EXTINF:-1 group-title = "Cine",Fxm
+http://200.73.59.84:8000/play/a012
+#EXTINF:-1 group-title = "Cine",Hbo LAT
+http://186.103.228.50:8000/play/a03b
+#EXTINF:-1 group-title = "Cine",Hbo LAT
+http://200.73.59.84:8000/play/a03b
+#EXTINF:-1 group-title = "Cine",Hbo 2
+http://186.103.228.50:8000/play/a018
+#EXTINF:-1 group-title = "Cine",Hbo 2
+http://200.73.59.84:8000/play/a018
+#EXTINF:-1 group-title = "Cine",Hbo Plus
+http://186.103.228.50:8000/play/a019
+#EXTINF:-1 group-title = "Cine",Hbo Plus
+http://200.73.59.84:8000/play/a019
+#EXTINF:-1 group-title = "Cine",I Sat
+http://186.103.228.50:8000/play/a01n
+#EXTINF:-1 group-title = "Cine",I Sat
+http://200.73.59.84:8000/play/a01n
+#EXTINF:-1 group-title = "Cine",Space
+http://186.103.228.50:8000/play/a03f
+#EXTINF:-1 group-title = "Cine",Space
+http://200.73.59.84:8000/play/a03f
+#EXTINF:-1 group-title = "Cine",Tbs
+http://186.103.228.50:8000/play/a026
+#EXTINF:-1 group-title = "Cine",Tbs
+http://200.73.59.84:8000/play/a026
+#EXTINF:-1 group-title = "Cine",Tcm
+http://186.103.228.50:8000/play/a01s
+#EXTINF:-1 group-title = "Cine",Tcm
+http://200.73.59.84:8000/play/a01s
+#EXTINF:-1 group-title = "Cine",Tnt LAT
+http://186.103.228.50:8000/play/a01v
+#EXTINF:-1 group-title = "Cine",Tnt LAT
+http://200.73.59.84:8000/play/a01v
 #EXTINF:-1 group-title="Cine", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
