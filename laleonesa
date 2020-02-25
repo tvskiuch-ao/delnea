@@ -22,7 +22,8 @@ http://g2.vxral-hor.transport.edge-access.net/a12/ngrp:c12_live01-100129_all/c12
 http://g2.vxral-hor.transport.edge-access.net/a12/ngrp:c12_live01-100129_all/c12_live01-100129_540p-50519.ts
 #EXTINF:-1 group-title="ARG ",canal 5 telecreativa
 https://cdn2.zencast.tv:30443/telecreativa/live/playlist.m3u8
-
+#EXTINF:-1 group-title="ARG ",SOLIS TV
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CsMDQjpm_Wq0-QpqcDgxxIJZGDCblzLeoEm3hK-qloKqY_dobrCa4g8IqVbJvt-xjqf94glOh4QxAXG_7eLgj8uR7ojCbMkgsNRFScM0Cs9H8GqYKweN2NWBuTkL2KFw12svVZNrytwB5vGWUcQC19iS7ov8lcdx9YbipoBuvhopN4M-mVst4RJDUx_KzGKh05bWTsAaSqL5n1JsH6m57-5lhM78TOSsSousrRKl1FNE_IHD0JNG2W-a5PyMM-bg5GwzPGbEEmvQGLO5n4u0x9K47fbzFG5OSl9e_R7mjCVOpEoUH7yfHXfsPbXelMsEKMEcKTkqq-a0P-QNJ5d_iteTyiHpGJa9GVXIJc4OjP34FV9dN25ve56-MCVj8KByoY9blbZMJ4B0IIfff_56nQF-aJQcONatXiVQxh5exryS3Py6rXmG01LIaLsIT4q0muO7me4zCVXviOAT0Y3j35NNyD3ArNFvxPHfK4-4Bzv-tZLdUPb4jVeAt3ySFlCM39H1Whb9VnYeTexWo6RAZ3zf3-ZxAIhbPzgtCTiBkD871xr0PBofsjPaGFtiKEoGu1SZEiojb0FJqzFiAE_znHF3OZ3MoxIQRsoxMhgnSuG1sl5hPON4bBoMKNxhtDy4cBAkxTkX.m3u8
 #EXTINF:-1 group-title="ARG ",ARGENTINISIMA SATELITAL
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w581947260_b1912000_sleng.m3u8
 
