@@ -1,0 +1,2782 @@
+
+#EXTM3U
+#EXTINF:-1 group-title="ARG ",13 Max
+http://coninfo.net:1935/13maxhd/live/chunklist_w1734556634.m3u8
+#EXTINF:-1 group-title="ARG ",canal 11 formosa
+https://5b3050bb1b2d8.streamlock.net:443/tvcanal11/tvcanal11/playlist.m3u8
+#EXTINF:-1 group-title="ARG ",FTC Canal 3 FORMOSA HD
+https://stmv1.hostradios.com/agenfor/agenfor/playlist.m3u8
+#EXTINF:-1 group-title="ARG ",Chaco TV
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ",canal 9 resistencia
+http://www.coninfo.net:1935/9linklive/live/chunklist_w1517576469.m3u8
+
+#EXTINF:-1 group-title="ARG ",Ciudad TV Chaco
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+
+#EXTINF:-1 group-title="ARG ",canal 4 posadas
+https://589ff3c36f7e8.streamlock.net/canal4/canal4/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ",ARGENTINISIMA SATELITAL
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w581947260_b1912000_sleng.m3u8
+
+#EXTINF:-1 group-title="ARG ",CEPTV LA PAMPA
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_151_av-p.m3u8?sd=6&rebase=on
+#EXTINF:-1 group-title = "ARG",Canal10 General Roca
+https://59c5c86e10038.streamlock.net/8204/8204/chunklist_w47008160.m3u8
+#EXTINF:-1 group-title="ARG ",Canal 26*
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+
+#EXTINF:-1 group-title="ARG ",canal 2 Dean funes
+http://streaming.arcast.com.ar:1935/canal2deanfunes/canal2deanfunes/1.m3u8
+
+#EXTINF:-1 group-title="ARG ",Canal dean funes
+http://streaming.arcast.com.ar:1935/canal2deanfunes/canal2deanfunes/chunklist_w138516997.m3u8
+
+#EXTINF:-1 group-title="ARG ",canal 3 aldeia brasileira
+http://stmv2.srvstm.com/brasil2/brasil2/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ",canal 4 la matanza
+http://panel.dattalive.com:1935/8002/8002/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC ",RETROPLUS TV
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w825181457.m3u8
+
+#EXTINF:-1 group-title="ARG ",canal 4 la matanza
+http://panel.dattalive.com:1935/8002/8002/chunklist_w1972506024.m3u8
+
+#EXTINF:-1 group-title="ARG ",chacra tv
+http://s8.stweb.tv:1935/chacra/live/playlist.m3u8
+
+#EXTINF:-1 group-title = "ARG",TD 35 HD DIGITAL
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0164
+
+#EXTINF:-1 group-title="ARG ",Garage tv
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+
+#EXTINF:-1 group-title = "ARG",CATAMARCA TV
+https://59d52c5a5ce5e.streamlock.net:4443/ctv/ctv/chunklist_w248825613.m3u8
+
+#EXTINF:-1 group-title = "ARG",Santa Mar�a TV
+http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
+
+#EXTINF:-1 group-title = "ARG",CANAL PROVINCIAL
+http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
+
+#EXTINF:-1 group-title = "ARG",Canal 8 tunuyan
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0143
+
+#EXTINF:-1 group-title = "ARG",10tv libre san rafael
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0142
+
+#EXTINF:-1 group-title = "ARG",Garage tv
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0012
+
+#EXTINF:-1 group-title = "ARG",FashionTV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0014
+
+#EXTINF:-1 group-title = "ARG",telesur
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0027
+
+#EXTINF:-1 group-title = "ARG",Tierramia music
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0028
+
+#EXTINF:-1 group-title = "ARG",GEN TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0030
+
+#EXTINF:-1 group-title = "ARG",26 TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
+
+#EXTINF:-1 group-title = "ARG",TELEMAX
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
+
+#EXTINF:-1 group-title = "ARG",NET TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0044
+
+#EXTINF:-1 group-title = "ARG",CANAL 4 la matanza
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0056
+
+#EXTINF:-1 group-title = "ARG",santa maria
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0058
+
+#EXTINF:-1 group-title = "ARG",BVC
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
+
+#EXTINF:-1 group-title = "ARG",C5N
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0066
+
+#EXTINF:-1 group-title = "ARG",BADABUN TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0068
+
+#EXTINF:-1 group-title = "ARG",ACQUA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0071
+
+#EXTINF:-1 group-title = "ARG",CANAL 6 MAR DEL PLATA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0073
+
+#EXTINF:-1 group-title = "ARG",CANAL 79 MAR DEL PLATA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0075
+
+#EXTINF:-1 group-title = "ARG",10HD
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0078
+
+#EXTINF:-1 group-title = "ARG",canal local HD
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0081
+
+#EXTINF:-1 group-title = "ARG",TELPIN
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
+
+#EXTINF:-1 group-title = "ARG",3 HD
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0088
+
+#EXTINF:-1 group-title = "ARG",POWER HD
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0090
+
+#EXTINF:-1 group-title = "ARG",CELTV 17.8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0094
+
+#EXTINF:-1 group-title = "ARG",CANAL 8 CATAMARCA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0095
+
+#EXTINF:-1 group-title = "ARG",LA TVP
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0097
+
+#EXTINF:-1 group-title = "ARG",CIUDAD TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0098
+
+#EXTINF:-1 group-title = "ARG",CANAL9 CHACO
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0099
+
+#EXTINF:-1 group-title = "ARG",CHTV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0100
+
+#EXTINF:-1 group-title = "ARG",TV MAN�
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0105
+
+#EXTINF:-1 group-title = "ARG",CANAL U
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0107
+
+#EXTINF:-1 group-title = "ARG",10HD repetidora TVP
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0108
+
+#EXTINF:-1 group-title = "ARG",CANAL 2 DIGITAL
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0109
+
+#EXTINF:-1 group-title = "ARG",ENCUENTRO
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0115
+
+#EXTINF:-1 group-title = "ARG",CANAL 9 DIGITAL
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0116
+
+#EXTINF:-1 group-title = "ARG",5TV DIGITAL
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0119
+
+#EXTINF:-1 group-title = "ARG",13MAX DIGITAL
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0120
+
+#EXTINF:-1 group-title = "ARG",CANAL 11 FORMOSA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0128
+
+#EXTINF:-1 group-title = "ARG",CANAL 4 JUJUY
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0130
+
+#EXTINF:-1 group-title = "ARG",13JUJUY AV HD
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0131
+
+#EXTINF:-1 group-title = "ARG",CANAL 7 JUJUY
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0132
+
+#EXTINF:-1 group-title = "ARG",CPETV HD
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0133
+
+#EXTINF:-1 group-title = "ARG",MEDIORIOJA TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0137
+
+#EXTINF:-1 group-title = "ARG",CANAL 4 POSADAS
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0145
+
+#EXTINF:-1 group-title = "ARG",CANAL 6 DIGITAL
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0146
+
+#EXTINF:-1 group-title = "ARG",RTN
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0151
+
+#EXTINF:-1 group-title = "ARG",MULTIVISION FEDERAL
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0154
+
+#EXTINF:-1 group-title = "ARG",CANAL 10 SALTA
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0155
+
+#EXTINF:-1 group-title = "ARG",9 DIGITAL
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0156
+
+#EXTINF:-1 group-title = "ARG",TJS DIGITAL
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0159
+
+#EXTINF:-1 group-title = "LAT",DW
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0011
+
+#EXTINF:-1 group-title = "ESP",Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+#EXTINF:-1 group-title = "ESP",BeMad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:-1 group-title="ARG ",TVP CANAL 7
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
+
+#EXTINF:-1 group-title="ARG ",Inforbahia bahia blanca
+http://173.236.10.10:1935/tvinforbahia/tvinforbahia/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ",Inforbahia bahia blanca
+http://173.236.10.10:1935/tvinforbahia/tvinforbahia/chunklist_w2042589425.m3u8
+
+#EXTINF:-1 group-title="LAT ",CGTN Espaniol
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 group-title="LAT ",VTV Vinia del mar
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",VTV Vinia del mar
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8?wowzasessionid=360574805
+
+#EXTINF:-1 group-title="LAT ",Hechiceria tv
+http://167.114.116.212:1935/tv506/hechicera/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Hechiceria tv
+http://167.114.116.212:1935/tv506/hechicera/chunklist_w654282962.m3u8
+
+#EXTINF:-1 group-title="LAT ",TELEMUNDO CHICAGO
+https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="LAT ",QUIERO TV
+https://quierotvlive.tk/httplive/playlist_playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Retro Plus tv
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 group-title="ESP ",Paramount
+https://paramount-live.flumotion.com/live/chunks.m3u8
+
+#EXTINF:-1 group-title="ESP ",CS LaBanda
+https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/chunklist_w2015027615.m3u8
+
+#EXTINF:-1 group-title="ESP ",CS Flamenco
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/chunklist_w259035815.m3u8
+
+#EXTINF:-1 group-title="ESP ",ELTORO TV
+https://live-edge-bhs-1.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
+
+#EXTINF:-1 group-title="ESP ",TRAVELTV
+http://194.179.53.124:1935/live/traveltv/chunklist_w1235432342.m3u8
+
+#EXTINF:-1 group-title="ESP ",DH dejate de historias
+https://secure2.todostreaming.es/live/tvstream-DHnew.m3u8
+
+#EXTINF:-1 group-title="ESP ",POPULAR TV
+https://secure.todostreaming.es/live/ptvcantabria-livestream.m3u8
+
+#EXTINF:-1 group-title="ESP ",LEBRIJA TV
+https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4_1_1728/chunklist.m3u8
+
+#EXTINF:-1 group-title="ESP ",NORD TV
+http://51.83.46.198/hls/nord.m3u8
+
+#EXTINF:-1 group-title="ESP ",ONDAVALENCIA
+https://5b38ce71f1f00.streamlock.net/8276/8276/chunklist_w645812928.m3u8
+
+#EXTINF:-1 group-title="ESP ",DISTRITOTV
+https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
+
+#EXTINF:-1 group-title="ESP ",KIDS TV
+https://livelist01.yowi.tv/lista/2772ab10257fcbb71bc1eb00d0660c0bfddd4075/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="ESP ",RIBERA TV
+https://common01.todostreaming.es/live/ribera-livestream.m3u8
+
+#EXTINF:-1 group-title="ESP ",MAR TV
+http://k4.usastreams.com/martv/martv/chunklist_w755238189.m3u8
+
+#EXTINF:-1 group-title="ESP ",RTV mogan
+https://5b38ce71f1f00.streamlock.net/8162/8162/chunklist_w317708904.m3u8
+
+#EXTINF:-1 group-title="ESP ",PEQUERADIO TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1 group-title="ESP ",LOGOS
+https://streamer1.streamhost.org/salive/logosH/chunklist_w836037171.m3u8
+
+#EXTINF:-1 group-title="ESP ",LOGOS KIDS
+https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w19908178.m3u8
+
+#EXTINF:-1 group-title="ESP", 7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+
+#EXTINF:-1 group-title="ESP", 13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+
+#EXTINF:-1 group-title="ESP", Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+
+#EXTINF:-1 group-title="ESP", ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+#EXTINF:-1 group-title="ESP", La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+
+#EXTINF:-1 group-title="ESP", Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+
+#EXTINF:-1 group-title="ESP", Navarra TV*
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+
+#EXTINF:-1 group-title="ESP", TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+
+#EXTINF:-1 group-title="ESP", TV Mediterraneo
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 group-title="Entretenimiento", Multimedios Torreon
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 group-title="Entretenimiento", Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 group-title="Entretenimiento", Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", 13 MAX (Argentina)
+http://coninfo.net:1935/13maxhd/live_720p/.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", AlJazeera ENGLISH
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", Grupo Formula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", MTV Noruega
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", MiamiTV Internacional
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/.m3u8
+
+#EXTINF:-1 group-title="CHILE", Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
+
+#EXTINF:-1 group-title="Entretenimiento", TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento", UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",FOX SPORT RACING
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1 group-title="LAT ",FOX SPORT1
+http://45.58.62.92:8080
+
+#EXTINF:-1 group-title="LAT ",SPORTmax
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+
+#EXTINF:-1 group-title="LAT ",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 group-title="LAT ",alkass
+http://38.99.146.36:7777/AlDawriAlKassSport_HD.m3u8
+
+#EXTINF:-1 group-title="LAT ",BAHRAIN SPORTS
+http://38.99.146.36:7777/BahrainSport_HD.m3u8
+
+#EXTINF:-1 group-title="LAT ",Dubai Racing
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 group-title="LAT ",Dubai Sport HD2
+http://38.99.146.36:7777/DubaiSport2_HD.m3u8
+
+#EXTINF:-1 group-title="LAT ",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1 group-title="LAT ",Nile Sport
+http://38.99.146.36:7777/NileSport_HD.m3u8
+
+#EXTINF:-1 group-title="LAT ",Real Madrid TV [Espanol]
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+#EXTINF:-1 group-title="LAT ",Uni Sports
+http://unisportslive1-lh.akamaihd.net/i/boston_042114_1@39543/index_2000_av-b.m3u8
+
+#EXTINF:-1 group-title="LAT ",group-title="NEWS"CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="LAT ",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1 group-title="LAT ",CARTOON NETWORK 1
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1 group-title="LAT ",MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+
+#EXTINF:-1 group-title="LAT ",CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="LAT ",group-title="KNOWLEDGE"CGTN DOCUMENTARY
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1 group-title="LAT ",group-title="SPORT"ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1 group-title="LAT ",group-title="SPORT"FOX SPORT 3
+http://210.210.155.35/uq2663/h/h21/index1.m3u8
+
+#EXTINF:-1 group-title="LAT ",group-title="SPORT"ATGV 1 SPORT
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
+#EXTINF:-1 group-title="LAT ",group-title="SPORT"FISHING NETWORK
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+
+#EXTINF:-1 group-title="LAT ",group-title="SPORT"FLOW SPORT
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+
+#EXTINF:-1 group-title="LAT ",group-title="SPORT"KUWAIT ONE
+http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
+
+#EXTINF:-1 group-title="LAT ",group-title="SPORT"REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="LAT ",group-title="SPORT"REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="LAT ",group-title="SPORT"BTN SPORTS
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+
+#EXTINF:0,BEIN SPORTS 2
+https://sportbar.biz/lba/MmJkNGQzN2E2YjQ1YmIyOWJiYTRjMWJkYTk1N2VmYWQ=/g3/turbein2sport.m3u8
+
+#EXTINF:-1 group-title="LAT ",Tivibu Spor
+http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-0,BEIN MOVIESACTION HD
+http://vision-tv.nl:8080/beINMOVIESACTIONHD/index.m3u8
+
+#EXTINF:-0,MOVIESMART GOLD HD
+http://vision-tv.nl:8080/MOVIESMARTGOLDHD/index.m3u8
+
+#EXTINF:-0,MOVIESMART ACTION HD
+http://vision-tv.nl:8080/MOVIESMARTACTIONHD/index.m3u8
+
+#EXTINF:-0,MOVIESMART PREMIUM HD
+http://vision-tv.nl:8080/MOVIESMARTPREMIUMHD/index.m3u8
+
+#EXTINF:-0,MOVIESMART PREMIUM 2HD
+http://vision-tv.nl:8080/MOVIESMARTPREMIUM2HD/index.m3u8
+
+#EXTINF:-0,MOVIESMART FEST HD
+http://vision-tv.nl:8080/MOVIESMARTFESTHD/index.m3u8
+
+#EXTINF:-0,MOVIESMART CLASSIC HD
+http://vision-tv.nl:8080/MOVIESMARTCLASSICHD/index.m3u8
+
+#EXTINF:-0,MOVIESMART TURK HD
+http://vision-tv.nl:8080/MOVIESMARTTURKHD/index.m3u8
+
+#EXTINF:-0,BEIN MOVIESACTION 2HD
+http://vision-tv.nl:8080/beINMOVIESACTION2HD/index.m3u8
+
+#EXTINF:0,BEIN MOVIESPREMiERE 2HD
+http://vision-tv.nl:8080/beINMOVIESPREMIERE2HD/index.m3u8
+
+#EXTINF:-1 group-title="Cine", Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="Cine", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1 group-title="LAT ",ACS 
+https://stmv1.questreaming.com/acstv/acstv/playlist.m3u8
+#EXTINF:-1 group-title = "Cine",Amc
+http://disfruta.net:80/usar/hW2bmskG0A/75
+#EXTINF:-1 group-title = "Cine",Axn
+http://disfruta.net:80/usar/hW2bmskG0A/152
+#EXTINF:-1 group-title = "Cine",Axn
+http://186.103.228.50:8000/play/a03e
+#EXTINF:-1 group-title = "Cine",Axn
+http://200.73.59.84:8000/play/a03e
+#EXTINF:-1 group-title = "Cine",Cinecanal
+http://186.103.228.50:8000/play/a01k
+#EXTINF:-1 group-title = "Cine",Cinecanal
+http://200.73.59.84:8000/play/a01k
+#EXTINF:-1 group-title = "Cine",Cinemax
+http://186.103.228.50:8000/play/a03c
+#EXTINF:-1 group-title = "Cine",Cinemax 
+http://200.73.59.84:8000/play/a03c
+#EXTINF:-1 group-title = "Cine",Claro Cinema
+http://186.103.228.50:8000/play/a03n
+#EXTINF:-1 group-title = "Cine",Claro Cinema
+http://200.73.59.84:8000/play/a03n
+#EXTINF:-1 group-title = "Cine",Fox LAT
+http://186.103.228.50:8000/play/a01m
+#EXTINF:-1 group-title = "Cine",Fox LAT 
+http://200.73.59.84:8000/play/a01m
+#EXTINF:-1 group-title = "Cine",Fox Action
+http://186.103.228.50:8000/play/a017
+#EXTINF:-1 group-title = "Cine",Fox Action
+http://200.73.59.84:8000/play/a017
+#EXTINF:-1 group-title = "Cine",Fox Life
+http://186.103.228.50:8000/play/a01q
+#EXTINF:-1 group-title = "Cine",Fox Life
+http://200.73.59.84:8000/play/a01q
+#EXTINF:-1 group-title = "Cine",Fox Series
+http://186.103.228.50:8000/play/a016
+#EXTINF:-1 group-title = "Cine",Fox Series
+http://200.73.59.84:8000/play/a016
+#EXTINF:-1 group-title = "Cine",Fx LAT
+http://186.103.228.50:8000/play/a03g
+#EXTINF:-1 group-title = "Cine",Fx LAT
+http://200.73.59.84:8000/play/a03g
+#EXTINF:-1 group-title = "Cine",Fxm
+http://186.103.228.50:8000/play/a012
+#EXTINF:-1 group-title = "Cine",Fxm
+http://200.73.59.84:8000/play/a012
+#EXTINF:-1 group-title = "Cine",Hbo LAT
+http://186.103.228.50:8000/play/a03b
+#EXTINF:-1 group-title = "Cine",Hbo LAT
+http://200.73.59.84:8000/play/a03b
+#EXTINF:-1 group-title = "Cine",Hbo 2
+http://186.103.228.50:8000/play/a018
+#EXTINF:-1 group-title = "Cine",Hbo 2
+http://200.73.59.84:8000/play/a018
+#EXTINF:-1 group-title = "Cine",Hbo Plus
+http://186.103.228.50:8000/play/a019
+#EXTINF:-1 group-title = "Cine",Hbo Plus
+http://200.73.59.84:8000/play/a019
+#EXTINF:-1 group-title = "Cine",I Sat
+http://186.103.228.50:8000/play/a01n
+#EXTINF:-1 group-title = "Cine",I Sat
+http://200.73.59.84:8000/play/a01n
+#EXTINF:-1 group-title = "Cine",Space
+http://186.103.228.50:8000/play/a03f
+#EXTINF:-1 group-title = "Cine",Space
+http://200.73.59.84:8000/play/a03f
+#EXTINF:-1 group-title = "Cine",Tbs
+http://186.103.228.50:8000/play/a026
+#EXTINF:-1 group-title = "Cine",Tbs
+http://200.73.59.84:8000/play/a026
+#EXTINF:-1 group-title = "Cine",Tcm
+http://186.103.228.50:8000/play/a01s
+#EXTINF:-1 group-title = "Cine",Tcm
+http://200.73.59.84:8000/play/a01s
+#EXTINF:-1 group-title = "Cine",Tnt LAT
+http://186.103.228.50:8000/play/a01v
+#EXTINF:-1 group-title = "Cine",Tnt LAT
+http://200.73.59.84:8000/play/a01v
+#EXTINF:-1 group-title="Musica", TMTV
+http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
+
+#EXTINF:-1 group-title="Musica", TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 group-title="Musica", Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+
+#EXTINF:-1 group-title="Musica", California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+
+#EXTINF:-1 group-title="Musica", Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
+
+#EXTINF:-1 group-title="Cultura", DW Entretenimiento
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="Noticias", Milenio
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 group-title="Internacional", ABC News
+http://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1 group-title="Internacional", CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 group-title="Internacional", DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1 group-title="Internacional", WGN 9
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+#EXTINF:-1 group-title="Internacional", TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+
+#EXTINF:-1 group-title="Internacional", TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 group-title="Internacional", NHK World
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+
+#EXTINF:-1 group-title="Internacional", Digi 24 (Rumania)
+http://82.76.40.76/digi24edge/digi24.smil/.m3u8
+
+#EXTINF:-1 group-title="Internacional", Wather Nation (USA)
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/.m3u8
+
+#EXTINF:-1 group-title="Internacional", Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 group-title="CHILE", FM Hot | HD
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", Azteca 7
+http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", Azteca 1
+http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?NACIONALES.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", VTV 2
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+
+#EXTINF:-1 group-title="NACIONALES", FM Hot
+http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
+
+#EXTINF:-1 group-title="Musica", Latinos UP
+https://5b38ce71f1f00.streamlock.net/8080/8080/.m3u8
+
+#EXTINF:-1 group-title="Musica", RetroTV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE-Y-SERIES", Cinecanal
+http://tvporinternet.eshost.com.ar/m3u/cinecanal.m3u8
+
+#EXTINF:-1 group-title="HD-LATINOS", A&E Mundo HD.
+http://tvporinternet.eshost.com.ar/m3u/a&e.m3u8
+
+#EXTINF:-1 group-title="CINE-Y-SERIES", AMC
+http://tvporinternet.eshost.com.ar/m3u/amc.m3u8
+
+#EXTINF:-1 group-title="CINE-Y-SERIES", AXN
+http://tvporinternet.eshost.com.ar/m3u/axn.m3u8
+
+#EXTINF:-1 group-title="SPAIN", ES: DISNEY CHANNEL
+http://tvporinternet.eshost.com.ar/m3u/disneychannel.m3u8
+
+#EXTINF:-1 group-title="SPAIN", ES: DISNEY JUNIOR
+http://tvporinternet.eshost.com.ar/m3u/disneyxd.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPAIN", ES: FOX
+http://tvporinternet.eshost.com.ar/m3u/fox.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", Fox Sports Argentina HD
+http://tvporinternet.eshost.com.ar/m3u/foxsports.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 2 Argentina HD
+http://tvporinternet.eshost.com.ar/m3u/foxsports2.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 3 Argentina HD
+http://tvporinternet.eshost.com.ar/m3u/foxsports3.m3u8
+
+#EXTINF:-1 group-title="XXX Adultos", Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:-1 group-title="XXX Adultos", Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="XXX Adultos", BRAZZERS 1
+http://static.brazzers.com/scenes/7119/180sec.flv
+
+#EXTINF:-1 group-title="XXX Adultos", BRAZZERS 2
+http://static.brazzers.com/scenes/5457/180sec.flv
+
+#EXTINF:-1 group-title="XXX Adultos", BRAZZERS 3
+http://static.brazzers.com/scenes/3327/180sec.flv
+
+#EXTINF:-1 group-title="XXX Adultos", BRAZZERS 4
+http://static.brazzers.com/scenes/3328/180sec.flv
+
+#EXTINF:-1 group-title="XXX Adultos", BRAZZERS 5
+http://static.brazzers.com/scenes/3330/180sec.flv
+
+#EXTINF:-1 group-title="XXX Adultos", BRAZZERS 6
+http://static.brazzers.com/scenes/3340/180sec.flv
+
+#EXTINF:-1 group-title="XXX Adultos", BRAZZERS 7
+http://static.brazzers.com/scenes/3342/180sec.flv
+
+#EXTINF:-1 group-title="XXX Adultos", BRAZZERS 8
+http://static.brazzers.com/scenes/3344/180sec.flv
+
+#EXTINF:-1 group-title="XXX Adultos", BRAZZERS 9
+http://static.brazzers.com/scenes/3345/180sec.flv
+
+#EXTINF:-1 group-title="XXX Adultos", XXX-Babes 19
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+
+#EXTINF:-1 group-title="LAT", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-1 group-title="PERU", Antares TV | SD
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 group-title="PERU", TV Peru | HD
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 group-title="PERU", TV Peru (Alt) | SD
+http://cdnh4.iblups.com/hls/irtp.m3u8
+
+#EXTINF:-1 group-title="PERU", Ovacion | SD
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1 group-title="PERU", Central TV | SD
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 group-title="PERU", Turbo Mix Radio TV | SD
+http://167.114.116.212:1935/tvmb/turbomix/master.m3u8
+
+#EXTINF:-1 group-title="LAT", CANAL 8
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="MEXICO", Multimedios Monterrey | HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 group-title="MEXICO", Multimedios Laguna | HD
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 group-title="MEXICO", Ultra TV Puebla | HD
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Folk TV US
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="LAT ",Folx TV DE
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+
+#EXTINF:-1 group-title="LAT ",Musik Fernsehen DE
+http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="LAT ",Musik Fernsehen DE
+http://tv.artcom-venture.de:1322/dmf/tv.m3u8
+
+#EXTINF:-1 group-title="World ", Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+
+#EXTINF:-1 group-title="World ", Lifedesign
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8
+
+#EXTINF:-1 group-title="World ", World Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 group-title="World ",HISTORY LAB
+https://5929b138b139d.streamlock.net/HistoryLab/livestream/chunklist_w296351103.m3u8
+
+#EXTINF:-1 group-title="World ",WDR HD
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="World ",KURIAKOS TV
+http://195.22.11.11:1935/ktv/ktv1/chunklist_w185224988.m3u8
+
+#EXTINF:-1 group-title="World ",KU CINE
+http://c2.manasat.com:1935/kcine/kcine3/chunklist_w1037214982.m3u8
+
+#EXTINF:-1 group-title="World ",KU KIDS
+http://c2.manasat.com:1935/kkids/kkids2/chunklist_w1105271355.m3u8
+
+#EXTINF:-1 group-title="World ",KU MUSIC
+http://c2.manasat.com:1935/kmusic/kmusic3/chunklist_w522756723.m3u8
+
+#EXTINF:-1 group-title="World ",KU TV MANA
+http://csvl04.manasat.com:1935/tvmana/tvmana3/chunklist_w1780505296.m3u8
+
+#EXTINF:-1 group-title="World ", Travel HD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+
+#EXTINF:-1 group-title="World ", London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+
+#EXTINF:-1 group-title="World ",24 TV CULTURALES
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w450881441_b964000_sles.m3u8
+
+#EXTINF:-1 group-title="World ", Universal Channel
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+
+#EXTINF:-1 group-title="World ", Fox Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 group-title="World ", Fox Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:-1 group-title="World ", Fox Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+
+#EXTINF:-1 group-title="World ", HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+
+#EXTINF:-1 group-title="World ", Max Prime
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+
+#EXTINF:-1 group-title="World ", DirecTv Cinema
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
+#EXTINF:-1 group-title="World ", CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 group-title="World ", AMC
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="World ", Celestial Movies
+http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1 group-title="World ", Cinema World
+http://210.210.155.35/uq2663/h/h04/01.m3u8
+
+#EXTINF:-1 group-title="World ", Cinema World
+http://210.210.155.35/session/4c0d1c4a-3034-11e9-94bb-b59a8d9f4b5a/uq2663/h/h04/index2.m3u8
+
+#EXTINF:-1 group-title="World ", First Movies
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+
+#EXTINF:-1 group-title="World ", GOSPEL MOVIES
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 group-title="World ", HITS
+http://45.126.83.51/session/b13eb8e6-3032-11e9-9e89-bcf9892f75ee/uq2663/h/h37/01.m3u8
+
+#EXTINF:-1 group-title="World ", MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="World ",KIX
+http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
+
+#EXTINF:-1 group-title="World ",Ray Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1 group-title="World ",  Pop
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+
+#EXTINF:-1 group-title="World ", Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+
+#EXTINF:-1 group-title="World ", Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+
+#EXTINF:-1 group-title="World ",THRILL
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 group-title="World ", WOWOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="World ",24/7 Hollywood Movies 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="World ",24/7 Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+
+#EXTINF:-1 group-title="World ", DeporTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="World ", Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="World ", Bolivia Deportes
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="World ", GOLF CHANNEL
+http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
+
+#EXTINF:-1 group-title="World ", Stadium Sports Network
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+
+#EXTINF:-1 group-title="World ", Fuego Tv
+http://184.173.181.2:1935/8020/8020/playlist.m3u8
+
+#EXTINF:-1 group-title="World ", MTV
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+
+#EXTINF:-1 group-title="World ", tdn tv
+http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
+
+#EXTINF:-1 group-title="World ", La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
+#EXTINF:-1 group-title="World ", Radio Sanborja (Peru)
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+
+#EXTINF:-1 group-title="World ",U TV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
+
+#EXTINF:-1 group-title="World ", Pequeradio
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1 group-title="World ", RT
+https://rt-esp.secure.footprint.net/1102.m3u8
+
+#EXTINF:-1 group-title="World ", Multimedios Mty
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 group-title="World ", Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8
+
+#EXTINF:-1 group-title="World ", Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 group-title="World ", Multimedios Costa Rica
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 group-title="World ", Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:-1 group-title="World ", Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1413546683.m3u8
+
+#EXTINF:-1 group-title="World ", Garagetv
+http://186.0.233.76:1935/Garage/garage.smil/.m3u8
+
+#EXTINF:-1 group-title="World ", Telemar Campeche
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+
+#EXTINF:-1 group-title="World ", Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w462891777.m3u8
+
+#EXTINF:-1 group-title="World ", TV HIDALGO
+http://189.204.60.62/hls-live/livepkgr/_definst_/liveevent/mylivestream3.m3u8
+
+#EXTINF:-1 group-title="World ", TMTV
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
+
+#EXTINF:-1 group-title="World ", Canal 4.1
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/chunklist_w481386766_b13128000_sleng.m3u8
+
+#EXTINF:-1 group-title="World ", Canal 4.2
+https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/chunklist_w1657506489_b13128000_sleng.m3u8
+
+#EXTINF:-1 group-title="World ", Canal 6 (Michoacan)
+http://streamingcws20.com:1935/canal6mich/videocanal6mich/chunklist_w848387750.m3u8
+
+#EXTINF:-1 group-title="World ", Ultra TV Aguascalientes
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+
+#EXTINF:-1 group-title="World ", TEN Honduras
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+
+#EXTINF:-1 group-title="World ", 5 El Lider
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+
+#EXTINF:-1 group-title="World ", TSi
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+
+#EXTINF:-1 group-title="World ", TV MART? (Cuba)
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="World ", Acento Tv
+http://acentotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 group-title="World ", BOREAL Television
+https://5b38ce71f1f00.streamlock.net/8180/8180/playlist.m3u8
+
+#EXTINF:-1 group-title="World ", Luna Tv
+http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w1219551061.m3u8
+
+#EXTINF:-1 group-title="World ", HMTV 33
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="World ", MICROvision 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
+#EXTINF:-1 group-title="World ", READY TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+
+#EXTINF:-1 group-title="World ", Telecanal 28
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="World ", TV PLATA
+http://ss6.domint.net:2104/tvp_str/tvplata/chunklist_w780794720.m3u8
+
+#EXTINF:-1 group-title="World ", ROMANA TV
+http://tv.romanatv42.com/hls/live.m3u8
+
+#EXTINF:-1 group-title="World ", VALLEVISION
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+
+#EXTINF:-1 group-title="World ", Canal Claro
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 group-title="World ", TVEPACO VENEZUELA
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2073389661.m3u8
+
+#EXTINF:-1 group-title="World ", Canal M
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
+
+#EXTINF:-1 group-title="World ",DW Amerika
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
+
+#EXTINF:-1 group-title="World ", France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 group-title="World ", TeleSUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="World ", Weather Nation Tv
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 group-title="World ", Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://1.bp.blogspot.com/-qgZFTaRwMSs/XdilRy9zFxI/AAAAAAAApE4/SXffDHKIy7UsNfH2f53fgDUWpEb0a7OfwCK4BGAYYCw/s200/giezi-manuel.png" size="Medium", 18094913197 Giezi Manuel
+http://stream.zenolive.com/492ru4zwh4duv
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-xbm_Y9ihbLM/XZLZvVasegI/AAAAAAAAoMk/Rh5L_dQjKAYOe2N4pRN2AkQbxaansLtgACLcBGAsYHQ/s200/logoTeleantillas122x90.webp", Teleantillas Sto. Dgo. (RD)
+http://ss1.domint.net:2126/ta2_str/teleantillas/chunklist_w460875019.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-sNq8hlRQoDM/XKdEL6nT9tI/AAAAAAAAiXk/5iEAvzj834UBv0fS2dp6ZgyicarDNW9aQCK4BGAYYCw/s1600/misioneltvlogo.jpg", Misi?n ELTV  Hig?ey (RD)
+https://5790d294af2dc.streamlock.net:443/8286/8286/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-tlVvAwA8FZ8/Wrud3_Bxh1I/AAAAAAAAdDk/SkUrZawgOf0Psqio2Hps_08aD7O0uzJNACLcBGAs/s200/Color%2BVision.png", Color Visi?n Sto. Dgo. (RD)
+https://ss5.domint.net:3018/cvh_str/colorvisionhd/chunklist_w1556269922.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-tFyUxtYTHuk/Wsfs3m1Dv8I/AAAAAAAAdQY/iSDaMxjA57QTwGrRsqvaD9cQIL7uZDjfQCLcBGAs/s200/Telesistema.png", Telesistema Sto. Dgo. (RD)
+http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-OlrTJEjmmAI/Wr1YlnuxLOI/AAAAAAAAdIU/vTw_1pzwsTUbHwz_4zPiZwnbaeHDwiYAwCLcBGAs/s200/Zol%2B106.png", ZOL 106 Sto. Dgo. (RD)
+https://ss3.domint.net:3108/zol_str/vzol/chunklist_w1436990381.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-_meL7KqO3IA/Wr0zrd9-kJI/AAAAAAAAdHI/NTLkovpii18Soqad4KVlpQXCgG_WuicqACLcBGAs/s200/Telebendicion.png", TeleBendicion Bonao (RD)
+http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://1.bp.blogspot.com/-DvbAup2Pot4/Xcq90GOp-TI/AAAAAAAApAk/SlSRtI8I7f0O4ptKGQ66NcrJ06lwo95gACLcBGAsYHQ/s200/tvluz.png", TV Luz Higuey (RD)
+https://5790d294af2dc.streamlock.net/8204/8204/chunklist_w2054377758.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-OyGda7x4ma0/WskGwhu7INI/AAAAAAAAdTg/m3iGx8lteugAxvbEtiFnQm7gqZoyLeAJQCLcBGAs/s200/Cinevision.jpg", Cinevision19 Sto. Dgo. (RD)
+http://cinevision01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-dxFegqrXFoY/XZtMMmjr0bI/AAAAAAAAoTo/Xq_4fLLVDFoWDp04syQ_1zLss5pRDwDKACLcBGAsYHQ/s200/Telever%2BCanal%2B12.png", Telever Canal 12 (RD)
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png", Canal 25 Santiago (RD)
+https://ss1.domint.net:3108/c25_str/canal25/chunklist_w2053655496.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-dNgkjv_lHvA/WrukdUgXxuI/AAAAAAAAdEc/lr2WVL7zy20Nl9G1XIXzwu9BlBJj4buhwCLcBGAs/s200/RNN%2B-%2BRed%2BNacional%2BNoticias.png", RNN Sto. Dgo. (RD)
+https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1813055510.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-kYzsHZyzs9E/XArq6i2CVcI/AAAAAAAAhH8/abuIEQ6uo10k6PaFtSGtmBXNs1dWJbmpACLcBGAs/s200/Faro%2BVision.png", Faro Visi?n MTS (RD)
+http://184.173.181.2:1935/8060/8060/chunklist_w41087696.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://teleuniversotv.com/wp-content/uploads/2018/11/logo_teleuniverso_400px.png", Teleuniverso Santiago (RD)
+https://ss5.domint.net:3006/tu_str/universo/chunklist_w777182816.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-IxLrIqz20sU/WsAcGiLZGdI/AAAAAAAAdO0/g5cLvjMQZSoe5zuDO7STLAik7K8QtWNwwCLcBGAs/s200/Carivisi%25C3%25B3n.png", Carivision Sto. Dgo. (RD)
+http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png", Microvision La Vega (RD)
+http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-N3U_0xKqcn8/Wr09H3EBXAI/AAAAAAAAdHk/u-HcbTtLGwAtgrHtUbKQeQiRdISSearcACLcBGAs/s200/La%2BVoz%2Bdel%2BTropico.jpg", La Voz del Tr?pico Sto. Dgo. (RD)
+http://ss8.domint.net:2084/vttv_str/tropicotv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg", HM  Salcedo (RD)
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png", PH Hig?ey (RD)
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-1e0viy-XtK8/XYugidQtXhI/AAAAAAAAoBI/yv7hogt4R3EIPJHQ5zs7WI5PRSMrGV2rACLcBGAsYHQ/s200/Cotubanama.jpg", CotubanamaTV Hig?ey  (RD)
+https://cdn.hostlagarto.com:4445/cotubanamatv/cotubanamatv.myStream/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://i.imgur.com/5bBhi3Q.png", Yuna Vision 10 (RD)
+http://ss1.domint.net:2300/yv_str/yuna/chunklist_w1312196465.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-la6MeSVFxmk/XAXXrfNoYjI/AAAAAAAAhFk/r92B43J8ijwtrfWJeBHGB_w6PV0qzPPPACLcBGAs/s200/FuegoTV.png", FuegoTV Santiago (RD)
+http://184.173.181.2:1935/8020/8020/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://i.imgur.com/FsJesCO.png", Telenovisa 43 Mao (RD)
+http://74.108.36.101:1935/telenovisa43/telenovisa43/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://www.teleradioamerica.com/wp-content/themes/tra2017/imagenes/logo.png", TRA Sto. Dgo. (RD)
+https://ss1.domint.net:3310/tra_str/canal45/chunklist_w718216467.m3u8
+
+#EXTINF:0 type="stream" channelId="3794" group="Rep. Dom." logo="https://3.bp.blogspot.com/-1P8ozDYekaw/XbBkLrf0Q4I/AAAAAAAAodQ/5qTLYC9km6YVHW8E1WoELvFneAUm1U7bwCPcBGAYYCw/s200/Teleunion%2B%25281%2529.png", Teleunion Santiago (RD)
+http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w2042982926.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://caribeteve.com/images/LOGO-WEB.png", Caribe Teve (RD)
+http://74.108.36.101:1935/caribeteve/caribeteve/chunklist_w443290067.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-jDnx_UBoAxc/XbYPP9ZeLUI/AAAAAAAAof0/T12fg7dCmhYfaQdAbCXV0a3z_jyrK257ACK4BGAYYCw/s1600/Ame47.jpg", Ame 47 Sto. Dgo. (RD)
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-V8ZyzsGFiOo/Wr0xO-i31hI/AAAAAAAAdG8/SrmsBscKPcI1KmcKvbhbVJA1gRXpw_vSwCLcBGAs/s200/Sabor%2Ba%2BMerengue.jpg", Sabor a merengue (RD)
+http://ss6.domint.net:2004/sam_str/sabor-video/chunklist_w533683600.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://mir-s3-cdn-cf.behance.net/projects/202/19839661.549005a5a2716.png", Comuni?n TV Sto. Dgo. (RD)
+http://50.30.37.36:1935/live/stream/chunklist_w769879495.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://www.las-terrenas-live.com/upload/logo-telenord.jpg", TeleNord 10 SFM (RD)
+http://newyorkstreamss2.ddns.net:28987/telenord10/telenord10/chunklist_w579731506.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://i.imgur.com/iE1xhA5.png", Telenord 12
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://cableondaoriental.com/images/logo_tv_new_md.png", Onda TV 10 (RD)
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://dominicanchannels.com/wp-content/uploads/2014/02/lunatv-1.jpg", LunaTV Santiago (RD)
+http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w719846308.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg", SuperTV55 Santiago (RD)
+http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://1.bp.blogspot.com/-8IeXyzjPufM/VsSv1khYTjI/AAAAAAAAOIk/geQgV_bLhCs/s1600/Somos%2BTV%2BCanal%2B56%2Bdesafinenet.jpg", Somos TV 56 SFM (RD)
+http://castv10.plugstreaming.com:1935/somos56/somos56/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://1.bp.blogspot.com/--7V0FgPaipY/XaS9XlQHK6I/AAAAAAAAoW0/4ju4nzlWvToWKovonBdAAQuQDOm2qJsPgCLcBGAsYHQ/s200/GH%2BTelevision.png", GH television Gaspar  Hern?ndez (RD)
+https://ss6.domint.net:3046/gh_str/tv10/chunklist_w1699232612.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://1.bp.blogspot.com/-5JBZ6ZO0ybk/XaS-xAYTF7I/AAAAAAAAoXA/u1OK-aVn_sQNM86uwWFBqLuk5Q-Uzo7hgCLcBGAsYHQ/s200/vegateve.jpg", Vega Teve La Vega (RD)
+https://ss6.domint.net:3012/tes_str/teleelsalvador/chunklist_w757952389.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://1.bp.blogspot.com/-33hgi3XzfLk/XaTZchnPFzI/AAAAAAAAoXM/_4Dev7Cb_II0S6JPEDyqOShzfmInR42vACLcBGAsYHQ/s200/tvplata.png", TV Plata (Puerto Plata RD)
+https://ss6.domint.net:3104/tvp_str/tvplata/chunklist_w1651029128.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-oNQ57yn5qq0/Wr0s-LMaxEI/AAAAAAAAdGI/qQqFdsmY51gUBISC1D478h78xSFMvup0QCLcBGAs/s200/Digital%2BVision%2B63.jpg", Digital Visi?n Sto. Dgo. (RD)
+http://ss1.domint.net:2106/dv6_str/digitalvision/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-yOUuOfjWcNU/XaTdbRAGB1I/AAAAAAAAoX0/glU0qnb_-5wEp4ARNvbc3EUkhLHXLHMWgCLcBGAsYHQ/s200/canaldelsol.png", Canal de Sol (RD)
+http://canaldelsol01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-D_lFigaBPtk/XaTgkYjjOrI/AAAAAAAAoYg/jhIBm5DHRmwfcY1MmXWmJ5MNkMNnWnVDwCLcBGAsYHQ/s200/EL%2BPuerto%2BTV.png", El Puerto TV (RD)
+https://5983a4e15f07f.streamlock.net:8443/puertotv/puertotv/chunklist_w1822137763.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://buenatv.com/wp-content/uploads/2019/06/Captura.png", Buena TV (RD)
+https://cdn.hostlagarto.com:4445/buenatv/buenatv.myStream/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://i.imgur.com/5NCuyez.png", Bonao TV Canal 12 (RD)
+http://ss1.domint.net:2226/btv_str/bonao/chunklist_w482371085.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png", Telemilenio (RD)
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/vegavision2019.jpg", VegaVision(RD)
+https://cdn.hostlagarto.com:4445/Vegavision18/vegavisoncanal18.myStream/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-WKLyQ7tVoAE/XbxlpEBBY-I/AAAAAAAAomI/sGnNfLJRNTEtG52F_Pj2M1NBihRMCjKagCLcBGAsYHQ/s200/Teletur%2B%2528RD%2529.png", Teletur (RD)
+https://cdn.hostlagarto.com:4445/teletur/teletur.myStream/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://hostlagarto.com/streaming/wp-content/uploads/2019/05/MORROTV-300x194.jpg", Morro Tv (RD)
+http://cm.hostlagarto.com:8081/morrotv/Morrotv.myStream/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-iEZHkniFo-c/XZrABaV7oJI/AAAAAAAAoTM/bbg2j4BvRmcwUtQsOR6RgfcmFtFqN97wACLcBGAsYHQ/s200/Television%2Bdel%2BEste.jpg", Televisi?n del Este (RD)
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://3.bp.blogspot.com/-Q7LN9U7TTzs/XcGNXQbWAfI/AAAAAAAAo6Q/5IpCdKY21XE-89ukBTV9IaZh8ZccZ5LKACK4BGAYYCw/s1600/SensacionTV.png", SensacionTV(RD)
+http://ss6.domint.net:1996//rtv_str/rvision/chunklist_w122420359.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-ZuCp5RmcFwA/XbcT2NFUdiI/AAAAAAAAohE/qfgI5E9bQAwHeTIj7b-16ZQb4Qsw_PddgCLcBGAsYHQ/s200/MegaVision%2B%2528RD%2529.jpg", Mega Vision 88(RD)
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1383240275.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-pX_ttpSeQKY/XAsm-JV6RqI/AAAAAAAAhKA/7sREln9bxD0cav6LCKDGr0XOvniBfCvVQCLcBGAs/s200/MaimonTVDigital.jpg", Maimon TV(RD)
+http://ss8.domint.net:8112/mtd_str/miamontv/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom.", San Isidro TV (RD)
+https://cdn.hostlagarto.com:4445/sanisidrotv/sanisidrotv.myStream/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://tumusicahd.com/wp-content/uploads/2019/06/LOGOWEB-300x239.png", TuMusicaHD (RD)
+https://59f1cbe63db89.streamlock.net:1443/tumusicahd/_definst_/tumusicahd/chunklist_w953826473.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-Je1auqFeJGY/XZtJ74JsVCI/AAAAAAAAoTc/bq0XHVgMKEw9wenihwDmaJn7Vs3GzggpgCLcBGAsYHQ/s1600/punaltv.png", Pu?al TV (RD)
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-LhwExEzTwdA/XbyVy_B4yMI/AAAAAAAAomg/uVHe-pJhc4sF5-aRULuAM_Tghb04V1KyACLcBGAsYHQ/s200/RocaVision%2B%2528RD%2529.png", Roca Visi?n (RD)
+http://cm.hostlagarto.com:8081/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-mTp8d0ulnoI/XArokzXHIII/AAAAAAAAhHo/X75E-zC2U9UOpOrUUsKQGYPNYwV3orWvgCLcBGAs/s1600/Musavision.jpg", Musa Visi?n 96(RD)
+https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="2422" group="Rep. Dom." logo="https://2.bp.blogspot.com/-MgFDf8g1D5o/XbyaryCHJmI/AAAAAAAAoms/bwC5XaZ9oZ8M7Gjgm_s657LY9T5MVRlMwCLcBGAsYHQ/s200/tvs%252C%2Bcanal22%252C%2Belcanaldetodos.jpg", TVS (RD)
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://sitv.com.do/imgs/sitv.png", SiTV (RD)
+http://190.122.104.221/Player/sitv.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-2X0eRO50hsY/XbykxkQ1RDI/AAAAAAAAom4/vZpAunUU4ggZAmzrL-81BSMl0xWdgA1SQCLcBGAsYHQ/s200/tc28.png", Telecanal 28 (RD)
+https://cm.hostlagarto.com:4445/Telecanal-28/telecanal.myStream/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://z101digital.com/wp-content/themes/z-101-digital/imgs/podcasts/audios-destacados.jpg", ZTV Sto. Dgo. (RD)
+https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-7IMCZGoTSFM/XbymaiOOjxI/AAAAAAAAonE/HftEKECv_yU01ejpT91WRM6BnUatbAHbACLcBGAsYHQ/s200/BajoTecho%252C%2Bcanal26.png", Bajo Techo (RD)
+https://cdn.hostlagarto.com:4445/bajotechotv/bajotechotv.myStream/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-CIIL9YFIXIo/Xb4iX-kPD2I/AAAAAAAAooM/tQnM-j_g_cUzjj9yBr8BdZpgr0dCiOcVwCLcBGAsYHQ/s200/GDM%2BEstudioTV.png", GDM Estudio TV (RD)
+https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://2.bp.blogspot.com/-iJHmX7auF-c/XArdMh8rORI/AAAAAAAAhGs/q9iCbPVOEnISDn8aVb2c_V-HACM7yhEQwCLcBGAs/s200/CTN.png", CTN (RD)
+https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w1020470609.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://www.cascaratv.com/wp-content/uploads/2019/07/cropped-LOGO-CASCARA-PNG-baner.png", CascaraTV (RD)
+https://cdn.hostlagarto.com:4445/cascaratv/cascaratv.myStream/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tigres_Del_Licey_logo.svg/1200px-Tigres_Del_Licey_logo.svg.png", LiceyTV
+https://ss6.domint.net:2936/ly_str/licey/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-7GZMQfodBOQ/XcOYkLbSoNI/AAAAAAAAo98/E5O3UITgOtcu2K3ur-VBbnJANI4O6LRCgCLcBGAsYHQ/s200/TV%2BCotui.png", TV Cotui (RD)
+http://74.108.36.101:1935/tvcotui/tvcotui/chunklist_w2066250848.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="https://4.bp.blogspot.com/-gKp4IVyQrfQ/XFJkS5JGHlI/AAAAAAAAiEU/cVyqTcJljikNakrR8Wc5TsKgnq8XgGK8gCLcBGAs/s200/Punta-Cana-TV-Logo.png", Punta Cana TV La Altagracia (RD)
+https://59f1cbe63db89.streamlock.net:1443/domart/_definst_/domart/chunklist_w2129670608.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Rep. Dom." logo="http://2.bp.blogspot.com/-Q0m4KDQEH5U/W-Hn_Kd2GlI/AAAAAAAA0ts/u8nxCzAM-SoxGG54P5au_yT-aRMH-sObACK4BGAYYCw/s1600/Sin%2Bti%25CC%2581tulo-1.png", Xtremo Channel
+http://ss1.domint.net:2120/xtr_str/xtremo/chunklist_w1106627689.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png", LVM La Vega (RD)
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w1124872790.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="HD-LATINOS" logo="https://sc.dish.com/shared/images/station-logos/ngmdo.png", NatGeo Mundo
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="HD-LATINOS" logo="https://www.newslinereport.com/online/nota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg", DW Latino
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0 type="stream" channelId="-1" group="HD-LATINOS" logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_mundo_Logo.jpg/220px-Zee_mundo_Logo.jpg", Zee mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Logo_Canal_iPe.png/200px-Logo_Canal_iPe.png", IPe (Infantil)
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Infantil", La Banda Canal Sur (Infantil)
+https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/chunklist_w2122019364.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Kids" logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d6/519px-smile_of_a_child_svg1.png", Smile of a Child  (Infantil)
+https://bozztv.com/36bay2/gin/giniko_smilechild_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://mir-s3-cdn-cf.behance.net/projects/202/19839661.549005a5a2716.png", Comuni?n TV (RD)
+http://50.30.37.36:1935/live/stream/chunklist_w1755544715.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://images-na.ssl-images-amazon.com/images/I/716-HOOFC4L.png", ReformaTV (Venezuela)
+http://livestreamcdn.net:1935/ReformaTV/smil:ReformaTV.smil/chunklist_w1662381270_b1300000_slen.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://televida.org.do/wp-content/uploads/2018/02/LOGOS_TELEVIDA_Movil-01.png", TEVE VIDA (RD)
+http://205.164.56.130:1935/francescojavier522/francescojavier522/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://i2.wp.com/alfamedianetwork.com/wp-content/uploads/2018/08/genesistelevisionlogo.png", Genesis TV
+http://201.144.184.98:1935/genesis/smil:television.smil/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="http://static1.squarespace.com/static/5553563ae4b08689b8eeaf65/t/55535926e4b054270906d87c/1554924092511/?format=1500w", Aliento Vision (PR)
+http://livestreamcdn.net:1935/AlientoSD/AlientoSD/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://1.bp.blogspot.com/-OOPAH-P_l1o/XZvF9v1wgeI/AAAAAAAAoT0/zQ3cpug4kbQANkFPQPHew6b936j1KAaeQCLcBGAsYHQ/s1600/JosueTV.jpg", JOSUE TV
+http://va1.ministeriotv.com:1936/264/stream/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://i2.wp.com/alfamedianetwork.com/wp-content/uploads/2018/08/genesistelevisionlogo.png?w=1080", Hosanna Vision
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://4.bp.blogspot.com/-hkHuuQwF8Cs/WoHsOm5RLOI/AAAAAAAAcGI/QGRjaD2-pN8fVkbFncV9yc2tpO8dUNHOACLcBGAs/s200/CBNespanol.png", CBN ESPA?OL
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion", RTV
+https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d8/ABN_Colombia_2001.png/revision/latest/scale-to-width-down/388?cb=20170730015021", ABN (Colombia)
+https://s3.abntelevision.com/avivamiento/avivamiento/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion", Telefamilia (Colombia)
+https://595b85410a151.streamlock.net/8172/8172/chunklist_w1348628418.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://uncion24.com/wp-content/uploads/2018/09/NEW-LOGO-UNCION24-1.png", Uncion 24
+http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion", SobrenaturalTV
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w1350668781.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion", Luz TV (Peru)
+http://serverstreamgroup.biz:1935/luztvperu/luztvperu/chunklist_w2143429661.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion", Vida (Venezuela)
+https://1-fss-fso36.streamhoster.com/lv_rod_tvf3/_definst_/smil:broadcast17.smil/chunklist_b1700000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion", ElimTV (San Salvador)
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_150_av-p.m3u8?sd=6&rebase=on
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion", Ebenezer TV (Honduras)
+http://p1.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/chunklist_w1424115902_b1228800.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion", PresenciaTV
+https://5c51d3942f000.streamlock.net:90/presenciatv/presenciatv/chunklist_w537238174.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion" shift="2", Esperanza TV (2)
+https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/index_2096_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion", BendicionTV (RD)
+https://59825a54e4454.streamlock.net:8443/manuel284/manuel284/chunklist_w1471996692.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion", Unico TV
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w1324096426.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion", TV Elohim
+https://59825a54e4454.streamlock.net:8443/radhames706/radhames706/chunklist_w1588379807.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="http://vivacristotv.com/images/viva_cristo_logo_med.png", Viva Cristo TV
+http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="1491" group="Religion", EWTN (Espanol)
+https://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion", Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion", 3ABN Latino [SD]
+http://moiptvus-lh.akamaihd.net/i/moiptv2_1@304497/index_1200_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion", Red Advenir [SD]
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="3838" group="Religion", Alfa tv [SD]
+http://streamer1.streamhost.org:1935/salive/GMIalfah/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://i1.wp.com/unored.tv/wp-content/uploads/2019/02/ATV-LOGO-CON-APSON.png", AlcanceTV (Mexico)
+https://livestreamcdn.net:444/AlcanceTV/AlcanceTV/chunklist_w1324043347.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://i0.wp.com/unored.tv/wp-content/uploads/2019/06/Gracias-y-Poder-logo-2.jpg", BNGG
+https://5983a4e15f07f.streamlock.net:8443/pastordomingo46/pastordomingo46/chunklist_w1652451115.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://i0.wp.com/unored.tv/wp-content/uploads/2018/03/Extrema-TV-portal-Unored-1.png", XtremaTV
+https://www.livestreamcdn.net:444/ExtremaTV/_definst_/ExtremaTV/chunklist_w755934857.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://i3.wp.com/unored.tv/wp-content/uploads/2016/02/Cover-Wisdom-1RED-1-1.jpg", Wisdom Vision TV
+https://5983a4e15f07f.streamlock.net:8443/wisdomvisiontv/wisdomvisiontv/chunklist_w1740246103.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion", ?nico Televisi?n
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w1107046141.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion", Woro Canal 13 (Puerto Rico)
+https://5983a4e15f07f.streamlock.net:8443/worocanal13pr/worocanal13pr/chunklist_w1874302818.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion", CTNI (Puerto Rico)
+https://584097344c1f0.streamlock.net/48/48.smil/chunklist_w379990319_b1564000_sleng.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Puerto Rico" logo="https://i1.wp.com/unored.tv/wp-content/uploads/2016/03/Pura-Palabra-TV.jpg", Pura Palabra (Puerto Rico)
+https://59825a54e4454.streamlock.net:8443/william233/william233/chunklist_w2112770980.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Puerto Rico" logo="https://bloximages.newyork1.vip.townnews.com/notiuno.com/content/tncms/custom/image/1910fac6-b6a6-11e8-bedc-73fa7469f5d8.png", Noti Uno Puerto Rico
+https://59514edd5dd8e.streamlock.net/unoradio/unoradio1/chunklist_w782728706.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="M?xico", RCG TV1 (M?xico)
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="M?xico", RCG TV2 (M?xico)
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="M?xico", CANAL 15 FRESNILLO (M?xico)
+http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15fresnillo/livestream/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="M?xico", Canal 15 Zacatecas (M?xico)
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="M?xico", SQCS Chetumal (M?xico)
+http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="M?xico", NEX TV  (M?xico)
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="M?xico", IngenioTV (M?xico)
+https://srvstream01.televisioneducativa.gob.mx/hls/ingeniotv.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="M?xico", Capacita TV (M?xico)
+https://srvstream01.televisioneducativa.gob.mx/hls/capacitatv.m3u8
+
+#EXTINF:0 type="stream" channelId="1357" group="NICARAGUA", Canal 2 (Nicaragua)
+http://162.244.81.181:1935/live/Stream1/chunklist_w192269669.m3u8
+
+#EXTINF:0 type="stream" channelId="3366" group="NICARAGUA", Canal 8 (Nicaragua)
+https://59802217c6db4.streamlock.net/tn8/videotn8/chunklist_w1130265081.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="NICARAGUA" logo="http://www.canal12.com.ni/assets/logo_default_150px_150px-7b9663fca253e855caf7b21ceda1e689c9467bffdb3faf4aa81ab269a368bc7a.png", Canal 12 (Nicaragua)
+https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w1693615713.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="COSTA RICA", TV Sur 14 (Costa Rica)
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="COSTA RICA", BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC" logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artschannel.png" tvg-country="us", Classic Arts Showcase (Music)
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC" logo="http://www.giniko.com/logos/190x110/979.jpg", Bass Channel (6 Mbps) (Music)
+https://bozztv.com/36bay2/gin/giniko_bassriffs_3000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC", Guitar Relax (Music)
+https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC", Frecuencia Musical Tv (Music)
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="2285" group="MUSIC", m2o TV (Music)
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC", TOP Latino TV (Music)
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC", PORTAL FOXMIX (Music)
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="MUSIC", Telemax (Music)
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:0 type="stream" channelId="2819" group="Spain" logo="https://www.formulatv.com/images/noticias/46500/46553/2_bb2bd46121.jpg", Mega (Espa?a)
+https://cloudtv.provideo.es/live/marbellatv-livestream.m3u8
+
+#EXTINF:0 type="stream" channelId="1685" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/800px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png", FDF (Espa?a)
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8
+
+#EXTINF:0 type="stream" channelId="1683" group="Spain" logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png", Energy (Espa?a)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_2.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png", Energy HD (Espa?a)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/1200px-Divinity.svg.png", Divinity HD (Espa?a)
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:0 type="stream" channelId="4036" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png", Paramount Network (Espa?a)
+https://paramount-live.flumotion.com/live/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="4035" group="Spain" logo="https://i.imgur.com/3N90uxs.png", TRECE (Espa?a)
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://www.mundoplus.tv/img/b3bb95fe90711707f6e782a72d87a1e9", mtmad 24h HD (Espa?a)
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8
+
+#EXTINF:0 type="stream" channelId="1382" group="Spain" logo="https://i.imgur.com/8KHnBwx.png", Canal Parlamento (Espa?a)
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/NC3rEUq.png", Betis TV HD (Espa?a)
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/ngU6UBb.png", Canal Andalucia Turismo HD (Espa?a)
+https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/CIOQGyj.png", Canal Andalucia Flamenco (Espa?a)
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/CXHLhZD.png", 101TV Malaga ?(Espa?a)
+https://wowzaprod178-i.akamaihd.net/hls/live/677404/156dc2a6/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="http://www.lebrija.tv/wp-content/uploads/2016/06/logo-web-2.png", Lebrija TV (Espa?a)
+http://212.104.160.156:1935/live/lebrijatv2/playlist2.m3u8?wowzasessionid=1758058924.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/vpWSsZ7.png", Teleonuba (Espa?a)
+http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/1RVS7Wh.png", CanalCosta (Espa?a)
+http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/u0lyhFX.png", interalmer?a HD (Espa?a)
+http://interalmeria.tv/directo/live.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/MCaturZ.png", Canal M?laga (Espa?a)
+http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/AFT43kx.png", Cadena Elite (Espa?a)
+https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="http://directostv.teleame.com/wp-content/uploads/2018/02/television-municipal-de-cordoba-tvm-t.v.m-cordoba.png", Televisi?n Municipal de C?rdoba (Espa?a)
+http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://image.winudf.com/v2/image1/Y29tLmFwcC50dnJhZGlvYWx0ZXJuYXRpdmFfaWNvbl8xNTU0NTMxNjk4XzA0Nw/icon.png?w=170&fakeurl=1", Alternativa TV (Espa?a)
+https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/hmYDqGV.png", Huesca TV (Espa?a)
+https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Logo-tpa7.jpg", TPA7 (Espa?a)
+https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://www.mirametv.com/images/wSystem/logoWhite.png", M?rame TV (Espa?a)
+https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/hCZUn3g.png", Lancelot TV (Espa?a)
+http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/YM9pltb.png", Gigante TV (Espa?a)
+http://85.214.130.95:8080/live/stream.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/Rhmi0Y1.png", Televisi?n Mog?n (Espa?a)
+https://5b38ce71f1f00.streamlock.net/8162/8162/chunklist_w1059529458.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/w9LqkSW.png", Tenerife 2030 TV HD (Espa?a)
+http://livestream.iter.es:9876/tdt/tdt.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/gyGKUcL.png", Canal 4 Mancha Centro HD (Espa?a)
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/nGuGVTO.png", Telearanda (Espa?a)
+https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/khRXhT1.png", TV Girona (Espa?a)
+http://ventdelnord.tv:8080/girona/directe.m3u8
+
+#EXTINF:0 type="stream" channelId="1569" group="Spain" logo="https://i.imgur.com/sADbx7S.png", 25 TV (Espa?a)
+http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RtvCeuta.svg/1200px-RtvCeuta.svg.png", RTVCE HD (Espa?a)
+http://teledifusion.tv:1935/rtvcetv/mp4:rtvcetvlive/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="2531" group="Spain" logo="https://i.imgur.com/v5d0xMH.png", TVG (Espa?a)
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="4038" group="Spain" logo="https://i.imgur.com/v5d0xMH.png", TVG 2 (Espa?a)
+http://amodino-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/v5d0xMH.png", TVG Am?rica (Espa?a)
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/v5d0xMH.png", TVG Musigal HD (Espa?a)
+http://musigal-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/v5d0xMH.png", TVG Cultura HD (Espa?a)
+http://cultural-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/v5d0xMH.png", TVG Momentos G (Espa?a)
+http://momentog-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/v5d0xMH.png", TVG Evento 1 HD (Espa?a)
+http://events1-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/v5d0xMH.png", TVG Evento 2 HD (Espa?a)
+http://events2-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/v5d0xMH.png", TVG Evento 3 HD (Espa?a)
+http://events3-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OndaMadrid.svg/1280px-OndaMadrid.svg.png", Webcam OndaMadrid (Espa?a)
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OndaMadrid.svg/1280px-OndaMadrid.svg.png", Webcam OndaMadrid (Espa?a)
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="http://2.bp.blogspot.com/_4Y2bIc9pPwU/SOif93r4sXI/AAAAAAAAAb0/4HwF32lFEVs/S208/logo+canal+33+p.JPG", C33 Madrid HD (Espa?a)
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/tdx3odj.png", Distrito TV (Espa?a)
+https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religion" logo="https://i.vimeocdn.com/portrait/13039790_300x300", Logos TV (Espa?a)
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/hwlTrtF.png", Popular TV Melilla (Espa?a)
+https://5940924978228.streamlock.net/8009/8009/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/mrGvcPV.png", ETB 1 HD (Espa?a)
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/mrGvcPV.png", ETB 2 HD (Espa?a)
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/w83wr1S.png", Urola Telebista (Espa?a)
+https://5940924978228.streamlock.net/j_Directo1/smil:j_Directo1.smil/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/3DbgcjD.png", Erlo Telebista (Espa?a)
+https://5940924978228.streamlock.net/8159/8159/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/ya3k9wU.png", 28 Kanala HD (Espa?a)
+https://5940924978228.streamlock.net/8157/8157/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/2do66TO.png", GITB Goierri Irrati Telebista (Espa?a)
+https://5940924978228.streamlock.net/8155/8155/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/E9EqoiD.png", 7 TeleValencia (Espa?a)
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/mobile/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/HA2OJcN.png", telesafor (Espa?a)
+http://video.telesafor.com/hls/video.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon-150x150.png", TV Vega Baja (Espa?a)
+http://185.29.68.24/tvb.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://i.imgur.com/FYIM7SD.png", Canal 56 (Espa?a)
+https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8
+
+#EXTINF:0 type="stream" channelId="3720" name="A (Espa?a)" group="Spain", tv-A (Espa?a)
+http://5.39.65.105/hls/tvaxa.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="https://noticias.adventista.es/wp-content/uploads/sites/8/2014/05/Captura-de-pantalla-2014-05-28-a-las-14.22.231.png", TV4 La Vall (Espa?a)
+https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Spain" logo="http://diretele.com/wp-content/uploads/2018/09/alacanti-tv-en-directo.png", Alicant? TV (Espa?a)
+http://5.39.65.105/hls/alacantixa.m3u8
+
+#EXTINF:0 type="stream" channelId="2725" group="ARGENTINA" logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_13max_HD.png", 13 Max (Argentina)
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://i.imgur.com/fgrauI0.png", Canal 4 Posadas (Argentina)
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://i.imgur.com/OBLO4Ac.png", Canal 9 Salta (Argentina)
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Tv-rionegrina-lu92-tv-canal-10-logo.png", Canal 10 Rio Negro (Argentina)
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://i.imgur.com/TpRgjdj.png", Canal Provincial San Miguel (Argentina)
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="http://www.rtnweb.gob.ar/wp-content/uploads/2017/04/LOGO-RTN-Web.png", Radio TV Neuquen (Argentina)
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="ARGENTINA" logo="https://i.imgur.com/hWMFLTh.png", Music Top (Argentina)
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="HONDURAS" logo="http://live.campushd.tv/wp-content/uploads/2017/04/LOGO-CAMPUS.png", Campus TV (Honduras)
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="HONDURAS" logo="https://i.imgur.com/RrnQlQg.png", SiTV (Honduras)
+http://st2.worldkast.com/8030/8030/chunklist_w246409275.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="HONDURAS" logo="https://i.imgur.com/DvOtC0S.png", Suyapa TV (Honduras)
+http://173.236.71.62:1935/canal48/c48.sdp/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="HONDURAS" logo="https://i.imgur.com/FwcwAJ7.png", Teleceiba Canal 7 (Honduras)
+http://190.11.224.14:8134/liveevent.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="VENEZUELA" logo="https://i.imgur.com/iC7DA9n.png", Cadena Digital 100.7 FM Caracas (Venezuela)
+http://vcp1.myplaytv.com:1935/radiodigitalfm/radiodigitalfm/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="VENEZUELA" logo="https://i.imgur.com/mL3DGhc.png", Televisora de Oriente (Venezuela)
+http://vcp1.myplaytv.com:1935/tvo/tvo/chunklist_w545582271.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="VENEZUELA" logo="https://i.imgur.com/ylXec53.png", Vepaco TV (Venezuela)
+http://edge.wms28.lorini.net/tvepaco/tvepaco/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="BOLIVIA" logo="http://www.boliviatv.bo/principal/assets/images/the-voyager/btv1.png", Bolivia TV (Bolivia)
+http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w1102242933.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="BOLIVIA", Bolivia TV 7.1
+http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w1778950088.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="BOLIVIA", Bolivia TV 7.2
+http://btvboliviatv.srfms.com:6568/live/livestream/chunklist_w1606305192.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="BOLIVIA" logo="https://i.imgur.com/DCAtokY.png", ATB (Opt-1) (Bolivia)
+http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="BOLIVIA" logo="https://i.imgur.com/THFFd5u.png", PAT La Paz  (Bolivia)
+http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA", TeleCaribe (Colombia)
+https://59f1cbe63db89.streamlock.net:1443/tumusicahd/_definst_/tumusicahd/chunklist_w217066809.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA" logo="https://i.imgur.com/stQQgsQ.png", La Super TV (Colombia)
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA" logo="https://i.imgur.com/R2Xb44n.png", Telecaribe (Colombia)
+https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA" logo="https://i.imgur.com/93KWYKj.png", Teleenvigado (Colombia)
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="COLOMBIA" logo="https://i.imgur.com/PAVd3LS.png", Teleislas (Opt-1) (Colombia)
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/FQYDb15.png", BHTV (Opt-2) (Per?)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/FQYDb15.png", BHTV (Opt-3) (Per?)
+https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/ibCPO5D.png", CTC TV Cusco (Per?)
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/cvoNi6F.png", Cultura 24 (Opt-1) (Per?)
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/cvoNi6F.png", Cultura 24 (Opt-2) (Per?)
+http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/chunklist_w1999901240.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/VFCEPgF.png", Monterrico TV (Per?)
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="1956" group="PERU" logo="https://i.imgur.com/4NiVS6e.png", Panamericana TV (Per?)
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/tzckTA4.png", Top Latino TV (Per?)
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="http://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png", TV Cosmos (Per?)
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="PERU" logo="https://i.imgur.com/0THQOZn.png", TVPeru Noticias (Per?)
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="URUGUAY" logo="http://www.montevideo.com.uy/plantillas/temas17/canal-M-17/images/canalm@3.png", Canal M (Per?)
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CUBA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg/1200px-Logo_of_Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg.png", TV MART? (Cuba)
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="COSTA RICA" logo="https://i.imgur.com/lC0uliW.png", Anexion TV 36 (Costa Rica)
+http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="COSTA RICA" logo="https://i.imgur.com/juukQO4.png", Canal UCR (Costa Rica)
+http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="COSTA RICA" logo="https://i.imgur.com/Da5V8bP.png", Colosal TV (Costa Rica)
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="COSTA RICA" logo="https://i.imgur.com/1tKwiZM.png", Guapiles TV (Costa Rica)
+http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8
+
+#EXTINF:0 type="stream" channelId="2663" group="COSTA RICA" logo="https://i.imgur.com/Fp9ReNL.png", Telesur (Costa Rica)
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-McxFICDN8qI/XNoLBPqtDxI/AAAAAAAAodw/hVi_SG4nkwwFSSFjsWFJtItPFRNn8cy4gCK8BGAs/s0/2019-05-13.png", Mega Plus (Chile)
+http://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-JKWMHOkaYSs/XKqsVNLOSxI/AAAAAAAAn7U/s2wQnMDHd4w0Zoksd4eziWt3RwqJqGoKgCK8BGAs/s0/2019-04-07.png", EMOL TV
+https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="http://api.agamba.cl/tv/chile/img/nacionales/iconcdtv.png", C?mara de Diputados (Chile)
+http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="2567" group="CHILE" logo="https://www.foromedios.com/uploads/monthly_2016_10/large.5813af8d3c152_TVSenado(TVS).png.806198708aefc785b5a9cc7b6c84b65c.png", TV Senado
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-Yg6X4T5JVDU/WoBORinr3kI/AAAAAAAAgyU/PoCyGXScfC0DPGIMp1SjuLFrvs3gPamwwCK8BGAs/s132/2018-02-11.png", Futuro TV (Chile)
+http://unlimited10-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-mEW5hnh06kk/Wn9iDwBJ__I/AAAAAAAAgvs/bC-yY_Bj6tg4vkWwuxvb30Q4_rDt34TQwCK8BGAs/s225/2018-02-10.png", Estacion TV
+http://unlimited1-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="http://127.0.0.1/", Holvoet TV (Chile)
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="http://127.0.0.1/", Canal 2 Choapa (Chile)
+http://unlimited1-cl.dps.live/tv2choapa/tv2choapa.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-139lFbspmqQ/Wn9i-dwl09I/AAAAAAAAgv8/FNhrpJjzo-YoLJR0GqIvfm4dKEFoahxUACK8BGAs/s227/2018-02-10.png", Canal 2 de San Antonio (Chile)
+http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-zdameN8RkN4/Wn9k02_XleI/AAAAAAAAgwU/o7QWyXJUMuUIqbZ7vPAZ7eOHYmFLIBDNwCK8BGAs/s265/2018-02-10.png", Canal 21 Chill?n (Chile)
+http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="http://www.tv5.cl/wp-content/uploads/2018/08/TV5-LOGO-2018-FULLB.png", Canal 5 Linares (Chile)
+http://unlimited2-cl.dps.live/tv5/tv5.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://www.tvu.cl/_templates/desktop/includes/img/main-logo.png", TVU 2 (Chile)
+https://unlimited4-cl.dps.live/tvu2/tvu2.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="1076" group="CHILE" logo="https://lh3.googleusercontent.com/-snwIA-MbUYs/W15lFEEE7TI/AAAAAAAAkqA/75Rrun41uOMufo_zTiUBpJu4icQcjpSOwCK8BGAs/s317/2018-07-29.png", TV8 (Chile)
+https://593b04c4c5670.streamlock.net/8134/8134/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-NxeQx17jc7E/Wn9lvKl4XyI/AAAAAAAAgwk/yg9OmGL8ZdoUeruk7i0dYYzmhDa4xOB8gCK8BGAs/s225/2018-02-10.png", Gracia TV (Chile)
+http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-uSEbJ_o0QlY/Wn9mgCZRMnI/AAAAAAAAgww/FemZGM5N_GQI7T4IgYhq3zTDPbhl_tfpQCK8BGAs/s302/2018-02-10.png", ITV Patagonia (Chile)
+http://unlimited2-cl.dps.live/itv/itv.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-TmPM1gqdUS8/Wn9m_65JtNI/AAAAAAAAgw4/Kr6ucgq8g7wJsJ6oiIHaSrEA3R5A6I7ggCK8BGAs/s132/2018-02-10.png", PinguinoTV
+http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-p3LlUC__MhE/Wn9ntTT4umI/AAAAAAAAgxA/ahIA2oru5JgDmruisQROdYlLiVOr6-DygCK8BGAs/s230/2018-02-10.png", ThemaTV (Chile)
+https://unlimited5-cl.dps.live/thema/thema.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-tRkb11g6GOI/WoBPJm9cd4I/AAAAAAAAgyc/lrR7FPg27aoiQryOJXRQGuG8FLpKoXxBQCK8BGAs/s132/2018-02-11.png", Pintana TV (Chile)
+http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="3687" group="CHILE" logo="https://lh3.googleusercontent.com/-xyk2_KFlnyQ/WycRffTYWbI/AAAAAAAAj2I/H3wImrej3y8ryyTZOsLtkd8fVB12d5aKQCK8BGAs/s200/2018-06-17.png", TVR (Chile)
+https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="http://logo.vconline.cl/logotv.jpg", TV vconline.cl (Chile)
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="http://portalfoxmix.club/wp-content/uploads/2016/07/logoPFM.png", Portal FoxMix (Chile)
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="http://www.lyngsat-stream.com/logo/tv/tt/teleislas_co.png", Teleislas (Chile)
+https://5ab772334c39c.streamlock.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="CHILE", Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="ECUADOR" logo="AN0sVwt.png", UCSG | SD (Ecuador)
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="ECUADOR" logo="8YPXrcX.png", Hechos | SD (Ecuador)
+http://37.187.7.106/hechostv/live.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="HAITI" logo="https://i.imgur.com/uisopuM.png", Nago TV (HAITI)
+http://haititivi.com:8088/haititv/tele6NY/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="HAITI" logo="https://i.imgur.com/aUkeQtr.png", Opa TV (HAITI)
+http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_opatv/as/live/hln_opatv_3.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="HAITI" logo="https://i.imgur.com/ulZhFlt.png", Radio Tele Ginen (HAITI)
+http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_ginen/as/live/hln_ginen_4.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="HAITI" logo="https://i.imgur.com/ksaY4n9.png", Radio TeleBoston (USA) (HAITI)
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="HAITI" logo="https://i.imgur.com/73qugyJ.png", TNH (HAITI)
+http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_nhaiti/as/live/hln_nhaiti_1.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/86/4f/b0/864fb0ca-d090-b4da-ac15-f11cef17f538/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg", Euronews Opt 1 (English)
+http://45.126.83.51/qwr9ew/s/s15/index2.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png", CBN News (English)
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
+
+#EXTINF:0 type="stream" channelId="3205" group="News" logo="https://images-na.ssl-images-amazon.com/images/I/217-UaqAAcL._SY355_.png", CBS  (English)
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="English" logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png", Redbull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="English", Better Health
+http://uni5rtmp.tulix.tv/betterhealth/betterhealth/chunklist_w848830638.m3u8
+
+#EXTINF:0 type="stream" channelId="1201" group="English", H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+
+#EXTINF:0 type="stream" channelId="56" group="English", NatGeo
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+
+#EXTINF:0 type="stream" channelId="164" group="English", NatGeo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="English", TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="English", TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="3668" group="Sports", BFM Sport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Sports", EDGEsport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Sports", Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Sports", UFC NETWORK
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://www.exchange4media.com/news-photo/94729-dsportMain.jpg", DSport (English)
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Kids" logo="https://namu.wiki/w/%ED%8C%8C%EC%9D%BC:EBS_Kids.png", EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="2013" group="Religious" logo="https://files.rightwingwatch.org/uploads/CBN-logo2.png", CBN (English)
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religious" logo="http://www.sonlifetv.com/images/sbndomesticlogo.jpg", SBN
+http://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch53/ch53.m3u8
+
+#EXTINF:0 type="stream" channelId="3495" group="Religious" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/God-TV-Logo.svg/200px-God-TV-Logo.svg.png", GOD
+https://zypelive-lh.akamaihd.net/i/default_1@710958/index_720_av-p.m3u8?F38b1dF4=5c62c7772121531184000bb0&6pLKMQ3y=Sqi3Ng90&video_id=5beee6138c550014a2005e28&sd=10&dw=10800&rebase=on&hdntl=exp=1550063865~acl=%2f*%40710958%2f*~data=hdntl~hmac=67c07b0001ef3855f7fd25b90658e8ed154f72809df8b83feac9ed04e6eab88a
+
+#EXTINF:0 type="stream" channelId="-1" group="Religious", Better Life (English)
+http://uni5rtmp.tulix.tv/betterlife/betterlife/chunklist_w1585979567.m3u8
+
+#EXTINF:0 type="stream" channelId="2013" group="Religious" logo="https://files.rightwingwatch.org/uploads/CBN-logo2.png", CBN (English)
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_2000_av-b.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religious" logo="https://image.roku.com/channels/images/8e24969bfce84aa68bcc6dae2d1bb14d-hd.jpg", InspirationTV (English)
+https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/index_2_av-p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religious" logo="http://www.daystar.com/wp-content/uploads/programmers/Daystar-Programmer-Graphic-Sid-Roth.jpg", Its SupernaturalTV (English)
+http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/index_1728_av-p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religious" logo="https://myersinfosys.com/wp-content/uploads/2015/07/NRB_Logo.png", NRB Network (English)
+http://uni6rtmp.tulix.tv:1935/nrbnetwork/myStream.sdp/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religious" logo="https://revelationtv.com/assets/images/logo-trans-r.png", Revelation TV (English)
+http://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religious" logo="http://photos.prnewswire.com/prnfull/20160729/394313LOGO", TCT (English)
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/TCTHLS_Live_192.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Kids" logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png", TCT Kids (English)
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_250.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religious" logo="http://channels.roku.com/images/afc630bf55fe475cb7571ae4e0633f88-hd.jpg", Watchmen Broadcasting
+http://fss28.streamhoster.com/lv_rod_tvf1/_definst_/smil:lv_rod_tvf1-wbpi.smil/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religious", Hope Channel
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 type="stream" channelId="-1" group="Religious", Christian Television Network
+https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w808319251_b1764000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religious", 3ABN [SD]
+http://moiptvus-lh.akamaihd.net/i/moiptv1_1@303632/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religious", 3ABN International [SD]
+http://moiptvus-lh.akamaihd.net/i/moiptv8_1@310133/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Religious", 3ABN Proclaim [SD]
+http://moiptvus-lh.akamaihd.net/i/moiptv3_1@304498/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Kids", 3ABN Kids
+http://moiptvus-lh.akamaihd.net/i/moiptv5_1@304500/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW NEWS (English)
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://yt3.ggpht.com/a/AGF-l7-ROxk4wco8xCKXtbSltQpYTsAvqNkrkQv1nA=s900-c-k-c0xffffffff-no-rj-mo", Bloomberg (English)
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://cdn.imgbin.com/22/5/20/imgbin-equatorial-guinea-tvge-asonga-tv-radio-nacional-de-guinea-ecuatorial-television-international-0KafVfvTHQLf2injDLijFUTAq.jpg", TVGE
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
+
+#EXTINF:0 type="stream" channelId="139" group="News" logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png", France 24 (French)
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png", VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="http://cdn-radiotime-logos.tunein.com/s272071q.png", Syria News
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://radio.foxnews.com/wp-content/uploads/2012/12/FOX-News-Talk-Radio-1.jpg", Fox News Talk Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="http://313watkins.com/images/whiteLogo.png", WHPR TV 33 Detroit
+http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://boston.cbslocal.com/wp-content/uploads/sites/3859903/2018/06/wbz-tvnewsbriefs.jpg", WBZ 4 News (Boston)
+http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://mediaweb.wpxi.com/theme/images/placeholder-square.jpg", Channel 11 News WPXI (Pittsburgh)
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://1.bp.blogspot.com/-YX58NpYE8OI/XAMFtcl4jtI/AAAAAAAAB3g/_u6ECy1zPf87QMTgY0J8emZC-AqqbXfpwCPcBGAYYCw/s1600/TV5MONDEInfologo.png", TV5 Monde Info  (French)
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+
+#EXTINF:0 type="stream" channelId="2107" group="News" logo="http://www.qcountryfm.ca/typo3temp/_processed_/6/1/csm_The_Weather_Network_bigger_03_f8d8026027.png", The Weather Network
+http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Aruba" logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Telearuba_Logo.png", TELEARUBA
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w158123675_b596000_sleng.m3u8
+
+#EXTINF:0 type="stream" channelId="1944" group="News" logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png", ABC News
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png", ABC 15
+https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8
+
+#EXTINF:0 type="stream" channelId="119" group="News", Bloomberg
+https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/530a34ace4b0d1b000d31222/1393177774359/voa.png", Voice of America (PST)
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://images-na.ssl-images-amazon.com/images/I/514-05DbHCL._SY355_.png", NEWSMAX TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://i.pinimg.com/280x280_RS/6b/3c/6a/6b3c6a5dc068436522b9f68775dea1c0.jpg", NEWS 12  Brooklyn
+http://hls.iptv.optimum.net/news12/nipadlive/04_new.m3u8?cdnHost=167.206.237.144&callsign=N12KN
+
+#EXTINF:0 type="stream" channelId="1175" group="News", Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/04/01/727e357a-a126-4138-a2c5-4d3222669d57/thumbnail/1200x630/795a64db6b16dd5a299672df438ad0b4/cbsn2-logo-1920x1080.jpg", CBS News
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="USA" logo="https://image.roku.com/developer_channels/prod/04108b0d177afdddd43e321db231eeeb22addc8e37665b2c29e15800ad3b69a1.png", Escambia TV
+https://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w213610257.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/us/images/bbn.gif", BBN Radio Espa?ol
+https://bbnspanish-lh.akamaihd.net/i/BibleBroadcasting_Spanishios@87757/index_48_a-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://nuevavida.fm/wp-content/uploads/2016/02/nv-logo-slider2.png", Radio Nueva Vida (Puerto Rico)
+http://radio.ministeriotv.com:8042/stream.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/studio88.gif", 88.50 	HIJ24 Studio 88 (RD)
+http://radio2.domint.net:8248/stream
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/azucar-hato-mayor.png", 89.1 FM Az?car  Hato Mayor (RD)
+http://sirius.shoutca.st:9269/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/maravillosa-barahona.png", 89.7 FM Maravillosa (Barahona)
+http://radio7a.domint.net:8220/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/escape.gif", 88.90 	HIJ29 Escape FM (RD)
+http://radio1.domint.net:8066/stream
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/fuego.gif", 90.10 	HIJ48 Fuego 90 (RD)
+http://209.126.116.143:9222/;stream.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/renuevo.gif", 89.70 	HIJ43 Radio Renuevo (RD)
+http://radiotvstream.com:8031/renuevo.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/magia.png", 90.3 FM Magia  Hig?ey (RD)
+http://81.169.223.197:5592/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/90-3-fm-san-juan.png", 90.3 FM Radio San Juan
+http://radio.domiplay.net:9438/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/estrella90.gif", 90.50 	HIJ56 Estrella 90 (RD)
+http://streaming.estrella90.com:7110/;stream.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://www.la91fm.com/wp-content/uploads/2017/10/LOGOLA91DEF.png", 91.30 	HIJ63 La 91 FM (RD)
+http://radio.domint.net:8040/stream
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://s3.amazonaws.com/cdn.radionewproject.com/4e1803b9b5764693286ad88bdd8ed9e0.jpg", 91.50 Misionera FM  (RD)
+http://ample-zeno-05.radiojar.com/61cn8f4dv6duv
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/melody.png", 91.7 FM Melody (RD)
+http://puertoplataradio.com:8022/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio", 91.9 FM Amor  La Romana (RD)
+http://radio.domiplay.net:9190/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/hits92.gif", 92.10 	HIJ76 Hits 92 (RD)
+http://radio2.rgradio.net:8520/hits92.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/pesa-barahona.png", 92.3 FM Pes? (Barahona)
+http://radio7a.domint.net:8176/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/play/cdn.htm", 92.50 	HIJ83 CDN Radio (RD)
+http://104.197.151.190/cdnlive
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/puravida929.gif", 92.90 	HIJ87 Pura Vida FM (RD)
+http://23.239.68.71:9700/;stream.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/orbita-puerto-plata.png", 92.9 FM ?rbita  Puerto Plata
+http://puertoplataradio.com:8004/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/bavaro-92-9-fm.png", 92.9 FM Radio B?varo
+http://81.169.223.197:5594/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/latidos.gif", 93.70 	HIJ95 Latidos FM (RD)
+http://72.29.87.97:8010/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/fidelity.gif", 94.10 	HIJ99 Fidelity 94.1  (RD)
+http://playerservices.streamtheworld.com/api/livestream-redirect/FIDELITY.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://cdn-radiotime-logos.tunein.com/s118676g.png", 94.3  Mambo Higuey (RD)
+http://199.195.194.12:8246/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/arca-puerto-plata.png", 95.3 FM  Radio Arca De Salvaci?n Puerto Plata
+http://puertoplataradio.com:8000/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://www.quisqueyafmrd.com/images/logo-quisqueya2.png", 96.10 	HIK42 Quisqueya FM (RD)
+http://69.163.34.102:8620/;
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/kiss-me.png", 95.7 FM Radio Kiss Me  (RD)
+http://streaming.xtremdesign.net:8142/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/la-kalle-96-3-santiago-rodrigu.png", 96.3  FM La Kalle Santiago Rodr?guez
+http://www.streamingvc.net:9052/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/pura-vida-967.png", 96.7 FM  Pura Vida (RD)
+http://23.239.68.71:9778/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/eclipse-96-9-fm.png", 96.9 FM Eclipse
+http://72.29.87.97:8038/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/97-1-montecristi.png", La 97.1 FM (Montecristi)
+http://stream7a.domint.net:8090/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/uvafm.png", 97.3 FM Uva  Neyba (RD)
+http://paginas.moisespaulino.com:8028/stream
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/us/images/disney.gif", 97.30 	HIK56 Radio Disney (RD)
+http://radio7a.domint.net:8026/;stream.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://pbs.twimg.com/profile_images/378800000474952702/92928e5eb135a1e232d704fc5fc7a079_400x400.jpeg", 97.50 FM La Mega  (RD)
+http://vip.livecastnet.com:8000/capitalmega.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/emociones.png", 97.9 FM Radio Emociones (Barahona)
+http://radio1.domint.net:8072/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/estudio-97-9.png", 97.9  FM Estudio (RD)
+http://paginas.moisespaulino.com:8067/stream
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/amanecer.gif", 98.10 	HIK69 Radio Amanecer (RD)
+http://radioamanecer.soluvision.net:9035/;?1572045827173
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/raices-fm.png", 98.3 FM Ra?ces  (RD)
+http://stream1.servercristianonetwork.com:8236/live
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/cosmos-azua.png", 98.7 FM Cosmos  Azua (RD)
+http://radio1.domint.net:8068/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/arcoiris-digital-98-9-fm-mao.png", 98.9 FM Arcoiris Digital  Mao
+http://isrd.internetsolutionsrd.com:8028/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/certv_dominicanafm.gif", 98.90 	HIK77 Domincana FM (RD)
+http://69.163.34.102:8610/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://1.bp.blogspot.com/-RN_AvoZoUlg/XXu9nlLxScI/AAAAAAAAnec/MIatkWa3mw8MjxEuZWTzgqomBGx1CB9bQCK4BGAYYCw/s1600/Radio%2BFortaleza%2BMia.jpg", 99.70 FM Radio Fortaleza Mia (RD)
+http://stream.zenolive.com/sq1tzzbqs6duv
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/super-k-la-vega.png", 100.70  Super K (RD)
+http://streaming.superkfm.com:7050/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/premium-santiago.png", 101.1 FM  Premium Santiago
+http://radio2.domint.net:8058/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/z101.gif", 101.30 	HIL31 Z101 (RD)
+http://14943.live.streamtheworld.com:3690/Z101FM_SC
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://1.bp.blogspot.com/-pUOG35eMVJI/Xda53H5slcI/AAAAAAAASvw/pP7mR4CXQ8w8U8rc9u6bW5O-BsaXMqveACK4BGAYYCw/s752/TARJETA%2BJUAN%2BDIAZ.png", 101.90 	HIL Amar FM (RD)
+http://node-16.zeno.fm/v3c46820fnruv?1574479395=&rj-tok=AAABbpZSO4EAJUVqiVSItsId8Q&rj-ttl=5
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/escandalo.gif", 102.50 	HIL48 Esc?ndalo (RD)
+http://radio3.domint.net:8028/;stream.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://radiomap.eu/es/images/los40.gif", 103.30 	HIL59 Los 40 (RD)
+http://radio.domint.net:8092/;stream.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/delta-la-romana.png", 103.9 FM Delta La Romana (RD)
+http://radio.domiplay.net:5240/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/sonido-espaillat.png", 104.1 FM Sonido Alegre (Espaillat)
+http://puertoplataradio.com:8006/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/tropicalisima-jarabacoa.png", 104.1 FM Tropical?sima (Jarabacoa)
+http://streaming.tropicalisima104.com:7150/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/vida.gif", 105.30 	HIL87 Vida FM  (RD)
+http://paginas.moisespaulino.com:8036/stream?type=.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/mega-barahona.png", 105.1 FM Mega (Barahona)
+http://radio7a.domint.net:8170/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://radioven.com/wp-content/uploads/2019/09/ven-900-x-900.png", 105.5 Radio Ven (RD)
+http://s1media.hosting.nassever.com:6004/radioven1055
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/la-bakana-105-9.png", 105.9 FM La Bakana  Santiago (RD)
+http://radio.domint.net:8238/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/escala-barahona.png", 106.3 FM Escala (Barahona)
+http://radio1.domint.net:8084/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/tropicana-montecristi.png", 106.3 FM Tropicana  Montecristi
+http://streaming.tropicana106.com:7140/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/perla-puerto-plata.png", 106.3 FM Perla  Puerto Plata
+http://radio7a.domint.net:8216/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/hifa.gif", 106.90 	HIM26 HIFA (RD)
+http://radio.domint.net:8028/stream
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/la-nueva-santiago.png", 106.9 FM Radio La Nueva  Santiago (RD)
+http://procyon.shoutca.st:8807/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/suave-santiago.png", 107.3 FM Suave  Santiago (RD)
+http://streaming.suave107.com:7000/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/fm-107-la-romana.png", FM 107.5 La Romana (RD)
+http://radio.domiplay.net:9200/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/abc.gif", 540 	HICM Radio ABC  (RD)
+http://paginas.moisespaulino.com:8046/live
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/santa-maria.png", 590 AM Radio Santa Mar?a
+http://paginas.moisespaulino.com:8069/live
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/crystal.gif", 570 	HIMS Radio Crystal  (RD)
+http://streaming.cristal570.com:7200/;.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/certv_santodomingoam.gif", 620  HISD Radio Santo Domingo  (RD)
+http://69.163.34.102:8630/;
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/universal.gif", 650 	HIAT Radio Universal (RD)
+http://192.99.44.11:1488/stream
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/norte-santiago.png", 720 AM Radio Norte  Santiago (RD)
+http://streaming.norte720.com:7190/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/jesus-santiago.png", 750 AM Radio Jes?s 750 AM Santiago (RD)
+http://paginas.moisespaulino.com:8005/stream
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/hijb.gif", 830 	HIJB  (RD)
+http://69.64.83.145:18522/live
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/popular.gif", 950 	HIIG Radio Popular  (RD)
+http://radio7a.domint.net:8060/stream
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/olimpica-la-vega.png", 970 AM Radio Ol?mpica  La Vega
+http://streaming.olimpica970.com:7170/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://is3-ssl.mzstatic.com/image/thumb/Purple22/v4/d3/35/8e/d3358e45-979d-f9f8-ed75-7d3b6e095ca1/source/512x512bb.jpg", 990 AM Radio Eternidad (RD)
+http://66.128.53.117:9950/stream
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/hispaniola-santiago.png", 1150 AM Radio Hispaniola  Santiago (RD)
+http://streaming.radiohispaniola.com:7180/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/amanecer.gif", 1060 	HIAJ Radio Amanecer  (RD)
+http://radioamanecer.soluvision.net:9035/;?1572058562295
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://radioven.com/wp-content/uploads/2019/09/ven-900-x-900.png", 1200 	HIAH Radio VEN (RD)
+http://s1media.hosting.nassever.com:6002/radioven1200
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://radiomap.eu/it/images/maria.gif", 1240    Radio Mar?a  (RD)
+http://dreamsiteradiocp4.com:8100/;stream.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://radiomap.eu/va/images/rv.gif", 1240    Radio Vaticano
+http://live.vaticanwebradio.org/channel4.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/1370-am-seibo.png", 1370 AM Radio Seibo  (RD)
+http://5.135.183.124:8081/stream
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/impacto.gif", 1440 	HIAK Radio Impacto  (RD)
+http://206.190.141.116:8074/stream
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/vibra-barahona.png", 1470 AM Vibra  Barahona (RD)
+http://radio7a.domint.net:8092/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/pueblo.gif", 1510 	HIBL Radio Pueblo  (RD)
+http://lapatrona.kydsecurity.com:8000/live
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/1560-am-pedernales.png", 1560 AM Radio Pedernales
+http://node-06.zeno.fm/492ru4zwh4duv?rj-ttl=5&rj-tok=AAABbpuajUgALgcjQeNiAr1wHQ
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/do/images/juventusdonbosco.gif", 1640 	HIC80 R. Juventus Don Bosco  (RD)
+http://paginas.moisespaulino.com:8009/live
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/air-romana.png", Stream AIR Romana Radio (RD)
+https://14833.live.streamtheworld.com/SAM04AAC165_SC
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://node-07.zeno.fm/nqu2g6e6queuv?rj-ttl=5&rj-tok=AAABbh31B9wAipy_1Fq40yUqvg", Stream Romant?sima (RD)
+http://node-07.zeno.fm/nqu2g6e6queuv?rj-ttl=5&rj-tok=AAABbh31B9wAipy_1Fq40yUqvg
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/fieramix-la-romantica.png", Stream Fieramix La Rom?ntica (RD)
+http://81.169.223.197:5606/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/disco-suave.png", Disco Suave (RD)
+http://epsilon.shoutca.st:9309/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/azua-santo-domingo.png", Radio Azua Santo Domingo (RD)
+http://ny2.radiocast.us:8038/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/azua.png", Azua FM Radio (RD)
+https://edge.mixlr.com/channel/scqck
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/azul.png", Azul Radio (RD)
+http://radio.domiplay.net:9300/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/bengaleses.png", Bengaleses (RD)
+http://87.98.130.255:8309/live
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/cristiana-dominicana.png", Radio Cristiana Dominicana (RD)
+http://node-03.zeno.fm/qwfamng733duv?rj-ttl=5&rj-tok=AAABbh4Px3kAByFyg8Dp5And_A
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/solo-dios.png", Solo Dios Radio (RD)
+http://new-york-ssd.myautodj.com:8048/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/hermosa.png", Hermosa Radio (RD)
+http://192.99.8.170:6571/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/la-voz-de-la-famlia.png", La Voz De La Famlia (RD)
+http://radioserver10.profesionalhosting.com:40984/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/iglesia-ciudad-de-refugio-rd.png", Iglesia Ciudad de Refugio (RD)
+http://streaming.radionomy.com/JamendoLounge
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/unidos-en-la-vision.png", Unidos En La Visi?n (RD)
+http://puertoplataradio.com:8010/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/alma-cristiana.png", Radio Alma Cristiana (RD)
+http://node-09.zeno.fm/szu33qnppyduv?rj-ttl=5&rj-tok=AAABbh4egzUAm_NL1TbNaeE8JQ
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/salsa.png", Salsa Radio (RD)
+http://radio.domiplay.net:2002/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/bacharengue.png", El Bacharengue (RD)
+http://node-29.zeno.fm/492ru4zwh4duv?rj-ttl=5&rj-tok=AAABbh_3Ht8AN7aa6Xlmog03Fw
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/aguilas-cibaenas.png", Aguilas Cibae?as Radio
+http://stream1.wernerstreamhd.net:6676/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://makaoradio.com/wp-content/uploads/2019/10/LOGOWEB3.png", Makao Radio
+http://81.169.223.197:5564/stream.mp3
+
+#EXTINF:0 type="stream" channelId="-1" group="BOLIVIA" logo="https://3.bp.blogspot.com/-o_iPgvN5GR0/XCI680KIEJI/AAAAAAAAHQA/WFtw0xcxtwckxqmAX2OhcB98zSpw6DQ-ACLcBGAs/s1600/RTp%2Ben%2Bvivo%2BBolivia.png", RTP (Bolivia)
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="BOLIVIA", Catolica TV (Bolivia)
+http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/chunklist_w1456255672.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/palma-fm-barahona.png", Palma (Barahona)
+http://radio7a.domint.net:8162/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/fieramix.png", Stream FieraMIX  La Brava (RD)
+http://81.169.223.197:5638/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/fieramix-la-bachatera.png", Stream Fieramix La Bachatera
+http://81.169.223.197:5602/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/fieramix-la-merenguera.png", Stream Fieramix La Merenguera (RD)
+http://81.169.223.197:5622/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radios-com-do/fieramix-la-salsera.png", Fieramix La Salsera (RD)
+http://81.169.223.197:5598/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" logo="http://worldradiomap.com/2013/flags/46/cu.png", CMBA Radio Rebelde (FM) - Cuba
+http://media.ohc.cu/habanaradio
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="http://worldradiomap.com/2013/flags/46/cu.png", CMKC Radio Revoluci?n - Santiago de Cuba
+https://icecast.teveo.cu/C9vVPN7h
+
+#EXTINF:0 type="stream" channelId="-1" logo="http://worldradiomap.com/2013/flags/46/cu.png", CMKZ Radio Baragu? - Palma Soriano\\\\\, Cuba
+https://icecast.teveo.cu/3CMM7zph
+
+#EXTINF:0 type="stream" channelId="-1" logo="http://worldradiomap.com/2013/flags/46/cu.png", CMDV Radio Siboney - Santiago de Cuba
+https://icecast.teveo.cu/Hb9jFPns
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio", 96.7 FM Radio Rebelde (Cuba)
+https://icecast.teveo.cu/zrXXWK9F
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/habana.png", Stream Radio Habana (Cuba)
+https://icecast.teveo.cu/McW3fLhs
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/reloj.png", 760 AM Radio Reloj
+https://icecast.teveo.cu/b3jbfThq
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/taino.png", Stream Radio Taino (Cuba)
+https://icecast.teveo.cu/3MCwWg3V
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/enciclopedia.png", 94.1 FM Radio Enciclopedia (Cuba)
+https://icecast.teveo.cu/9Rnrbjzq
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/progreso.png", Stream Radio Progreso (Cuba)
+https://icecast.teveo.cu/XjfW7qWN
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/cmbf.png", 99.1 FM CMBF Radio (Cuba)
+https://icecast.teveo.cu/Nbtz7HT3
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/marti.png", Radio Marti (Cuba)
+https://n07.radiojar.com/3ds9yqpgq3quv?rj-ttl=5&rj-tok=AAABbqjAwVUAN4JrsV4rCZ6YtQ
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/zona-cubana.png", La Zona Cubana Radio (Cuba)
+http://centova2.whsh4u.com:9287/stream/1/
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/ciudad-del-mar.png", Radio Ciudad Del Mar (Cuba)
+https://icecast.teveo.cu/CL7jRXqn
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/cadena-habana.png", Stream Radio Cadena Habana (Cuba)
+https://icecast.teveo.cu/Jdq3Rbrg
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/guama.png", Stream Radio Guam? (Cuba)
+https://icecast.teveo.cu/ngcdcV3k
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/caribe.png", Stream Radio Caribe (Cuba)
+https://icecast.teveo.cu/dXhtHs4P
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/mayabeque.png", Radio Mayabeque (Cuba)
+https://icecast.teveo.cu/Rsrm7P9h
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/ciudad-de-la-habana.png", 94.7 FM Radio Ciudad de La Habana (Cuba)
+https://icecast.teveo.cu/g73XCjCH
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/radio-26.png", Stream Radio 26 (Cuba)
+https://icecast.teveo.cu/LsxKNz7b
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/cmhw.png", Radio CMHW (Cuba)
+https://icecast.teveo.cu/TsxMM94R
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/sancti-spiritus.png", 102.9 FM Radio Sancti Spiritus (Cuba)
+https://icecast.teveo.cu/NqWrgw7j
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/cadena-agramonte.png", 105.3 FM Radio Cadena Agramonte (Cuba)
+https://icecast.teveo.cu/j99xztkT
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/bayamo.png", Stream Radio Bayamo (Cuba)
+https://icecast.teveo.cu/7hdNcTbM
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/minas.png", Radio Minas (Cuba)
+https://icecast.teveo.cu/X9XNRkW4
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/jaruco.png", 104.9 FM Radio Jaruco (Cuba)
+https://icecast.teveo.cu/KH9tVwrC
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/metropolitana.png", 98.3 FM Radio Metropolitana (Cuba)
+https://icecast.teveo.cu/ktW3mW74
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/coco.png", Radio Coco (Cuba)
+https://icecast.teveo.cu/fvc4RVRz
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://cdn.webrad.io/images/logos/radiosdecuba-com/ciudad-bandera.png", Radio Ciudad Bandera (Cuba)
+https://icecast.teveo.cu/rvNtC9rC
+
+#EXTINF:0 type="stream" channelId="-1" group="Audio" logo="https://i1.wp.com/puntacanahits.com/wp-content/uploads/2018/06/cropped-Punta-CanaHits.jpg", Punta Cana Hits (RD)
+http://radio.hostlagarto.com:9970/;stream.mp3
+
+#EXTINF:-1 group-title="World ", ABC NEWS
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1 group-title="World ", Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+
+#EXTINF:-1 group-title="World ", C-SPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+
+#EXTINF:-1 group-title="World ", C-SPAN 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+
+#EXTINF:-1 group-title="World ", C-SPAN 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+
+#EXTINF:-1 group-title="World ", CNN International
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
+
+#EXTINF:-1 group-title="World ", DW NEWS
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
+
+#EXTINF:-1 group-title="World ", NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+
+#EXTINF:-1 group-title="World ", La Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
+#EXTINF:-1 group-title="World ", Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+
+#EXTINF:-1 group-title="World ", 13 TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+
+#EXTINF:-1 group-title="World ", COSMO TV
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="World ", FDF
+http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="World ", Ten
+http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="World ", Historia
+http://184.173.181.2:1935/8062/8062/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/INArx0I.png" group-title="22- CINE LATINO",FMHot SD
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/wow-tv.png" group-title="22- CINE LATINO",Wow!
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://images.produ.com/noticias/0218/ZeeMundonewlogo2.jpg" group-title="22- CINE LATINO",Zee Mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?GrupoTopIptv
+
+#EXTINF:-1 group-title="ARG ",Medios Rioja
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+
+#EXTINF:-1 group-title="ARG ",Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY ",FARRA PLAY
+http://159.203.148.226/live/farra_low.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY ",CANAL 13 RPC PY
+http://174.138.118.252/live/canal13stream.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY ",RPC PARAGUAY
+http://174.138.118.252/live/canal13stream_low.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY ",UNICANAL PY
+http://45.55.127.106/live/unicanal_low.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY ",canal HEI
+http://54.94.130.159:1935/live/heistream/chunklist_w1495124591.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="03- ARGENTINA",24/7 Noticias
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="03- ARGENTINA",Canal 26
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="13- MEXICO",Multimedios
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="13- MEXICO",Multimedios +
+http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/cb973f_4cb07abd906a4ecb89a09c031a6f6f54~mv2_d_3658_1973_s_2.png/v1/fill/w_399,h_215,al_c,usm_0.66_1.00_0.01/cb973f_4cb07abd906a4ecb89a09c031a6f6f54~mv2_d_3658_1973_s_2.png" group-title="13- MEXICO",RTQ
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telemar.png" group-title="13- MEXICO",Telemar
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
+
+#EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.bienaldemontevideo.com/imgs/pat/vtv.png" group-title="20- URUGUAY",VTV canal eventos
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/alcarria-tv-en-directo.png" group-title="27- PREMIUM ESPA?A",Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://trecetv.es/images/logo-og.png" group-title="27- PREMIUM ESPA?A",Canal 13
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="27- PREMIUM ESPA?A",Canal 24 Horas
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+
+#EXTINF:-1 tvg-logo="https://descargarrevistas.com/wp-content/uploads/2018/12/divinity.jpg" group-title="27- PREMIUM ESPA?A",Divinity
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_paramount-channel_m.png" group-title="27- PREMIUM ESPA?A",Paramount
+http://paramount.live.flumotion.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/rtvceuta.png" group-title="27- PREMIUM ESPA?A",RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cienciaterapia.org/wp-content/uploads/2016/09/telecinco-logotipo.png" group-title="27- PREMIUM ESPA?A",Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/telemadrid.png" group-title="27- PREMIUM ESPA?A",Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing
+http://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+#EXTINF:-1 group-title="44- MUSICA",Go tv
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71FYUSjvHLL._SY355_.png" group-title="44- MUSICA",Latinos Up
+https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1200px-Radio_m2o_-_Logo_2019.svg.png" group-title="44- MUSICA",M2O
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/cm/channels/musictop.png" group-title="44- MUSICA",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.portalfoxmix.cl/radioenvivo/images/portalfoxmix-radio-logo-gran-tras.png" group-title="44- MUSICA",Portal Foxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+
+#EXTINF:-1, Ciudad Tv 21.2
+http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8
+
+#EXTINF:-1, CANAL 20 ZACATECAS
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/chunklist_w1017859043_b1428000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/732661005952618496/5pxo5q9h_400x400.jpg" group-title="03- ARGENTINA",Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://pics.prcm.jp/dea3d5a8dcd76/53796588/png/53796588.png" group-title="CHINA",24/7 Kuroko's Basketball
+http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ivy.com.tw/ivyhtmlpic/e-paper/enjoy/201401/01271.jpg" group-title="CHINA",24/7 Reality TV 2
+http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png" group-title="CHINA",MASTV
+http://stream.mastvnet.com/MSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="CHINA",RTHK 31 (Hong Kong)
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5253176/16x9/947/533/ae942ff62b59f223ea6a9edacf1da744/Uf/channel-5.png" group-title="SINGAPORE",Mediacorp Channel 5
+http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5166818/16x9/947/533/e298594e61926869a7a2e9b2ab5d3073/qA/channel-8.png" group-title="SINGAPORE",Mediacorp Channel 8
+http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5308024/16x9/947/533/8cec3061b2409fad0d7664c7bb185808/gk/channel-u.png" group-title="SINGAPORE",Mediacorp Channel U
+http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/milenio-TV.png" group-title="13- MEXICO",Milenio
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="13- MEXICO",Multimedios
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="13- MEXICO",Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DHOocZiU0AE30ro.png" group-title="13- MEXICO",Multimedios +
+http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/telemar.png" group-title="13- MEXICO",Telemar
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u?GrupoTopIptv
+
+#EXTINF:0 tvg-logo="https://minharadioonline.net/sites/canalricos.com.br/images/logo/logo600.png" group-title="04- BRASIL",Canal Ricos
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_155_1556042983_thumb.png" group-title="04- BRASIL",It? TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV SD
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Pioneira
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w322427533.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLnR2Ym5vX3NjcmVlbl8wXzE1MDU1NzM5NzdfMDU1/screen-0.jpg?fakeurl=1&type=.jpg" group-title="04- BRASIL",TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/1003228/logo_tv%20diario%20do%20sertao.png" group-title="04- BRASIL",Tv Diario do Sertao
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w1056637401.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="04- BRASIL",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/V3zjKvc.png" group-title="04- BRASIL",Tv FAAP
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://webtvminas.com/wp-content/uploads/2015/05/logo1.png" group-title="04- BRASIL",Web TV Minas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://www.canalm.tv/plantillas/temas/canalm/imagenes/canalm.png" group-title="20- URUGUAY",Montevideo Portal
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://okdiario.com/img/2018/04/28/distrito-655x368.jpg" group-title="22- CINE LATINO",Distrito TV
+https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/boing-logo-png.png" group-title="32- INFANTIL LATINO",Boing
+http://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title="32- INFANTIL LATINO",Chicos Ipe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png" group-title="41- DEPORTES LATINO",Bolivia Deportes
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/goltv.png" group-title="41- DEPORTES LATINO",Gol Ecuador
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://img3.androidappsapk.co/300/7/0/6/net.coninfo.admin.trecemaxtelevisin.png" group-title="03- ARGENTINA",13 Max
+http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/732661005952618496/5pxo5q9h_400x400.jpg" group-title="03- ARGENTINA",Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/Canal-10-C%C3%B3rdoba-en-vivo-Online.png" group-title="03- ARGENTINA",Canal 10 Cordoba
+http://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Tv-rionegrina-lu92-tv-canal-10-logo.png" group-title="03- ARGENTINA",Canal 10 Rio Negro
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="03- ARGENTINA",Canal 26
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3.png" group-title="03- ARGENTINA",Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal-local-324x160.png" group-title="03- ARGENTINA",Canal Local Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="03- ARGENTINA",Canal Provincial
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://www.ciudadtv.com.ar/es/images/logo.png" group-title="03- ARGENTINA",Ciudad TV Chaco
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-uRO7cQF9i4g/XCKOsAGqYZI/AAAAAAAAB1U/icLyv19C1g0ksCUbC2GqnSqrbHzsdTbJACLcBGAs/w1200-h630-p-k-no-nu/cl3-argentina.jpg" group-title="03- ARGENTINA",CL3
+http://stream02.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w503758088.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/75UgF.png" group-title="03- ARGENTINA",CPEtv
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_150_av-p.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="03- ARGENTINA",El Garage
+http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://www.mundou.edu.ar/img/canales/a1v2ltjc.png" group-title="03- ARGENTINA",Litus
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/09/canal-9-multivision.png" group-title="03- ARGENTINA",Multivision
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/e455d-tlx.png" group-title="03- ARGENTINA",Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal10cancum.png" group-title="13- MEXICO",Canal 10 Canc?n
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://www.canal15zac.com/logo2.png" group-title="13- MEXICO",Canal 15 Zacatecas
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Capital21.png" group-title="13- MEXICO",Capital 21
+http://23.227.189.81/ciudadtv/abr_ciudadtv/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/alcarria-tv-en-directo.png" group-title="27- PREMIUM ESPA?A",Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="27- PREMIUM ESPA?A",Be Mad (VLC)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://trecetv.es//images/epg/logo-epg.png" group-title="27- PREMIUM ESPA?A",Canal 13
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="27- PREMIUM ESPA?A",Canal 24 Horas
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png" group-title="27- PREMIUM ESPA?A",Canal 7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://descargarrevistas.com/wp-content/uploads/2018/12/divinity.jpg" group-title="27- PREMIUM ESPA?A",Divinity
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Lancelot-tv.png" group-title="27- PREMIUM ESPA?A",Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/818729431141404672/kSfmbaKL_400x400.jpg" group-title="27- PREMIUM ESPA?A",Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/radio-televisi%C3%B3n-ceuta-en-directo.png" group-title="27- PREMIUM ESPA?A",RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://www.cienciaterapia.org/wp-content/uploads/2016/09/telecinco-logotipo.png" group-title="27- PREMIUM ESPA?A",Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_3.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://diretele.com/wp-content/uploads/2018/09/tele-safor.png" group-title="27- PREMIUM ESPA?A",TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://www.clusteraudiovisualgalego.com/2018_img/tvg-logo.jpg" group-title="27- PREMIUM ESPA?A",TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="43- DEPORTES INTERNACIONAL",Espn 2 USA
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://www.nbcuniversal.com/sites/default/files/Rev-OlyChannel.png" group-title="43- DEPORTES INTERNACIONAL",Olympic Channel USA
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://www.sgnl.tv/img/clients-redbull.png" group-title="43- DEPORTES INTERNACIONAL",Redbull USA
+http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://www.killthecablebill.com/images/cancelcable/ZqtDHeTe_400x400.jpg" group-title="43- DEPORTES INTERNACIONAL",Stadium Sports USA
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://www.go-rtv.nl/template/assets/img/logo.png" group-title="44- MUSICA",Go tv
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71FYUSjvHLL._SY355_.png" group-title="44- MUSICA",Latinos Up
+https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/cm/channels/musictop.png" group-title="44- MUSICA",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://www.portalfoxmix.cl/radioenvivo/images/portalfoxmix-radio-logo-gran-tras.png" group-title="44- MUSICA",Portal Foxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZPRBPNcWsQg/XT7iD75k5nI/AAAAAAAAp8A/-lRzlw_PC0oLTYts2MMOee8cji3fT_DAwCK8BGAs/s0/2019-07-29.png" group-title="44- MUSICA",Retro Plus
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?GrupoTopIptv
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/retro-tv.png" group-title="44- MUSICA",Retro TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?GrupoTopIptv
