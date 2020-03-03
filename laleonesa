@@ -213,6 +213,1030 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0156
 
 #EXTINF:-1 group-title = "ARG",TJS DIGITAL
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0159
+#EXTINF:-1 group-title="ARG ", Canal Local Olavarria
+http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", Telecreativa Canal 5 Lanus
+https://cdn2.zencast.tv:30443/telecreativa/live/playlist.m3u8
+#EXTINF:-1 group-title="ARG ", Telpin Canal 2
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", Canal 3 Pinamar
+http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
+
+#EXTINF:-1 group-title="ARG ", Canal 4 Bahia Blanca
+https://cdn2.zencast.tv:30443/bahiablanca/live/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", Canal 6 Moreno
+https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", Canal Cinco Tigre
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", Canal 2 Mar del Plata
+https://inliveserver.com:1936/8546/8546/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", Canal 2 Tunuyan
+https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", Canal 12 Madryn TV
+https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", Canal U
+https://wowzaprod169-i.akamaihd.net/hls/live/630337/d7502ff7/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", Canal 10
+https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", Chaco TV
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", Multivisi?n
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", 10 TV
+http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", Argentinisima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8
+#EXTINF:-1 group-title="ARG ", Terramia TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="ARG ", Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", Se?al Provincial
+http://www.trimi.com.ar:80/provincial/streaming/mystream.m3u8
+#EXTINF:-1 group-title="ARG ", Canal 4 San Juan
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist.m3u8
+
+#EXTINF:-1 group-title="ARG ", Canal 4 Posadas
+https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist.m3u8
+
+#EXTINF:-1 group-title="ARG ", Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", 5TV
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1 group-title="ARG ",CANAL 10 RIO NEGRO
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", CANAL 10 CORDOBA
+https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/59e4c1ec_1_1500000/chunklist.m3u8
+
+#EXTINF:-1 group-title="ARG ",CANAL 4 SAN JUAN
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8
+
+#EXTINF:-1 group-title="ARG ",CANAL SAN MIGUEL
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1 group-title="ARG ",CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ",MEDIOS RIOJA
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+
+#EXTINF:-1 group-title="ARG ",RTN NEUQUEN
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+
+#EXTINF:-1 group-title="ARG ",13 MAX TELEFE
+http://coninfo.net:1935/13maxhd/live_720p/master.m3u8
+
+#EXTINF:-1 group-title="ARG ",CANAL 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ",TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF: -1 group-title="ARG ", ARGENTINA:Canal 4 Posadas
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+
+#EXTINF: -1 group-title="ARG ", ARGENTINA:Canal 26 Buenos Aires (Opt-1 group-title="ARG ")
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1 group-title="ARG ",LA BANDA CANAL SUR
+https://593fa17dec176.streamlock.net/cslabanda/cslabanda.stream/chunklist_w1970326303.m3u8
+
+#EXTINF:-1 group-title="ARG ",9 MULTIVISION HD
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8
+
+#EXTINF:-1 group-title="ARG ",CADENA TV SUDESTE
+http://stmv3.questreaming.com/cadenasd/cadenasd/playlist.m3u8?wowzasessionid=439989765
+
+#EXTINF:-1 group-title="ARG ",CIUDAD TV CHACO
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1623593551.m3u8
+
+#EXTINF:-1 group-title="ARG ",LA 90 FM
+http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
+
+#EXTINF:-1 group-title="ARG ",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1582140541_b364000_sleng.m3u8
+
+#EXTINF:-1 group-title="ARG ",ARGENTINA:America HD
+https://prepublish.f.qaotic.net/a07/americahls-1 group-title="ARG "00056/playlist_720p.m3u8
+
+#EXTINF:-1 group-title="ARG ",Telenord Canal 10
+http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/chunklist_w329806385.m3u8
+#EXTINF:-1 group-title="ARG ",America SD
+https://prepublish.f.qaotic.net/a07/americahls-1 group-title="ARG "00056/playlist_540p.m3u8
+#EXTINF:-1 group-title="ARG ",CANAL 4 SAN JUAN
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w2035254850.m3u8
+
+#EXTINF:-1 group-title="ARG ",9 TV - Paran? - ER Entre Rios
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0144
+
+#EXTINF:-1 group-title="ARG ",5RTv RECREO SANTA FE
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0200
+
+#EXTINF:-1 group-title="ARG ",CANAL 2 de Jujuy
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0151
+
+#EXTINF:-1 group-title="ARG ",89.5 TV - Marcos Juarez - CO Cordoba
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0128
+#EXTINF:-1 group-title="ARG ",2CTV - San Cte del Tuy? - BA Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0102
+
+#EXTINF:-1 group-title="ARG ",Santa Mar?a TV
+http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
+
+#EXTINF:-1 group-title="ARG ",UNITEVE VILLA AMRIA
+http://stmv1.questreaming.com/uniteve/uniteve/playlist.m3u8?wowzasessionid=1242977139
+
+#EXTINF:0,EXTRA TV 42
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCR0014
+
+#EXTINF:-1 group-title="ARG ",13 MAX TV CORRIENTE
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w821416899.m3u8
+
+#EXTINF:-1 group-title="ARG ", CANAL 6 DE MORENO
+http://streaming.arcast.com.ar:1935/canal6moreno/canal6moreno/chunklist_w2014651117.m3u8
+
+#EXTINF:-1 group-title="ARG ",CEPTV CHACO
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_151_av-p.m3u8?sd=6&rebase=on
+
+#EXTINF:-1 group-title="ARG ",CANAL 9 DE SALTA
+http://panel.dattalive.com:1935/8250/8250/chunklist_w325606071.m3u8
+#EXTINF:-1 group-title="LAT ", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
+
+#EXTINF:-1 group-title="LAT ",   paramount chanel
+http://paramount.live.flumotion.com/live/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",   HISTORIA
+http://184.173.181.2:1935/8062/8062/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",TELESUR
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",   WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-1 group-title="LAT ",  TELEMAR CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
+
+#EXTINF:-1 group-title="LAT ",   MULTIMEDIOS  LAGUNA
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 group-title="LAT ",    CARTOON
+http://web.onair-radio.eu:1935/cartoon/cartoon/chunklist_w750396845.m3u8
+
+#EXTINF:-1 group-title="LAT ",  Telemax Hermosillo
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+#EXTINF:-1 group-title="LAT ",HDFashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+
+#EXTINF:-1 group-title="LAT ",  Top Latino Tv
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="LAT ",  Radio Capital Tv
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
+
+#EXTINF:-1 group-title="LAT ",   La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",   Cinema World
+http://210.210.155.35/uq2663/h/h04/01.m3u8
+
+#EXTINF:-1 group-title="LAT ",   Acento Tv
+http://acentotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 group-title="LAT ",  Canal 9 Multivision
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+
+#EXTINF:-1 group-title="LAT ",  UFC Network
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+#EXTINF:-1 group-title="LAT ",ATB
+http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:-1 group-title="LAT ",FM Hot TV HD
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", VTV
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
+
+#EXTINF:-1 group-title="LAT ",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 group-title="LAT ", Real Betis TV
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&amp;rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1 group-title="LAT ", PAT
+http://192.99.38.174:1935/patbolivia/patsantacruz/chunklist_w654893762.m3u8
+
+#EXTINF:-1 group-title="LAT ", BOLIVIA TV 7.1
+http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w1778950088.m3u8
+
+#EXTINF:-1 group-title="LAT ",RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
+
+#EXTINF:-1 group-title="LAT ", Canal  Cat?lica TV
+http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/chunklist_w2028834700.m3u8
+
+#EXTINF:-1 group-title="LAT ", PAT LA PAZ
+http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
+
+#EXTINF:-1 group-title="LAT ", PAT SCZ
+http://192.99.38.174:1935/patbolivia/patsantacruz/master.m3u8
+
+#EXTINF:-1 group-title="LAT ", RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",TVB DEPORTES
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",CATOLICA TV
+http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", LOGOS
+http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="LAT ",IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 group-title="LAT ",COSMOS
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8
+
+#EXTINF:-1 group-title="LAT ",TV PERU
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 group-title="LAT ",  PANAMERICANA
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 group-title="LAT ",ANTARES TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",CTC TV
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+
+#EXTINF:-1 group-title="LAT ",CULTURA 24
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+
+#EXTINF:-1 group-title="LAT ",BHTV PERU
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
+
+#EXTINF:-1 group-title="LAT ",CENTRAL TV PERU
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",UCSG
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", HECHOS
+http://37.187.7.106/hechostv/live.m3u8
+
+#EXTINF:-1 group-title="LAT ",TV RED
+http://li1008-1 group-title="LAT "55.members.linode.com:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",PATAGONIA TV
+https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",DIVINITY
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:-1 group-title="LAT ",COCINA Tv
+https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",BOING
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+#EXTINF:-1 group-title="LAT ",REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+#EXTINF:-1 group-title="LAT ",CANAL 8 MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="LAT ",TV GALICIA
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",TVE 24H
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+
+#EXTINF:-1 group-title="LAT ", TELEMADRID
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+
+#EXTINF:-1 group-title="LAT ",CUATRO
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
+
+#EXTINF:-1 group-title="LAT ",TELECINCO
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
+
+#EXTINF:-1 group-title="LAT ",TELECINCO HD
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
+
+#EXTINF:-1 group-title="LAT ",BE MAD
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:-1 group-title="LAT ",ENERGY
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+
+#EXTINF:-1 group-title="LAT ",TELEVALENCIA
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+
+#EXTINF:-1 group-title="LAT ",TELESAFOR
+http://video.telesafor.com/hls/video_high.m3u8
+
+#EXTINF:-1 group-title="LAT ",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 group-title="LAT ",MURCIA
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+
+#EXTINF:-1 group-title="LAT ",ALCARRIA TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
+#EXTINF:-1 group-title="LAT ",LEBRIJA
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+
+#EXTINF:-1 group-title="LAT ",EITB
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+
+#EXTINF:-1 group-title="LAT ",CANAL VASCO
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+#EXTINF:-1 group-title="LAT " , COSMO TV
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",CANAL 6 MEXICO
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 group-title="LAT ",CBTV
+http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8?DVR
+
+#EXTINF:-1 group-title="LAT ",CANAL M
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 group-title="LAT ",CANAL 10 CANCUN
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",ZACATECAS
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",CANAL JUDICIAL
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",CANAL 11
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1339977921_b1300000_slesp.m3u8
+
+#EXTINF:-1 group-title="LAT ",  NEX TV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+
+#EXTINF:-1 group-title="LAT ",MARTI
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8
+
+#EXTINF:-1 group-title="LAT ",DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="LAT ",LA VOZ DE MARIA
+http://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w477912263.m3u8
+
+#EXTINF:-1 group-title="LAT ",CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1 group-title="LAT ",RAI 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+
+#EXTINF:-1 group-title="LAT ", RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1 group-title="LAT " , READY TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+
+#EXTINF:-1 group-title="LAT ",WOW EL SALVADOR
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1 group-title="LAT ",HBO 2 720
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+
+#EXTINF:-1 group-title="LAT ",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1 group-title="LAT ",FRANCE 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 group-title="LAT " , NATGEO
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+
+#EXTINF:-1 group-title="LAT ", NAT GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:-1 group-title="LAT ",CGTN E
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 group-title="LAT ", NHK HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+
+#EXTINF:-1 group-title="LAT ",FASHION
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 group-title="LAT ",AL JAZEERA
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+
+#EXTINF:-1 group-title="LAT ",VOA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 group-title="LAT ",CDO DEPORTES
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w1477672342.m3u8
+
+#EXTINF:-1 group-title="LAT ",CDO PREMIUM
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",CDF DEPORTES
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
+
+#EXTINF:-1 group-title="LAT ",OLIMPIC CANAL
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+
+#EXTINF:-1 group-title="LAT ",ORBIT DOMINICANA
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+
+#EXTINF:-1 group-title="LAT ",TV DEL ESTE DOMINICANA
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="LAT ",TELESISTEMA DOMINICANA
+http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w44342477.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="LAT ",SUPER TV DOMINICANA
+http://ss8.domint.net:2128/stv_str/tv55/chunklist_w19976954.m3u8
+
+#EXTINF:-1 group-title="LAT ",MICROVISION DOMINICANA
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+
+#EXTINF:-1 group-title="LAT ",LUNA TV DOMINICANA
+http://ss1.domint.net:2140/luna_str/lunatv/media_w719846308.m3u8
+
+#EXTINF:-1 group-title="LAT ",FUEGO TV DOMINICANA
+http://184.173.181.2:1935/8020/8020/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",FARO VISION DOMINICANA
+http://184.173.181.2:1935/8060/8060/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", VALLEVISION DOMINICANA
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+
+#EXTINF:-1 group-title="LAT ",COLOSAL TV COSTA RICA
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT " , TV SUR COSTA RICA
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT " , MULTIMEDIOS COSTA RICA
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 group-title="LAT ", TICAVISION COSTA RICA
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", TV PLATA GUATEMALA
+http://ss6.domint.net:2104/tvp_str/tvplata/chunklist_w780794720.m3u8
+
+#EXTINF:-1 group-title="LAT ",BONAO TV
+http://ss1.domint.net:2226/btv_str/bonao/chunklist_w1629112127.m3u8
+
+#EXTINF:-1 group-title="LAT ",RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+
+#EXTINF:-1 group-title="LAT ",RETRO HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",RETRO PLUS
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",FRECUENCIA MUSICAL
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",MUNDO MAS COLOMBIA
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", KARAOKE HD
+http://www.djing.com/tv/karaoke.m3u8
+
+#EXTINF:-1 group-title="LAT ", PANICO
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 group-title="LAT ",Flow Sports 1
+http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
+#EXTINF:-1 group-title="LAT ",Flow Sports 2
+http://161.0.157.5/PLTV/88888888/224/3221226899/02.m3u8
+#EXTINF:-1 group-title="LAT ",Flow Sports 3
+http://161.0.157.5/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 group-title="LAT ",Flow Sports 4
+http://161.0.157.5/PLTV/88888888/224/3221226899/04.m3u8
+#EXTINF:-1 group-title="LAT ",Agro Brasil TV
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",BRASIL
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+
+#EXTINF:-1 group-title="LAT ",Brazil 1 FTA
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+
+#EXTINF:-1 group-title="LAT ",CAN??O NOVA [720p]
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+
+#EXTINF:-1 group-title="LAT ",Cine Sky
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Cine+
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 group-title="LAT ",E-Parana
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 group-title="LAT ",INFANTIL BRASIL********************
+http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",It? TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+
+#EXTINF:-1 group-title="LAT ",Novo Tempo (Brazil)
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
+
+#EXTINF:-1 group-title="LAT ",PUC TV Goias
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+
+#EXTINF:-1 group-title="LAT ",RecordTV Espirito Santo
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 group-title="LAT ",Rede Gospel (Brazil)
+http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
+
+#EXTINF:-1 group-title="LAT ",Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
+
+#EXTINF:-1 group-title="LAT ",Rede TV SD
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
+
+#EXTINF:-1 group-title="LAT ",Rede TV!
+http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:-1 group-title="LAT ",SBT [720p]
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
+
+#EXTINF:-1 group-title="LAT ",SBT PE Interior
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?
+
+#EXTINF:-1 group-title="LAT ",SBT Piaui
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",TV APARECIDA 2
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1 group-title="LAT ",TV BNO
+http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
+
+#EXTINF:-1 group-title="LAT ",TV Caxias
+http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
+
+#EXTINF:-1 group-title="LAT ",TV Cultura GO
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8?
+
+#EXTINF:-1 group-title="LAT ",TV Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+
+#EXTINF:-1 group-title="LAT ",TV Faap
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+
+#EXTINF:-1 group-title="LAT ",TV Gidoes (Brazil)
+http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
+
+#EXTINF:-1 group-title="LAT ",TV INES
+http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8
+
+#EXTINF:-1 group-title="LAT ",TV MCJ
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",TV Po?os
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",TV Tuba
+http://69.46.0.170:1935/rcr_tuba/tv.stream/live.m3u8
+
+#EXTINF:-1 group-title="LAT ",TVDS
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+
+#EXTINF:-1 group-title="LAT ",WEB TV MINAS
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+#EXTINF:-1 group-title="LAT ",7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+
+#EXTINF:-1 group-title="LAT ",13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+
+#EXTINF:-1 group-title="LAT ",Canal 4 Tenerife
+https://5940924978228.streamlock.net/Directo2/Directo2/chunklist_w221845664.m3u8
+
+#EXTINF:-1 group-title="LAT ",Canaria SAT
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Canaria SAT*
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
+
+#EXTINF:-1 group-title="LAT ",Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+
+#EXTINF:-1 group-title="LAT ",Intereconomia TV
+http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
+
+#EXTINF:-1 group-title="LAT ",La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Navarra TV*
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+
+#EXTINF:-1 group-title="LAT ",TV Mediterraneo
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+#EXTINF:-1 group-title="LAT ",SPAIN:(ONLINE) Calle 13
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+
+#EXTINF:-1 group-title="LAT ",SPAIN:(ONLINE) FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
+
+#EXTINF:-1 group-title="LAT ",Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
+
+#EXTINF:-1 group-title="LAT ",RetroTV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+
+#EXTINF:-1 group-title="LAT ",Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+
+#EXTINF:-1 group-title="LAT ",CULTURA:CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
+
+#EXTINF:-1 group-title="LAT ",Entretenimiento:Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1 group-title="LAT ", FDF | HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+#EXTINF:-1 group-title="LAT ",NOTICIAS:CGTN 1
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 group-title="LAT ",CGTN Espanol
+http://live.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 group-title="LAT ",Deutsche Welle Latino | SD
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1 group-title="LAT ",Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+
+#EXTINF:-1 group-title="LAT ",Canal Parlamento
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+
+#EXTINF:-1 group-title="LAT ",Canal 13 TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Lasuper TV
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
+
+#EXTINF:-1 group-title="LAT ",Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/.m3u8
+
+#EXTINF:-1 group-title="LAT ",DJING
+http://www.djing.com/tv/ibiza.m3u8
+
+#EXTINF:-1 group-title="LAT ",Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+
+#EXTINF:-1 group-title="LAT ",Teleritmo | SD
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 group-title="LAT ",Music Top | HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+
+#EXTINF:-1 group-title="LAT ",ESPA?A DIVINITY
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:-1 group-title="LAT ", BOLIVIA: PAT SANTA CRUZ
+http://192.99.38.174:1935/patbolivia/patsantacruz/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", BOLIVIA: PAT LA PAZ
+http://192.99.38.174:1935/patbolivia/patlapaz/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", BOLIVIA: ATB
+http://stmv1.questreaming.com/atb/atb/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", BRASIL SBT RJ
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?ChannelsON
+
+#EXTINF:-1 group-title="LAT ", BRASIL SBT PE
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?ChannelsON
+
+#EXTINF:-1 group-title="LAT ", BRASIL SBT Caruaru
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
+
+#EXTINF:-1 group-title="LAT ", BRASIL SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?ChannelsON
+
+#EXTINF:-1 group-title="LAT ", BRASIL SBT Imperatriz
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8?ChannelsON
+
+#EXTINF:-1 group-title="LAT ", BRASIL RedeTV! RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8?ChannelsON
+
+#EXTINF:-1 group-title="LAT ", BRASIL Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?ChannelsON
+
+#EXTINF:-1 group-title="LAT ", BRASIL Web TV Minas
+http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8?ChannelsON
+
+#EXTINF:-1 group-title="LAT ",BRASIL TVE
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", BRASIL TV Educativa
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?ChannelsON
+
+#EXTINF:-1 group-title="LAT ", BRASIL CATVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?ChannelsON
+
+#EXTINF:-1 group-title="LAT ", BRASIL TV Novo Tempo
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8?ChannelsON
+
+#EXTINF:-1 group-title="LAT ", BRASIL TV Verdade
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?ChannelsON
+
+#EXTINF:-1 group-title="LAT ", BRASIL IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?ChannelsON?
+
+#EXTINF:-1 group-title="LAT ", BRASIL WEB TV Leao de Juda
+http://streaming63.sitehosting.com.br:1935/juda/juda/live.m3u8?ChannelsON
+
+#EXTINF:-1 group-title="LAT ", BRASIL TV Gideoes
+http://streaming02.zas.media:1935/gideoes/programacao/live.m3u8?ChannelsON
+
+#EXTINF:-1 group-title="LAT ", BRAZIL:TV Rio Preto
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+
+#EXTINF:-1 group-title="LAT ", BRAZIL:TVE Rio Grande do Sul (Opt-1 group-title="LAT ")
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", CHILE:Futuro 88.9
+http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", CHILE:Pinguino TV*
+http://streaming.elpinguino.com:1935/live/pinguinotv_source/livestream.m3u8
+
+#EXTINF:-1 group-title="LAT ", CHILE:Portal Foxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", LATINO:Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", HAITI:Radio TeleBoston (USA)
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", HONDURAS:TSi
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+
+#EXTINF:-1 group-title="LAT ", MEXICO:15TV Sabinas
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", MEXICO:Canal 4 Saltillo
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", Telemar Campeche
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", Ovacion
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", BHtv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", MEXICO:Capital 21 Mexico City
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+
+#EXTINF:-1 group-title="LAT ", MEXICO:RCG 1 Saltillo
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", MEXICO:RCG 2 Saltillo
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", MEXICO:RCG 3 Saltillo
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", MEXICO:RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
+#EXTINF:-1 group-title="LAT ", MEXICO:Ultra TV Puebla
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+
+#EXTINF:-1 group-title="LAT ", MEXICO:Ultra TV Aguascalientes
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+
+#EXTINF:-1 group-title="LAT ", NICARAGUA:Canal 2
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",PERU:Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",DOMINICAN REP:MicroVision Canal 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
+#EXTINF:-1 group-title="LAT ",MODA Fashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 group-title="LAT ",Travel
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 group-title="LAT ", Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 group-title="LAT ", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:0,15 TV
+http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",NOTICIAS:CGTN 2
+http://live.cgtn.com/cctv-e.m3u8
+
+#EXTINF:-1 group-title="LAT ",COLOMBIA:Canal Capital HD
+http://us-b2-p-e-sx6.cdn.mdstrm.com/live-stream/57d01d6c28b263eb73b59a5a/publish/media_500.m3u8?dnt=true&es=us-b2-p-e-sx6.cdn.mdstrm.com&ote=1506105524968&ot=PhcZX6iEf6naqlTvLiSrJA&proto=http
+
+#EXTINF:-1 group-title="LAT ",TravelHD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+
+#EXTINF:-1 group-title="LAT ",Chileiptv:CampusTv
+http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+
+#EXTINF:-1 group-title="LAT ",Chileiptv:Genial Tv
+http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="LAT ",Chileiptv:FR France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 group-title="LAT ",Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 group-title="LAT ",PIGUINO TV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",CANAL WOW
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1 group-title="LAT ",RETRO MUSIC TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
+
+#EXTINF:-1 group-title="LAT ",DIVINITY
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+
+#EXTINF:-1 group-title="LAT ",UniR?o TV
+https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/chunklist_w1849553486.m3u8
+#EXTINF:-1 group-title="LAT ",VISUAL RADIO
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1 group-title="LAT ",Deutsche Welle
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&amp;play-only=primary&amp;rebase=on%20
+#EXTINF:-1 group-title="LAT ",VENEZUELA:Promar TV
+http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
+#EXTINF:-1 group-title="LAT ",Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+
+#EXTINF:-1 group-title="LAT ",Channel 7 [NoRoku]
+http://radio.7chan.org:8000/CH7
+
+#EXTINF:-1 group-title="LAT ",Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1 group-title="LAT ",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+#EXTINF:-1 group-title="LAT ",iHeart 80s
+http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Lite FM 106.7
+http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Nick Radio
+http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Z100 New York
+http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+
+#EXTINF:-1 group-title="LAT ",ATXN
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-1 group-title="LAT "6x9-1 group-title="LAT "-b/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",ATXN 2
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-1 group-title="LAT "6x9-1 group-title="LAT "-a/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1 group-title="LAT "-a/chucklist.m3u8
+
+#EXTINF:-1 group-title="LAT ",District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+
+#EXTINF:-1 group-title="LAT ",Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-1 group-title="LAT "6x9-1 group-title="LAT "-a/chunklist.m3u8
+
+#EXTINF:-1 group-title="LAT ",House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+
+#EXTINF:-1 group-title="LAT ",KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+
+#EXTINF:-1 group-title="LAT ",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+
+#EXTINF:-1 group-title="LAT ",Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+
+#EXTINF:-1 group-title="LAT ",RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1 group-title="LAT "-a/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Southeastern Channel
+http://147.174.13.196/live/WIFI-1 group-title="LAT "296k-540p/WIFI-1 group-title="LAT "296k-540p.m3u8
+
+#EXTINF:-1 group-title="LAT ",TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+
+#EXTINF:-1 group-title="LAT ",TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+
+#EXTINF:-1 group-title="LAT ",TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+
+#EXTINF:-1 group-title="LAT ",WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1 group-title="LAT "-a/playlist.m3u8
 
 #EXTINF:-1 group-title = "LAT",DW
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0011
@@ -348,6 +1372,1327 @@ http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://
 
 #EXTINF:-1 group-title="Entretenimiento", Multimedios Costa Rica
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", TDC
+https://5d305ce2c243a.streamlock.net/tdconline/smil:tdconline.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", 13 Max Television
+http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Quatro TV
+https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Unirio TV
+https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", TV Mana
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", RTN
+http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Litus TV
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Televida
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://narcoplay.com/wp-content/uploads/2018/05/NEXXO-TV.jpg, NEXXO
+http://ss6.domint.net:2106/nxo_str/nexxotv/chunklist_w286018438.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/zcWVO21.jpg" , UNICANAL
+http://45.55.127.106/live/unicanal_src.m3u8
+
+#EXTINF:-1 tvg-logo="http://telecanal28.net/wp-content/uploads/2019/03/cropped-logo-tl28.png" , TELECANAL
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oZpbyy5.png" ,PANAVISION PANAMA
+http://vcp1.myplaytv.com:1935/panavision/panavision/chunklist_w2101755274.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xJoLadg.png" ,TVO CANAL 23
+http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1682980534.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80097_Maxima_Movie.jpg", Maxima Movie
+http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45120_Camara_de_Diputados.png",  C�mara de Diputados
+http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45125_TV_Senado.png",  TV Senado
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84048_TVN_24_Horas.png", TVN 24 Horas
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45130_TVN_24_Horas_2.png", TVN 24 Horas 2
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79045_Meganoticias.png", Meganoticias
+http://www.m3u.cl/channel/meganoticias.php
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/74165_Bio_Bio_TV.png", Bio Bio TV
+https://unlimited2-cl.dps.live/bbtv/bbtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83832_Pauta.png", Pauta
+http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/68904_EMOL_TV.png", EMOL TV
+https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45135_Futuro_TV.png",  Futuro TV
+http://unlimited10-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79750_Cappissima_Multimedial_TV.", Cappissima Multimedial TV
+http://cl.streaminghd.cl/cappissima/cappissima/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45138_Antofagasta_TV.png", Antofagasta TV
+http://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45137_AM_Canal.png", AM Canal
+https://v2.tustreaming.cl/amtv/live1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/60296_Holvoet_TV.png", Holvoet TV
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79754_Atacama_TV.png", Atacama TV
+https://v2.tustreaming.cl/atacamatv/live1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83650_Desierto_TV.png", Desierto TV
+https://unlimited1-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45156_ThemaTV.png",   ThemaTV
+https://unlimited5-cl.dps.live/thema/thema.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79760_TV2_Choapa.png", TV2 Choapa
+http://unlimited1-cl.dps.live/tv2choapa/tv2choapa.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45164_Canal_VTV_Los_Andes___San_Felipe.png", Canal VTV Los Andes - San Felipe
+http://unlimited5-cl.dps.live/vtv/vtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79761_Girovisual_TV.png", Girovisual TV
+http://movilstream.digitalproserver.com/girovisual/girovisualvivo/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45140_Canal_2_de_San_Antonio.png",   Canal 2 de San Antonio
+http://unlimited5-cl.dps.live/canal2/canal2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45128_TVR.png",  TVR
+https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79752_Sextavision.jpg", Sextavision
+https://590c5dc5c3271.streamlock.net/carlos107/carlos107/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/78412_Campus_TV.png", Campus TV
+http://unlimited10-cl.dps.live/campustv/campustv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79756_UTV_San_Clemente.png", UTV San Clemente
+https://v2.tustreaming.cl/utvsc/live1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79801_AncoaTV.png", AncoaTV
+http://v2.tustreaming.cl:80/radioancoa/live1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45145_Canal_5_Linares.png",   Canal 5 Linares
+http://unlimited2-cl.dps.live/tv5/tv5.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45142_Canal_21_Chillan.png",   Canal 21 Chill�n
+http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45136_Estacion_TV.png",   Estacion TV
+http://unlimited1-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/81743_Canal_11_de_Cabrero.png", Canal 11 de Cabrero
+http://play.streaminghd.cl/claudio441/claudio441/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79762_Teleangol_Radio.png", Teleangol Radio
+https://unlimited1-cl.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79753_Ufrovision.png", Ufrovision
+https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?uid=4CYnkLAj7M9zgLJuOz1ucbXgVGLF4Ba7&sid=VDIBvHfuGPkOkE6eprZDTOvNB0vQd9aY&pid=FMomb4ptqDMRwJomX5pCOoSDr1CGnBdk
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45163_Universidad_Autonoma.png",   Universidad Autonoma
+https://unlimited5-cl.dps.live/uatv/uatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79764_Pucon_TV.png", Pucon TV
+https://unlimited5-cl.dps.live/pucontv/pucontv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84122_Temuco_TV.png", Temuco TV
+https://593d7fe3c9b0d.streamlock.net/8172/8172/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83651_Canal_33.png", Canal 33
+https://590c5dc5c3271.streamlock.net/eduardo555/eduardo555/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79765_Decima_TV.png", Decima TV
+https://unlimited5-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79749_Canal_Chilote.png", Canal Chilote
+http://hd.chileservidores.cl:8080/reseller/chiloe2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79759_Santa_Maria_TV.png", Santa Maria TV
+http://unlimited5-cl.dps.live/smtv/smtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79766_Rocco_TV_4.png", Rocco TV 4
+http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45152_ITV_Patagonia.png",   ITV Patagonia
+http://unlimited2-cl.dps.live/itv/itv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45154_PinguinoTV.png",   PinguinoTV
+http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/81735_ZP_TV.png", ZP TV
+https://5cc309e93b721.streamlock.net/8386/8386/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83637_Telesur.png", Telesur
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83647_TV_Marti.png", TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83646_Zee_Mundo.png", Zee Mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83643_Arirang.png", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83638_CGTN_Espanol.png", CGTN Espa�ol
+https://live.cgtn.com/cctv-e.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83636_ETB.png", ETB
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83644_RTVE24.png", RTVE24
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83642_Rai_Premium.png", Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/83641_DW.png", DW
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45162_UesTV.png",   UesTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84845_TV_Turf_Movil.png", TV Turf Movil
+https://janus.tvturf.cl/playlist/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45108_CDO.jpg",  CDO
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/79758_Valparaiso_Sporting_2.gif", Valparaiso Sporting 2
+https://unlimited2-cl.dps.live/sporting/sporting.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45113_Big_Radio.png", Big Radio
+https://unlimited10-cl.dps.live/bigradio/bigradio.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/78105_RUIDOS_TV.jpg", RUIDOS TV
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45116_Portal_FoxMix.png",  Portal FoxMix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80111_Alegria_TV.png", Alegria TV
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80098_Maxima_FM.jpg", Maxima FM
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/47360_TV_vconline_cl.jpg", TV vconline.cl
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+
+#EXTINF:-1,CBS News achoAPPS.com
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1,Lancelot TV achoAPPS.com
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T6nilcW.jpg" group-title="Filmes 2019" ,Aladdin
+https://4.bp.blogspot.com/-oEsqimd5qes/XWpUcRFoAHI/AAAAAAAAKZ0/UkOwA6Qt_YUdw3UMU7FewMrmQalKEGLngCKgBGAs/m22/Aladdin.2019.1010.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T6nilcW.jpg" group-title="Filmes 2019" ,Turma da Monica Lacos
+https://3.bp.blogspot.com/-OzgEUM6NmfI/XWpUcQt_tNI/AAAAAAAAKZ0/hSNXSDf0iSogZDO8kU2kHCDFYyYSlEKkQCKgBGAs/m22/Turma.da.Monica.Lacos.2019.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dXIbXQGmOK0UX8akdwaYMUqVHA6.jpg" group-title="Filmes 2019",N�s (2019)
+https://lh3.googleusercontent.com/uFIg_VL0QRZIEGP_1Zd0czVY1-6D-Scy8GLU2H8n42BLfCe_XoLvixh_C1siJGT7daaeV5WU23f4UKMA7Qb8yhEoJjEhfyvaAv4wxvJg4FygRJB9Vg8bUwjp52jutu9j49B68TJwTA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dXIbXQGmOK0UX8akdwaYMUqVHA6.jpg" group-title="Filmes 2019",LEG N�s (2019)
+https://lh3.googleusercontent.com/QYHNC32Zg9SNWEFLKAi2zOUBFyjefo4CRC3Z-77Vt8mp-Ka02MOgopcd0Qc_NQvkmpCOpqj5CLVzPsYKOsmrcTSyaWdndarWB91rEDsTrPbI40lPeE20qHZYhR2VyH1qXvWmbUD1EQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xYOD9vaXc6vx0ZkWsX2lKV73j8l.jpg" group-title="Filmes 2019",Min�sculos 2 � O Filme (2019)
+https://lh3.googleusercontent.com/Kv-qk_kknOBtTfYrzdXJYWykUuWbsjnJds77p9vnQJhRorK2Ks-5zTX_6Rb-LgapFMhNq8IbBAutjWaiiLD8qHIUqIDNkXCW6YHSMESEocHVn1KTIuTwoss8rqyvIoSnXVUT9csrUQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ocittoEQCmUDVaNPWFON6zm0WJ4.jpg" group-title="Filmes 2019",LEG O Inventor : � Procura de Sangue no Vale do Sil�cio (2019)
+https://lh3.googleusercontent.com/92kQYnE6N1icX_OnNb0HBmRGdJDo5OUccl_0MJiYX3fzLdcJQc_4b1EJP1ZsTpt6cl7AfRXD68U7t35VlcsRm6p2mlgL7nrqKreNXT7opBTRts_9aSI_3Hi9NPegOBCgoFVIZqsPnw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ocittoEQCmUDVaNPWFON6zm0WJ4.jpg" group-title="Filmes 2019",O Inventor : � Procura de Sangue no Vale do Sil�cio (2019)
+https://lh3.googleusercontent.com/zoYZWkBaUWLFoMKAlezV7xQjSp-W8Eh811EAiYmeYqfwpKCxgCZXexUTUDR97E2lEhV7GvHCee4sfGb8nKF1yiE06UBIypxrWkAM6K7QcoYqSLqjJxfoGconUvtKgsQF2PE9rJskbw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/uZXaoRQLhAaazI16Ku6ytOtLAc4.jpg" group-title="Filmes 2019",LEG Wig (2019)
+https://lh3.googleusercontent.com/UKpIqWxFqxFiGclFKLPywQwATLwQppRNof7LQLv5SGGLsrtPf5hDDyMamW6V22g1T5GbXClFpYW3AW7u9t03Sgxx0-g-JU1Z_JppNKoXDN3MWmkh45eEQtgOk-KvXHTomJo_1l4GhA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/uZXaoRQLhAaazI16Ku6ytOtLAc4.jpg" group-title="Filmes 2019",Wig (2019)
+https://lh3.googleusercontent.com/HZafeAb-sv2NYEtS1BdrQ55Qa4ovD7HCArHI0DpSECSUvrE1Q5cKzQrgxUKl6hDYVFakHiJG_wEckTAulA9VGdtqvpKOFvgGaNvz8bqB7sdSg2MWLrRHHgKM9vZimUGh6ZWAADfoCg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/zV4IrBpC4efLSxqyDBaHsrHjXB8.jpg" group-title="Filmes 2019",LEG Shaft (2019)
+https://lh3.googleusercontent.com/I3uVFptOmwxdpXE9-behk3ei9bTecVdO6gvqsrJhFyNXdsc7WdMW4FsWRx1WH4NgfolpAMLCUA2t_HEt1dBfkwvmwBOHCdv_8ophqY4xdfDJBQm3Unzv3Uyg6jL4o1ix1mdI2SdcPw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/zV4IrBpC4efLSxqyDBaHsrHjXB8.jpg" group-title="Filmes 2019",Shaft (2019)
+https://lh3.googleusercontent.com/9IIcvyY5elCc9H2msdgn3zVH2gkVT6RJDSWUzke1NPpT8lmi9ZyCRP7GPcfYcwK91IyY6lu8OwQZltZYSYq4yDM3lGilWqu0qXfUnWLnHxUo-YC9YIoDvEtI96HBGaHt-kdnmTme1g=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/zecOplwpW7TlP3ZKSAKov1ws4b0.jpg" group-title="Filmes 2019",LEG O Mau Exemplo de Cameron Post (2019)
+https://lh3.googleusercontent.com/W9_fR7JatecXXjEZJpOC9d4cgMhOmIEMLDDdpHid_zTC30PWn34MSqtcX66ZidaAANSO93h5jiuKBKG2XcS4droVhkxp4Upg4ccus89nGNx7PZfC0PkddEMc9nLgjuR2Zaia7Tllpw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/zecOplwpW7TlP3ZKSAKov1ws4b0.jpg" group-title="Filmes 2019",O Mau Exemplo de Cameron Post (2019)
+https://lh3.googleusercontent.com/Hspr_PvvKRAfJca0iQsErOo8Vs27JfpTvSJun2KLPixU3JtUvnC6lb3vmi7x8MG5TKnwadzuQ1m5hB8xeK8ObwqEADU_0_bS01sfbVm5uudJab4AOZRH5RHj8krE35B4X3DWEhNbDg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/8aaXBBT5Hwo7Oab8wyNyoN7z7mg.jpg" group-title="Filmes 2019",LEG WiFi Ralph � Quebrando a Internet (2019)
+https://lh3.googleusercontent.com/N-kDl9TZIjjrn84FwvGN_jJsARSlLIffQrNXjVVqe5qq57hPSpni1okNYebCalTA7PPQMVcVfs31dFLCG4ibIDI1s3dkdG47HZPzHL7SzUypHHaB-bD8ybeKghl8n6cL-18MqLbRng=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/8aaXBBT5Hwo7Oab8wyNyoN7z7mg.jpg" group-title="Filmes 2019",WiFi Ralph � Quebrando a Internet (2019)
+https://lh3.googleusercontent.com/O9AkqPUXtUZGV7ctOECdAXWsFZre8OxypnP3nEvpfCJRtYtOgnfjrzbouW19KA53bjczWf4EMk4otI0y6deHCzbODBOw5ZTN_LvvCbU1sIbBlqAzRMBmBHPqJfX-iI2hlPP8nXOHxw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/F66gh3HxLLHIsaxvH1zJSgPAsf.jpg" group-title="Filmes 2019",LEG Cemit�rio Maldito (2019)
+https://lh3.googleusercontent.com/YGa2ywcbgU0_Y_yvIZOW0cVbsDb592z5XTJC901kFNLObJaIfhdlnj_-GMkKIyAI33Jxk_KtnVcrT_u_NsHKJY1901EBLXqzkHyMcY_ciSCbreh-k2l1H6U92UO0c117b_bqs9ujhA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/F66gh3HxLLHIsaxvH1zJSgPAsf.jpg" group-title="Filmes 2019",Cemit�rio Maldito (2019)
+https://lh3.googleusercontent.com/FcSphtDnokqhBnOlbTb6kzF_XdwfhI2sM0c7sRvYYtIUbWI4E-JrzHuRNrY-YqcfJahxA3CO1ZAGAI_LLXjXfn1G3q-Egp7WlS-MLfbhG_P1aja966Lp0rDCr_1kfC4govP9gdJ2qw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/9foXVut9F3JXt8nlsafnDQLNHPH.jpg" group-title="Filmes 2019",O Show da Luna Bichos na Fazenda (2019)
+https://lh3.googleusercontent.com/p-jE6I1V3kEHfzHjNls_56X0zM7Eb80L5rLx3yOo6-9ZV1FHQiHmpFKWVa_FWPQuFOONkgZXPK9UT5cVWiOCmZb38cXt87vDSAfCYmnrd2G24xxtFBSDdFS8aMnCL_Is3QtkwAz3eA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1B8pVr4bxhA8cHyv4drb6cSqghk.jpg" group-title="Filmes 2019",LEG O G�nio e o Louco (2019)
+https://lh3.googleusercontent.com/zDvKiL53XrX9c8ApO3yV1_R2Ir81_MkOw60P0F30vH-toRsoeDGie77fU4DwQLFyr_ETI3FAWNKozHGUumFCR2eJjL3T4DpmzoF6BVr8Ie9ea0o9E2YM4xccfJIhDm-JjyZ4k_WnQg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1B8pVr4bxhA8cHyv4drb6cSqghk.jpg" group-title="Filmes 2019",O G�nio e o Louco (2019)
+https://lh3.googleusercontent.com/JhCRI15IeF4ZlSWqlAX1fZvq3v6dHqdWgnJKC8AR6YDLtR4DKZR9X38VrBBznc9Ci11oYoVZQwgjJqKT8vuXX1_N2lzgwgp_BPoaa0LDPDSJa4qyNcTSeNeV7Pc4RYJeWgMVH8CwYQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/suPWmUus9t3sArNPmOz9Z2MiJGx.jpg" group-title="Filmes 2019",LEG M�e Obsessiva (2019)
+https://lh3.googleusercontent.com/LmPvBnWwgAArfWIGG33-G7i9EqGzrD8brF-alNw32KBBUVy_hccHecUWZL42iZPuZCH-gTgbxnWyKQ232l0rcML9lMjnxUilg7OwYvrz4UAQmP-xm9LDkV3Hkemt5w37LpBdLYeXQQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/suPWmUus9t3sArNPmOz9Z2MiJGx.jpg" group-title="Filmes 2019",M�e Obsessiva (2019)
+https://lh3.googleusercontent.com/ijHE3Y_WpU_eUj4atfIx7Dn_U9M3yy88TLxaQXsHbv1V3wETZ6Z-aXMIyncinx3HjnKKxmIOW2sS_zQ893SVGYWG7XBeXHADvYRcPpRZdAxXKqoI6f3mRoj7l2eojnKRGYkA15MctA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/lHwEhsUaB9D0gXO6M08H5tdb2Vx.jpg" group-title="Filmes 2019",LEG Pok�mon: Detetive Pikachu (2019)
+https://lh3.googleusercontent.com/ZXUOuxlMMCD_dfqHCmA76mKimnE_j8k9qgwkJWcocgZTfF-EPWM9JkMBFUixiLFdZV2MvwNb8nTtpZEqluGaCSqa6X6OeOpsYXTPvHTuve3x905nGbI6t14oOdEEyYOID1-w05xSdQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/lHwEhsUaB9D0gXO6M08H5tdb2Vx.jpg" group-title="Filmes 2019",Pok�mon: Detetive Pikachu (2019)
+https://lh3.googleusercontent.com/uE4yCX49d9kWerx6H26XB0v4-YID0U1pMSZiP1JU4K5hql1JC6dWJ-4cIcgOlcJp9T4oJFu2uclBHQxYNgOkXGgpT1y9PXFPYvQxE8E3OKmCV2hqyYa0_ai5qHU8GSauCbxi6ICHzQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/9XqRS3Wg6PCdomQYL4qPIju1OWE.jpg" group-title="Filmes 2019",Jumbo (2019)
+https://lh3.googleusercontent.com/64wupcvpDHYoxlG7h5bnnFjkC0dYVfpPLbcJGDWZmBffDVGZmzfY-tNCzYj8imxw6lVZXgyFZQhk-_ArnROfPurATyza1gdI-Ui4WFg0v5tdPcssZxYlNWRZbQ6AF1X_f_cgNxdIbA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/4JC24Qczhu5pOopBU4zqWSGfEnX.jpg" group-title="Filmes 2019",Chorar de Rir (2019) NACIONAL
+https://lh3.googleusercontent.com/5ZDzRC_E6Pj4Q5_XLRVpRsq5MmqM4ZknCY0ccSCHC0iq7PJ6tPKZfIUHmxTtNY3yJmayAS7v7lfDP1MSpTV6BroraUjLbRSayGUt0B-373bWeoG4vCTjr5hINa6LtU_Pl27BZ0XXyw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/n5BV1R0q6IW3h2a1pGWTB7Z40Ea.jpg" group-title="Filmes 2019",LEG Alerta Lobo (2019)
+https://lh3.googleusercontent.com/3sXMkXW9lIhUCtZxDoZDV6MIcKG5ljtQ3RiXiYZ8WZ8bagphbnGi3pr1w92ES6CvlPx__H7f4fdSxB6GUoYH5dguN7LpjFhYO01CqQYyVdAbDI25W16dvdhwl7zgS1bmHnBoNn8p0w=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/n5BV1R0q6IW3h2a1pGWTB7Z40Ea.jpg" group-title="Filmes 2019",Alerta Lobo (2019)
+https://lh3.googleusercontent.com/5WYmasDLOAAH4dF41wUQFC4wH2qIhNG8GrQUOSHw7w1kJ8A4lvt5lyagvClIyOhyksuKmMleISTWoEoLofhay7soBcHBXgpWSu-dUCztib2MZKItUCmGiQ_I91_oy7rajJgrVeeA9g=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/fCQ13cqd02dop7Chkov0fPl4r3t.jpg" group-title="Filmes 2019",LEG Deadwood � O Filme (2019)
+https://lh3.googleusercontent.com/7gIUWWGfO5Y8xq9xFh_mWj0bcSi2gZNjn4U-eaFYKOGIPKtZ607S-EPm_NU6MPejKHugNIQCZj5zTyen3eASpP4AHu9k3dx44UJWld3nMUdDXxJUdSmSL1a7L8aPWq1zqP2RQVMJJw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/fCQ13cqd02dop7Chkov0fPl4r3t.jpg" group-title="Filmes 2019",Deadwood � O Filme (2019)
+https://lh3.googleusercontent.com/s-62XAzlmEqtWnThoGwnU4ueSD-6kCnrFGQUl5BtDi3ZJq-H4TZsdEaiAql-eGIu7xYkQCMO_pwT3X3lx4HWFScUC7v3FFYqioB_ZFj_4sDd4OMekNdaLjaZ3bzMpp-Atwtmyexm0g=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/u1slbSDb12nPxJKMwSi0Xuz1EjD.jpg" group-title="Filmes 2019",LEG Nada Santo (2019)
+https://lh3.googleusercontent.com/slm1KU4uTA0qR6S0sr3eVz1Z_s6MSBnTrvtG13IoHtcndS_Z8JnSAcBUIM8bDx_ufKcIDvxE2uJ-TTCiKkW5-USBqcavCUCAf3Tcys7TWw4UbDAyf50Prf5zzC0ETAELPQVPv7hQOw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/u1slbSDb12nPxJKMwSi0Xuz1EjD.jpg" group-title="Filmes 2019",Nada Santo (2019)
+https://lh3.googleusercontent.com/ooMSuPyr4ziwzjTjsok_fhJierzi_4jNyzfGrpLxMrrpiRiaoqFb7e-Vn9214Ril2dGi_9dDLWqKh-OEKthIJYdgPeYKTbHEwam3bQckNOw2z8HtsoohJTejZ3D8a1nxv5OgdHcwVg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/lfgkquim6jBTtw9amKH5lBB4hUS.jpg" group-title="Filmes 2019",LEG O Menino Que Queria Ser Rei (2019)
+https://lh3.googleusercontent.com/Wics2qbemO8ELRfYMV51DG15t8DHqhghpoPydfsPfGc4TYPjfDINH6TriBSFbhiHUMP-sAxMAK4RscI5sJc8fPwMbuUK-OxlDPqwzdGAGJrwhjCtNW2RX80oa1AAU4V5JR4RJhXMKw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/lfgkquim6jBTtw9amKH5lBB4hUS.jpg" group-title="Filmes 2019",O Menino Que Queria Ser Rei (2019)
+https://lh3.googleusercontent.com/IwErBz5xBv9yA2-y4YxF9ysKcXF7hrBOuRj3pOEjZO5-JQrFCPpyxsQ-Pe0tqjr21aeoi8fjiC0R8EN0RcD324-py0-oDt1bpdXzDdwRDGVzsAoT5ctOAmcI5O1fxtZrpKyk-N9pRA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg" group-title="Filmes 2019",LEG Capit� Marvel (2019)
+https://lh3.googleusercontent.com/kNED6QV2DL9r-pZL910Os1lw5NyucJCeaoA49CuvjQniEPLDeLonBTw2BiOZtGUHX_85kkjFvA_wyRIRpG5f5uEiFDYilvCq3A1hTzE3V9_TIcGaMO68tO-17TfFQSlgBYrEV5OYqw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg" group-title="Filmes 2019",Capit� Marvel (2019)
+https://lh3.googleusercontent.com/KfH3RNJLkJ8SiyOBmYC_GGiiz_qddcTaVBB9LvhKmGtdhL1pHls0pNt04j0APkKudODiQGhPrWHtX9bOPdLUfcKjSpSL3Ul_h8a4IG_IItTxSeY_om_zCTIT0Dx7BJ8xI7lTmtGPwA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/5FcFLK1Cb4x3KDCjjpBPJuRWb7T.jpg" group-title="Filmes 2019",LEG Poderia Me Perdoar? (2019)
+https://lh3.googleusercontent.com/Pk1k3rZH4Oh0KIrCnskUnC-rEIzDk1IUGY5k88donrjHIdNbKOg72VBPqhgZsQkrLt2VzUxus3_er927KqlZNyxZaO7Do8C4pJB0Iau5VeatM7khzy05LDz1rrckRw2hk7i6p3RizQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/5FcFLK1Cb4x3KDCjjpBPJuRWb7T.jpg" group-title="Filmes 2019",Poderia Me Perdoar? (2019)
+https://lh3.googleusercontent.com/6to0mH8pweZBFclxHtU_NLw6FJqhX2YZHTDu-0ISb3sONxxCVUXJkBdXngEFw5BMrm9HbQOnlyz4A8upIjqpE3C0SsCbRxHQFzUrDdXUGmxSD0MSgZmke6Y2NtVdN-tS7Bxq_2NI4w=m22
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ucN6aZDfnOU/XMKB8z7lF2I/AAAAAAAAEEc/tm_gc0DcQnIr0mfOaYImuPVyr4dJ2nRdgCLcBGAs/s320/Bannner%2BPaix%25C3%25A3o%2B%25281%2529.jpg" group-title="Filmes 2019",Paix�o de Cristo de Nova Jerusal�m (2019)
+https://lh3.googleusercontent.com/G3oNS_j5Z14iqV8476SVw39lBm5JJlhdGnQEaOk7G5xh28IUnNOUEdjpVJ7D8eVfbWR_RIcIG7QJlfc-mmrdGzBP0KoCHCgamu_ryOX6Wsrj0yQoB2NjQpOTxPBdXJn0LwrD80ImvQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/lYv3Mwm3t7FWEMli8ASMIhZBUBC.jpg" group-title="Filmes 2019",LEG Amigos Para Sempre (2019)
+https://lh3.googleusercontent.com/X8srue6z2znuD3geQxSybBINZpaDMhCZuGnpnnzWUdB11-ymUGc7LlX1c-70IKOm37_IzcKS9cYd9cwDGT_qeTWV8wyy2zRondaL4QeL8xw1XdItjIE0nmTL-acp3DEULvAmT50alg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/lYv3Mwm3t7FWEMli8ASMIhZBUBC.jpg" group-title="Filmes 2019",Amigos Para Sempre (2019)
+https://lh3.googleusercontent.com/8_UW72LnbmEJ5VotVsXR19MwW9iowyDTnnIP1h3wERmjCP9S5ySSQQxoZnJhUfLgytlwRnbZLUUEvhOn8zewutXsUO7SxlK273Fspl6n6HH7DsWmsuzPA8izcLqp1LiQCm_3oL1giw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/k6tF0HDUJ7UbGz76pitj1OPTX5X.jpg" group-title="Filmes 2019",LEG Uma Aventura Lego 2 (2019)
+https://lh3.googleusercontent.com/3p1RmbiFa3YBU9qwaNZaezZwItzrdRE5bUhb3ta_4ZfFvYKZhEsxjWdFkVNMHusfHVAe9kFnzzJZsBB4gP-qR7MMcBqJQJ-fs9PIprT3C0CfXGZtO_KUrhYXCGrKlFR7GzlmedwZBA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/k6tF0HDUJ7UbGz76pitj1OPTX5X.jpg" group-title="Filmes 2019",Uma Aventura Lego 2 (2019)
+https://lh3.googleusercontent.com/uy2IWVbFj4_lu3wUHrHFITYte2j3Yuu_X1WO-Ixe-jLHrtXzBzyh83pzCMbFlsnACvkUC4ZJtVJzbPYfC1AOvm8eR4Vs-vyBqh6StEWlttzMqHZO8JfhZK44KrrvdDpyjxj0m_WxPg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dVCN9aIJHeeNmEtmo4fxSpJ8xBK.jpg" group-title="Filmes 2019",LEG Asim, O Vigarista (2019)
+https://lh3.googleusercontent.com/jhTu2Kt573xWEhB6q8hqMti5fKVekw65CZ5HRCyDrcAP2dNEuiWZIGyDk7GCMoWJzUeFx4F_8yVcqH2uCwCPGDpvBXZxBs2gRkmAaLeOsR529i9kThuFakD5n7cOgDiiskhS3yEzLw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dVCN9aIJHeeNmEtmo4fxSpJ8xBK.jpg" group-title="Filmes 2019",Asim, O Vigarista (2019)
+https://lh3.googleusercontent.com/HvqY1ZgbEPR6r_Khm-ce8dzW6ibT_qJ2JjqQZYUFmiR1fOt4LsYz9X7AyiLo9rSVYGewEWKIB_Af9X-jJ_AIrgR2jzMxzBvXQ9ENJAgb34yXvJmtkMqxcovN3hmOgOdLkylSJBMs7g=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/9cqyRlLap9kkej7iDMvu1xfl783.jpg" group-title="Filmes 2019",Cinderela Pop (2019) NACIONAL
+https://lh3.googleusercontent.com/Al3hhCeBtI3U1Z_xTZ_sGy5hjssAWXLqupG24Ya2JN6bWZ4xjiZY8qFrkdZXZz-bRnL9WaK48ImSXemUUp9N1tGoNDDUqTMf8qa_rG9_OKwkIGZgdoTFGpNdo83pENeAtQsM2vKtcA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/uAfixuZIFVbWIsWytzROJDY85D7.jpg" group-title="Filmes 2019",LEG Virando a Mesa do Poder (2019)
+https://lh3.googleusercontent.com/oBetlPkLuUNUX6ao4HX7MgnwEvjBomqCtlEbSBNKDg6Xp8D-fU3s0ueAaTdCH7kwCei_f-Um7d4tDzkYJJIp9OHdTDn4kWtC_DnFYIswmORH1IISVPP85282eYPfGLiyz8yhRmCSIA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/uAfixuZIFVbWIsWytzROJDY85D7.jpg" group-title="Filmes 2019",Virando a Mesa do Poder (2019)
+https://lh3.googleusercontent.com/iUUaBK_P6SEF0JdZEx8Rgj9YjvkEeXrrlZzuMSP8qih46iakFXNC7vM1nentpR-DgPVlys4zgRO2wGJZrDt7wM9qr-t-65h-4YBHBQJEJAGQeL9p6znyS5mrTuxEfUyGIMn7MXipBQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hba1qQ4Jon4fmCkylfzDrdbBcAo.jpg" group-title="Filmes 2019",LEG Jo Pil-ho � O Despertar da Ira (2019)
+https://lh3.googleusercontent.com/t03XfcAf5_ajD58mcRVRqsk-lP_n8Ne0RLKM5t2YksqoglzoQBYpbV-NIq0-fjZhqmjimrszrMFLJX9Mkjkd_x6SedZfyF0oniG0phA3CEznM_y4npzSvXn6IcnQImClUzjynhrbew=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hba1qQ4Jon4fmCkylfzDrdbBcAo.jpg" group-title="Filmes 2019",Jo Pil-ho � O Despertar da Ira (2019)
+https://lh3.googleusercontent.com/doyBsaTWhlDRZTimHERELwYcgMg8RUgD_Isvh7m4odvdpzLTaRwm2hKWARbAESOBz5KD9uV54hJE05bcmMrVjZ7PC-ER-hBfodBWcvoyR4nStPq1LDUkvkV1BBnVp5OA49CjszjF1w=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/4Dx1PAOPqwHPESFAAVnRFzGYPjF.jpg" group-title="Filmes 2019",LEG Minhas Fam�lias (2019)
+https://lh3.googleusercontent.com/7mGQgADwh7BC7y8035_jIqBVCHzQ_O9k4VOYW0BJI8VagzZq8v244xf6EwaXrY_X47EMBdw33tp11QMS2zAda_1nJGaHnW2vtTPNlw-YN2IF7c2cw_cLxCwAa2ZnIgvUsU0eoDWQ7A=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/4Dx1PAOPqwHPESFAAVnRFzGYPjF.jpg" group-title="Filmes 2019",Minhas Fam�lias (2019)
+https://lh3.googleusercontent.com/DgSvDWoEhhmbQOxzyFlWSmmUyeuwrcoCgBynQrRt09iHHE5vLu51fqYW317quLe6Ab8Lj7wMKe9F6DqliQol4_zSLDaq8YP_d3G03m81co7GGkmCU0mCpLDKQGggziVm6lobOB0Qqg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/AqFUYtRJimLwDg5RwQnjYE8Tflo.jpg" group-title="Filmes 2019",LEG Nosso �ltimo Ver�o (2019)
+https://lh3.googleusercontent.com/M6eUsPF0NF-pCD9VBz0PG6OFoUe3ISHpz1n6qLCW22Zm7bVSlc12-O0zf0VmYIZtXUSf7EEL47RkQ9DU4J7-A3yi03F8FTiEsIFTgl5kD39FjlI3Rv4z4-2958r3COIu_dzS325LbA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/AqFUYtRJimLwDg5RwQnjYE8Tflo.jpg" group-title="Filmes 2019",Nosso �ltimo Ver�o (2019)
+https://lh3.googleusercontent.com/ojYoI_3OzkFHONBzhCOVMcnMwkUfo_XyVhD0cNtpNSwGO7_z2IyPysd5bdQkip89HjmNTY9KvoTfPufbrc2njq6Q6lvUc_MVj0bDt7psRVpJGUkghn3p8l19GJzDqZRjClUBok6HmA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1GH4KCS8IgWcDt5toXYFYX5AmX4.jpg" group-title="Filmes 2019",LEG O Outro Pai (2019)
+https://lh3.googleusercontent.com/JZLljEH-ahX4iep1BQhtuy6BtVNDpuBJTf7OG74Zz4X6kZUucEFQKYfX23o5s60EOJgtbiyvqDbogIafiz-cXvQhHQH4_nDUs6vhphMGcErbkHTEzRx07MyrQHs62aGkfdkU4NPlxg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1GH4KCS8IgWcDt5toXYFYX5AmX4.jpg" group-title="Filmes 2019",O Outro Pai (2019)
+https://lh3.googleusercontent.com/ek9CFbcJoiMaoPE-bjDNQlFM3EcNW6KCne18PJQOMRy_QxOadYyoZ0KKEPaZJnMw8sPIvXbAPsqFmM2vmV-Oq_KNhYcIe-3EmKPKz91IPMU6CN2yPtL-CHdz5yr3M3ByzbgH61o_Zg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/l15r2aLqdifXM9GFsJLkOq5Y8SI.jpg" group-title="Filmes 2019",LEG White Boy Rick (2019)
+https://lh3.googleusercontent.com/hQDOo13ZTfGVu5evC3N18FfMmVy7X7UHavYjxWp7k7YDHy3jFBMyS1QQGGX72-V1SMwedF4z_HNOEK4yc_cGZ9H5pSMq-oJLOqsN55Jc1__NrC3AFNpHupZQbI96kAk_MJjWNkYmww=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/l15r2aLqdifXM9GFsJLkOq5Y8SI.jpg" group-title="Filmes 2019",White Boy Rick (2019)
+https://lh3.googleusercontent.com/BcoVuesC3S2AyiY5xNtJ3f1_prqLKpha0ja7iHYyrAthwWXz37PWklHe59hPIwLUtBuyUqj0UAJFhJlduEvhcmRLTxWVdakpk-2N6C1C7gKvcBzOoE2BvZ3fBiiJnhpgX0cU3qvlVw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/rwdbyKJ2PKTLamQzr57OgMuFUlD.jpg" group-title="Filmes 2019",LEG A Lenda do Golem (2019)
+https://lh3.googleusercontent.com/5jTrOjBKMY1kzbGgm1oYceKLEUSXTNOsDXUprk8cmAYQNpD-Ua2pnU0EDVGhR7h8pUTfFWi4qQLvYvcZAtcKRJt4AMRD_sfmRnAIuwTpU7gOB7YuppyZNBRqZavc5R1I-XRb5-5MzA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hrpL7VJW6jHW7cDilpRINLIPzg9.jpg" group-title="Filmes 2019",Democracia em Vertigem (2019) NACIONAL
+https://lh3.googleusercontent.com/O6yrwSz0TgWEvTwMsRo3oJngTGccHkYrIl67LC1Eo0Mt_7s6BJRna36-wrjDXF6rCKBh74XZy3xShoLEEzCOGgxPtNu0VhB1Vg-ba-nx20AFM6GRvqC-vdIjzT7pxt6l7xoRIjiISw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/q3dO43VmKK2k3UTJeKOnHrmT4fq.jpg" group-title="Filmes 2019",LEG Vingan�a a Sangue Frio (2019)
+https://lh3.googleusercontent.com/IycaSt15LpTUFK7QD00okPMFIdvF-34YFNJV8sxLs0lNJdVIb9RTMyMcEPBD1nT0c9FJHqlouwUXwsbZdOMxHjNF2wjSv-lTXEWIEomjpqTdgUF2mJZQySfavqdiJMMKjQconKclfA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/q3dO43VmKK2k3UTJeKOnHrmT4fq.jpg" group-title="Filmes 2019",Vingan�a a Sangue Frio (2019)
+https://lh3.googleusercontent.com/7IfSviXWS5yO78bqc0mtAeZHG2lR6DBALWI9-RM5JQk4dAlLmJ9eN94c3zpip3VgYwqXbw54npJkdhn5KfRYtUVqkpiB0gO3UAlSzlu2E2sbr7IQn7S2S0-LaSt-pO57gK8kmiZKQQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/iIAIlKKk0r0GCFeDo2SNFzW8sbS.jpg" group-title="Filmes 2019",LEG Maligno (2019)
+https://lh3.googleusercontent.com/cDDD6MfZ3FJ4PUlARnv3idrlfs2Vvm64Qk0fSZ4Gr7g4EwB7qj436SiBJJeXDG-jrLMT4cD4l9Tfpkxo7n_Vt-pL4717dipKnDtQ2a3rFjclh_o9GHjPmf2piSp6K6ntcy9EFPRTUA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/iIAIlKKk0r0GCFeDo2SNFzW8sbS.jpg" group-title="Filmes 2019",Maligno (2019)
+https://lh3.googleusercontent.com/yQxqiFhfcOo6d8ILFlMskv3CQNRum-NKp4-udMrdibJE6BUYvc6TQPl53VA5AbbWWH9RRhrn5uTPMgQ2oOXHUo4Ty9eWGABnTicTrQJRDi47INdjQpvVDDGaqyUGQFuyUFtArcd4wQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/b8P13nIvkkizVBzd2RpegsRt5zP.jpg" group-title="Filmes 2019",LEG Hip-Hop Beats (2019)
+https://lh3.googleusercontent.com/KEv6Bj7WiOSG1x1egYIuFUQmVaYUg2J49SvL--A414UtHZohsT0LxtEMWQjFct_PRlSqS3KFDFfRx1vnl-Tct79ugJt4igDLsA58ui5BvGCeopW0Hdoxosq_F53Iy7E_nN8s1Okbkw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/b8P13nIvkkizVBzd2RpegsRt5zP.jpg" group-title="Filmes 2019",Hip-Hop Beats (2019)
+https://lh3.googleusercontent.com/d79JZbqEJWCtliPRXilRdz_W0IMBZq-KXGnCULk7Tc25Ytn-YcE5GNEPi2JTb4EY_fOWsGeMh0YCcSSFB-J54Y5cYywn7Nxk0sBgDTgTytqMx3Ko3AQnBUQu05XScz84z9z3Pc553A=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/6UDohjhxprSjsnZfqbbpuwxDPSS.jpg" group-title="Filmes 2019",LEG Do Que os Homens Gostam (2019)
+https://lh3.googleusercontent.com/zkpCXBTI1YyhxYGmNt8Ag3xgLSC3igPQ77h5HUxUqCTlb73aJUNC-TmYTh711zvMyX9mrhVOaq8vbo_3-Ti0T5SdBISSM_ScwfVGFH0T8P1qWXuefsuBebNMyzQ3DHc-Z2iCcrs2xw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/6UDohjhxprSjsnZfqbbpuwxDPSS.jpg" group-title="Filmes 2019",Do Que os Homens Gostam (2019)
+https://lh3.googleusercontent.com/nP72-nCdighGVUDAsTWQbm6wL6IBR1NYFX-LxoAeN0jLgx_nambH4USgfHVJmmd-tbcw327nPNY8u3TiXbUDP9Tl2IE1yZFMuGMbeHTw_GQXBF5swm-EmfUqVLIaUtZQ0BLbbarXMw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/mdskV5Cdlp9jhbRkjvcauPB6Kh9.jpg" group-title="Filmes 2019",LEG A Sereia � Lago Dos Mortos (2019)
+https://lh3.googleusercontent.com/Q32qViHk88_cyT8uRDhaqti5iRmZPqiy6hnZ3kqlty0U1KVrz0eHLe5r2N_Cnl0AfJujyqDnE_u9jbhIxgOx0DiYN7i_2eEnC_kThpISgptxqNT6RlZbNsltAJwLeu9NztGu4m8L9w=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/mdskV5Cdlp9jhbRkjvcauPB6Kh9.jpg" group-title="Filmes 2019",A Sereia � Lago Dos Mortos (2019)
+https://lh3.googleusercontent.com/kacGt83MuuYimWwJaLAmon9GsViVpQJqMGcSOCw57QSmrmaP34lIe8OOD9qS3-jsRcGczDmfDpJ5boIaaV_75v7uiLQQnvIixoO3Ogj-iCw_BDx28NqssEiY-ys3WIyWjv7PMrYF2w=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/yMicD9GcQWFbOTxjTQHPygxbmdO.jpg" group-title="Filmes 2019",LEG A Rebeli�o (2019)
+https://lh3.googleusercontent.com/ZGRZzacsbzGql4ZuJONTPhEjSQ-98jbmtYfQevwGb7zkJmpCAqzkf1bx2KNY8EvL_eEBjagOfosF64a19WR0Le_SYBk04WaqkOC0hiMksGJ_YG49bZp2kEwJOZyMkyKNUQ4Tnnf_bA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/yMicD9GcQWFbOTxjTQHPygxbmdO.jpg" group-title="Filmes 2019",A Rebeli�o (2019)
+https://lh3.googleusercontent.com/CBJltdYOmuI_DlEvypwVVAkLLzjPwxbX_I7J49RbCjRbUMsnDd9v8K88X9rPi7ZO5ezOQEu1lnAqkXzd-ZqfX07NeI18SgjW_e2opsPj327JwVxF5-rWYDBlYXKY8RCpExE0eKQj7Q=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/s59vSPmZgJzKsotDnKwc2otQc2M.jpg" group-title="Filmes 2019",LEG Supera��o: O Milagre da F� (2019)
+https://lh3.googleusercontent.com/_ZTxRYYtedbTL17OyCkINVg8r6EgxqraZz8yvB28iRODQ1qGBrIIj9TH_UawePWQ6V5kJeCBlcIy3yeZx1NNTmSSquhDv1gEmfu5dxPwm5H2VFPyafaiDYn835UGKcaI6aJ1LMBC-A=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1VxYsfaNTglHFL0hqgJGeXv0JOz.jpg" group-title="Filmes 2019",Um Funeral em Fam�lia (2019)
+https://lh3.googleusercontent.com/stxBQ-62cq4bE-KX22W-69Ewpb0ab9no4E2KPdtZFIsCKAluNK5FQKWtZbmoy0IdQa7uB4ZaozC0QFDe3lpeN4t0m3zMc7luc0YyZ1-6XQ5n6s6tkXO1OyjyjCj1fGPfV6pn95yDDA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1VxYsfaNTglHFL0hqgJGeXv0JOz.jpg" group-title="Filmes 2019",LEG Um Funeral em Fam�lia (2019)
+https://lh3.googleusercontent.com/KvrcUF-F788fDteUeN6We789c5p521Q5Af7h-Kb7ZtjSM49D9eAPpsNCgnbh22DcCfjD7AlRvZ4TPY4ivA3OGP-Tr4KWQBDZkqH8aBMNAr6wFpEQAv_FTPmQOFEkEAeQ9MKd2As_KA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ggX7hyJr3toYvNzu8FtcYNUQlME.jpg" group-title="Filmes 2019",LEG Sobibor (2019)
+https://lh3.googleusercontent.com/Fp8pRuflTTX7H6Fn5T77-oVubJnFUs3ekSH_eZwrQNauqIn7wSwQe4eoI6QQ-xpBn3PpQG5OmaT0F1Vw_ciuI2quujFqS4qAZeSNPd4ZuPe5ib-YaAE5Q6ZZEp0Io3BFKRtiPqYtlQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ggX7hyJr3toYvNzu8FtcYNUQlME.jpg" group-title="Filmes 2019",Sobibor (2019)
+https://lh3.googleusercontent.com/soBLV9_j9PEvXu9KTAo2Yq0dVU_dcziotkKDX_6M8yUObF6Ra8IMz0LMEF3DlWRllYLd-XljxulBhiE34RdcRKUSvM25AgGzJsjuEdfPI3rjzaUJO8mtk3bToKzuk5EVlRlrvaM__Q=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/qM1r04f3WzCBFkUUCSAZKqZD1iT.jpg" group-title="Filmes 2019",Popular e Perigosa (2019)
+https://lh3.googleusercontent.com/QADLLDdnx1X46RMX-ZZyriX8gnogranV0venxrujRgA8G6-Q-oMHGiurzbfntCl5pQPnaUNd-nYYk3J6i2KXCKsJUn6yP31f25LSt3ZMMn5xkxdZT6_LY8GepOZTIqASGg1I7_LR1g=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg" group-title="Filmes 2019",LEG After (2019)
+https://lh3.googleusercontent.com/_FKVcNU2ELVG0lYl5znVc_oD1gCDPznZBAPNNjsrFWjlqSbjUi2_zSrXIlnDA7Viz6ECKDDDfuea3rgupHrbdrpwcTiKujCzlWsUgoRDBpCj0A7j-XY3FJ0udWCmxXLNmeShE_Z_lg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg" group-title="Filmes 2019",After (2019)
+https://lh3.googleusercontent.com/d5G7h6fEHpBk7QxPwRwJ0YKqw2hLJC2DMWRnL5c24AJwXSq7R_YN-hF38epXAuJLMgihQuQuG4tAO0k1jsfnv5G-dZ1Ggm29EG-DrcCTdeFJCfGGC6k9EvdgMYQNOMqX3dgX7UyE6g=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/j98gOdn1HB8WW2dfpq2SK4xq8Lj.jpg" group-title="Filmes 2019",LEG O Retorno de Ben (2019)
+https://lh3.googleusercontent.com/oSo9BszRRmM9U5O_TvUn497U-MgDxnGWWcvyxOAz70Bv8O1KK-1C1HwObcbl3XSylnExkUgTCRMLbtUOsF2dKInru5d18m5rg55NYjYOuf6OCps90a-tVeStNE2t5IVjfuFAlKhSBA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/j98gOdn1HB8WW2dfpq2SK4xq8Lj.jpg" group-title="Filmes 2019",O Retorno de Ben (2019)
+https://lh3.googleusercontent.com/FE1DJRvH3QmslnfCXvaPwBaeSlv-OBS-fp_GbmfooL_UBYOhkGxbdfuQF4798icIfPRn64IjNtIq8EAdI_wY_E7TRg3bf3VMpleCg70Gjg6qqCxVK3B11VeUvOmDnS3BY-Fr4pGAqg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/etbe0OUfPmW1eXDB5rPXrOsKQ4S.jpg" group-title="Filmes 2019",LEG Mist�rio no Mediterr�neo (2019)
+https://lh3.googleusercontent.com/tn6nN5kAT47g5bQ_eBufE4mpN9GRQr8QWEQylzMaS_SD9qL9uyFWYS70f9actWdRB82_OKCvOJKz-kUAxbC2H2QKDUVoQIUuDddHUk6ZxwkmHy18vxwf-_1S9GhuYlFMPhi2DuagpA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/etbe0OUfPmW1eXDB5rPXrOsKQ4S.jpg" group-title="Filmes 2019",Mist�rio no Mediterr�neo (2019)
+https://lh3.googleusercontent.com/Ch4nKcMQ27FpCPjIsyr4zWI5QOZP3re9JGOis0E32kHtlVn0qL5cvyUBJx2vAllwWkmS2bGjGBZbk1-h7zqWPw2PHnMDWRIZLK0Vnl_wq8ZS5zlNo9-KDEzYP00trgYMcBd5NHK3ow=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/u92tB5bowfcEynSpAWOQ4OTbmd1.jpg" group-title="Filmes 2019",LEG Consequ�ncias (2019)
+https://lh3.googleusercontent.com/JFnCrbG19Hg47g_EK0ScCTsBcVmAPasmwrcKj1tmMFDmtu6WdL_cYXDA7s58TIdWSLK9N_zUg4iLzcorc3Mm9Yoq9PzteX-ZvOFJpS3v-Z3RrZfy6ONquLexU72urSKdbAruQcZUhA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/u92tB5bowfcEynSpAWOQ4OTbmd1.jpg" group-title="Filmes 2019",Consequ�ncias (2019)
+https://lh3.googleusercontent.com/VgeILFebWzGB_xi-_t9NNJb1QCwqHjewZI5Lwpl0n4opNUFptjDcBoZJRouQDTOwtW4g-e1ZbgmOCW-VjJYZW3orZplhyzCFcPu128GmEst2U1XqyygPAh92PWUIgvR8r7u027kLIw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/7O75EXzA8sx6gTuCGEvYcG13MYq.jpg" group-title="Filmes 2019",De Pernas Pro Ar 3 (2019) NACIONAL
+https://lh3.googleusercontent.com/9_UjdXpH0VvmkQlkeuvaG5-29i2k_2iqBycu5ToLcofhRrILU3bo_1S5Lxh07QBZy-1Q6p0SvW6HOvKFrkAlk2ZeA89AyKEHno00-rzZkkSL3tZLe7DUUwVw51OhuBHeUFZnBdmzSA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/iBlXvn0FMOU5wibMCR4Dp9RQSw2.jpg" group-title="Filmes 2019",Albatroz (2019) NACIONAL
+https://lh3.googleusercontent.com/LctBNRABJZPf_VVacz8C0rZzDFkFLcSyZH7guwZIeY8cJQ62S0OVM6IQ8l7cuB7lZuLBis2W2EPbP6JiM6gWb0W4x-8w141XJBkEjQueX0hnLqzY8rONlSXhjVnYv4wfHDx7ctoIOQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ir79aBe7lvARbMWa8ZLo0tAtFAk.jpg" group-title="Filmes 2019",LEG Eu Sou M�e (2019)
+https://lh3.googleusercontent.com/gMZI6LS0E1RDgGwVqwOpxONZzSTecHIlFI4IOwh9olMGoge3s92UPFuIeMTZ2rQeTDnPMvW2v_GNIV4EcKYT5uhoPFkQbbJe-K8do-Oufetd2s7Y9txDBMZkkQLXT1-OWnCv-OFE7A=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ir79aBe7lvARbMWa8ZLo0tAtFAk.jpg" group-title="Filmes 2019",Eu Sou M�e (2019)
+https://lh3.googleusercontent.com/t4d9NvC6HTf2hxrOvsnt-dc2w0ME0vktddwWKGZYge0Bb3aXIAm_ew7RmUfEBy_RacU3ipZ92HfBHKF9rfnBLOinR9VTHe5m4-jbP7aJqJSGd76x8NzwE5cngvHcJMBoEhwJvzY4pw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/pXmjlRROuzekC0dzPRurbGABOB3.jpg" group-title="Filmes 2019",LEG Elisa e Marcela (2019)
+https://lh3.googleusercontent.com/8c452WQ16BUsSSKi0kT9NTDO6mqv0O66cvze_1lqLa3YGry6ip28fc2SQEdjPwCU0QQ2pUS27GSpiCMw_1cPH_RMG09PAjVdMLLOkAHx5fPeGaAO_uqHd3TlltFHqUQo-IpzEgSX0Q=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/pXmjlRROuzekC0dzPRurbGABOB3.jpg" group-title="Filmes 2019",Elisa e Marcela (2019)
+https://lh3.googleusercontent.com/e8p0o72mCjg4XPeTebntpamwoyOnb0corqai8iPSrkOtQgj6MqRd_LP-e3RxBD9wJlIJkWaiXvHNfJ4N8k-j81Cqjou2vn_1ObemDLLNFDFzqhkP0RWIR3ORq5efmP2OoTgxcr3PbA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/iCsMB29nGM6REe9hmaVnIFsZ0f0.jpg" group-title="Filmes 2019",Vende-se Im�vel (2019) Nacional
+https://lh3.googleusercontent.com/9lS8hQKMOvJXO9RAyXLbo6noZqbIbybDOHtHBU-PUYMqioCt99i-DXE0DrXUEMjNPkvpsx59p3ZHSJCLv-Yk56d18LaIclBVVWvKB64t0Y3WPChIYpCsyUCzK3WlYPpOLPiQP2uuBw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/4s8lWdnMLKhWIGXuenty7QvXL4N.jpg" group-title="Filmes 2019",LEG A Cinco Passos de Voc� (2019)
+https://lh3.googleusercontent.com/BiqXfSAjzKFtOgi6OkackrK5mKcaMRmF5t6u3geOLIUlnmTpfO6e7yV4t3afCNYPFTqACCQkE6FUnaE-c1m69OA1LCsxvvzq9NoRH27KjNyxgkRyLeYXUNmBPxzrZQ_0Ylo4zz_WVQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/4s8lWdnMLKhWIGXuenty7QvXL4N.jpg" group-title="Filmes 2019",A Cinco Passos de Voc� (2019)
+https://lh3.googleusercontent.com/m-rTxAwVFytzGd4TA5WV25k_GFC-SBPRjiu7RnnkwwNfgpZglOB3Fg_80iP-itsn0v6KnAYajMYlh4mVdDfP5hj2RIrKlreHoUITOC-P6ubQz8o797qkTq6i4i6cj2Bi1G53rvb0-A=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/AgcaQKaTuDMhe6J88ZrA0KpjtWq.jpg" group-title="Filmes 2019",LEG The Beach Bum (2019)
+https://lh3.googleusercontent.com/5KMCOeM3tb-iBYm8X_yuwRPfLyO4fZNSlIPj3ATDWQ9X2coGE-l9VY7ScSl-EIkWpCgciDVbAQSZpvmpTGAgucuYxddeg-MWQVAW8IDrilgabZVOx1LfJka1XIoRkHOX1WiEjeiMmg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/AgcaQKaTuDMhe6J88ZrA0KpjtWq.jpg" group-title="Filmes 2019",The Beach Bum (2019)
+https://lh3.googleusercontent.com/yB29PgRtpbxXoaZQQ9RJA8MA2TmoPrbQJmrJvQ3F9iXh3FFvb074ORukaqGf3sGtSW6aHXXNmKXN3CYKLzfLCCmNq3dWDPYvEoVGmAVBw9vgDoMr7qW91SX4276eMWtIuNwPnIedqg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/2UChOosjkp3ku1IhLhG9Wsrqk52.jpg" group-title="Filmes 2019",Cine Holli�dy 2: A Chibata Sideral (2019) NACIONAL
+https://lh3.googleusercontent.com/UtBvndkyb-rdWkttuKtoKD01P3ZgkNF7fZzhncvOA43V4JeFONn6ccaKbsbVYm8sAWIVEXp2As3tEruoilquq9GlGQaz_IiYQffohS0fJjbdbz8iIZ04F2C0koE3SFdyiCujyi_jwQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/wiFfVndz3COonSvF2GIeqUEoHBJ.jpg" group-title="Filmes 2019",LEG Alita: Anjo de Combate (2019)
+https://lh3.googleusercontent.com/I3ljda59CMiFZ0A3kCWt-oxCcKtAH2iGrqiSHCfINQg3WAxR6aa1pia41UnxS-Bvo-8cGNq5zI9OoBYGx7p8LjC3BjlCpOOK2AYB5DfCwNqfLVj1J0gLMP26B1CyQcDIbyMiUjG19w=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/wiFfVndz3COonSvF2GIeqUEoHBJ.jpg" group-title="Filmes 2019",Alita: Anjo de Combate (2019)
+https://lh3.googleusercontent.com/faO9cxWScPRdJ_etBex_Z2d_v2sIH85WYUjFA0qnqzGtquD6tDhWfhX9F98RJsfb4pzVV37eRnsPhsX8jvyfzPVFEgv-78slZuBqoUMW_LaQ0h8_ro5yWAwFFYaYB7wyfIWE_NrpWw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/279PwJAcelI4VuBtdzrZASqDPQr.jpg" group-title="Filmes 2019",LEG Dumbo (2019)
+https://lh3.googleusercontent.com/7KPQNZ1vHdZE_gHW01oIxVKpXiPfoXJNzpHYVAVahNun4uHuAa-HXg6icfpDBcD9tpi2rIAlQJvo0C7e0_-Ws_MmpQjfoo05VKD-hvEomPGH41AizWuKAsqXtCCPXfYtuD4lIiHRHA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/279PwJAcelI4VuBtdzrZASqDPQr.jpg" group-title="Filmes 2019",Dumbo (2019)
+https://lh3.googleusercontent.com/lGO3NCztsGjiN-PszTAKncGujcs4gx11s_ElVL-yypPoTkn_iGmQwX-_DJkqvSEsfRGb2Wkka55javqhhf4iDUA18B26NhZPdHfNBQVO6guRDBLfOXvoxRlarPSurmRygpUfpfjfTQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/fbxyzSWJ2yoDmz0nDe9etP2K6Ml.jpg" group-title="Filmes 2019",LEG Suprema (2019)
+https://lh3.googleusercontent.com/nHbA_5KH3TJOjK9QCq-gVKZ-zq8M6VpQXNh0Irm4uHRZq1uwT8IZd24aIHX9qqG3DpEtlwYMFsW3QguCyKTws_IuhA4Yyt_bn8y1oFaLcmGh3mB1XcFqpNBhaU1j7S-6vebLH9OZAg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/fbxyzSWJ2yoDmz0nDe9etP2K6Ml.jpg" group-title="Filmes 2019",Suprema (2019)
+https://lh3.googleusercontent.com/BsVSGx6LYpiuHt1zxHXcXwp7G7yKfNWbjajYQ5ogw8t_szOxicidu7SHsAv8OaKN9v8Gnm5N0AIKtFopSdFiICFIHxVD7_9TrLtLh1x-7kE8hA69f7xD2n5Qwmn__EnRnQzBrA7kpQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sxybUNiRTGSCkOOWtOf3kDse43v.jpg" group-title="Filmes 2019",LEG O Parque dos Sonhos (2019)
+https://lh3.googleusercontent.com/Bm51KZ54GV0-yA3Ve8E6PfMBFA-K8j039AHOs-RVnlN6wFPkHcQKERvX8DbCOxmBGRy7K-tPity3drALfRLG5XVHOeev0vESLYDlNs8Udl0mJhwztGyR7n6aoxarVXCjnmRFASxdzw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sxybUNiRTGSCkOOWtOf3kDse43v.jpg" group-title="Filmes 2019",O Parque dos Sonhos (2019)
+https://lh3.googleusercontent.com/bu2cq6sqFspJfqLihL_L5cK34n7tcJOXoiO-lcfZQarXbusKGgIx6I8nKAkno33zQOaQ7PPTbbcdrQyPIwDCO0gXb4YP8Cc0HISJNtOqYNQ9bG0A69wJqYX10pKO0DXDv-ww1iyMIw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/mscdZrk8k6VTVOgbVF5IpsaA8sK.jpg" group-title="Filmes 2019",LEG Oh; Ramona! (2019)
+https://lh3.googleusercontent.com/rPD-Kuux4Nski1CWYKBKYDZN0WtQSsy5PYqguYRSPg2KrhNGPu4Fkouj1lTwzLUWLBRgY1tWnqKyFvpQ4UGMMEem5AAoPOLsbE-ZWkUWI5WMM7iKMGhGafuMz34fMbnKYoHR1Fh9nw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/mscdZrk8k6VTVOgbVF5IpsaA8sK.jpg" group-title="Filmes 2019",Oh; Ramona! (2019)
+https://lh3.googleusercontent.com/EBo1kgnZ0-MjuLlYZie5H_jljVRBZvtwa9xM3sgEJWrxHUkpAS6NZRr_hnzls1fVo9VHG5A5i8kVDs_BTlj6o_HsaL3sUMVR8Tpx_XDWH7IWtRMUKRO9l0cXbwVtDxwqqUAmHiCnxw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/mgHu3OcwEFAm3GV9p2AoCoCEJPP.jpg" group-title="Filmes 2019",LEG Rota de Fuga 3 (2019)
+https://lh3.googleusercontent.com/4utQsECZlgHP4lgr6xbRum3QXM7c19XLCJxdddiiBRCIhJmpece_U4W_PzBFrH4u8KsCOlqB1RqA9NF6TT1WRxYaK9CV7ArQGb79uszbYwTrEW_KiGrG5inuiJlTJkD0KjpHxwEGGw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/mgHu3OcwEFAm3GV9p2AoCoCEJPP.jpg" group-title="Filmes 2019",Rota de Fuga 3 (2019)
+https://lh3.googleusercontent.com/rsbdeTE9P_YdC1e_EV-C6yEoDT5qBNbN_o0Y4EK_UyvwAKy1mB65yoPWZHr-rt0oQ-AsnxUz2RpAfBdLWG_u0ekvr4tRPjeRR10gShFaa6esaxxBZkITGcgjacDkNQpb27-Y0UW4Nw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wuicV3wiHje0Np1tb2AetTJLB9I.jpg" group-title="Filmes 2019",LEG Shazam! (2019)
+https://lh3.googleusercontent.com/KsiKqMjErmLTuVaPIUVaDu5O18NuHgt9HbwFSAlTXPXQjiW6g1mQ6U8WGlm6UJJJCTLVO3If7XFzEoVeEc9pfIadtS7Y89JEwcJcvm3EBEyJsEyExpf7OI-eKsUnZsWLYj672hjL2A=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wuicV3wiHje0Np1tb2AetTJLB9I.jpg" group-title="Filmes 2019",Shazam! (2019)
+https://lh3.googleusercontent.com/a8ZHhjFmcj6BfMOGqpZj6drOtYYFtMkXtSq_rNfS_pRaqnOS6RLa39Yj9SMRAKXUsdz1iXHCheTXi1I0gREgBGOCGdp4NUtEZPQEUECT9masEbFmXXaNMO8fUNUSS4Plk55va-rDgQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/b7NeAtW9lS4XOoXkf8UL1pzwfsA.jpg" group-title="Filmes 2019",LEG Dragon Ball Super: Broly (2019)
+https://lh3.googleusercontent.com/Ov6VInZ9zl-u6gfW4cFPi99RXVVon5snImCJLTw3YI9cQn8-lP1h03m-Q0ry22wL5tPOjZWCnODA76uqHMCx6hlNkf3VGrByYM4_12Lowsn_-Rrqq6Quhkt2ybVKypp8rEObQMNIIg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/b7NeAtW9lS4XOoXkf8UL1pzwfsA.jpg" group-title="Filmes 2019",Dragon Ball Super: Broly (2019)
+https://lh3.googleusercontent.com/fxAFuUPsCWynj5TgBOgwMqHmqrbgJK9UCDmudN638ydCaPBcooHo3EVLqYacl0xBfNxzr6wCYWLA_aopXPJrvrUHVb7uXcoB-ibWCn3qNqxA2nzYTMKhdxrW9AOBsn0INhG11RFEZg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/uMx8QhEZrnHRjeDUDRAhZyUFiaY.jpg" group-title="Filmes 2019",Minha Fama de Mau (2019) NACIONAL
+https://lh3.googleusercontent.com/bB0r2_VL5HeqUFsQG51U_D--Ke-_g7QqUaEX_dVTkkDnlOmWzywswPVfrvFXvr9OwbeGBK9w94BMt9gcCN6jRdfyux75RbpqiMIazOVV9FoV7DE-_GJfU0Yz6nE2J2Od3UilpR8Kaw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/5BIefcjkO7YTIR12pjPwsKuHnIe.jpg" group-title="Filmes 2019",LEG O Mist�rio das Garotas Perdidas (2019)
+https://lh3.googleusercontent.com/C6k0TAyLO75vJn4eOgtjWPhQoWY10Uwao098hX0-eo6h8iC2z0xo08G0V3B3wWPKeLkUNK_IjT-_7o5_lVuG_AO_egqccz1Jf3ddD3kyGdmt6CV0PAVK1f3nVioILL_2dQw50mQ2bw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/5BIefcjkO7YTIR12pjPwsKuHnIe.jpg" group-title="Filmes 2019",O Mist�rio das Garotas Perdidas (2019)
+https://lh3.googleusercontent.com/Ley5HkS9Mw6foFQxEz1_2k8NwZZqsplKIbxzpSxbdB1-vfujtyFoV97yKD9yLnxwoOi-v_8lMlXYEMx4iiN84u8mDLhy8rfvCoXj2Wf4Z1eJNiII1Te2hyMmZp1TnGorrZb4HyoZBw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/3BO6pPa7qDcpPYct061Luh9fvst.jpg" group-title="Filmes 2019",LEG Meu Eterno Talvez (2019)
+https://lh3.googleusercontent.com/iZRI3MW3tZLxdwJXUh3mWRmp5rcUcoz3g19QZfs2nHWT0gxa-dD9hIy3YV3-gGjxnIe13ru0UpUduA5cZV1dYpNl58jpZ2eFQbvGGcUiaUxj7Byr5Sn4xGiUiJJf7i5qMqmcl0vxgQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/3BO6pPa7qDcpPYct061Luh9fvst.jpg" group-title="Filmes 2019",Meu Eterno Talvez (2019)
+https://lh3.googleusercontent.com/0OtvXkFklXGxlrKc-dquT8yi1cRBy1i6cmrzf5nW_YU5EzgAnck95oA67XyN6DkTjguz7ly4CKMtE6R7lu46h77k-85R7LdTVS9ohyZmbARD07Ta8UO1cXo6mfh-3RgAb5fvaJpWmg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/tzTMHKxrnNQSFMIbt95iynPxywK.jpg" group-title="Filmes 2019",LEG Duas Rainhas (2019)
+https://lh3.googleusercontent.com/-5DDYdg-Pm697TLAHPvbVgQzjQjxaYdbSDc1YBHMNh3Ci6fRXh-lh-lcHLf0AmNByQswngGBtpIqF156AZVf_yG3wJtFaiyMbt27oCmSqW-_Gsqm8kdMzgMMsZUhgp1RRBRtW28hPA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/tzTMHKxrnNQSFMIbt95iynPxywK.jpg" group-title="Filmes 2019",Duas Rainhas (2019)
+https://lh3.googleusercontent.com/yaSaDrVrfJjZ-rcxHPHw7r56LRK962RUPLS0MXQatGg7ix6ZHNvy9fiNuw-XdCLpH2KjH8q3bcuLdRocr4bhf4gn0Wg8Y6LMttKFhXHovPQbriSiwQ28fWke69Ye1qZFDG3BhA9v8g=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xqupjV77h9Zno2YPwsUJuGqN8MZ.jpg" group-title="Filmes 2019",LEG A Vigilante (2019)
+https://lh3.googleusercontent.com/xzi5edlkjVhwOeynAU7-1j7JREiHfJLM5-IcO1EvsWBBJm2DAmdmKVK8RmwlDdoexG_itovAcvUWhNp3qhQlz3XYn9EIpXyDNuEb8l5m-hMLm4LljfLvJHU-HopNAu2BrpqGyvRWCg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xqupjV77h9Zno2YPwsUJuGqN8MZ.jpg" group-title="Filmes 2019",A Vigilante (2019)
+https://lh3.googleusercontent.com/xBtsGsyCea_jwcgeOKzk1oPwTETmR6oq--fRkP95ERNdhiz9dfFKnSzlzVXB0sHrlp23QXcWw9A5HILdDq4kho3zh9ydoCouGynp5_N4AM6Y2pG-FqsTxfvML1hLkMXq7f7iAsmXHw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/o3DVBrlCv4wp1tibgWhxZ5bLmsz.jpg" group-title="Filmes 2019",Calmaria (2019)
+https://lh3.googleusercontent.com/UU4EqXObJ-A4wA3eor5FpyIq4wzfzVsoYdUJQAM_UauTvpkIlbAhz8E-IdR-2d2R1zAPn4hEKGOFFAEy6TCQZxsFanE624sk0wIo7KgNh1DyW5h4c9f4aW1HXb8sNUukgV1MIIC66A=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/oVZpjvPfP01kIxHGfWMOCtMBdBH.jpg" group-title="Filmes 2019",LEG A Morte Te D� Parab�ns 2 (2019)
+https://lh3.googleusercontent.com/yFB66PCWu7CWw-bw1cqDhxcLUsV4l9r9TP496k5SvQ-OAahwDcAizHsAKiSGl1oMXHP2J_z8gT62LYwijVB5lA3JmgPudtDLjJHUAjnBpgqNMqZ1l3AY2qdYvkJoQa8T8lXawhWQfw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/oVZpjvPfP01kIxHGfWMOCtMBdBH.jpg" group-title="Filmes 2019",A Morte Te D� Parab�ns 2 (2019)
+https://lh3.googleusercontent.com/pmoEZv0iVUgwtF8mjz3xtXRsh5OguepWiNl969fT76ieqkGYPLReinLhw2LnUSCnfSc1FtGg6WxpV8nckOx_soflXa0rE2t6kGUjTQErr5wZ2gCivwub-FZzCzE9ZqYzadBf27zVWg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/iJpJDEEhe3CfS8U8InfXWbI02CQ.jpg" group-title="Filmes 2019",LEG Ap�s o Furac�o Maria (2019)
+https://lh3.googleusercontent.com/1ykQ9Zzgw5KYKw5rQGDu8AROOb6WXstXfz9gdNiPOO-2qlfIRr5mQrWa_vmhsCyJ7LjzXdJOMs3pEmIriA8TUTfgZ4CdLKoP0C5CfTCQv5_HvNTWOkFUU7dvGuIDpNAo7Dp5eK-MCQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/iJpJDEEhe3CfS8U8InfXWbI02CQ.jpg" group-title="Filmes 2019",Ap�s o Furac�o Maria (2019)
+https://lh3.googleusercontent.com/nyaA59L4yG2w2eQWHerpC_D-T-75tdznO0ODgR3iT3ChGeraICeums7V81tN9bmh1bawjqvgcCgr_rEo6GC1Pxkj4XR7LDa7uvlPX29y9yKzxJ5KiZpn0qHo9Pkn18nAplE2sI43EQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dzWTnkert9EoiPWldWJ15dnfAFl.jpg" group-title="Filmes 2019",LEG Suspiria (2019)
+https://lh3.googleusercontent.com/dJd1IyFVXUuc_gwIoJem9Qk3mfvyw446GGSEn3Lm-fiBnYheVIEn36P1L76kRBrANXA5ZmJrGUk_3fa-Jc15PX5aaO1uV4OIyAr2PtIAINcA9pMiS0-KkxmWWe9A8NDDvAsxWafi2w=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dzWTnkert9EoiPWldWJ15dnfAFl.jpg" group-title="Filmes 2019",Suspiria (2019)
+https://lh3.googleusercontent.com/kAaU1h4MEjZtZRXZ1_GB1vcrMdNW09zk_8JtriErXLDhnBJDPQXXlmGQcnCVKjWExBb9Q5GSwSnLSjDlj8hrVMLihjqmLzQGvnpTeyYUIxJlC9AtFBsPfo-w-a81_BO9p2PU1Z16eA=m18
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/qmVSmuiWPgHkv8uDOrLn9nGLysI.jpg" group-title="Filmes 2019",Luccas Neto em Uma Baba Muito Esquisita
+https://lh3.googleusercontent.com/D7SdOvXnzIzTTi7Tmxh4EHvExQ3fB6NmLp0U67A34kjT3r6LKJEXN5Vi2X-48v0HfBVuEukaMZZVazaWc77tdpJcaw8G8kczaSOaQmP8YxGjLlS0osf98Hr8JXQGaZecmU3J6eniRQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/rwyw6WVXqDi6yM3O9zc3w12raIJ.jpg" group-title="Filmes 2019",LEG Todos J� Sabem (2019)
+https://lh3.googleusercontent.com/NSjtI6mXMr-I2aRTewaSHgwGqCFtkgCKhCGbOo__Svl2IvGr4nYvTwr2lNKaScV7Z141Z4uB9JtnQTUJtAzHWmeRy-uJJYMWpp7NYFCe8Jt6xUb6cAzZfyiJPmQv0O-RmKOSRW6Z9Q=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/rwyw6WVXqDi6yM3O9zc3w12raIJ.jpg" group-title="Filmes 2019",Todos J� Sabem (2019)
+https://lh3.googleusercontent.com/bcKFVBXYc-9ZqQ5bVAL5AcnYkGI5KCj78xF8_ktWj_iFb047mulGvkh8sF7UyRTuQYIBOH8oUnRyhFk1YXeUpY9VW1ebOUJkeIfEhRQMZ_6Fr8T8NU4U6WCgfN_uUeRAC3UfSZFcdA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/tPDe68PDsgIGMs6wdJLtcwVVxA7.jpg" group-title="Filmes 2019",LEG The Perfection (2019)
+https://lh3.googleusercontent.com/PH3PHNxu87wJk4gVuQ0vF80r0veCfNabKJsT0Vuk2oOAhXudZli4IFUIVfa6kUh63vU5zVVil78G381zOykUqVo4UybHXzgLPzTxNCODeRctByUC1qsmQUwkcnC6mzQdooL8c-skVQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/tPDe68PDsgIGMs6wdJLtcwVVxA7.jpg" group-title="Filmes 2019",The Perfection (2019)
+https://lh3.googleusercontent.com/61hR5-LAANmKB1ia_46YonETBEjA0PH6m_JhmupHdFOoP73b4dBsWNWmlrZDtRjxMIDvlTVMTZM3IdVjrgOtdyiul3wkZGWOUTOJsyPSJM8UgeGNeMYqxO_og8HPPO36IsJfuyOh1g=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/jCq1pBqWm77vrXKliGssPBDQmP0.jpg" group-title="Filmes 2019",LEG Descobrindo Uma Trai��o (2019)
+https://lh3.googleusercontent.com/siE7I9tPH4hjlTSVAXWizya_o8Hlh3vc0ezM6IqEe3prVPt4mca3V0I6YPVRvFlmHZaXst24cz1vlv2YNkiNZ1AxUBf5LSjstBNwBOuO3GvGaIY64r3yCfUZ1SPckq3vETsE2WF4nQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kgbDomQPeLpgl6vB6Ehi8dYhQGQ.jpg" group-title="Filmes 2019",LEG Implac�vel (2019)
+https://lh3.googleusercontent.com/qitiIarUOIxjFe6v2jKFXL0tmUwP3Mvz-VWUlh0eU1IUQw0qotYB7JjjBuI9VUXWqMBUH1P_L5LwD_mJKK9fueB_ZdKjaxpQ6vq5daPjNtwje0bFh_OtQKvG-zdxuG6pUvdCM_kRAQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/6rwPXazSZHl379aBcBVN9d44ze4.jpg" group-title="Filmes 2019",LEG Fim do Mundo (2019)
+https://lh3.googleusercontent.com/CsDMTf7XoLw2hJOFTiN9tI1eVASBYysKKQ4jCj2HOzuhIE6GLTva2qjjzjm0u3f7rmODaucatd5PKy0pP36bx3PrY4cuinuMFsLmkCC3FQJo4BT43Gz_j0fRdwH-_fztd03vM5iVIg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/6rwPXazSZHl379aBcBVN9d44ze4.jpg" group-title="Filmes 2019",Fim do Mundo (2019)
+https://lh3.googleusercontent.com/cWULbBRnEdQmsfIFmnDVIPFtBCX-4qLmTKTqnWC2tDrrdu8GxJtonBzEHCvelEy0TKdxVt4Iid6LzwJOAX70cM_jhx9lOiRmls7DONfEVX-Nsd-zXThN4_m8c6pDBxeidGlz1WvqoQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jhJ2povj8QN3oHc0vHZEfcDK5lX.jpg" group-title="Filmes 2019",Mal Nosso (2019) NACIONAL
+https://lh3.googleusercontent.com/pwaShvinC7i1wKlEvgzqCjFu9bZKYu1_Gt0-l4wmUPgbZFMBAF4cizTcFiccSbpGMVyzjRSuQNvEGYjiNAtzmKR_xZ4_j34JY63Kf_QBDAObHVFIAgG5Zd_kFMHw3p_TPl_Axtikww=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gjHb3aiiF1RSSSoMFZai2vh0N1W.jpg" group-title="Filmes 2019",O Agente Secreto de Bixler (2019)
+https://lh3.googleusercontent.com/oc45ucaP67W194hjpDNSgIq2YlTwNvJMtHabO9BZd22rBDIkEBVCg1qQTF9HLArdnwR8xPdKOGujF2i-67Cq6gSj4Z735g_cUoSsFlwOF32JDOeP3JEz28QSwc2rdH7HJ_XVGdEj7g=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sE2MSSjAHVU8gOz2SPQMaTQtO9c.jpg" group-title="Filmes 2019",LEG A gente se v� ontem (2019)
+https://lh3.googleusercontent.com/y27R0RlKETOT0MKJ8xJ0cb6BhxmjPnHvp9PgZd2iOF6Yvk9O63QJ1euRUrMcQKdoG7kfZuPz1RXxa9XaogApRO2iyEGJJh1NYO2ZOP6hz6tL-_ZRCv-NhhQ6rED_mN_33Qo0-OB3mQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sE2MSSjAHVU8gOz2SPQMaTQtO9c.jpg" group-title="Filmes 2019",A gente se v� ontem (2019)
+https://lh3.googleusercontent.com/6hSAjIqyMPhoC2mG7ILuicHy9ML1LVdcFMdC3HNd7XBeakd6mFOO9vws1dQ1Sryf2JXmc97jc-4HdyO6zizBc0gEasJk-w8AjdFBkwUpb2AMslAZuKqKEY5csJsKzpZ_cycYGqNzUA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/iwXNed7a2TERq4D7AUY3wltGrqw.jpg" group-title="Filmes 2019",LEG 15 Minutos de Guerra (2019)
+https://lh3.googleusercontent.com/JNRaBN4JD9Ri9Q1g2HV7y9x2a6zkJdTvZOfxiMWRjn-n4PnhZaaMiY-hP_bZnQdX1a1XwQSWx_0CeESI_Y-fKAnzknDSllJg_P0HfmgQkzI_bkVx4xRc9rQq8PAjm6NmiknoZDwwLg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/iwXNed7a2TERq4D7AUY3wltGrqw.jpg" group-title="Filmes 2019",15 Minutos de Guerra (2019)
+https://lh3.googleusercontent.com/QkzGOMuGo37be85y3oU0ARQzZ-ajpQQHsrun0jMKiq60A19lmU2-0kQcnoj4ZaWeFpWvn1U4W1L69565Kzlu6YMjgE5a5Ko17IWhAfLMc7-QT-yxxASEQNDYgF-Gdv1I1TdtAhsW_A=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/zwws2LWVWEAMNU55zOJvn9Q1Q3k.jpg" group-title="Filmes 2019",LEG Resgate em Malibu (2019)
+https://lh3.googleusercontent.com/Sm_0Fi1O24KyR_4SnNXEqe8XUhYKz8PQ1pMguAAqYIAAL_t_r89G0GVULZLyyApSThg4LKTFFMyPjvlwoaB6mCee8vn0hOcp2G3CycYiy3IBn1LkaDsTuNrCDLeBSm27elyKmJd3jA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/zwws2LWVWEAMNU55zOJvn9Q1Q3k.jpg" group-title="Filmes 2019",Resgate em Malibu (2019)
+https://lh3.googleusercontent.com/yhqZy3eV11orVZm12H1Uzqcxo4BnxoxVnEUi8QmQX5sWy1FxtmDagL1bCs41SWC0M95De8G2hYii3Oak1ZkY8g5zwXnYNXOE7hiAwYX9V9dEf9EO0oDIVCdZ-oLJpsvs5dclLPNmjQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xMu9BUwSOJxkCSiP0UJI87KQ2m8.jpg" group-title="Filmes 2019",LEG O Bom Sam (2019)
+https://lh3.googleusercontent.com/laM7_N8G3X9SHdSVcrzhOZb8P4SLqJAT_z0URsmXm4pH53m7TWq6XAZJnX_9UOrvd8kXg9MPEYOww5rk9XZuTE80MSMqBKu-9mZBDi_jnJr-Ngtve365f8PpmjqUsCbSZntr0QtmXw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xMu9BUwSOJxkCSiP0UJI87KQ2m8.jpg" group-title="Filmes 2019",O Bom Sam (2019)
+https://lh3.googleusercontent.com/JDSehypQOD8z97j9OpBR2CX5pLahOBojclTxawsYebts6wRJv_MWO7muzlggyeEzT8bzO1iUu-InTcIPr-S6LAPYj6HgY-v2opH1ohMemP8UGP8ydQs6z2rmyQT1fAd_nlhZaCtD3Q=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nNIXC7EtUdI9aJLQmnI7Cx3YTp2.jpg" group-title="Filmes 2019",LEG Batman vs As Tartarugas Ninja (2019)
+https://lh3.googleusercontent.com/6bNq-xXeaQurPfiQ41miz8LAKtRJuvsNdPFxhoJ8sXoykcGyUbxaXmzsZUil6Yn9HQbAfEXI0TQGtAyNCd3OonSCcsJb9OH6WTcs37JbD4fukqBuN3lV63uUvZlLaKfVz9JVsgV-og=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nNIXC7EtUdI9aJLQmnI7Cx3YTp2.jpg" group-title="Filmes 2019",Batman vs As Tartarugas Ninja (2019)
+https://lh3.googleusercontent.com/pwgFWGkc4Lct7cwEWhA1Nv1CDvOXYENoRzRhtJeV5BhicySlosjt-o873BXr3Zyhl3crN1Ri-Bs3D0HloKJgo1571JHbQeI5gre2zVKPTv0QIciD8LCirjx9_-ySOlbBUjC8Kh_CGA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dx1ZFroYQ8CKGLn1XYM2Meal7Kv.jpg" group-title="Filmes 2019",LEG A Mula (2019)
+https://lh3.googleusercontent.com/T41FyrH9jmRadkS-UftwkUgN-2hRdgrMol-zmCgZOSlU9jeaPJy98O4zRiW1oBkgOCvryeMBEl6cBFRy6s0F6se8thPsvhs7GReG6kb4nnA2BciyCG-8js9uQRE5ajfXUmqZ5ZcYwQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dx1ZFroYQ8CKGLn1XYM2Meal7Kv.jpg" group-title="Filmes 2019",A Mula (2019)
+https://lh3.googleusercontent.com/p_bo9xSvZq0y5TOpPcAILjGIQq_nl3n4G81Nbh5rht3azBJ6ZeBphKk7nXO6yT3Xw6CGRIplIm59JRZS_y4XecFq8QOWaWIyNTf3wadyxzhKE3jkTPTF6o0_caqG4xe1TvFRqk7xDg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/bCYRgsT0Kndh23a6kHazBdXWCn1.jpg" group-title="Filmes 2019",LEG Como Treinar o Seu Drag�o 3 (2019)
+https://lh3.googleusercontent.com/4DAe6wftXCnipbmDU0CR31t_SJr6QKfE_EkXKMDl3VwZm_24o7zvOQHbSTg4MvwybF8uOLrDXvvLjSGUr4YmrQcgFdOT_Plu4jCeSFhQbrTAi55g74RgYy-4skQFS4_isM0GQp0yuw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/bCYRgsT0Kndh23a6kHazBdXWCn1.jpg" group-title="Filmes 2019",Como Treinar o Seu Drag�o 3 (2019)
+https://lh3.googleusercontent.com/kHSSa-gFBWwkLXWAsbQ0ZThP9y5ggukJg2IpZvEWT1fzjhsCcDsEt8_XyhHcmLng5B59JMchLueMHIe7381wg3a3J6ymsaNWQ2Y8_8h2chQFIQmlivZ7szpyEOK_4yUANR0tgRvk_Q=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wblcMb6Vq0FkXPWBUIGyZrLhSiZ.jpg" group-title="Filmes 2019",No Portal da Eternidade (2019)
+https://lh3.googleusercontent.com/ZX2hF6dgymdz-2uIVIRo75HGlDU3duVIOxNOVFqf-R70gkEncUZNdJA0Yp8p3vUOEODSoiSuqbHv6Lc1_zeb7rJf5Ls70Ki34IhvjaXZFVMil5HeuAPpTpTrp0EHyWzcVJqxggT6Xw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ftNFLYiGtKzAyZIwixXXieJUCxA.jpg" group-title="Filmes 2019",LEG Gente que Vai e Volta (2019)
+https://lh3.googleusercontent.com/of3f_yxtVCDY5D6a2qiBLXFN-12fQ60UIegeiNPb8fqoZzV3qSRZ4nYd_BAMRTkM_F9iqfzei8gzd2YPThFKJshPmzlrR8v07TAcIwirRsqifA1iU5HEfRzfwTPjz0XowduRpuF2cg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ftNFLYiGtKzAyZIwixXXieJUCxA.jpg" group-title="Filmes 2019",Gente que Vai e Volta (2019)
+https://lh3.googleusercontent.com/DzFLqjnRsfMX1kIkcdX_EZ1huJgnWhn48vNBm30CcYYxTVMGUc8Q1OkVeML1Xx5C9KzRnjVF1qc1_znnI1Edk_s7vYSRq8xEc7FpR6IyKX9zZdpPNy1nG3RZTUBSCZVp7zqQwZ8ssQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/eQRNsUDVtisHWk6Nn1zN4gzk2zO.jpg" group-title="Filmes 2019",LEG Entre Vinho e Vinagre (2019)
+https://lh3.googleusercontent.com/M1PHTTjd-6ZvVRBImGh6arQGm8VTWWrntFaD14HZl1hNEqGyUYP4y3A2u7WCqCE4lSCMaq2uoT-wJ6dGC3xTbktk0qp8MnWxKJcLcPGm2I_M5SnK2J-zizihWkHanRfpbDrr07urNg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/eQRNsUDVtisHWk6Nn1zN4gzk2zO.jpg" group-title="Filmes 2019",Entre Vinho e Vinagre (2019)
+https://lh3.googleusercontent.com/M1frjsIvdhUniTYGT32UAwf74Atqz-_3hM2mAnWN2vpX-d8VHn8I3JVse38s-WbBDwB3V3VLXI0vZLnwj7qk6yamdF52KmtAlmq2t3SJ8jWb2DIEAtCpMvUKLrWxWTMVOxhfR8_QBA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/aZprxLjhvt58FcEPNMA3Ef0XuG2.jpg" group-title="Filmes 2019",A Maldi��o da Freira (2019)
+https://lh3.googleusercontent.com/-AYorv7USWwVch4MGFkMtgRYBh1ivW-bo889SYPeieHtGaZGmSQ63hOSekx0IrT6mcQzT5tfsece8riUpiM2NlLVVfOiYgbcxD1yG_oVVukOFLu69GkwwaK9tTLTVRHNW1eHa203Hg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/30L6WkIEW2ipB9OHKGkmiY9YDp0.jpg" group-title="Filmes 2019",Sai de Baixo � O Filme (2019) Nacional
+https://lh3.googleusercontent.com/1W0D6Ux_bF-Df9GcrA6cDLPG0z82RxuZbwBJhcVzoDXxCSLj4VAncw6jiZp5cRUFPbhvp6ckyjhxGZUOL4TYySSxn8PNi-Us5dWsiRq0V-WkabCfYfbDAQuoml1pma5WMCuZ6dUYRw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/h0nz5lIBXeUZChBNfwL08bLWQaU.jpg" group-title="Filmes 2019",LEG Algu�m Especial (2019)
+https://lh3.googleusercontent.com/y9R8DCBK18zkZVtNXRL47w6uNBmbACkRSeuLP0JShWcUj709Okee2T8zGwVTIkClekwx2mJyhrk1aODa4H04SKr0OP3a8Ll-Ag3b2-6lVotFcnrgePTmFnATHbk9o4E65ADQF0rZ3g=m18
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/h0nz5lIBXeUZChBNfwL08bLWQaU.jpg" group-title="Filmes 2019",Algu�m Especial (2019)
+https://lh3.googleusercontent.com/1gGme43avh8Ra60juHX6cpaehyrarm2v2RLy9u8KgKH2hywBBc6tFnQl2zVlStsuMj1ke7BksQ_fuOG5vWUbQN7yvBRmkDrZTX6su_9BvIIvuxP7a72hAdiIeubyjQaAve6WVRey_A=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/uCLmnSXPHLj6iXfrKQUhHvRdEER.jpg" group-title="Filmes 2019",Temporada 2019 (2019) Nacional
+https://lh3.googleusercontent.com/vLnaKmsJI0buJE-sYBHpf3CtVZdcuvdf9WPdChaxDZNClqwU7RUV9LAj26TEitP8z73Kr7q4vkwt33lbCwV4cnQegw79z3ui156WX3qHlP4XCjM-iwa79cmvu1OTx7gsr80QDnvLmg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1gCab6rNv1r6V64cwsU4oEr649Y.jpg" group-title="Filmes 2019",LEG Vice (2019)
+https://lh3.googleusercontent.com/kC550kdDY_cs6sMRb2sNpiAaMP3yQt0kRJ0YkD1hQ36SpRcB1n4GdFau9D-VSM8Q9MwpV8FBSWIKVOjLOIr4NkobUr8V9lCJ2FZy6RHasYei2xc-i9ba_N3N_xbMAhDACBG_v1-uBg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1gCab6rNv1r6V64cwsU4oEr649Y.jpg" group-title="Filmes 2019",Vice (2019)
+https://lh3.googleusercontent.com/-btVISoVZLA8PaJBtfMVqB_bk1sG3v1olQGYDKK4OvbMi-5_Iv6-eM-sAxusUcNIZIWV2GiMpr-L2-HCaYUBZP3xFhvZs2BvMPO-LCYpHgaqsK-vczXOAz7fiCdar5H5i-DjpKapdQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/8dAm1rnW47vWe26z9ev8qYPyb7r.jpg" group-title="Filmes 2019",LEG O Peso do Passado (2019)
+https://lh3.googleusercontent.com/FEO_7TAhyLho1yOFDG1wSdI-bVXNhcpnOBp9rZyXMI2sEnZw8mmiNF9oKCY82UmOLT5ga4jAeROvMuFCpWBsSWyIiwfrMA8A7ceG58OMV4SndqmpqhU4kLfJ0I2RVZbHqxRNyqAoFQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/8dAm1rnW47vWe26z9ev8qYPyb7r.jpg" group-title="Filmes 2019",O Peso do Passado (2019)
+https://lh3.googleusercontent.com/bCFqDfnRqjarEagjsZ7viIQV1-uBV0UrQr0PR26iJhJARLpZNJiLZA-RP889IdrCPIq0iIx5brvtKI1rbJd2o_jfqWpylshldtDEUvoPnezTG06n7BsjIR7fCFZR72Zw4TqDQvh0oQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ae9yrSAS7nLZPbbkOm61pSuIqeo.jpg" group-title="Filmes 2019",LEG Miss Bala (2019)
+https://lh3.googleusercontent.com/UJN75Z_UkEPgwx8uUpLZP40feHxHqMUvOQEiLBeoIHCX0t3Co3UwEuW8DjlnPvat5xN8tq9SSgGAsgATAW8HaCfS01rhHGXm4Ai6nItjxp9qD6PcAr-oLMBw2zZJiQGxcj5qIwDShg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ae9yrSAS7nLZPbbkOm61pSuIqeo.jpg" group-title="Filmes 2019",Miss Bala (2019)
+https://lh3.googleusercontent.com/YW9W083L7e4q97eMo4VcXaQ0WBMcyOSHkc_atepNYOdpfdFWdHdd0nAI8HiG-ugdkqvvXzQzi__Kwj3bIkGrE2aHuCtaU46kallWe-VAPqW9Suvmvy-4kqsOv1m3wo_aD2fA3r62wQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wGUGI6zPSXYx9eUxaoihEXO5mf2.jpg" group-title="Filmes 2019", Superamigos para Sempre (2019)
+https://lh3.googleusercontent.com/Sh-Pi5t0w1h4gp6TxiDNkVT4G1mUdCSrgoeOdVRyA04o-56c5ZtF-sI8YoLr3T6cgCdaHHqVrbgZ2d4N-4WgoWKTRHb1mrKFF6dWzUz26bHMrAAOlWJVfX7vTDZ3xCWGz3RuPIIFPQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wGUGI6zPSXYx9eUxaoihEXO5mf2.jpg" group-title="Filmes 2019", Superamigos para Sempre (2019)
+https://lh3.googleusercontent.com/fyFgjUl1KaJtnUd26hbfI3cxjS-d4O9o8vy8dic2GV5YL6m3g-B4pKN_fGia8DQykeNTqdbjRwOPr_oG_h2JqqnQyoRmXVN_tnZtaeqmQJACte-1XAp2GJVCGXfGMgYOLm0spQegIQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wGUGI6zPSXYx9eUxaoihEXO5mf2.jpg" group-title="Filmes 2019",LEG Liga da Justi�a vs. os Cinco Fatais (2019)
+https://lh3.googleusercontent.com/3RlPNjZC_kCemuokVvIjSP6A1ZPWqxZyfN-pDKrmY0TaZWJ-_g_ps3MolI5sjLIgoUOyB5Ku_UfXc8rXk-6ECKSX7vGdrubOWHcGcivDP07F0295j8UNvMF3sppqgYI5hcX2PR4PvQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/wGUGI6zPSXYx9eUxaoihEXO5mf2.jpg" group-title="Filmes 2019",Liga da Justi�a vs. os Cinco Fatais (2019)
+https://lh3.googleusercontent.com/IB7pa1UojgeYNwV7ZOvYKpgT0J0dVfN7_3HtnCMMIZ27rd1XrJxZqP_eWUbBgZZII1YvzUlnvKGeiUGYPZzyfbHGV2C9rF0cqEQmDwzj_0jwS7xUMqhczDCtoduVa5MgFLVFsgAyYA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/7VgJ8YiDZGwAcBKRKHN3O2n9E9H.jpg" group-title="Filmes 2019",LEG O Date Perfeito (2019)
+https://lh3.googleusercontent.com/-ESWCt1us-rPWh-c8va8Eh8b_fr6jJX8u4psqUjXehD9RqwEv_jXm8U9e1GdpE4_SbRMXDdIcyJSkLEHPHeV_YNWw9Wfxx1LgLeQMhTh40byado6EMEB8MZKUyb-r45sGlitau19hg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/7VgJ8YiDZGwAcBKRKHN3O2n9E9H.jpg" group-title="Filmes 2019",O Date Perfeito (2019)
+https://lh3.googleusercontent.com/9AE-4DhLR7x2YiRZQaA9PPcBm3c6whi99LuVTApA9YT4W7OAvT9KpanvTSq3KTKF0JothPvWBtX9_WJw7pFz8824U5iDUaaMXXtG5UpQ2Ku3yEiakEd19FtRwr3f54zI-5Gcn-qzTQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/8Ls1tZ6qjGzfGHjBB7ihOnf7f0b.jpg" group-title="Filmes 2019",LEG Sala de Fuga (2019)
+https://lh3.googleusercontent.com/NdaJ10k0EbtJ6anDDSYoNZ9cxiSOp-7GwawkuA-vDYwVicr_2Hl2rFebG5jqILyIit4VMmXfB0wLr6jQV8Z1wTxy766c3IqLZO7FFygY5cZtVIe5T0dUr0pm9m5XwKsjuAPyxot0mQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/8Ls1tZ6qjGzfGHjBB7ihOnf7f0b.jpg" group-title="Filmes 2019",Sala de Fuga (2019)
+https://lh3.googleusercontent.com/lJJMYlm8QDi1AiAyKxHuz3B4jX6TArGDopLk_k31eM904DILYSxzhqujRJnJZM6ptGwkzgtb9wDbvD4IdcpWaqtK24uDsH7sNCOUBHjqliV-hin-0IAeDVs-980Sc_NeDZjfvLgSqQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/f4mNHOpEbx68j0yaNdme6b07WPC.jpg" group-title="Filmes 2019",LEG Quem Voc� Levaria para uma Ilha Deserta? (2019)
+https://lh3.googleusercontent.com/vIYhGZ1L9W-fWOcuxArr-rcad5qDAY0sIv2ISTXZwZ4eWoIQja1WGixWQ97reufjjaItarSh8PVwKw9X9r9cOp_z1loNYOofIo9VOTiPhzQE4q8vLZLL7Y38uJuznu3iMP3AIP2pAw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/f4mNHOpEbx68j0yaNdme6b07WPC.jpg" group-title="Filmes 2019",Quem Voc� Levaria para uma Ilha Deserta? (2019)
+https://lh3.googleusercontent.com/LZ3VMlbDy3wdN7bQ3kh4q7DNgLD2-uwOrqYrOrYC1_muoqwzuyazbu6T0u0CzWGF88YZlZp6z8OG7S9fmReiS9Lru8N3fG9pCLsrHeOwztVMn1HgdeG6kR2Z-T_3AZ_H_xQWogXwmw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/aMGE7URu5EDZhwhgzP52pGZ8Gkb.jpg" group-title="Filmes 2019",LEG Boy Erased: Uma Verdade Anulada (2019)
+https://lh3.googleusercontent.com/VzHwLV6txXTqVNhpEJVcvreZazOH5zu3rB_tzsfhti1TqWytsPSeX09K35fgaZTyuwvadYClkbyWZefIafh-cKUxs8C0rDJSd-jjRX2AqfoEWkPGILz8tkqR5XAyJNh3AEFhlgyRpA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/aMGE7URu5EDZhwhgzP52pGZ8Gkb.jpg" group-title="Filmes 2019",Boy Erased: Uma Verdade Anulada (2019)
+https://lh3.googleusercontent.com/GUf7vZvLD6z3mIMc-gZcEfqBtK_9jd5J8C2r3wR0P3c0H5dHoq6M46a4xgLUzHgfoE0wvopVyG_60xI6cJ8ovVdXyUG-qf7mep8rMM9m53JojGMw2BIw37PiKJwuI5MJtT5mw77rpw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/djXXkS8UiC3QjltM6X16qAUEFy8.jpg" group-title="Filmes 2019",O �ltimo Desejo (2019)
+https://lh3.googleusercontent.com/FZnybjbpc7aCF7amwdqjDbX3jxqPWtD77o3IMh5WkXsNF31aaTBNpEzyg792iSFOIhhyDXNlpcMg3MsaY3ypWhujs6y-6fcgoqG5QlgMkpQ4rI_v4-wR_DdygsAh7RLgNHK7NG9Cbg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/pE0rAuyupUL326JsgG5FwK7a2tb.jpg" group-title="Filmes 2019",LEG The Silence (2019)
+https://lh3.googleusercontent.com/OrHHVhkxU-criwJxw579nklSrESwBhHI7UZ1w8LVFSml4wTJxV_Ee0Zemi9RQh9YlMqrX1r6Iy5kTW0799NYmF88rrsqFE9nZsFKncH5dmoSg2TSIuD-jbGA6eN3_E5zQSKoNG_Dug=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/pE0rAuyupUL326JsgG5FwK7a2tb.jpg" group-title="Filmes 2019",The Silence (2019)
+https://lh3.googleusercontent.com/FPPOIYoeH8US4dI9xeSQEbQvADc_IG4zYXSvqiF1m_nTgnEJGzwTOHQPstHdWEx-Lk7i6Fx40vxcHDY3VuRgxmDb1CT_oArCJJMFm7wQWQ552Kv1MNW6CvXxACTCBcWN0anvFsGJIQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/yx2Tgzrq20sMjrX5lLnpi5LZnW.jpg" group-title="Filmes 2019",LEG O Soldado de Cristo (2019)
+https://lh3.googleusercontent.com/FhEW9vDxfcSaV7cAYoInkR_Eda-IOrE7K3UbK7ZSvaU3SqOZln163ZWRkI0b-Xu8AygFPwbt3mfanyLmWXg7gIXRllp5n8PPTXuCExO63S4oKW0FmIXZJKJhGSpOFYEVhNgLe92eHA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/yx2Tgzrq20sMjrX5lLnpi5LZnW.jpg" group-title="Filmes 2019",O Soldado de Cristo (2019)
+https://lh3.googleusercontent.com/7AWuc1Xkp00ya5T4mG3RJ0N14FGsnSZN6n6-tH3XFb5Excx0MHYrl3Fy8haYRhiwPZ9twDhJ3sx4gzOT39CvVlOg38lgxxb-2M78TVdNArTtkAwWAWbDwiZrLzOTwQbv0xtyv-vwMA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/3ymTnRmZ9F7WICOAmYNMECF7bgQ.jpg" group-title="Filmes 2019",Tito e os Passaros (2019) NACIONAL
+https://lh3.googleusercontent.com/CQuUBUGdsIhA1tliBSDNMAFVtVICy0NG34gvffFNDjYlrUtx2uMS-C6H7iwc-9WwNrq5iTRE95AJ34qnqvhzfzyIZvNGLQQMsk5TSbXdvixbu4Fc7ntKk80LLxf59kNDtNtNlS9VgA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sPi4SFZceSRD3Il9QiIDG6niTcT.jpg" group-title="Filmes 2019",LEG Loja de Unic�rnios (2019)
+https://lh3.googleusercontent.com/6l_RHXakBt2ZCHLhkBRd61ktVLqpxRn_GMUhQbpryogb_ul9sSjsEaIT7BHuCLDJVp_w3E46iTOANAXKAzU6dF2NmwTNdqlevoGTV-rxOO-7SWMGWIhQFyGIJydSn9NREFqtkNhwUw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sPi4SFZceSRD3Il9QiIDG6niTcT.jpg" group-title="Filmes 2019",Loja de Unic�rnios (2019)
+https://lh3.googleusercontent.com/VkZd3veQVmKMXR0itD39qMOkdUQb88FIonh074PXK9L19H-Fu26UgrD1jBDTCk_T_hmj5pGVZpkav_zVg-6c1VFse-N05WCdSrfZE7ALWbg-uW0vpLQS52YBmEGLx33llIgYhpou5A=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ri3zFC4E70j321qNPnO3LWYqTDU.jpg" group-title="Filmes 2019",LEG Guerra contra Aliens (2019)
+https://lh3.googleusercontent.com/XZyGtXd5lYn1p3e3A-EtoBG7-TvvaqMaDpANLbIYzobyW4yA7t7_rFUQmh_UI851iINl0bIrtKlP5S0JD041DyIfTHpfPpxeLMKrK2ecUBIEG_LL3tPxRQY7nPQsIcPw7dYKzE6fWQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ri3zFC4E70j321qNPnO3LWYqTDU.jpg" group-title="Filmes 2019",Guerra contra Aliens (2019)
+https://lh3.googleusercontent.com/sBa42LrqWtn8x8Re1CjvrenXLQlQpim852lBFRBLQiK_swNpG_l4s6VLeBlhAC4_QiAeLLP-Zg3ET_tAttZqgfb25K8x_PCl8jWovy2sJb3phYRX4b8GAHEn7r8301UC-CwLnAFM4w=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/9saSzkXNCTkFur2NMriDzCfrKJP.jpg" group-title="Filmes 2019",O Manic�mio (2019)
+https://lh3.googleusercontent.com/731O3Hz3Iusb_zp3ImVHgitiPgNNXryVgsHK5M6WA3d8gvvjcW00NcOAEOyLtAZ9xLmfjzWe-3hjL1Tj_u__9Faug-SxUc8zxTaU8yvlElOCaQ-aKdTICoy6nImQGLSPI_ydFCrqKA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/eXiIJsc3pO4NsMCG3ZUq8UnpmGj.jpg" group-title="Filmes 2019",LEG Nancy Drew e a Escada Secreta (2019)
+https://lh3.googleusercontent.com/_FUTbaH_W3TqZyZkLsnvMXoTFucyFNbEozo7wvY8n-dx3nqbaw5IK29I1St9i-SEX5Ige0ui_ndqIT02R8ObkIA481-BXu9DEyJ64eLZ1DTAoIlOyes2IBTHI6XdGoi4WmYEelPjYA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/eXiIJsc3pO4NsMCG3ZUq8UnpmGj.jpg" group-title="Filmes 2019",Nancy Drew e a Escada Secreta (2019)
+https://lh3.googleusercontent.com/qg4OmHjlht75AG5QFquBfiu2GfLq0HDd0E3HAuQAdMf4I0VpcePCMvCk2A3agJsMN1xY_MXMCX-fIlVJ8cUx9J2Lmt1bP8NwsjHl0MHxwRnd0jRW5V9dcIWbgf-nM2z9cLPmog9DGQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/58VBMUJmXUix5nWSE7uXhTBxsx6.jpg" group-title="Filmes 2019",LEG A Lenda da Ilha do P� (2019)
+https://lh3.googleusercontent.com/1GfgiKbCFJID_G39MPMTIAAy6SGYiaLMv-2ZaMLnmGZ_j8OgZKExHI4c6PAOtbetSBqDiMdPXWRnE0kaiTGnkALgMqwrr1tH6irxpaKz_mO9dW3L2y6fADRM8O64YgFAOPWVXKGAng=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/58VBMUJmXUix5nWSE7uXhTBxsx6.jpg" group-title="Filmes 2019",A Lenda da Ilha do P� (2019)
+https://lh3.googleusercontent.com/rV0TQVA8XBfrp5H8hOPvAamLT9z-6_FhtB5AuOJGur7vCI91sFdlw4W1BGoqIqptxpVC4hlAuy-NQI-b9vO1lP_IZf0hBWE7yUWfN938HGVE9N7dXmmXadoV1DytZ-ICg8lDk4rFTA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/prryQfaBh5rlSjMaOmokpK428YA.jpg" group-title="Filmes 2019",LEG A Qu�mica do Amor (2019)
+https://lh3.googleusercontent.com/cZ9gEAGUzYuSvun5vuxaO9uyBFEwEZ-qCamGKtKOxmTSdrQC-eeev9liYmcJd5FNd-EAFQWqfQVN7b5EYuvJzW2yqTX8fhgKMRo857YFoPBTZKo6LQ9-B-go5aF0ou0yvS0ARl-lqA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/prryQfaBh5rlSjMaOmokpK428YA.jpg" group-title="Filmes 2019",A Qu�mica do Amor (2019)
+https://lh3.googleusercontent.com/p5PjxTwBS_SPE_ZuxTzaZ3exviMyAWNikcjr8Ctg3Tos8KWcY5Rb3tz793xQzTJSGtNFLCY2-0_ZVRTbskvFAyG17LdOoYC3LY86ddsaE5yYDZwCdrz4yRcSOSVlDh5V-fLobbDkog=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/mUcLVYkvUxmNsd8ZcOvAs1c7ZLc.jpg" group-title="Filmes 2019",1964: O Brasil Entre Armas e Livros (2019) Nacional
+https://lh3.googleusercontent.com/UXzJ_DRNG37-K-7nPItyYuwmlU0OFZOcgyZMELnvjD_a42vOguSxKkb48agEMOPQV-TJSeTAr9D-FvrbE6_KODIHCVIPdVGjU3R6iC68jTcOWz_o2ovMV5Uml6x4Guboc6Ah2-P5Ow=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/2RZSE3RgHuc6kTbbF5Pt0ODUcTM.jpg" group-title="Filmes 2019",Estrada Sem Lei (2019)
+https://lh3.googleusercontent.com/MN9fGGUNFTLheMMJQcTmoMeT0WxnZCMC9_tK0kAEVr_fQUa6zv4fac1ehE04tFz1C6UAvaw1swmktBEclTDW9BLg_V_yZEyWxpBYs7ip3lAD6A8_dYQcPzxoXColpzuzZT4bTUjF4A=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/l8HKxYbgX6SlkxQ9oR0XytAk5H5.jpg" group-title="Filmes 2019",LEG A Caminho de Casa (2019)
+https://lh3.googleusercontent.com/8hBL8O4bUHoPwgm5l-311xvaGvqbDodp96MC1TUKwYVAAEyDmcZmtxH0hllLicZ0jh9Qom7-P7WUbrMV9rv5elX7REZcqcn1iSGdf__yVknt3t6ZT97D6ZKF3IPCTJ8qu_YHKIAflQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/l8HKxYbgX6SlkxQ9oR0XytAk5H5.jpg" group-title="Filmes 2019",A Caminho de Casa (2019)
+https://lh3.googleusercontent.com/Y3IKPdgZPJy732QfBeJCei60ekRNZ2K6yp-GUxHBrHOowXIQKhmqJthtr7i5wiZzn4QETH0ptjXGYE30-bNTaO_q5ncFC4etOszoNzZGG3acz8qT3yNahxRY9EXcao_RPrjfJvgWdg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg" group-title="Filmes 2019",LEG M�quinas Mortais (2019)
+https://lh3.googleusercontent.com/ubfYwdvl1vwbXcHd8ZpEgKlUVlMB9siolV91-FITxwsTr3HvaIv69ls_1tY8iP-glyujLufNeA_T9D7ovyH82AEnwLVm-Ksnv286Ns1CQMy01EaDd9eFFYTeo3SnfScjB7d2-E5OBQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg" group-title="Filmes 2019",M�quinas Mortais (2019)
+https://lh3.googleusercontent.com/Hg39I1XIhOlOvliOpXR1Lha2gAISVMOUBZYNuNk7L188J20kiUYJTdtLEiFnrwhI99ih3J8aYQxxpNqaIWaiCIBJvClmMgRQksnrVEZ3Et-JcTdKifJmbdnOQ6Gc_djjWDvI4gLbkQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nnxHnjTP0aev1bxjKN7LRAcHrQe.jpg" group-title="Filmes 2019",LEG The Dirt: Confiss�es do M�tley Cr�e (2019)
+https://lh3.googleusercontent.com/Ica02PGK5icQETiGvwd09riV7ZEZRjYnGhalJ7j55NFXvKT9xEqPphCY9Mz3W-87h1oNuWBZIrrbMCNH3A8ZrCKD_bOQu64vDHu8tlA_7sZkB0bs24T8XPvksw6haAGGOjHzq0SgZg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nnxHnjTP0aev1bxjKN7LRAcHrQe.jpg" group-title="Filmes 2019",The Dirt: Confiss�es do M�tley Cr�e (2019)
+https://lh3.googleusercontent.com/fyNe_ahk-JQ6raPxS5kgtYaYxaX0pKQjGjMIQbVW1QiZhj1SxLuZgjeM5mTEMDYGXp0BPWwOs-wvWG-XkGaOSHCHNRsxmjr9ybmdflLNK_aYUVZx6DFymKO_M2Zk66YAPZXhP0qLzw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ccE21xixa1zhkGtWDr4n8ReOp40.jpg" group-title="Filmes 2019",LEG High Flying Bird (2019)
+https://lh3.googleusercontent.com/L2qKW0uZgYc-vW4_Lzb8fZZBLlr_vrLyX5E-_CFz5Bw2P47lvY6L0YZW27KDJlOBdWdu5m-M2CkZvPczRqXt7nUZ0H8wSH2MLUQYvBFysaqfaMK49PCE9-8zSjwLz0hGXVLu3t-x0A=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ccE21xixa1zhkGtWDr4n8ReOp40.jpg" group-title="Filmes 2019",High Flying Bird (2019)
+https://lh3.googleusercontent.com/tUnDJjb33mhVszLK90yigRwpxkPg9zaDBMkf-QGPF6p2B937ifzTuD5-PsM4jm5k19TtnabLq0wNOtNFDIH-iysL9R6XBp2RqiBHqQEnYdM1s4tteRixo74Cxmxj818vS_5FtSrQKA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg" group-title="Filmes 2019",LEG Vidro (2019)
+https://lh3.googleusercontent.com/UI679aKhicFpOHixVRwkfxQnkRHsk4ax7xI_y5jNicgZzd6Q4FMlP2vTyty2W1qoweaMbLy1jLig9uEnP9he-m0H6D7v6SODAXDWQv1yB6uORaB8QzLkKrNy6ySv9vdaGsMf6TKATw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg" group-title="Filmes 2019",Vidro (2019)
+https://lh3.googleusercontent.com/nd_-vz0OP4E0dXiv7mucBY_ww_Bu1BbyKtKejZ6Rm0XXMTeGT6vZWAjXyYa_lMwlQfy35hR_3b0SCMm_CVSQdfUhrBBOd5HmPsEpI97JvEdiBHOXKVSNGPF7LG_UUffsoXJd5iCIvQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/242MZuULG4thWeVgFoQZYqnBnKI.jpg" group-title="Filmes 2019",O Clube dos Canibais (2019) Nacional
+https://lh3.googleusercontent.com/ugL9DltP7Db6P232A88VOhwbuMpZeIGj_A_yevFGp1FGCIHj8P-KisOC-3esnU0rs2zmLsjet2rmQPrOuKcToknXf9VYzboARKtYLBOPhKqOtpDTagAxTfurFM7T3ipnq-luF9cMOw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/yKq6LErlgWizCtl3DcdYv86xn2e.jpg" group-title="Filmes 2019",LEG Juanita (2019)
+https://lh3.googleusercontent.com/_xQo-S-5-Ub2S2JO3am31Fbxg3hF97HX2QD3MxHg5QgmDuC-6Mkxi2deBPg_MUtuU0qY8aSOErpYw6XDWQQ0BzJowmJkqlNy-XGwiWWA21cSu8qzbfKKbjbGbTEUM-VyIvi5fObwUg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/yKq6LErlgWizCtl3DcdYv86xn2e.jpg" group-title="Filmes 2019",Juanita (2019)
+https://lh3.googleusercontent.com/iCeDBW5YwmuH7Paq0IZFP_vJ8FPy9nKUFM4yNQfoR1FwwuZ8hwwDMPrh-uOl_Igg908DOpPTuJAxRw1Jfow-4EEe9EAveh069Febz9Llq528cMTUKcQNnzzOfjeimwqJmBMIjCeOcw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/iQwffy1qLo1JPudjPO5TQGQX9QX.jpg" group-title="Filmes 2019",LEG Kevin Hart�s � Guide to Black History (2019)
+https://lh3.googleusercontent.com/3wHvSCMurJf152mp8ab3-yh6mk6iNClNTfyn7ElgWH8upAwlN9MZS4TkH3ob5Mqil4L-GZcf05GjnjDMwd2aeyTQSg6pyiUR5y0kjXTEYJ9odIOjgXJWxwSQDqkpR_Dt7qVIecDCPg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/iQwffy1qLo1JPudjPO5TQGQX9QX.jpg" group-title="Filmes 2019",Kevin Hart�s � Guide to Black History (2019)
+https://lh3.googleusercontent.com/hPW18n8fgEVOicMh9ZaNr5dEH1I13Fa2aP7cMXDmnTN-faI7a7V-wWF6jcdZFHFxwckEHKkS95esb2U1VOTJzOK6h9CZBVH-uo3OFprxrXTfWxOPE_HjOtYf38M1zLDBPmE0bCUIWQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1QTtPymPoq97vfZ2mVN0siOHUKs.jpg" group-title="Filmes 2019",LEG Andar Montar Rodeio; A Virada de Amberley (2019)
+https://lh3.googleusercontent.com/izeEWbWHY7FhZGqvr0cWccuBt0shhEHbewM2hABi9uX-CGQxdaSIMviaFRvTo95OgeH9lxmoeC-cL9QP2eIQp7xiMO-eIFNh0jvL1rrIoYZJKvEoAAl-o8Y5EOxovR7Ca6M6Lumi5g=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1QTtPymPoq97vfZ2mVN0siOHUKs.jpg" group-title="Filmes 2019",Andar Montar Rodeio; A Virada de Amberley (2019)
+https://lh3.googleusercontent.com/kbQRUFHMWH9DR0YKtlPv8DzF_rb0Cs7cOptAVWmPZsOj6y0aQOFFwQmg3O7AZn4GYCfFeQeopvMVlw_hlVLnAhuqoO4f3hLM2VtefAdz7I_LH8WkTNsoYCAqyWRpx_4jdDD20qzZ9A=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sjuQ6jUMZ76ynaEvP0pCRxYSTSm.jpg" group-title="Filmes 2019",LEG The Hard Way: O Caminho Dif�cil (2019)
+https://lh3.googleusercontent.com/rGrRQN2dqOFNs0qR62jD80agTCPdY6rZdP-kKXcA85eQ1BJl2TkJj6Yohmg5VHLCeqso5x99o2NAK7lUU31A72JecOUmSbS75Z2oLlTZer8XX-dLY4S5oYqQY8ey6jULs8FwttCSbg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/sjuQ6jUMZ76ynaEvP0pCRxYSTSm.jpg" group-title="Filmes 2019",The Hard Way: O Caminho Dif�cil (2019)
+https://lh3.googleusercontent.com/WQ1kVpMpQ9Uhm5R4wIy8xbC9YbsQcOTkZKf_y46DjfSE19DRRHr6OW06qQvtLj0YEWG35liAKX-VBe5-rxdoJxqj4r6Q51cR4e8wzSGhck-n4_dXHFeGXMd3ULoIWPYmu3Kv9GN1gA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/haUdPprsRrN7YkgC1adh9YvnqvR.jpg" group-title="Filmes 2019",LEG O Menino que Descobriu o Vento (2019)
+https://lh3.googleusercontent.com/47Ibxo7LHgu6-Q2BSW7ZqoTUmElwgvLN62SqpYislco08DQm6tZlH206ZQNi6i_zxx7mf1V7VP89hgQIJCbkaoCJ7-nM_wEpfEl2lGBN3Wf18epHyYMldSkSl807FT8O4hvt6pylzA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/haUdPprsRrN7YkgC1adh9YvnqvR.jpg" group-title="Filmes 2019",O Menino que Descobriu o Vento (2019)
+https://lh3.googleusercontent.com/T-sQTmYmghEJIvrOOxGX_i80ckKOrJjL-YIHGXz8UP_3gi09xIwjYIR0zQBYbUW5__vXd9GzmeZxmnEFYg6pKvykw_n7bOXcL3bTTuK4xBF3Cmh9bBYc7lEXl6M667WSqajX6Py9Zw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/u9dldwRwQjTZGlIxKaAtAPLAjOv.jpg" group-title="Filmes 2019",LEG Green Book: O Guia (2019)
+https://lh3.googleusercontent.com/_mRTmwj84gvuojt0eBic976HPO88eP6ycqOgZOM1HwHkwGHRkZpn82CzoTE8_AH7FIww9TGzEASsrOMivYWARbNnlDuJgNeVYyI3fyhf4FWRDssJV8tbPxKQbRqj7odZWOrQp-hoiQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/u9dldwRwQjTZGlIxKaAtAPLAjOv.jpg" group-title="Filmes 2019",Green Book: O Guia (2019)
+https://lh3.googleusercontent.com/T-fcmaGYsMCWLJN1xnXOmEtCB_HMwja3At7tG2_5RT7qqFKsgalJMv1tJ1ofjSMaKU_byLdA8du-8moZ4ux3RnjKuafvmpoOnAFr5YYbH4CbBA3uBCGdv9RNU2_2B00Az-7HHNLQfA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gbpKBgFRQpCi0dIU9Vyh4ZV4DvE.jpg" group-title="Filmes 2019",LEG A Favorita (2019)
+https://lh3.googleusercontent.com/XQ5MNvRamHkYO9YHgUzRPPfv8tRtH6XP-n47Z1GhwQp6GjSOt3FQadgmulY0tsifWnXx34AOZ5LHq-jg8n4dIsgIhGpbLRlEwHwFotFLtK2PWcIzJ5BVBXI-veAg1BKhcqF2Q0PpUA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gbpKBgFRQpCi0dIU9Vyh4ZV4DvE.jpg" group-title="Filmes 2019",A Favorita (2019)
+https://lh3.googleusercontent.com/NqqtwEtU6z-R-G23aSf0OFYQW8v7e8kjjwrn7W4Qqe0b7IWKg05FIaAAbLny4dtCjWGat-dsVX7slD33g9BfmLRW-wvJWbPvwQo2hR-zf4WLyf2fhReVcr4lUB1n4Z5EOgfrKO3_YA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jZOncxdzlMtgKKZOw0G1HwT3jQf.jpg" group-title="Filmes 2019",Pelas Ruas de Paris (2019)
+https://lh3.googleusercontent.com/G11SQD6WMxrxIsSa_Mcnxz-HK_yzs7C6ULIPr4bSJi2hBtfSb_XJPwTOx-DyCGeVAuX5r_FcGHTp-v416UJqPtGn-qEf2XPId9Exw-tfaxs6orcuFiHtPwJPn0vBP9-lMWZAaeZArQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gtssTSvNgY8132hPRtp1DbciYJ6.jpg" group-title="Filmes 2019",Paddleton (2019)
+https://lh3.googleusercontent.com/XwsU1RH5qqah5W6UGtABPxDYiNsMlc2qzW9-xLo_2BgNUOwXnl9YuOU_siighsJRul1esNjykJo1qXWe5Rd8XT21wGvbWNuldz9dv6EAhdjCuKv5neudldtRcAEJ4qTfdk80gaA7Bg=m18
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/pOO3Ubj1r5e61LtRh0f6FhGgzn8.jpg" group-title="Filmes 2019",LEG Creed II (2019)
+https://lh3.googleusercontent.com/1rIbzIk1ItI2Zkb4__FMZBrThnNfBw9Opubcx1wV0Z1E2QfUZkulzc1354ePYL5V87rLxmCJBOdWeATkB_r38XKDw6mevw9FfXa1xB8taVpkTWw3o1IvrR06n43pEb0VEYPMWG5kmw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/pOO3Ubj1r5e61LtRh0f6FhGgzn8.jpg" group-title="Filmes 2019",Creed II (2019)
+https://lh3.googleusercontent.com/QhKoMOHRPvUCyNQgbbcg1ALRt6EazVuN30mS9rynLLpkBM9eS6ETgzrCWgx-aUPp6grxrLHUbsTRySXC2ltlcIoHxDYVWQgCYF9M9v-69bHFAUR543Bv1JUscPHP6C2b6WQ0_dBkuA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/2KfhMmTMNAj3NehyhrYtadDO7yc.jpg" group-title="Filmes 2019",LEG Opera��o Fronteira (2019)
+https://lh3.googleusercontent.com/JWYUXDozCA--wF6_J_E0aXvbRxfiyK5JjXH8luj-as6eGo5B3KUq0ZrANzwiE3n3b_APFjxJ6y6zgnjPaK8l59YGiF6CdpqhLV3o06nq9v6FBovPA-xuCbocQXQfgVCgduER_S2GXg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/2KfhMmTMNAj3NehyhrYtadDO7yc.jpg" group-title="Filmes 2019",Opera��o Fronteira (2019)
+https://lh3.googleusercontent.com/sPeKAtksAUFoZwiI09ezNJQ1_2acfDC0JBpzPOZompPRUfrDJWPz0EoUVZzj393NW_mplVj20orz-nZ95MGrQdH5VkXa_peqoL6la-QehGucRyWrx5wcgr0pQRfX9DyHgL4G3O6Ugw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/zSpsbEbPiYO2DVrbbjocxANRSdF.jpg" group-title="Filmes 2019",LEG Lizzie (2019)
+https://lh3.googleusercontent.com/RElzmNJwRLODFlCuEnDzLscakBKws-ZwbySvDuB_bI0ui4xjTrXeCM2kCFRarw22UX2257MOwOITl3iTVFPw9ZAMedOcuE1DPq8JDSrXg7hUxSMbhG3jGA9eb3IDZATVTig-b4eqrg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/zSpsbEbPiYO2DVrbbjocxANRSdF.jpg" group-title="Filmes 2019",Lizzie (2019)
+https://lh3.googleusercontent.com/SBOJLttVyExJHb4k4RuJ6Um66imschA57AzUnltxLDWpWABEfBk686JxLcdN5ezYhiibF4RnlDCyXmWtpVkBmOFmDgZNd5N8nWgC6pk-3Df0eNeUDqpJZN8ZREUwamJjrzFyL-AANg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ejqquyk7r3GLXPir62rksUmPKj5.jpg" group-title="Filmes 2019",LEG Homem-Aranha no Aranhaverso (2019)
+https://lh3.googleusercontent.com/eHoTRJvXd3r2bnmQMktta7HS16WhHk3yh0AizpiLGWI2ELyI-0KzhZocJ9IHrUWovIwvkQgjtm7dyYe4EJF-8KhC0oa2l6MAt2YBfk06zBgZ7Njl3tj8SnsMUjOKGHCNheLvGspE2g=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ejqquyk7r3GLXPir62rksUmPKj5.jpg" group-title="Filmes 2019",Homem-Aranha no Aranhaverso (2019)
+https://lh3.googleusercontent.com/MNfxwxOsi2u9wg7svaJhIry8opOaKxDYwz0wbsJQEhfSMESmKs4tvTPuH5i_0leKk-rha5L8wT1quXSNgHkZIyscIrnOhlCCJaOVk_EE1zhnNrkAWFXgtfOKTf4teFAB0qSSVzDZxA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xJAB1HrFUuOf2VkWPaZ4N2DACCo.jpg" group-title="Filmes 2019",LEG Dumplin� (2019)
+https://lh3.googleusercontent.com/5eZz6Y0DbGtVRm2GI6EWROWLdjd8hXakR48Wqb8tkcMRt5F0TcQJUi_wLXYyK5oM2OI3TtfG8rFKSPtkdx-GL1ZWm6q5q9pX88EMCRWVHNU9-WGJBFFvgB8x2HlcFcLNkPFfK5w70A=m18
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/xJAB1HrFUuOf2VkWPaZ4N2DACCo.jpg" group-title="Filmes 2019",Dumplin� (2019)
+https://lh3.googleusercontent.com/88rCwuh03Jq20cBMVhqsF83aSHwTH0-uz-6haUi932CDwJeBAWBOCVpZxM1y8p6NH-RgWxeVxb5245s6uIDZ6goVz6EvmeJLGygveDd8xImuzBA9ku7j3gFL0gjuOOrywp_Zm8X-4A=m18
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gDvJFHJCVXce4SVDsbLOqUk9sKQ.jpg" group-title="Filmes 2019",LEG Close (2019)
+https://lh3.googleusercontent.com/61OxNnPB3T9a2lW-yMJ5z3JL2e7uChyRXCiyGf784dNxVDFjaFRthM3p-dwxb-ZRCiCV21spCUd2LyIWUlSUNJ0BSetDtLHvOWQlO4Bto_4GrauXEjZfK8ybDg-pBxSF-u99Z1G7Qw=m18
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gDvJFHJCVXce4SVDsbLOqUk9sKQ.jpg" group-title="Filmes 2019",Close (2019)
+https://lh3.googleusercontent.com/IW7kjZBHQqJDT5FZdvmmA8V4M63rM8vYM2ReDUtXQqvr2ZQmbs4BlGUvClD80cmvaKI3RrCBOCJzEYkK6KXeVNEgRIeAUCQrNpkCNynoNVn0JkIdHZU30kYS3vpfTCATefAUUWUGrQ=m18
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/5tLSOyfDnrQvhIaTKQOjpnfNCu.jpg" group-title="Filmes 2019",Scooby-Doo e a Maldi��o do 13� Fantasma (2019)
+https://lh3.googleusercontent.com/9BZFnNoC8STS3-pM9D7DGR016L4wGueyfQEColecp_R2KgQMNlAorTPE8ZLpjcrvWqSURTB7OYdqQMk-unFxYCZ9nYilFJTSK7LMYMI5l0EZKVxio014WgpQtvvcXBEGSRnaXz8D0g=m18
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/3rViQPcrWthMNecp5XnkKev6BzW.jpg" group-title="Filmes 2019",LEG Velvet Buzzsaw (2019)
+https://lh3.googleusercontent.com/wFmJo7QT2nrjlcnX_oD7mJejC9gkbKVAnXZVbloRD1_cGLkZoQgKLy5eezFVKsV9MbnpxrdaOhqxakWTpS3IaF6cll0OZpYPcdVg_P_RZ3plIej3BdgjdgIyHjJoNfHOeDBo02Ln6A=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/3rViQPcrWthMNecp5XnkKev6BzW.jpg" group-title="Filmes 2019",Velvet Buzzsaw (2019)
+https://lh3.googleusercontent.com/MZaAuKXY6xO6suKX5RuZ7itm0S7Eeiz3cAL6kXqwhZJDZKgY68u7mdaQJ4RTU1d9peFr1HTGIPaag8cSu6ULRElPw2vlWzi9sTbhiDAqUmqhk8xZOvc6qeG1e37uPMpb7Lasst8AeA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/q7aenz9ZERyL4EVZA4ieHnXQrjS.jpg" group-title="Filmes 2019",LEG A Lenda da Passagem Secreta (2019)
+https://lh3.googleusercontent.com/5oBCJjTxtGFsO8R-1A2MASgq8ETjhSiUaSy0ID02HmS71LCWwcyc6UJfhsxUTMSyOWiLkHbaZtFwZrkYv-bsd6kKzEfPTnMXgMykj1eEoDroJpp44xMR80VuHFVcTy1uiR-JLa7sPw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/q7aenz9ZERyL4EVZA4ieHnXQrjS.jpg" group-title="Filmes 2019",A Lenda da Passagem Secreta (2019)
+https://lh3.googleusercontent.com/3nHADlRZwjg_MEyQ-GkffEJml66GQm2LwEiV6bLmoEUCPiGxnRNbH-HU3RAUQ5sCyRw7no0e3nKZMmgqlmdnD7HdUXoBAWPUQQClPaGc6QKLb4dWnCT1-D5Ev3elQo9ikb8ZyFjgXg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/u4rWHJLzM8CrsdtcTOLGY58ef4j.jpg" group-title="Filmes 2019",LEG O Reino do Superman (2019)
+https://lh3.googleusercontent.com/ILuLFZWkltz4aFc821MYiWAOwKMr8J4rolEslKQS5obsfWuSlVn7WdIsHD_vl6LbupXetvYY_FCureIcVjIM7xT_t3RSpCer-pEiNnIM_lxGMOq2wM21EeswrzZHf-io3aTguxcpjQ=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/u4rWHJLzM8CrsdtcTOLGY58ef4j.jpg" group-title="Filmes 2019",O Reino do Superman (2019)
+https://lh3.googleusercontent.com/J_f762L6fNmiwgERC2zavEDfw_OWT_USM2EVK_fU8-NuQYITJgY2WicivET5n9_7g5s9BHYkLK4TYtYWdfXLetaDnpVY2XizEWvSZuoQ8qZJwHpOz2niOFpoA7U9CWPIxVYzICtKsA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/mytDZ2Uulslrts6O8uskJyB7Oel.jpg" group-title="Filmes 2019",Fuga do Hosp�cio: A Hist�ria de Nellie Bly (2019)
+https://lh3.googleusercontent.com/tScu-POzLgU24v9nvrpLdY9qczAr04qfw-BgiWXDcv82CFoVXKn2tO22npY3qsn0nz0peq2z-wskBLb0mzaAKMWPWhhGytyiD_2UYCY4F5czgUAZ_wfxxH2_3aPu_FWjxIyu_Fsd-w=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/qOBEpKVLl8Q9CZScbOcRRVISezV.jpg" group-title="Filmes 2019",LEG Polar (2019)
+https://lh3.googleusercontent.com/PCMBSqB7s0IuiBqzBRYwK2lYYvy-lznwN9D60OLkyfhXNajX4IQU6YjSaQadT7yri1tNDsePFKQhMf6wN4N0p4tWhdHtFGgNEOHcZQPiEfSE4U0F0HutFLyhCy--vVPoWQlmQIWqJw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/qOBEpKVLl8Q9CZScbOcRRVISezV.jpg" group-title="Filmes 2019",Polar (2019)
+https://lh3.googleusercontent.com/rUD79paMfIVWBR59vPOZsJeEH8eHsKBC_7xtmZQFkB3H94kmoMbA-fdfaLHvu0CsLzk__Uu5BwjxgeqAw6lhtgVcgdl1MAZKlBLtBK_Xm_M90O74SgxIFWhqep-Hed-t4FhSEcOe8Q=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/vff7MkBs22mxQtmusWXk4gdLPRg.jpg" group-title="Filmes 2019",LEG Replicas (2019)
+https://lh3.googleusercontent.com/pSfR6RNPI2Kpv-Wivz5NeVI4xi7sDPWQwC3oRppNMx1Ney7TwZhF7Cj7sGOyEgp6u906bUCqvf77t08I3ztRZZih2gAA9MEimj0H01Z_CeY3kXmNbEnyxGcho42h6vRgmlyrwkhBow=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/vff7MkBs22mxQtmusWXk4gdLPRg.jpg" group-title="Filmes 2019",Replicas (2019)
+https://lh3.googleusercontent.com/-j19RG9yAafTNqP0IbGQldjAUMLvXiepSzPPlSo29DlTpVLxc3XZ2PAHVhp1A4eSAAITFDONL58oa1k7XCSAQ6asrymHdQnI6fkrSkIfwoVloXdzKoB3XsdVX16JLDmcXMURlJ-uAg=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/vmlfJV6zRhGeU5eAsMRn6IYkAgD.jpg" group-title="Filmes 2019",Soni (2019)
+https://lh3.googleusercontent.com/z1wuFDHb0sC0vwnbL3pdq-D0VeG9wy8g4PEcdYvIhgnRvumlliqTjjUcYh39_215eq4gOJZAFEUSaR3IFb4mv9GoSwhYSSMemQq8luMaNElntJaPNzH1tDi--cF1nLq8jc82FJ8lQw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg" group-title="Filmes 2019",LEG IO � O �ltimo na Terra (2019)
+https://lh3.googleusercontent.com/Dku74KdKk9UFC0HaDcFGUdanRQlQDPbVfocTPdo7ncN5MzjAU8kM111Ac48xuW1tf247hHLGPGfF4cQBWJgB_bZVC5P_ltOQoBkwCYQF3PjEQEzDuqljecQWMdSrvhUk6YtLBy1SXw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg" group-title="Filmes 2019",IO � O �ltimo na Terra (2019)
+https://lh3.googleusercontent.com/iu6a2HN0i73p-FeQKFetGfFxfHcr971_cmDTK2yIc4eg8pfIni-n7-gPtGwaun6m-MD78hGnGRpC4P9WI-f0yKcXLkSkswyLdnWr-2tm48qRb-pyP1yWst3SflrewDhIPkt3qAxcVw=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/phEauTt8qCf4RaS2GeE1nFjBbrG.jpg" group-title="Filmes 2019",LEG Maus Momentos no Hotel Royale (2019)
+https://lh3.googleusercontent.com/JBbpbSsS8QHCvmxH1ogL13x3-cEeNb-cdcHgRFJwaXJMY0UuIhahqXgLr9cb3Ef9nL52fCCo6djCOkMXVGju4KuoqehECoYHE62WScIRJ3xx1JEHS6n4U75erw8bA0Rnb1_l7FBzWA=m22
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/phEauTt8qCf4RaS2GeE1nFjBbrG.jpg" group-title="Filmes 2019",Maus Momentos no Hotel Royale (2019)
+https://lh3.googleusercontent.com/6IctQP3GiQ99uYKW0vJ8SRhiQmK26YGnNiK0L4dM3SInNJObEMDStnSIkqrsN7SM1SkkkqnMEFHu-2HZF9pY3jcXVie6mAd1wmR9VbAI4pSPIChDcPwlMe4kZwTR_tPbQJIsHF7m7w=m22
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/95390_13i.png", 13i
+https://jimmy.zappingtv.com/13i/13i.smil/chunklist_w864550285_b1628000_sles_tkd293emF0b2tlbmVuZHRpbWU9MTU2Mjg1MTc0MCZ3b3d6YXRva2VuaGFzaD1XVF9kaUJwRGtzcTNXdGVHcHFiTk0wX0RuWTJLV2lPeW96blZacHBUQnVJPQ==.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="CHILE",TVN
+https://us-b4-p-e-az1.cdn.mdstrm.com/live-stream-dai/17755b1f44294f90be3b5bf23cb93ac4/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57a498c4d7b86d600e5461cb/bfe3af7e-b93b-4835-aa01-cd06af98cc0e/2.m3u8
+
+#EXTINF:-1 group-title="CHILE",VTV
+http://unlimited5-cl.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
+
+#EXTINF:-1 group-title="CHILE",MEGA
+https://v2.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios Torreon
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/13max.png" group-title="Entretenimiento", 13 MAX (Argentina)
+http://coninfo.net:1935/13maxhd/live_720p/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/multivision.png" group-title="Entretenimiento", Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", AlJazeera ENGLISH
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Grupo Formula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", MTV Noruega
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", MiamiTV Internacional
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CHILE", Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Next TV
+http://198.1.117.5:1935/live/livestream/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Antiguo_logo_de_Canal_Once_(once_TV).png/186px-Antiguo_logo_de_Canal_Once_(once_TV).png" group-title="Entretenimiento", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-gDfpykQXiAY/TtedvKOo74I/AAAAAAAARQ4/p6pXiwKtz08/s1600/tlx.png" group-title="Entretenimiento", TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+
+#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="Cine", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica", EXATV
+http://streamingcws20.com:1935/examor/videoexamor/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica", TMTV
+http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Teleritmo_%282015-%29.png/revision/latest?cb=20151111060623" group-title="Musica", TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/musictop.png" group-title="Musica", Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://advancescreenings.com/img/outlets/c/california_music_channel.jpg" group-title="Musica", California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/27274/logo_melody%20channel1.png" group-title="Musica", Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/abc.png" group-title="Internacional", ABC News
+http://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/dw.png" group-title="Internacional", DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/wgn9.png" group-title="Internacional", WGN 9
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/nhkworld.png" group-title="Internacional", NHK World
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/digi24.png" group-title="Internacional", Digi 24 (Rumania)
+http://82.76.40.76/digi24edge/digi24.smil/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/wn.png" group-title="Internacional", Wather Nation (USA)
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/" group-title="Internacional", Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/nasa.png" group-title="Internacional", NASA iss
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/nasa.png" group-title="Internacional", NASA Media
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/nasa.png" group-title="Internacional", NASA Public
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/munchen.png" group-title="Internacional", Munchen TV (Alemania)
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", AlJazeera Arabe
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", The Wather Channel USA
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0002/2390/brand.gif?itok=VjuQO7rI" group-title="Internacional", Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="SPAIN",Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon-150x150.png", Vega Baja TV
+http://185.29.68.24/tvb.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.imgur.com/jl1Nnd4.png", TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="1683" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png", Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VlMzpJH.png" group-title="Canales Espa�oles", Canal 13 Espa�a | SD
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ROPlvzc.png" group-title="Canales Espa�oles", A Punt | SD
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ptvtelecom.com/ficheros/imagennoticia311_0.jpg" group-title="SPAIN",Canal Parlamento
+http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
+#EXTINF:-1  tvg-logo="http://travel.home.sndimg.com/content/dam/images/travel/fullset/2012/08/15/bc/travel-channel_web-logo.rend.hgtvcom.616.462.suffix/1491581086334.jpeg", Travel HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://bbgwatch.com/bbgwatch/wp-content/uploads/2013/08/Marti-150x150.png",TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YpZIj1p.png", Ten Honduras
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+
+#EXTINF:-1 tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Campus+TV+logo_98.png", CAMPUS
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png",Once TV
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/695255688067571712/jLsoL-BY.jpg", M2O TV [SD]
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IzHgZmg.jpg" group-title="MUSICA",Retro Tv MUSICAL
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1  tvg-logo="https://s3.eu-central-1.amazonaws.com/radioportals/radioviainternet-it/images/stations/radio-51-share.png",Radio 51 TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.music1009.com/image/team/3.png",RADIO NUMBER ONE TV
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://canales33.mex.tl/imagesnew2/0/1/0/0/0/2/9/6/7/0/El%20Pinguino.jpg",El Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png",TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?
+
+#EXTINF:-1 tvg-logo="http://www.pumamedia.com.au/DW_English.jpg",Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png",Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
+#EXTINF:-1  tvg-logo="http://channelpear.com/images/media/3144.jpg",Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.iphoneincanada.ca/wp-content/uploads/2015/07/the-shopping-channel-logo.jpg",The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
+#EXTINF:-1  tvg-logo="http://i.imgur.com/hUma1JP.jpg",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Three_NZ_TV.png",Three
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/Tvsn_logo.png",TVSN
+http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg", Nosotros Los Nobles |
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox |
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg", Terminus |
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg", Deadpool |
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg", Intensamente |
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg", JIGSAW VIII |
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina |
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO |
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg", Guardianes de la Galaxia | SRREGIO.NET
+https://goo.gl/sFaEVq
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/ajBGBm5.png" group-title="ENTRETENIMIENTO",Multimedios (Mexico)
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-id="207" tvg-logo="https://pbs.twimg.com/profile_images/830175884283875328/oudc8eAY.jpg" group-title="COLOMBIA",Teleenvigado
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+
+#EXTINF:-1 tvg-id="208" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Teleislas.png" group-title="COLOMBIA",Teleislas
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+
+#EXTINF:0 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg", La Fuerza De La Ilusion | 1fgcanz
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+
+#EXTINF:0 tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg", Cuando nos Conocimos | 1fgcanz
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+
+#EXTINF:0 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg", La Forma del Agua SUBTITULADO | 1fgcanz
+https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://dieorhack.com/wp-content/uploads/2015/02/The-Evil-Within-Hack-Cheats-Tool-Trainer-1024x576.jpg"  group-title="PACK 04",EL MAL DENTRO (2017)
+https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+
+#EXTINF:-1 tvg-logo="https://static.pelisfox.tv/static/movie/cover/original/cb9480cd578eb37b391ad4023b10d471.jpg" group-title="Without category",  ANGRY BIRDS
+http://cecegeek@goo.gl/3KGMLf
+
+# EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESTRENOS: Sandy Wexler (2017)
+http://bit.ly/MRAQCSAND
+
+# EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESTRENOS: THE MINE (2017)
+http://bit.ly/THEMINE
+
+#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/musica/11.png" group-title="Musica", M2O TV Music
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Mine_2016_film.jpg" group-title="VOD FREE IPTV Evoluci�n", VOD FREE: LA MINA
+https://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/G98R2WReTKs/maxresdefault.jpg" group-title="VOD FREE IPTV Evoluci�n", VOD FREE: MATRIX
+http://www.deadlyblogger.com/NewRelease/matrix1.mp4
+
+#EXTINF:-1 tvg-logo="http://filmakias.gr/wp-content/uploads/2018/02/sahara-netflix-2017-poster2.jpg" group-title="VOD FREE IPTV Evoluci�n", VOD FREE: SAHARA
+https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Kurt Cobain: Montage of Heck
+https://cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Varias Lat:Volver al Futuro III
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  EL MAL ADENTRO(2017)
+http://bit.ly/EVILWITHIN_MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  LA BELLA DURMIENTE (CLASICA)
+http://bit.ly/LABELLAMOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  MASCOTA HUMANA (2016)
+http://bit.ly/MASCOTAHUMANA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  VOLVER AL FUTURO3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  CASTILLO DE ARENA (2017)
+http://bit.ly/MRAQCASTI
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  CHUKY EL MUNHECO DIABOLICO (TERROR)
+http://bit.ly/MRAQCCHUCK
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  COLOSSAL (2016)
+http://bit.ly/2w5zZIw
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  MI VIDA A LOS 17
+http://bit.ly/2v16m9z
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  SAHARA (2017)
+http://bit.ly/SAHARAMOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  SPECTRE
+https://goo.gl/3KGMLf
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  BLOOD IN BLOOD OUT/ VATOS LACOS
+http://www.deadlyblogger.com/NewRelease/blood.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Sand Castle
+http://cecegeek@goo.gl/FDyHpL
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",Sandy Wexler
+http://cecegeek@goo.gl/kyH56Z
+
+#EXTINF:-1 tvg-logo="https://gfx.videobuster.de/archive/v/cwiIRYplRhEAbg_kzaC5YDAcz0lMkawqCUyRqglMkZpbWGZJTJGanBlZyUyRmIwZt3ZMmExYTRlYmTy6_AxZGKpNWNmZDFlLmpwZyZyPXfvOA/prometheus.jpg" group-title="MOVIES",Prometeus 2012 HD
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+
+#EXTINF:-1 tvg-logo="http://images.fanpop.com/images/image_uploads/Child-s-Play-2-chucky-96624_365_500.jpg" group-title="Varias Lat",Chucky el Mu�eco Diabolico II
+http://bit.ly/MRAQCCHUK2
 
 #EXTINF:-1 group-title="Entretenimiento", Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
