@@ -14,7 +14,14 @@ http://www.coninfo.net:1935/9linklive/live/chunklist_w1517576469.m3u8
 
 #EXTINF:-1 group-title="ARG ",Ciudad TV Chaco
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
-
+#EXTINF:-1 group-title="ARG ",12 POSADAS
+http://g4.vxral-hor.transport.edge-access.net/a12/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8
+#EXTINF:-1 group-title="ARG ",12 POSADAS-240
+http://g3.proy-hor.transport.edge-access.net/a12/ngrp:c12_live01-100129_all/c12_live01-100129_240p.m3u8
+#EXTINF:-1 group-title="ARG ",12 POSADAS BIS
+http://g5.mc-hor.transport.edge-access.net/a12/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8
+#EXTINF:-1 group-title="ARG ",12 POSADAS TS
+http://g5.vxral-hor.transport.edge-access.net/a12/ngrp:c12_live01-100129_all/c12_live01-100129_240p-10847.ts
 #EXTINF:-1 group-title="ARG ",canal 4 posadas
 https://589ff3c36f7e8.streamlock.net/canal4/canal4/playlist.m3u8
 #EXTINF:-1 group-title="LAT ",ACS NETWORK TV
