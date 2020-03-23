@@ -391,7 +391,10 @@ http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/index_151_av-p.m3u8?sd=6&re
 http://panel.dattalive.com:1935/8250/8250/chunklist_w325606071.m3u8
 #EXTINF:-1 group-title="LAT ", Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
-
+#EXTINF:-1 group-title="LAT ",FMHOT CL
+http://fmhot.02.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b500000_slesp.m3u8
+#EXTINF:-1 group-title="LAT ",FMHOT CL bis
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b500000_slesp.m3u8
 #EXTINF:-1 group-title="LAT ",   paramount chanel
 http://paramount.live.flumotion.com/live/playlist.m3u8
 
