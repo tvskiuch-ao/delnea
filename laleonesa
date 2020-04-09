@@ -2705,7 +2705,2876 @@ https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
 
 #EXTINF:-1 tvg-logo="http://images.fanpop.com/images/image_uploads/Child-s-Play-2-chucky-96624_365_500.jpg" group-title="Varias Lat",Chucky el Mu�eco Diabolico II
 http://bit.ly/MRAQCCHUK2
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="MX | Azteca 7 FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/tvabierta/3.png" group-title="Mexico FHD",MX | Azteca 7 FHD
+http://158.69.127.36:25461/juan12/juan12/822
 
+#EXTINF:-1 tvg-id="amchd.mx" tvg-name="MX | AMC FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/amc-hd.png" group-title="Mexico FHD",MX | AMC FHD
+http://158.69.127.36:25461/juan12/juan12/82
+
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="MX | Animal Planet FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/11.png" group-title="Mexico FHD",MX | Animal Planet FHD
+http://158.69.127.36:25461/juan12/juan12/250
+
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="MX | AyE FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/ae.png" group-title="Mexico FHD",MX | AyE FHD
+http://158.69.127.36:25461/juan12/juan12/22
+
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="MX | Boomerang FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Mexico FHD",MX | Boomerang FHD
+http://158.69.127.36:25461/juan12/juan12/55
+
+#EXTINF:-1 tvg-id="tiin.mx" tvg-name="MX | BITME FHD" tvg-logo="https://panelinferno.com/posters/1574280842332.jpg" group-title="Mexico FHD",MX | BITME FHD
+http://158.69.127.36:25461/juan12/juan12/824
+
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="MX | Canal De Las Estrellas FHD" tvg-logo="https://panelinferno.com/posters/1574280923376.png" group-title="Mexico FHD",MX | Canal De Las Estrellas FHD
+http://158.69.127.36:25461/juan12/juan12/825
+
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX | Canal 5 FHD" tvg-logo="https://img2.freepng.es/20180831/bsq/kisspng-vector-graphics-logo-adobe-illustrator-artwork-ima-canal-5-logo-svg-vector-amp-png-transparent-ve-5b89c4d973eba6.7574586315357554814748.jpg" group-title="Mexico FHD",MX | Canal 5 FHD
+http://158.69.127.36:25461/juan12/juan12/109381
+
+#EXTINF:-1 tvg-id="EPG123.87029.XMLTV.CO" tvg-name="MX | Claro Sports FHD" tvg-logo="https://i.pinimg.com/originals/ac/d8/9f/acd89f72fa2d530e577c0775d8a058a3.png" group-title="Sports FHD",MX | Claro Sports FHD
+http://158.69.127.36:25461/juan12/juan12/109402
+
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="MX | Cartoon Network FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/4.png" group-title="Mexico FHD",MX | Cartoon Network FHD
+http://158.69.127.36:25461/juan12/juan12/53
+
+#EXTINF:-1 tvg-id="cinecanalhd.mx" tvg-name="MX | Cinecanal FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/cine-canal-hd.png" group-title="Mexico FHD",MX | Cinecanal FHD
+http://158.69.127.36:25461/juan12/juan12/77
+
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="MX | Cinemax FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="Mexico FHD",MX | Cinemax FHD
+http://158.69.127.36:25461/juan12/juan12/86
+
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="MX | Discovery Channel FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/1.png" group-title="Mexico FHD",MX | Discovery Channel FHD
+http://158.69.127.36:25461/juan12/juan12/62
+
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="MX | Discovery Home and Health FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/2.png" group-title="Mexico FHD",MX | Discovery Home and Health FHD
+http://158.69.127.36:25461/juan12/juan12/64
+
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="MX | Discovery Theater FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/theater-discovery-hd.png" group-title="Mexico FHD",MX | Discovery Theater FHD
+http://158.69.127.36:25461/juan12/juan12/249
+
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="MX | Discovery Turbo FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/6.png" group-title="Mexico FHD",MX | Discovery Turbo FHD
+http://158.69.127.36:25461/juan12/juan12/251
+
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="MX | Discovery ID FHD" tvg-logo="https://c7.uihere.com/files/58/935/607/investigation-discovery-television-show-television-channel-logo-id.jpg" group-title="Mexico FHD",MX | Discovery ID FHD
+http://158.69.127.36:25461/juan12/juan12/35
+
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="MX | Discovery World FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/world-discovery-hd.png" group-title="Mexico FHD",MX | Discovery World FHD
+http://158.69.127.36:25461/juan12/juan12/61
+
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="MX | Disney Channel FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/disney.png" group-title="Mexico FHD",MX | Disney Channel FHD
+http://158.69.127.36:25461/juan12/juan12/49
+
+#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="MX | Disney XD FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/disney-xd.png" group-title="Mexico FHD",MX | Disney XD FHD
+http://158.69.127.36:25461/juan12/juan12/54
+
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="MX | E! FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/25.png" group-title="Mexico FHD",MX | E! FHD
+http://158.69.127.36:25461/juan12/juan12/33
+
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="MX | ESPN FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/37.png" group-title="Sports FHD",MX | ESPN FHD
+http://158.69.127.36:25461/juan12/juan12/15648
+
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="MX | ESPN 2 FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/deportes/5.png" group-title="Sports FHD",MX | ESPN 2 FHD
+http://158.69.127.36:25461/juan12/juan12/51810
+
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="MX | ESPN 3 FHD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn-3_m.png" group-title="Sports FHD",MX | ESPN 3 FHD
+http://158.69.127.36:25461/juan12/juan12/109251
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Food Network FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/food.png" " group-title="Mexico FHD",MX | Food Network FHD
+http://158.69.127.36:25461/juan12/juan12/15588
+
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="MX | Fox FHD" tvg-logo="" group-title="Mexico FHD",MX | Fox FHD
+http://158.69.127.36:25461/juan12/juan12/15586
+
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="MX | FX FHD" tvg-logo="" group-title="Mexico FHD",MX | FX FHD
+http://158.69.127.36:25461/juan12/juan12/21
+
+#EXTINF:-1 tvg-id="foxactionhd.mx" tvg-name="MX | Fox Action FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-action-hd.png" group-title="Mexico FHD",MX | Fox Action FHD
+http://158.69.127.36:25461/juan12/juan12/15589
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Cinema FHD" tvg-logo="" group-title="Mexico FHD",MX | Fox Cinema FHD
+http://158.69.127.36:25461/juan12/juan12/77965
+
+#EXTINF:-1 tvg-id="fox1hd.mx" tvg-name="MX | Fox Series FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-premium-series-hd.png" group-title="Mexico FHD",MX | Fox Series FHD
+http://158.69.127.36:25461/juan12/juan12/71
+
+#EXTINF:-1 tvg-id="foxmovieshd.mx" tvg-name="MX | Fox Movies FHD" tvg-logo="" group-title="Mexico FHD",MX | Fox Movies FHD
+http://158.69.127.36:25461/juan12/juan12/73
+
+#EXTINF:-1 tvg-id="fxmovies.mx" tvg-name="MX | FX Movies FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/fxm.png" group-title="Mexico FHD",MX | FX Movies FHD
+http://158.69.127.36:25461/juan12/juan12/148
+
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="MX | Fox Sports FHD" tvg-logo="https://img2.freepng.es/20180716/cp/kisspng-fox-sports-networks-sportsouth-television-fox-action-movies-logo-5b4d3b5b1d82e3.8392568615317881231209.jpg" group-title="Sports FHD",MX | Fox Sports FHD
+http://158.69.127.36:25461/juan12/juan12/51765
+
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="MX | Fox Sports 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png" group-title="Sports FHD",MX | Fox Sports 2 FHD
+http://158.69.127.36:25461/juan12/juan12/15590
+
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="MX | Fox Sports 3 FHD" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/929.png" group-title="Sports FHD",MX | Fox Sports 3 FHD
+http://158.69.127.36:25461/juan12/juan12/51696
+
+#EXTINF:-1 tvg-id="goldenmultiplex.mx" tvg-name="MX | Golden FHD Plus" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/3.png" group-title="Mexico FHD",MX | Golden FHD Plus
+http://158.69.127.36:25461/juan12/juan12/79
+
+#EXTINF:-1 tvg-id="historyhd.mx" tvg-name="MX | History FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/history.png" group-title="Mexico FHD",MX | History FHD
+http://158.69.127.36:25461/juan12/juan12/59
+
+#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="MX | Imagen FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Logoimagen2016.png" group-title="Mexico FHD",MX | Imagen FHD
+http://158.69.127.36:25461/juan12/juan12/109531
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Morbido FHD" tvg-logo="https://pbs.twimg.com/profile_images/1094397492525883392/4kdaC3FF_400x400.jpg" group-title="Mexico FHD",MX | Morbido FHD
+http://158.69.127.36:25461/juan12/juan12/85
+
+#EXTINF:-1 tvg-id="mtv.mx" tvg-name="MX | MTV FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/musica/10.png" group-title="Mexico FHD",MX | MTV FHD
+http://158.69.127.36:25461/juan12/juan12/129
+
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="MX | NatGeo Channel FHD" tvg-logo="" group-title="Mexico FHD",MX | NatGeo Channel FHD
+http://158.69.127.36:25461/juan12/juan12/65
+
+#EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="MX | Natgeo Wild FHD" tvg-logo="" group-title="Mexico FHD",MX | Natgeo Wild FHD
+http://158.69.127.36:25461/juan12/juan12/15592
+
+#EXTINF:-1 tvg-id="space.mx" tvg-name="MX | Space FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/26.png" group-title="Mexico FHD",MX | Space FHD
+http://158.69.127.36:25461/juan12/juan12/15587
+
+#EXTINF:-1 tvg-id="sonyentertainmenttv.mx" tvg-name="MX | Sony FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/sony_hd.png" group-title="Mexico FHD",MX | Sony FHD
+http://158.69.127.36:25461/juan12/juan12/18
+
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="MX | Syfy FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/22.png" group-title="Mexico FHD",MX | Syfy FHD
+http://158.69.127.36:25461/juan12/juan12/34
+
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="MX | Studio Universal FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/13.png" group-title="Mexico FHD",MX | Studio Universal FHD
+http://158.69.127.36:25461/juan12/juan12/93
+
+#EXTINF:-1 tvg-id="tdn.mx" tvg-name="MX | Fut Tv FHD" tvg-logo="" group-title="Sports FHD",MX | Fut Tv FHD
+http://158.69.127.36:25461/juan12/juan12/15591
+
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="MX | TLC FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cultura/14.png" group-title="Mexico FHD",MX | TLC FHD
+http://158.69.127.36:25461/juan12/juan12/69
+
+#EXTINF:-1 tvg-id="trutv.mx" tvg-name="MX | TruTV FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/3.png" group-title="Mexico FHD",MX | TruTV FHD
+http://158.69.127.36:25461/juan12/juan12/24
+
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="MX | TNT FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/5.png" group-title="Mexico FHD",MX | TNT FHD
+http://158.69.127.36:25461/juan12/juan12/78
+
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="MX | TNT Series FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="Mexico FHD",MX | TNT Series FHD
+http://158.69.127.36:25461/juan12/juan12/109639
+
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="MX | Universal Channel FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/1.png" group-title="Mexico FHD",MX | Universal Channel FHD
+http://158.69.127.36:25461/juan12/juan12/20
+
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="MX | Warner Bros FHD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/warner_hd.png" group-title="Mexico FHD",MX | Warner Bros FHD
+http://158.69.127.36:25461/juan12/juan12/19
+
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="USA | HGTV" tvg-logo="" group-title="USA",USA | HGTV
+http://158.69.127.36:25461/juan12/juan12/262
+
+#EXTINF:-1 tvg-id="amc.us" tvg-name="USA | AMC" tvg-logo="" group-title="USA",USA | AMC
+http://158.69.127.36:25461/juan12/juan12/263
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | TNT" tvg-logo="" group-title="USA",USA | TNT
+http://158.69.127.36:25461/juan12/juan12/264
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Discovery Channel" tvg-logo="" group-title="USA",USA | Discovery Channel
+http://158.69.127.36:25461/juan12/juan12/265
+
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="USA | BBC America" tvg-logo="" group-title="USA",USA | BBC America
+http://158.69.127.36:25461/juan12/juan12/266
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Discovery ID" tvg-logo="" group-title="USA",USA | Discovery ID
+http://158.69.127.36:25461/juan12/juan12/267
+
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="USA | E!" tvg-logo="https://www.newslinereport.com/online/nota_-e-entertainment-television-lanza-una-aplicacin-para-estar-siempre-conectado----.jpg" group-title="USA",USA | E!
+http://158.69.127.36:25461/juan12/juan12/268
+
+#EXTINF:-1 tvg-id="" tvg-name="Latino | Win Sports" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022015/win_sports.png?itok=jmwV9nOn" group-title="Sports",Latino | Win Sports
+http://158.69.127.36:25461/juan12/juan12/274
+
+#EXTINF:-1 tvg-id="" tvg-name="PR | Mega TV" tvg-logo="" group-title="Puerto Rico",PR | Mega TV
+http://158.69.127.36:25461/juan12/juan12/275
+
+#EXTINF:-1 tvg-id="" tvg-name="PR | Punto 2" tvg-logo="" group-title="Puerto Rico",PR | Punto 2
+http://158.69.127.36:25461/juan12/juan12/277
+
+#EXTINF:-1 tvg-id="" tvg-name="PR | WIPR" tvg-logo="" group-title="Puerto Rico",PR | WIPR
+http://158.69.127.36:25461/juan12/juan12/279
+
+#EXTINF:-1 tvg-id="" tvg-name="PR | WAPA 2" tvg-logo="" group-title="Puerto Rico",PR | WAPA 2
+http://158.69.127.36:25461/juan12/juan12/281
+
+#EXTINF:-1 tvg-id="aande.us" tvg-name="USA | A&E" tvg-logo="" group-title="USA",USA | A&E
+http://158.69.127.36:25461/juan12/juan12/282
+
+#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="USA | American Heroes Channel" tvg-logo="" group-title="USA",USA | American Heroes Channel
+http://158.69.127.36:25461/juan12/juan12/286
+
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="USA | Animal Planet" tvg-logo="" group-title="USA",USA | Animal Planet
+http://158.69.127.36:25461/juan12/juan12/287
+
+#EXTINF:-1 tvg-id="bet.us" tvg-name="USA | BET" tvg-logo="https://image.roku.com/developer_channels/prod/6f3a52260bf0b1f467cfee6a698865a1b7bc90f6936720cff499167c588ab23a.png" group-title="Music",USA | BET
+http://158.69.127.36:25461/juan12/juan12/289
+
+#EXTINF:-1 tvg-id="bether.us" tvg-name="USA | BET Her" tvg-logo="" group-title="Music",USA | BET Her
+http://158.69.127.36:25461/juan12/juan12/290
+
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="USA | Big Ten Network" tvg-logo="" group-title="Sports",USA | Big Ten Network
+http://158.69.127.36:25461/juan12/juan12/291
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Boomerang" tvg-logo="" group-title="USA",USA | Boomerang
+http://158.69.127.36:25461/juan12/juan12/292
+
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="USA | Bravo" tvg-logo="" group-title="USA",USA | Bravo
+http://158.69.127.36:25461/juan12/juan12/293
+
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="USA | Cartoon Network" tvg-logo="" group-title="Kids USA",USA | Cartoon Network
+http://158.69.127.36:25461/juan12/juan12/294
+
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="USA | Cinemax East" tvg-logo="" group-title="Movies",USA | Cinemax East
+http://158.69.127.36:25461/juan12/juan12/297
+
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="USA | CMT" tvg-logo="" group-title="Music",USA | CMT
+http://158.69.127.36:25461/juan12/juan12/299
+
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA | CNBC" tvg-logo="" group-title="Noticias",USA | CNBC
+http://158.69.127.36:25461/juan12/juan12/300
+
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="USA | Comedy Central" tvg-logo="" group-title="USA",USA | Comedy Central
+http://158.69.127.36:25461/juan12/juan12/302
+
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="USA | Cooking Channel" tvg-logo="" group-title="USA",USA | Cooking Channel
+http://158.69.127.36:25461/juan12/juan12/303
+
+#EXTINF:-1 tvg-id="cozitvla.us" tvg-name="USA | Cozi TV" tvg-logo="" group-title="USA",USA | Cozi TV
+http://158.69.127.36:25461/juan12/juan12/304
+
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="USA | Destination America" tvg-logo="https://pmcvariety.files.wordpress.com/2015/03/destination-america.jpg?w=1000" group-title="USA",USA | Destination America
+http://158.69.127.36:25461/juan12/juan12/307
+
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="USA | Discovery Family" tvg-logo="" group-title="USA",USA | Discovery Family
+http://158.69.127.36:25461/juan12/juan12/308
+
+#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="USA | Discovery Life" tvg-logo="" group-title="USA",USA | Discovery Life
+http://158.69.127.36:25461/juan12/juan12/309
+
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="USA | Discovery Science" tvg-logo="" group-title="USA",USA | Discovery Science
+http://158.69.127.36:25461/juan12/juan12/310
+
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="USA | Disney Channel" tvg-logo="" group-title="Kids USA",USA | Disney Channel
+http://158.69.127.36:25461/juan12/juan12/311
+
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="USA | Disney Jr" tvg-logo="" group-title="Kids USA",USA | Disney Jr
+http://158.69.127.36:25461/juan12/juan12/312
+
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="USA | Disney XD" tvg-logo="" group-title="Kids USA",USA | Disney XD
+http://158.69.127.36:25461/juan12/juan12/313
+
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="USA | DIY" tvg-logo="" group-title="USA",USA | DIY
+http://158.69.127.36:25461/juan12/juan12/314
+
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="USA | EPIX HITS" tvg-logo="" group-title="Movies",USA | EPIX HITS
+http://158.69.127.36:25461/juan12/juan12/318
+
+#EXTINF:-1 tvg-id="espn.us" tvg-name="USA | ESPN" tvg-logo="" group-title="Sports",USA | ESPN
+http://158.69.127.36:25461/juan12/juan12/319
+
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="USA | ESPN News" tvg-logo="" group-title="Sports",USA | ESPN News
+http://158.69.127.36:25461/juan12/juan12/321
+
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="USA | ESPN U" tvg-logo="https://img2.freepng.es/20180424/xrq/kisspng-espnu-television-channel-logo-news-reporter-5adeb6747b9960.9762614615245451405063.jpg" group-title="Sports",USA | ESPN U
+http://158.69.127.36:25461/juan12/juan12/322
+
+#EXTINF:-1 tvg-id="bloombergtv.mx" tvg-name="MX | Bloomberg" tvg-logo="https://targetjobs.co.uk/sites/targetjobs.co.uk/files/public/field_ad_org_logo/bloomberg-logo.jpg" group-title="Noticias",MX | Bloomberg
+http://158.69.127.36:25461/juan12/juan12/571
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | BBC World New" tvg-logo="" group-title="Noticias",USA | BBC World New
+http://158.69.127.36:25461/juan12/juan12/572
+
+#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1200px-Logo_TVE-Internacional.svg.png" group-title="Spain",TVE
+http://158.69.127.36:25461/juan12/juan12/573
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | MTV Live" tvg-logo="" group-title="Music",MX | MTV Live
+http://158.69.127.36:25461/juan12/juan12/575
+
+#EXTINF:-1 tvg-id="telehit.mx" tvg-name="MX | Telehit HD Plus" tvg-logo="http://televisa-networks.com/wp-content/uploads/2017/08/televisa-networks-telehit-logo-1.jpg" group-title="Music",MX | Telehit HD Plus
+http://158.69.127.36:25461/juan12/juan12/576
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | VH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png" group-title="Music",MX | VH1 HD
+http://158.69.127.36:25461/juan12/juan12/577
+
+#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="MX | AzClic HD" tvg-logo="" group-title="Nacional MX",MX | AzClic HD
+http://158.69.127.36:25461/juan12/juan12/578
+
+#EXTINF:-1 tvg-id="mtv.mx" tvg-name="MX | MTV HD" tvg-logo="https://panelinferno.com/posters/1574998627426.png" group-title="Music",MX | MTV HD
+http://158.69.127.36:25461/juan12/juan12/579
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | MTV Hits" tvg-logo="https://pbs.twimg.com/profile_images/1157806738021736448/ODAmOsLN_400x400.jpg" group-title="Music",MX | MTV Hits
+http://158.69.127.36:25461/juan12/juan12/580
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | VH1 Classics" tvg-logo="https://cdn.sincroguia.tv/uploads/images/v/h/1/xvh1-classic.jpg.pagespeed.ic.dvvgXfEK_s.jpg" group-title="Music",MX | VH1 Classics
+http://158.69.127.36:25461/juan12/juan12/581
+
+#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="MX | Bandamax" tvg-logo="https://4.bp.blogspot.com/-RF9EfjYGHB4/U5ysCEm5JhI/AAAAAAAAAHM/YR29eNGjcv8/s1600/Bandamax.png" group-title="Music",MX | Bandamax
+http://158.69.127.36:25461/juan12/juan12/582
+
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="MX | AzCorazon" tvg-logo="" group-title="Nacional MX",MX | AzCorazon
+http://158.69.127.36:25461/juan12/juan12/584
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Baby First" tvg-logo="https://img2.freepng.es/20180925/vb/kisspng-babyfirsttv-clip-art-babytv-smile-little-rowland-buggies-what-the-bugs-are-watching-5baa45004fca31.0266491815378854403268.jpg" group-title="Kids Latinos",MX | Baby First
+http://158.69.127.36:25461/juan12/juan12/589
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Nick2" tvg-logo="https://www.totalplay.com.mx/images/logos/canales/infantil/nick-2.png" group-title="Kids Latinos",MX | Nick2
+http://158.69.127.36:25461/juan12/juan12/591
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Havoc" tvg-logo="https://image.roku.com/developer_channels/prod/589b4cd88e68a992ed94d21b544f452ad50b6537a81141169058f5c7d171277f.png" group-title="Sports",MX | Havoc
+http://158.69.127.36:25461/juan12/juan12/592
+
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="MX | Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" group-title="Entretenimiento",MX | Discovery Turbo
+http://158.69.127.36:25461/juan12/juan12/593
+
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="MX | Hbo FAM" tvg-logo="https://panelinferno.com/posters/1574190634552.png" group-title="Zona HBO",MX | Hbo FAM
+http://158.69.127.36:25461/juan12/juan12/595
+
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="MX | Azteca Uno HD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/tvabierta/19.png" group-title="Nacional MX",MX | Azteca Uno HD
+http://158.69.127.36:25461/juan12/juan12/471
+
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="MX | Canal De Las Estrellas" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/tvabierta/16.png" group-title="Nacional MX",MX | Canal De Las Estrellas
+http://158.69.127.36:25461/juan12/juan12/472
+
+#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="MX | ImagenTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Imagen_TV_logo.png" group-title="Nacional MX",MX | ImagenTV
+http://158.69.127.36:25461/juan12/juan12/473
+
+#EXTINF:-1 tvg-id="forotv.mx" tvg-name="MX | ForoTv" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/tvabierta/4.png" group-title="Nacional MX",MX | ForoTv
+http://158.69.127.36:25461/juan12/juan12/474
+
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX | Canal 5" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/tvabierta/21.png" group-title="Nacional MX",MX | Canal 5
+http://158.69.127.36:25461/juan12/juan12/475
+
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="MX | Azteca7" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/tvabierta/3.png" group-title="Nacional MX",MX | Azteca7
+http://158.69.127.36:25461/juan12/juan12/476
+
+#EXTINF:-1 tvg-id="canalonce.mx" tvg-name="MX | Canal 11 HD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/39.png" group-title="Nacional MX",MX | Canal 11 HD
+http://158.69.127.36:25461/juan12/juan12/478
+
+#EXTINF:-1 tvg-id="canalmexiquense.mx" tvg-name="MX | Mexiquense" tvg-logo="" group-title="Nacional MX",MX | Mexiquense
+http://158.69.127.36:25461/juan12/juan12/480
+
+#EXTINF:-1 tvg-id="ingeniotv.mx" tvg-name="MX | Ingenio Tv" tvg-logo="http://200.77.160.48:8090/izzi/v3/img/dummy-img/channels/INGENIO_TV.png" group-title="Mundo y Cultura",MX | Ingenio Tv
+http://158.69.127.36:25461/juan12/juan12/481
+
+#EXTINF:-1 tvg-id="teleformula.mx" tvg-name="MX | Teleformula" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/tvabierta/5.png" group-title="Nacional MX",MX | Teleformula
+http://158.69.127.36:25461/juan12/juan12/482
+
+#EXTINF:-1 tvg-id="" tvg-name="MX|HD Multimedios" tvg-logo="" group-title="Nacional MX",MX|HD Multimedios
+http://158.69.127.36:25461/juan12/juan12/483
+
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="MX | Fox Channel" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/27/ef/49/27ef4968-d0b3-bc91-013c-4c8c41c60129/Appicon-0-1x_U007emarketing-0-85-220-0-7.png/1200x630wa.png" group-title="Entretenimiento",MX | Fox Channel
+http://158.69.127.36:25461/juan12/juan12/484
+
+#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="MX | Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Entretenimiento",MX | Sony
+http://158.69.127.36:25461/juan12/juan12/485
+
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="MX | Warner Bros" tvg-logo="https://www.pngkey.com/png/full/432-4329095_warner-channel-logo-png-transparent-warner-bros-tv.png" group-title="Entretenimiento",MX | Warner Bros
+http://158.69.127.36:25461/juan12/juan12/486
+
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="MX | FX" tvg-logo="https://img2.freepng.es/20180718/fuo/kisspng-fxx-logo-television-show-television-channel-tv-channel-5b4f9da9c53a95.0344326115319443618079.jpg" group-title="Entretenimiento",MX | FX
+http://158.69.127.36:25461/juan12/juan12/488
+
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="MX | AyE" tvg-logo="" group-title="Entretenimiento",MX | AyE
+http://158.69.127.36:25461/juan12/juan12/489
+
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="MX | AXN" tvg-logo="" group-title="Entretenimiento",MX | AXN
+http://158.69.127.36:25461/juan12/juan12/490
+
+#EXTINF:-1 tvg-id="trutv.mx" tvg-name="MX | TruTV" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tru-tv_m.png" group-title="Entretenimiento",MX | TruTV
+http://158.69.127.36:25461/juan12/juan12/491
+
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="MX | Comedy Central" tvg-logo="https://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="Entretenimiento",MX | Comedy Central
+http://158.69.127.36:25461/juan12/juan12/492
+
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="MX | Unicable" tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="Entretenimiento",MX | Unicable
+http://158.69.127.36:25461/juan12/juan12/493
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | HolaTV" tvg-logo="https://www.himgs.com/imagenes/hola/comunes/hola-2017.gif" group-title="Entretenimiento",MX | HolaTV
+http://158.69.127.36:25461/juan12/juan12/494
+
+#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MX | MasChic" tvg-logo="https://cdn.mitvstatic.com/channels/co_mas-chic_m.png" group-title="Entretenimiento",MX | MasChic
+http://158.69.127.36:25461/juan12/juan12/495
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Food Network" tvg-logo="" group-title="Mundo y Cultura",MX | Food Network
+http://158.69.127.36:25461/juan12/juan12/496
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | TVC" tvg-logo="" group-title="Nacional MX",MX | TVC
+http://158.69.127.36:25461/juan12/juan12/497
+
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="MX | E! entertainment" tvg-logo="https://p7.hiclipart.com/preview/278/916/36/television-channel-e-television-producer-entertainment-tv-shows.jpg" group-title="Entretenimiento",MX | E! entertainment
+http://158.69.127.36:25461/juan12/juan12/500
+
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="MX | Syfy" tvg-logo="" group-title="Entretenimiento",MX | Syfy
+http://158.69.127.36:25461/juan12/juan12/501
+
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="MX | Discovery Investigation" tvg-logo="" group-title="Entretenimiento",MX | Discovery Investigation
+http://158.69.127.36:25461/juan12/juan12/502
+
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="MX | TNT Series" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="Cine",MX | TNT Series
+http://158.69.127.36:25461/juan12/juan12/503
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | El Gourmet" tvg-logo="" group-title="Entretenimiento",MX | El Gourmet
+http://158.69.127.36:25461/juan12/juan12/504
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | El Garage" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="Sports",MX | El Garage
+http://158.69.127.36:25461/juan12/juan12/505
+
+#EXTINF:-1 tvg-id="glitz.mx" tvg-name="MX | Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="Entretenimiento",MX | Glitz
+http://158.69.127.36:25461/juan12/juan12/506
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | FoxLife" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTDTukd7hbuWKpeUVisEudQL3bRDFKd0XWPpDgPiYqWoix0irRR" group-title="Entretenimiento",MX | FoxLife
+http://158.69.127.36:25461/juan12/juan12/507
+
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX | Distrito Comedia" tvg-logo="" group-title="Entretenimiento",MX | Distrito Comedia
+http://158.69.127.36:25461/juan12/juan12/508
+
+#EXTINF:-1 tvg-id="tbs.mx" tvg-name="MX | TBS" tvg-logo="" group-title="Entretenimiento",MX | TBS
+http://158.69.127.36:25461/juan12/juan12/509
+
+#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="MX | Tlnovelas" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="Entretenimiento",MX | Tlnovelas
+http://158.69.127.36:25461/juan12/juan12/510
+
+#EXTINF:-1 tvg-id="" tvg-name="MX|  AzMundo" tvg-logo="" group-title="Nacional MX",MX|  AzMundo
+http://158.69.127.36:25461/juan12/juan12/511
+
+#EXTINF:-1 tvg-id="babytv.mx" tvg-name="MX | BabyTv" tvg-logo="" group-title="Kids Latinos",MX | BabyTv
+http://158.69.127.36:25461/juan12/juan12/512
+
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="MX | Discovery Kids" tvg-logo="https://img2.freepng.es/20180525/vju/kisspng-discovery-kids-television-channel-discovery-channe-5b0816f139f538.4318526415272568172374.jpg" group-title="Kids Latinos",MX | Discovery Kids
+http://158.69.127.36:25461/juan12/juan12/513
+
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="MX | Disney Junior" tvg-logo="https://cdn.mitvstatic.com/channels/ar_disney-jr_m.png" group-title="Kids Latinos",MX | Disney Junior
+http://158.69.127.36:25461/juan12/juan12/514
+
+#EXTINF:-1 tvg-id="nickjr.mx" tvg-name="MX | Nick Junior" tvg-logo="https://cdn.mitvstatic.com/channels/gt_nick-jr_m.png" group-title="Kids Latinos",MX | Nick Junior
+http://158.69.127.36:25461/juan12/juan12/515
+
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="MX | Disney Channel" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/disney.png" group-title="Kids Latinos",MX | Disney Channel
+http://158.69.127.36:25461/juan12/juan12/516
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | NickToons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Kids Latinos",MX | NickToons
+http://158.69.127.36:25461/juan12/juan12/517
+
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="MX | Nick HD" tvg-logo="http://www.requitix.io/mypics/max/127/1270639_nick-logo-png.png" group-title="Kids Latinos",MX | Nick HD
+http://158.69.127.36:25461/juan12/juan12/518
+
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="MX | Cartoon Network" tvg-logo="" group-title="Kids Latinos",MX | Cartoon Network
+http://158.69.127.36:25461/juan12/juan12/519
+
+#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="MX | Disney XD" tvg-logo="" group-title="Kids Latinos",MX | Disney XD
+http://158.69.127.36:25461/juan12/juan12/520
+
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="MX | Boomerang" tvg-logo="https://logodix.com/logo/334393.png" group-title="Kids Latinos",MX | Boomerang
+http://158.69.127.36:25461/juan12/juan12/521
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Tooncast" tvg-logo="https://www.pngkey.com/png/detail/272-2722817_1-tvg-logo-https-tooncast-logo-tooncast.png" group-title="Kids Latinos",MX | Tooncast
+http://158.69.127.36:25461/juan12/juan12/522
+
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="MX | Discovery Theater HD" tvg-logo="https://i.imgur.com/lIhYgSg.png" group-title="Mundo y Cultura",MX | Discovery Theater HD
+http://158.69.127.36:25461/juan12/juan12/523
+
+#EXTINF:-1 tvg-id="historyhd.mx" tvg-name="MX | History" tvg-logo="https://thehistorychanneliberia.com/images/logo_his.png" group-title="Mundo y Cultura",MX | History
+http://158.69.127.36:25461/juan12/juan12/524
+
+#EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="MX | NatGeo Wild" tvg-logo="https://img2.freepng.es/20180620/ivv/kisspng-national-geographic-society-nat-geo-wild-televisio-5b29e18d336f49.8263967215294713732107.jpg" group-title="Mundo y Cultura",MX | NatGeo Wild
+http://158.69.127.36:25461/juan12/juan12/525
+
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="MX | Discovery World HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryworld.png" group-title="Mundo y Cultura",MX | Discovery World HD
+http://158.69.127.36:25461/juan12/juan12/526
+
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="MX | Discovery Channel" tvg-logo="https://i.blogs.es/0036df/discovery_logo/450_1000.jpg" group-title="Mundo y Cultura",MX | Discovery Channel
+http://158.69.127.36:25461/juan12/juan12/527
+
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="MX | Animal Planet" tvg-logo="http://1.bp.blogspot.com/-ZxSLgUvnfbA/UgmwyPWsM_I/AAAAAAAAAAc/7TyqbuEdPKg/s1600/animal+planet.jpg" group-title="Mundo y Cultura",MX | Animal Planet
+http://158.69.127.36:25461/juan12/juan12/528
+
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="MX | Discovery Home and Health" tvg-logo="https://img2.freepng.es/20180528/gai/kisspng-discovery-home-health-television-channel-discove-good-health-5b0c6e7c49bcf8.056563701527541372302.jpg" group-title="Entretenimiento",MX | Discovery Home and Health
+http://158.69.127.36:25461/juan12/juan12/529
+
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="MX | NatGeo Channel" tvg-logo="https://static-a.walac.pe/wp-content/uploads/2017/04/national-geographic.jpg" group-title="Mundo y Cultura",MX | NatGeo Channel
+http://158.69.127.36:25461/juan12/juan12/530
+
+#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="MX | Lifetime" tvg-logo="https://ts-cms-production.votenow.tv/campaign/10/06/1006092/15678072315d72d6ff40dc13.26621598.png" group-title="Entretenimiento",MX | Lifetime
+http://158.69.127.36:25461/juan12/juan12/531
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Discovery Science" tvg-logo="" group-title="Mundo y Cultura",MX | Discovery Science
+http://158.69.127.36:25461/juan12/juan12/532
+
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="MX | TLC" tvg-logo="" group-title="Entretenimiento",MX | TLC
+http://158.69.127.36:25461/juan12/juan12/534
+
+#EXTINF:-1 tvg-id="worldofbusinessideas.mx" tvg-name="MX | Wobi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WOBI_logo.png/320px-WOBI_logo.png" group-title="Noticias",MX | Wobi
+http://158.69.127.36:25461/juan12/juan12/535
+
+#EXTINF:-1 tvg-id="fox1.mx" tvg-name="MX | Fox Series HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-1-hd_m.png" group-title="Cine",MX | Fox Series HD
+http://158.69.127.36:25461/juan12/juan12/536
+
+#EXTINF:-1 tvg-id="foxactionhd.mx" tvg-name="MX | Fox Action HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" group-title="Cine",MX | Fox Action HD
+http://158.69.127.36:25461/juan12/juan12/537
+
+#EXTINF:-1 tvg-id="foxmovieshd.mx" tvg-name="MX | Fox Movies" tvg-logo="https://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/fox_movies.jpg" group-title="Cine",MX | Fox Movies
+http://158.69.127.36:25461/juan12/juan12/538
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Cinema" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-cinema_m.png" group-title="Cine",MX | Fox Cinema
+http://158.69.127.36:25461/juan12/juan12/539
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Classics FHD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-classics_m.png" group-title="Mexico FHD",MX | Fox Classics FHD
+http://158.69.127.36:25461/juan12/juan12/540
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | AzCinema HD" tvg-logo="http://4.bp.blogspot.com/-uStAfYrbZKg/Wffx-gHwe8I/AAAAAAAAAKI/zyHMYDEwt8cidArT2Q1I5mzsRW0Th-WsQCK4BGAYYCw/s1600/azcinema_thumb.png" group-title="Cine",MX | AzCinema HD
+http://158.69.127.36:25461/juan12/juan12/541
+
+#EXTINF:-1 tvg-id="cinecanalhd.mx" tvg-name="MX | Cinecanal HD" tvg-logo="https://i.pinimg.com/originals/b3/5d/13/b35d13fb9996e6932db680003ccf0220.png" group-title="Cine",MX | Cinecanal HD
+http://158.69.127.36:25461/juan12/juan12/542
+
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="MX | TNT HD" tvg-logo="" group-title="Cine",MX | TNT HD
+http://158.69.127.36:25461/juan12/juan12/543
+
+#EXTINF:-1 tvg-id="goldenmultiplex.mx" tvg-name="MX | Golden HD Plus" tvg-logo="https://www.izzi.mx/izzi/v4/img/dummy-img/channels/GPlus.png" group-title="Cine",MX | Golden HD Plus
+http://158.69.127.36:25461/juan12/juan12/544
+
+#EXTINF:-1 tvg-id="fxmovies.mx" tvg-name="MX | FX Movies HD" tvg-logo="https://entel.cl/public/logos/canales/fxm-hd.png?v=8" group-title="Entretenimiento",MX | FX Movies HD
+http://158.69.127.36:25461/juan12/juan12/545
+
+#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-name="MX | De Pelicula HD Plus" tvg-logo="https://www.altice.com.do/sites/default/files/assets/grilla_canales/img/logos/DePeliculaHD.png" group-title="Cine",MX | De Pelicula HD Plus
+http://158.69.127.36:25461/juan12/juan12/546
+
+#EXTINF:-1 tvg-id="amchd.mx" tvg-name="MX | AMC HD" tvg-logo="https://img2.freepng.es/20180707/jpa/kisspng-amc-television-show-television-channel-satellite-t-capri-sun-logo-5b41563d260ac7.8445182315310085731558.jpg" group-title="Cine",MX | AMC HD
+http://158.69.127.36:25461/juan12/juan12/547
+
+#EXTINF:-1 tvg-id="space.mx" tvg-name="MX | Space HD" tvg-logo="" group-title="Cine",MX | Space HD
+http://158.69.127.36:25461/juan12/juan12/548
+
+#EXTINF:-1 tvg-id="sundancetv.mx" tvg-name="MX | Sundance Tv HD" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Logo-Sundance-TV-blanco-443x133-991212437.png" group-title="Cine",MX | Sundance Tv HD
+http://158.69.127.36:25461/juan12/juan12/549
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Morbido HD" tvg-logo="" group-title="Cine",MX | Morbido HD
+http://158.69.127.36:25461/juan12/juan12/550
+
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="MX | Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo-cinemax.jpg" group-title="Cine",MX | Cinemax
+http://158.69.127.36:25461/juan12/juan12/551
+
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="MX | Golden" tvg-logo="" group-title="Cine",MX | Golden
+http://158.69.127.36:25461/juan12/juan12/552
+
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="MX | Golden Edge" tvg-logo="" group-title="Cine",MX | Golden Edge
+http://158.69.127.36:25461/juan12/juan12/553
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | De Pelicula" tvg-logo="" group-title="Cine",MX | De Pelicula
+http://158.69.127.36:25461/juan12/juan12/554
+
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="MX | Studio Universal" tvg-logo="" group-title="Entretenimiento",MX | Studio Universal
+http://158.69.127.36:25461/juan12/juan12/555
+
+#EXTINF:-1 tvg-id="europaeuropa.mx" tvg-name="MX | Eeuropa Europa" tvg-logo="https://www.lamac.org/system/channels/logos/000/000/052/original/pic_europa.png?1522177396" group-title="Entretenimiento",MX | Eeuropa Europa
+http://158.69.127.36:25461/juan12/juan12/556
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Film & Arts" tvg-logo="http://fa-media.s3.amazonaws.com/web/lrzyg4sx0q_fa_share.jpg" group-title="Mundo y Cultura",MX | Film & Arts
+http://158.69.127.36:25461/juan12/juan12/557
+
+#EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="MX | Golf Channel HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_golf-channel-hd_m.png" group-title="Sports",MX | Golf Channel HD
+http://158.69.127.36:25461/juan12/juan12/559
+
+#EXTINF:-1 tvg-id="espnplushd.mx" tvg-name="MX | Espn Plus" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" group-title="Sports",MX | Espn Plus
+http://158.69.127.36:25461/juan12/juan12/560
+
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="MX | Espn 3" tvg-logo="" group-title="Sports",MX | Espn 3
+http://158.69.127.36:25461/juan12/juan12/561
+
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="MX | Fox Sports HD" tvg-logo="https://img2.freepng.es/20180716/cp/kisspng-fox-sports-networks-sportsouth-television-fox-action-movies-logo-5b4d3b5b1d82e3.8392568615317881231209.jpg" group-title="Sports",MX | Fox Sports HD
+http://158.69.127.36:25461/juan12/juan12/562
+
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="MX | Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png" group-title="Sports",MX | Fox Sports 2
+http://158.69.127.36:25461/juan12/juan12/563
+
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="MX | Espn Sec" tvg-logo="https://www.thewaltdisneycompany.com/wp-content/uploads/cropped-SEC-Logo-630x426.png" group-title="Sports",MX | Espn Sec
+http://158.69.127.36:25461/juan12/juan12/564
+
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="MX | Espn HD" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/37.png" group-title="Sports",MX | Espn HD
+http://158.69.127.36:25461/juan12/juan12/566
+
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="MX | Espn 2 HD" tvg-logo="https://secure.espncdn.com/combiner/i?img=/watchespn/images/channels/1x/espn2.png&cquality=40" group-title="Sports",MX | Espn 2 HD
+http://158.69.127.36:25461/juan12/juan12/567
+
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="MX | Fox Sports 3" tvg-logo="" group-title="Sports",MX | Fox Sports 3
+http://158.69.127.36:25461/juan12/juan12/568
+
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="MX | CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CNN_en_Espa%C3%B1ol.svg/1200px-CNN_en_Espa%C3%B1ol.svg.png" group-title="Noticias",MX | CNN
+http://158.69.127.36:25461/juan12/juan12/570
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Eleven Sports" tvg-logo="" group-title="Sports",USA | Eleven Sports
+http://158.69.127.36:25461/juan12/juan12/315
+
+#EXTINF:-1 tvg-id="comcastsnynewyorksportsnet.us" tvg-name="USA | SNY" tvg-logo="" group-title="Sports",USA | SNY
+http://158.69.127.36:25461/juan12/juan12/386
+
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="USA | OWN" tvg-logo="" group-title="USA",USA | OWN
+http://158.69.127.36:25461/juan12/juan12/371
+
+#EXTINF:-1 tvg-id="poptv.us" tvg-name="USA | Pop" tvg-logo="" group-title="USA",USA | Pop
+http://158.69.127.36:25461/juan12/juan12/378
+
+#EXTINF:-1 tvg-id="outsidetv.us" tvg-name="USA | Outside" tvg-logo="" group-title="Sports",USA | Outside
+http://158.69.127.36:25461/juan12/juan12/369
+
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="USA | Fox Business Network" tvg-logo="" group-title="USA",USA | Fox Business Network
+http://158.69.127.36:25461/juan12/juan12/326
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Hallmark Movies & Mysteries" tvg-logo="" group-title="USA",USA | Hallmark Movies & Mysteries
+http://158.69.127.36:25461/juan12/juan12/345
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Hallmark Drama" tvg-logo="" group-title="USA",USA | Hallmark Drama
+http://158.69.127.36:25461/juan12/juan12/344
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Hallmark" tvg-logo="" group-title="USA",USA | Hallmark
+http://158.69.127.36:25461/juan12/juan12/343
+
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="USA | FXX" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/fxx_c.png" group-title="USA FHD",USA | FXX
+http://158.69.127.36:25461/juan12/juan12/337
+
+#EXTINF:-1 tvg-id="fx.us" tvg-name="USA | FX" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/fx_c.png" group-title="USA FHD",USA | FX
+http://158.69.127.36:25461/juan12/juan12/335
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Food Network" tvg-logo="" group-title="USA",USA | Food Network
+http://158.69.127.36:25461/juan12/juan12/324
+
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="USA | Fox Sports 2" tvg-logo="" group-title="Sports",USA | Fox Sports 2
+http://158.69.127.36:25461/juan12/juan12/330
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | American Horrors" tvg-logo="" group-title="Movies",USA | American Horrors
+http://158.69.127.36:25461/juan12/juan12/793
+
+#EXTINF:-1 tvg-id="nbcsportsphiladelphiaplus.us" tvg-name="NBCSN Philadelphia Plus" tvg-logo="" group-title="Sports",NBCSN Philadelphia Plus
+http://158.69.127.36:25461/juan12/juan12/963
+
+#EXTINF:-1 tvg-id="foxwtxf.us" tvg-name="FOX Philadelphia" tvg-logo="" group-title="USA Networks",FOX Philadelphia
+http://158.69.127.36:25461/juan12/juan12/964
+
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN Chicago Plus" tvg-logo="" group-title="Sports",NBCSN Chicago Plus
+http://158.69.127.36:25461/juan12/juan12/965
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Boston" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/telemundo_c.png" group-title="Latinos USA",USA | Telemundo Boston
+http://158.69.127.36:25461/juan12/juan12/966
+
+#EXTINF:-1 tvg-id="" tvg-name="PR | Telemundo" tvg-logo="" group-title="Puerto Rico",PR | Telemundo
+http://158.69.127.36:25461/juan12/juan12/972
+
+#EXTINF:-1 tvg-id="" tvg-name="Wapa" tvg-logo="" group-title="Puerto Rico",Wapa
+http://158.69.127.36:25461/juan12/juan12/990
+
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="PPV | WWE" tvg-logo="https://st-listas.20minutos.es/images/2013-02/354138/list_640px.jpg?1362883071" group-title="PPV",PPV | WWE
+http://158.69.127.36:25461/juan12/juan12/991
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | UFC Fight Pass" tvg-logo="https://pbs.twimg.com/profile_images/626557560666095616/XaueCX62_400x400.jpg" group-title="PPV",USA | UFC Fight Pass
+http://158.69.127.36:25461/juan12/juan12/410
+
+#EXTINF:-1 tvg-id="max.mx" tvg-name="MX | HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="Zona HBO",MX | HBO Mundi
+http://158.69.127.36:25461/juan12/juan12/6754
+
+#EXTINF:-1 tvg-id="maxup.mx" tvg-name="MX | HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="Zona HBO",MX | HBO Pop
+http://158.69.127.36:25461/juan12/juan12/9267
+
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="MX | ADN 40" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/tvabierta/9.png" group-title="Nacional MX",MX | ADN 40
+http://158.69.127.36:25461/juan12/juan12/9610
+
+#EXTINF:-1 tvg-id="foxfamilyhd.mx" tvg-name="MX | Fox Family" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="Cine",MX | Fox Family
+http://158.69.127.36:25461/juan12/juan12/9266
+
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="USA | Smithsonian Channel" tvg-logo="https://panelinferno.com/posters/1574194929127.png" group-title="USA",USA | Smithsonian Channel
+http://158.69.127.36:25461/juan12/juan12/385
+
+#EXTINF:-1 tvg-id="ritmoson.mx" tvg-name="MX | Telehit Urbano" tvg-logo="https://i.ytimg.com/vi/2zeobDZbNYA/maxresdefault.jpg" group-title="Music",MX | Telehit Urbano
+http://158.69.127.36:25461/juan12/juan12/10267
+
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24h" tvg-logo="https://img2.rtve.es/css/rtve.2017.apps/rtve.2017.noticias/resources/24h_mosca_RGB.jpg" group-title="Spain",ES | 24h
+http://158.69.127.36:25461/juan12/juan12/10268
+
+#EXTINF:-1 tvg-id="" tvg-name="Star TV" tvg-logo="" group-title="Spain",Star TV
+http://158.69.127.36:25461/juan12/juan12/10269
+
+#EXTINF:-1 tvg-id="" tvg-name="ES | BarCa TV" tvg-logo="https://estaticos.sport.es/resources/jpg/7/2/mayor-difusion-asi-sera-renovada-barca-1563470725027.jpg" group-title="Sports",ES | BarCa TV
+http://158.69.127.36:25461/juan12/juan12/10270
+
+#EXTINF:-1 tvg-id="" tvg-name="Be Mad" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/be-mad-logo-nuevo.jpg?resize=300%2C236&ssl=1" group-title="Spain",Be Mad
+http://158.69.127.36:25461/juan12/juan12/10271
+
+#EXTINF:-1 tvg-id="" tvg-name="CLAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/TVEClan_logo.png" group-title="Spain",CLAN
+http://158.69.127.36:25461/juan12/juan12/10272
+
+#EXTINF:-1 tvg-id="" tvg-name="ES | LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="Spain",ES | LA 1
+http://158.69.127.36:25461/juan12/juan12/10274
+
+#EXTINF:-1 tvg-id="" tvg-name="ES | LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png" group-title="Spain",ES | LA 2
+http://158.69.127.36:25461/juan12/juan12/10275
+
+#EXTINF:-1 tvg-id="tvg.us" tvg-name="USA | TVG" tvg-logo="" group-title="Carreras De Caballos",USA | TVG
+http://158.69.127.36:25461/juan12/juan12/13779
+
+#EXTINF:-1 tvg-id="goltvspanish.us" tvg-name="USA | GOL TV ESP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkY7vbKSC8yFupwKor6dYIempF2lkHtO_lFZ7A2s1QTjzUFlBA&s" group-title="Sports",USA | GOL TV ESP
+http://158.69.127.36:25461/juan12/juan12/15415
+
+#EXTINF:-1 tvg-id="goltv.us" tvg-name="USA | GOLTV ENG" tvg-logo="https://www.marcadegol.com/fotos/2011/01/goltv.jpg" group-title="Sports",USA | GOLTV ENG
+http://158.69.127.36:25461/juan12/juan12/15584
+
+#EXTINF:-1 tvg-id="tvg2.us" tvg-name="USA | TVG2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/TVG_logo.svg/180px-TVG_logo.svg.png" group-title="Carreras De Caballos",USA | TVG2
+http://158.69.127.36:25461/juan12/juan12/15585
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Adrenalina" tvg-logo="" group-title="Sports",MX | Adrenalina
+http://158.69.127.36:25461/juan12/juan12/16002
+
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="MX | Paramount MX" tvg-logo="" group-title="Entretenimiento",MX | Paramount MX
+http://158.69.127.36:25461/juan12/juan12/16128
+
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="USA | Fox Soccer Plus" tvg-logo="" group-title="Sports",USA | Fox Soccer Plus
+http://158.69.127.36:25461/juan12/juan12/331
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBCSN" tvg-logo="" group-title="Sports",USA | NBCSN
+http://158.69.127.36:25461/juan12/juan12/16380
+
+#EXTINF:-1 tvg-id="viceland.us" tvg-name="USA | Viceland" tvg-logo="" group-title="USA",USA | Viceland
+http://158.69.127.36:25461/juan12/juan12/416
+
+#EXTINF:-1 tvg-id="universalkids.us" tvg-name="USA | Universal Kids" tvg-logo="" group-title="Kids USA",USA | Universal Kids
+http://158.69.127.36:25461/juan12/juan12/411
+
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="USA | Tennis Channel" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/tennis-channel_c.png" group-title="Sports",USA | Tennis Channel
+http://158.69.127.36:25461/juan12/juan12/400
+
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="USA | Starz Black" tvg-logo="" group-title="Movies",USA | Starz Black
+http://158.69.127.36:25461/juan12/juan12/390
+
+#EXTINF:-1 tvg-id="starz.us" tvg-name="USA | Starz" tvg-logo="" group-title="Movies",USA | Starz
+http://158.69.127.36:25461/juan12/juan12/388
+
+#EXTINF:-1 tvg-id="mtvlive.us" tvg-name="USA | Mtv Live" tvg-logo="" group-title="Music",USA | Mtv Live
+http://158.69.127.36:25461/juan12/juan12/17500
+
+#EXTINF:-1 tvg-id="nickmusic.us" tvg-name="USA | Nick Music" tvg-logo="" group-title="Kids USA",USA | Nick Music
+http://158.69.127.36:25461/juan12/juan12/17506
+
+#EXTINF:-1 tvg-id="teennick.us" tvg-name="USA | Teen Nick" tvg-logo="" group-title="Kids USA",USA | Teen Nick
+http://158.69.127.36:25461/juan12/juan12/17507
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Fight Network" tvg-logo="" group-title="Sports",USA | Fight Network
+http://158.69.127.36:25461/juan12/juan12/323
+
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="USA | HBO ESP" tvg-logo="" group-title="Zona HBO",USA | HBO ESP
+http://158.69.127.36:25461/juan12/juan12/18079
+
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="USA | HBO ZONE" tvg-logo="" group-title="Zona HBO",USA | HBO ZONE
+http://158.69.127.36:25461/juan12/juan12/18080
+
+#EXTINF:-1 tvg-id="starz.us" tvg-name="USA | STARZ ESP" tvg-logo="" group-title="Movies",USA | STARZ ESP
+http://158.69.127.36:25461/juan12/juan12/18081
+
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="USA | STARZ EDGE" tvg-logo="" group-title="Movies",USA | STARZ EDGE
+http://158.69.127.36:25461/juan12/juan12/18082
+
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="USA | HBO Signature ESP" tvg-logo="" group-title="Zona HBO",USA | HBO Signature ESP
+http://158.69.127.36:25461/juan12/juan12/18083
+
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="USA | HBO " tvg-logo="" group-title="Zona HBO",USA | HBO
+http://158.69.127.36:25461/juan12/juan12/18085
+
+#EXTINF:-1 tvg-id="hbolatino.us" tvg-name="USA | HBO Latino" tvg-logo="" group-title="Zona HBO",USA | HBO Latino
+http://158.69.127.36:25461/juan12/juan12/18086
+
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="USA | Cinemax ESP" tvg-logo="" group-title="Movies",USA | Cinemax ESP
+http://158.69.127.36:25461/juan12/juan12/18087
+
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="USA | ESPN Deportes" tvg-logo="" group-title="Sports",USA | ESPN Deportes
+http://158.69.127.36:25461/juan12/juan12/395
+
+#EXTINF:-1 tvg-id="thelonghonrnetwork.us" tvg-name="USA | LongHorn Network" tvg-logo="" group-title="Sports",USA | LongHorn Network
+http://158.69.127.36:25461/juan12/juan12/350
+
+#EXTINF:-1 tvg-id="" tvg-name="CA | Global BC" tvg-logo="" group-title="Canada",CA | Global BC
+http://158.69.127.36:25461/juan12/juan12/18669
+
+#EXTINF:-1 tvg-id="" tvg-name="CA | Global Calgary" tvg-logo="" group-title="Canada",CA | Global Calgary
+http://158.69.127.36:25461/juan12/juan12/18670
+
+#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet 360" tvg-logo="" group-title="Sports",CA | Sportsnet 360
+http://158.69.127.36:25461/juan12/juan12/18672
+
+#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet One" tvg-logo="" group-title="Sports",CA | Sportsnet One
+http://158.69.127.36:25461/juan12/juan12/18674
+
+#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet Ontario" tvg-logo="" group-title="Sports",CA | Sportsnet Ontario
+http://158.69.127.36:25461/juan12/juan12/18675
+
+#EXTINF:-1 tvg-id="" tvg-name="CA | Sportsnet World" tvg-logo="" group-title="Sports",CA | Sportsnet World
+http://158.69.127.36:25461/juan12/juan12/18677
+
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN 2" tvg-logo="" group-title="Sports",CA | TSN 2
+http://158.69.127.36:25461/juan12/juan12/18679
+
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN 3" tvg-logo="" group-title="Sports",CA | TSN 3
+http://158.69.127.36:25461/juan12/juan12/18680
+
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN 5" tvg-logo="" group-title="Sports",CA | TSN 5
+http://158.69.127.36:25461/juan12/juan12/18682
+
+#EXTINF:-1 tvg-id="beinsports8.us" tvg-name="Bein 8" tvg-logo="" group-title="Bein Sports",Bein 8
+http://158.69.127.36:25461/juan12/juan12/25425
+
+#EXTINF:-1 tvg-id="betsoul.us" tvg-name="USA | Bet Soul" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/BET_Soul_Logo.png" group-title="Music",USA | Bet Soul
+http://158.69.127.36:25461/juan12/juan12/25851
+
+#EXTINF:-1 tvg-id="" tvg-name="Benfica" tvg-logo="" group-title="Sports",Benfica
+http://158.69.127.36:25461/juan12/juan12/25857
+
+#EXTINF:-1 tvg-id="mtvtr3s.us" tvg-name="USA | Mtv Tr3s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/MTV_Tres_2010_logo.svg/200px-MTV_Tres_2010_logo.svg.png" group-title="Music",USA | Mtv Tr3s
+http://158.69.127.36:25461/juan12/juan12/25860
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | CuriosityStream" tvg-logo="https://image.roku.com/channels/images/365ec0a2359a43d386e473787c0bfa89-hd.png" group-title="Mundo y Cultura",MX | CuriosityStream
+http://158.69.127.36:25461/juan12/juan12/26953
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | NatGeo Kids" tvg-logo="https://staticr1.blastingcdn.com/media/photogallery/2017/7/5/660x290/b_502x220/logo-de-natgeokids-imagen-cortesia_1427105.jpg" group-title="Kids Latinos",MX | NatGeo Kids
+http://158.69.127.36:25461/juan12/juan12/27048
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Claro Sports" tvg-logo="https://i.pinimg.com/originals/ac/d8/9f/acd89f72fa2d530e577c0775d8a058a3.png" group-title="Sports",MX | Claro Sports
+http://158.69.127.36:25461/juan12/juan12/27071
+
+#EXTINF:-1 tvg-id="excelsiortv.mx" tvg-name="MX | Excelsior TV" tvg-logo="" group-title="Noticias",MX | Excelsior TV
+http://158.69.127.36:25461/juan12/juan12/27172
+
+#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="MX  | Milenio" tvg-logo="" group-title="Noticias",MX  | Milenio
+http://158.69.127.36:25461/juan12/juan12/27224
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | RT" tvg-logo="" group-title="Noticias",MX | RT
+http://158.69.127.36:25461/juan12/juan12/27267
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Televisa MTY" tvg-logo="" group-title="Nacional MX",MX | Televisa MTY
+http://158.69.127.36:25461/juan12/juan12/27284
+
+#EXTINF:-1 tvg-id="insp.us" tvg-name="USA | INSP" tvg-logo="" group-title="Movies",USA | INSP
+http://158.69.127.36:25461/juan12/juan12/32361
+
+#EXTINF:-1 tvg-id="fusetv.us" tvg-name="USA | Fuse" tvg-logo="" group-title="USA",USA | Fuse
+http://158.69.127.36:25461/juan12/juan12/333
+
+#EXTINF:-1 tvg-id="fxmoviechannel.us" tvg-name="USA | FXM" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/fxm_c.png" group-title="USA FHD",USA | FXM
+http://158.69.127.36:25461/juan12/juan12/336
+
+#EXTINF:-1 tvg-id="fyi.us" tvg-name="USA | FYI" tvg-logo="" group-title="USA",USA | FYI
+http://158.69.127.36:25461/juan12/juan12/338
+
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="USA | VH1" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/vh1_c.png" group-title="Music",USA | VH1
+http://158.69.127.36:25461/juan12/juan12/415
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | USA Network" tvg-logo="" group-title="USA",USA | USA Network
+http://158.69.127.36:25461/juan12/juan12/413
+
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="USA | TV Land" tvg-logo="" group-title="USA",USA | TV Land
+http://158.69.127.36:25461/juan12/juan12/406
+
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="USA | TruTV" tvg-logo="" group-title="USA",USA | TruTV
+http://158.69.127.36:25461/juan12/juan12/405
+
+#EXTINF:-1 tvg-id="travel.us" tvg-name="USA | Travel Channel" tvg-logo="" group-title="USA",USA | Travel Channel
+http://158.69.127.36:25461/juan12/juan12/404
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | TLC" tvg-logo="" group-title="USA",USA | TLC
+http://158.69.127.36:25461/juan12/juan12/402
+
+#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="USA | The Weather Channel" tvg-logo="" group-title="USA",USA | The Weather Channel
+http://158.69.127.36:25461/juan12/juan12/401
+
+#EXTINF:-1 tvg-id="telemundowscv.us" tvg-name="USA | Telemundo Miami" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/telemundo_c.png" group-title="Latinos USA",USA | Telemundo Miami
+http://158.69.127.36:25461/juan12/juan12/398
+
+#EXTINF:-1 tvg-id="telemundokvea.us" tvg-name="USA | Telemundo LA" tvg-logo="" group-title="Latinos USA",USA | Telemundo LA
+http://158.69.127.36:25461/juan12/juan12/397
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Chicago" tvg-logo="" group-title="Latinos USA",USA | Telemundo Chicago
+http://158.69.127.36:25461/juan12/juan12/396
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | TCM" tvg-logo="" group-title="USA",USA | TCM
+http://158.69.127.36:25461/juan12/juan12/394
+
+#EXTINF:-1 tvg-id="aztecanoticias.mx" tvg-name="USA | TBS" tvg-logo="" group-title="USA",USA | TBS
+http://158.69.127.36:25461/juan12/juan12/393
+
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="USA | SyFy" tvg-logo="" group-title="USA",USA | SyFy
+http://158.69.127.36:25461/juan12/juan12/392
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Sundance" tvg-logo="" group-title="USA",USA | Sundance
+http://158.69.127.36:25461/juan12/juan12/391
+
+#EXTINF:-1 tvg-id="starzencorejuan12erns.us" tvg-name="USA | Starz Encore juan12ern" tvg-logo="" group-title="Movies",USA | Starz Encore juan12ern
+http://158.69.127.36:25461/juan12/juan12/384
+
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="USA | Showtime Extreme" tvg-logo="" group-title="Movies",USA | Showtime Extreme
+http://158.69.127.36:25461/juan12/juan12/383
+
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="USA | Showtime 2" tvg-logo="" group-title="Movies",USA | Showtime 2
+http://158.69.127.36:25461/juan12/juan12/381
+
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="USA | Showtime Showcase" tvg-logo="" group-title="Movies",USA | Showtime Showcase
+http://158.69.127.36:25461/juan12/juan12/382
+
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="USA | Showtime" tvg-logo="" group-title="Movies",USA | Showtime
+http://158.69.127.36:25461/juan12/juan12/380
+
+#EXTINF:-1 tvg-id="pbskids.us" tvg-name="USA | PBS KIDS" tvg-logo="" group-title="USA",USA | PBS KIDS
+http://158.69.127.36:25461/juan12/juan12/377
+
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="USA | Paramount" tvg-logo="" group-title="USA",USA | Paramount
+http://158.69.127.36:25461/juan12/juan12/376
+
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="USA | Oxygen" tvg-logo="" group-title="USA",USA | Oxygen
+http://158.69.127.36:25461/juan12/juan12/372
+
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="USA | Outdoor Channel" tvg-logo="" group-title="Sports",USA | Outdoor Channel
+http://158.69.127.36:25461/juan12/juan12/370
+
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="USA | Nicktoons" tvg-logo="" group-title="Kids USA",USA | Nicktoons
+http://158.69.127.36:25461/juan12/juan12/368
+
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="USA | Nick Jr" tvg-logo="" group-title="Kids USA",USA | Nick Jr
+http://158.69.127.36:25461/juan12/juan12/367
+
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="USA | Nick" tvg-logo="" group-title="Kids USA",USA | Nick
+http://158.69.127.36:25461/juan12/juan12/366
+
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="USA | NFL Network" tvg-logo="" group-title="Sports",USA | NFL Network
+http://158.69.127.36:25461/juan12/juan12/364
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBCSN Washington" tvg-logo="" group-title="Sports",USA | NBCSN Washington
+http://158.69.127.36:25461/juan12/juan12/363
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Universo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1200px-UNIVERSO_LOGO_color_black.png" group-title="Latinos USA",USA | NBC Universo
+http://158.69.127.36:25461/juan12/juan12/362
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBA TV" tvg-logo="" group-title="Sports",USA | NBA TV
+http://158.69.127.36:25461/juan12/juan12/360
+
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="USA | Nat Geo" tvg-logo="" group-title="USA",USA | Nat Geo
+http://158.69.127.36:25461/juan12/juan12/358
+
+#EXTINF:-1 tvg-id="mtv2.us" tvg-name="USA | MTV 2" tvg-logo="" group-title="Music",USA | MTV 2
+http://158.69.127.36:25461/juan12/juan12/356
+
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="USA | MTV" tvg-logo="" group-title="Music",USA | MTV
+http://158.69.127.36:25461/juan12/juan12/355
+
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="USA | MSNBC" tvg-logo="" group-title="Noticias",USA | MSNBC
+http://158.69.127.36:25461/juan12/juan12/354
+
+#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-name="USA | MSG" tvg-logo="" group-title="Sports",USA | MSG
+http://158.69.127.36:25461/juan12/juan12/352
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | MLB Network" tvg-logo="" group-title="Sports",USA | MLB Network
+http://158.69.127.36:25461/juan12/juan12/351
+
+#EXTINF:-1 tvg-id="lifetimemvies.us" tvg-name="USA | LMN" tvg-logo="" group-title="USA",USA | LMN
+http://158.69.127.36:25461/juan12/juan12/349
+
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="USA | Lifetime" tvg-logo="" group-title="USA",USA | Lifetime
+http://158.69.127.36:25461/juan12/juan12/348
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | IFC" tvg-logo="" group-title="USA",USA | IFC
+http://158.69.127.36:25461/juan12/juan12/347
+
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="USA | History Channel" tvg-logo="" group-title="USA",USA | History Channel
+http://158.69.127.36:25461/juan12/juan12/346
+
+#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="USA | GSN" tvg-logo="" group-title="USA",USA | GSN
+http://158.69.127.36:25461/juan12/juan12/342
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | GINX eSports" tvg-logo="" group-title="Sports",USA | GINX eSports
+http://158.69.127.36:25461/juan12/juan12/340
+
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="USA | Golf Channel" tvg-logo="" group-title="Sports",USA | Golf Channel
+http://158.69.127.36:25461/juan12/juan12/341
+
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="USA | Fox Deportes" tvg-logo="" group-title="Sports",USA | Fox Deportes
+http://158.69.127.36:25461/juan12/juan12/327
+
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="USA | Fox News" tvg-logo="https://d12jofbmgge65s.cloudfront.net/blog/wp-content/uploads/2019/04/Fox-news-logo.png" group-title="Noticias",USA | Fox News
+http://158.69.127.36:25461/juan12/juan12/328
+
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="USA | Fox Sports 1" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="Sports",USA | Fox Sports 1
+http://158.69.127.36:25461/juan12/juan12/329
+
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="USA | SHOWTIME ESP" tvg-logo="" group-title="Movies",USA | SHOWTIME ESP
+http://158.69.127.36:25461/juan12/juan12/18084
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV | TorosTv" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/o/r/torostv.jpg" group-title="PPV",PPV | TorosTv
+http://158.69.127.36:25461/juan12/juan12/992
+
+#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="BeIN Sports 6" tvg-logo="" group-title="Bein Sports",BeIN Sports 6
+http://158.69.127.36:25461/juan12/juan12/781
+
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="BeIN Sports 1" tvg-logo="" group-title="Bein Sports",BeIN Sports 1
+http://158.69.127.36:25461/juan12/juan12/777
+
+#EXTINF:-1 tvg-id="beinsportslaliga" tvg-name="Bein LaLiga" tvg-logo="" group-title="Bein Sports",Bein LaLiga
+http://158.69.127.36:25461/juan12/juan12/776
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports Canada" tvg-logo="" group-title="Bein Sports",BeIN Sports Canada
+http://158.69.127.36:25461/juan12/juan12/775
+
+#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name="USA | Discovery Familia" tvg-logo="https://panelinferno.com/posters/1574191904292.png" group-title="Latinos USA",USA | Discovery Familia
+http://158.69.127.36:25461/juan12/juan12/772
+
+#EXTINF:-1 tvg-id="discoveryespanol.us" tvg-name="USA | Discovery en EspaÃ±ol" tvg-logo="https://panelinferno.com/posters/1574192100588.png" group-title="Latinos USA",USA | Discovery en EspaÃ±ol
+http://158.69.127.36:25461/juan12/juan12/773
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Dallas" tvg-logo="" group-title="Latinos USA",USA | Telemundo Dallas
+http://158.69.127.36:25461/juan12/juan12/769
+
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="MX | HBO SIG" tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_z.jpg" group-title="Zona HBO",MX | HBO SIG
+http://158.69.127.36:25461/juan12/juan12/765
+
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="MX | HBO 2" tvg-logo="https://panelinferno.com/posters/1574190353220.png" group-title="Zona HBO",MX | HBO 2
+http://158.69.127.36:25461/juan12/juan12/760
+
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="MX | HBO" tvg-logo="https://panelinferno.com/posters/1574190246585.png" group-title="Zona HBO",MX | HBO
+http://158.69.127.36:25461/juan12/juan12/759
+
+#EXTINF:-1 tvg-id="adultswim.us" tvg-name="USA | Adult SWIM" tvg-logo="" group-title="Kids USA",USA | Adult SWIM
+http://158.69.127.36:25461/juan12/juan12/36693
+
+#EXTINF:-1 tvg-id="" tvg-name="USA |  Telemundo Houston" tvg-logo="" group-title="Latinos USA",USA |  Telemundo Houston
+http://158.69.127.36:25461/juan12/juan12/36694
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo San Francisco" tvg-logo="" group-title="Latinos USA",USA | Telemundo San Francisco
+http://158.69.127.36:25461/juan12/juan12/36695
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Tucson" tvg-logo="" group-title="Latinos USA",USA | Telemundo Tucson
+http://158.69.127.36:25461/juan12/juan12/36696
+
+#EXTINF:-1 tvg-id="wetv.us" tvg-name="USA | WE TV" tvg-logo="" group-title="USA",USA | WE TV
+http://158.69.127.36:25461/juan12/juan12/36697
+
+#EXTINF:-1 tvg-id="cinesony.us" tvg-name="USA | Cine Sony" tvg-logo="" group-title="USA",USA | Cine Sony
+http://158.69.127.36:25461/juan12/juan12/36698
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Fubotv Sports Network" tvg-logo="" group-title="Sports",USA | Fubotv Sports Network
+http://158.69.127.36:25461/juan12/juan12/36702
+
+#EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="USA | Mtv Classic" tvg-logo="" group-title="Music",USA | Mtv Classic
+http://158.69.127.36:25461/juan12/juan12/36704
+
+#EXTINF:-1 tvg-id="" tvg-name="ES | Paramount" tvg-logo="" group-title="Spain",ES | Paramount
+http://158.69.127.36:25461/juan12/juan12/36707
+
+#EXTINF:-1 tvg-id="" tvg-name="ES | NEOX" tvg-logo="" group-title="Spain",ES | NEOX
+http://158.69.127.36:25461/juan12/juan12/36708
+
+#EXTINF:-1 tvg-id="" tvg-name="ES | NOVA" tvg-logo="" group-title="Spain",ES | NOVA
+http://158.69.127.36:25461/juan12/juan12/36709
+
+#EXTINF:-1 tvg-id="" tvg-name="ES | MEGA" tvg-logo="" group-title="Spain",ES | MEGA
+http://158.69.127.36:25461/juan12/juan12/36710
+
+#EXTINF:-1 tvg-id="" tvg-name="ES | TELE HD" tvg-logo="" group-title="Spain",ES | TELE HD
+http://158.69.127.36:25461/juan12/juan12/36711
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Fish TV" tvg-logo="" group-title="Sports",USA | Fish TV
+http://158.69.127.36:25461/juan12/juan12/37068
+
+#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="Bein 7" tvg-logo="" group-title="Bein Sports",Bein 7
+http://158.69.127.36:25461/juan12/juan12/37093
+
+#EXTINF:-1 tvg-id="telemundo.mx" tvg-name="MX | Telemundo Internacional" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg" group-title="Entretenimiento",MX | Telemundo Internacional
+http://158.69.127.36:25461/juan12/juan12/37152
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | CGTN" tvg-logo="" group-title="Mundo y Cultura",MX | CGTN
+http://158.69.127.36:25461/juan12/juan12/45146
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Fashion" tvg-logo="" group-title="Entretenimiento",MX | Fashion
+http://158.69.127.36:25461/juan12/juan12/45147
+
+#EXTINF:-1 tvg-id="" tvg-name="CA | Global Edmonton" tvg-logo="" group-title="Canada",CA | Global Edmonton
+http://158.69.127.36:25461/juan12/juan12/48512
+
+#EXTINF:-1 tvg-id="" tvg-name="CA | The Shopping Channel" tvg-logo="" group-title="Canada",CA | The Shopping Channel
+http://158.69.127.36:25461/juan12/juan12/49236
+
+#EXTINF:-1 tvg-id="" tvg-name="CA | Amazing Discoveries TV" tvg-logo="" group-title="Canada",CA | Amazing Discoveries TV
+http://158.69.127.36:25461/juan12/juan12/49319
+
+#EXTINF:-1 tvg-id="" tvg-name="CA | QVTV" tvg-logo="" group-title="Canada",CA | QVTV
+http://158.69.127.36:25461/juan12/juan12/49324
+
+#EXTINF:-1 tvg-id="" tvg-name="CA | CTV SYFY" tvg-logo="" group-title="Canada",CA | CTV SYFY
+http://158.69.127.36:25461/juan12/juan12/49327
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Claro Cinema" tvg-logo="https://mark.trademarkia.com/logo-images/claro-sa/claro-cinema-86830508.jpg" group-title="Cine",MX | Claro Cinema
+http://158.69.127.36:25461/juan12/juan12/49507
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | VH1" tvg-logo="" group-title="Music",MX | VH1
+http://158.69.127.36:25461/juan12/juan12/56944
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 2 " tvg-logo="" group-title="Nicaragua",Canal 2
+http://158.69.127.36:25461/juan12/juan12/60556
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 " tvg-logo="" group-title="Nicaragua",Canal 4
+http://158.69.127.36:25461/juan12/juan12/60557
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 12" tvg-logo="" group-title="Nicaragua",Canal 12
+http://158.69.127.36:25461/juan12/juan12/60562
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | TVC Deportes" tvg-logo="" group-title="Sports",MX | TVC Deportes
+http://158.69.127.36:25461/juan12/juan12/60587
+
+#EXTINF:-1 tvg-id="foxcomedyhd.mx" tvg-name="MX | Fox Comedy" tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-comedy-blanco.png.f720b00ef28d91a6cd6f93d8b2c73a74.png" group-title="Cine",MX | Fox Comedy
+http://158.69.127.36:25461/juan12/juan12/69900
+
+#EXTINF:-1 tvg-id="EPG123.33431.XMLTV.CO" tvg-name="CO | RCN Nuestra TV" tvg-logo="https://cdn.mitvstatic.com/channels/08ad2794-3741-4066-b6a3-2760b803b4ee_m.jpg" group-title="Colombia",CO | RCN Nuestra TV
+http://158.69.127.36:25461/juan12/juan12/71964
+
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="MX | HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/1920px-Logohboplus2019.svg.png" group-title="Zona HBO",MX | HBO Plus
+http://158.69.127.36:25461/juan12/juan12/74998
+
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="MX | Golden Premier" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="Cine",MX | Golden Premier
+http://158.69.127.36:25461/juan12/juan12/74999
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Get TV" tvg-logo="" group-title="USA",USA | Get TV
+http://158.69.127.36:25461/juan12/juan12/76451
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | ESPN 2" tvg-logo="" group-title="Sports",USA | ESPN 2
+http://158.69.127.36:25461/juan12/juan12/76640
+
+#EXTINF:-1 tvg-id="mavtv.us" tvg-name="USA | MAV TV" tvg-logo="" group-title="Sports",USA | MAV TV
+http://158.69.127.36:25461/juan12/juan12/76672
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | GAME +" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Game_Plus_Neetwork.png/300px-Game_Plus_Neetwork.png" group-title="Sports",USA | GAME +
+http://158.69.127.36:25461/juan12/juan12/77005
+
+#EXTINF:-1 tvg-id="sony.us" tvg-name="USA | SONY" tvg-logo="" group-title="USA",USA | SONY
+http://158.69.127.36:25461/juan12/juan12/77964
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | MTV U" tvg-logo="" group-title="Music",USA | MTV U
+http://158.69.127.36:25461/juan12/juan12/92359
+
+#EXTINF:-1 tvg-id="galatv9nacional.mx" tvg-name="MX | Gala " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Gala_TV_%28Mexico%29.png/300px-Gala_TV_%28Mexico%29.png" group-title="Nacional MX",MX | Gala
+http://158.69.127.36:25461/juan12/juan12/109270
+
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="MX | AXN" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/axn_hd.png" group-title="Mexico FHD",MX | AXN
+http://158.69.127.36:25461/juan12/juan12/23
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Telerirmo" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/teleritmo-logo-960x960-152234841.jpg" group-title="Music",MX | Telerirmo
+http://158.69.127.36:25461/juan12/juan12/167220
+
+#EXTINF:-1 tvg-id="EPG123.57580.XMLTV.CO" tvg-name="MX | Tvc Deportes FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png/revision/latest/scale-to-width-down/340?cb=20160715002304&path-prefix=es" group-title="Sports FHD",MX | Tvc Deportes FHD
+http://158.69.127.36:25461/juan12/juan12/169460
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Star Tve FHD" tvg-logo="https://img2.rtve.es/v/3293840?w=1600&preview=1442850904258.jpg" group-title="Mexico FHD",MX | Star Tve FHD
+http://158.69.127.36:25461/juan12/juan12/169834
+
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="MX | El Gourmet FHD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_el-gourmet_m.png" group-title="Mexico FHD",MX | El Gourmet FHD
+http://158.69.127.36:25461/juan12/juan12/169867
+
+#EXTINF:-1 tvg-id="EPG123.74016.XMLTV.CO" tvg-name="MX | De Pelicula Plus FHD" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/de-pelicula.png" group-title="Mexico FHD",MX | De Pelicula Plus FHD
+http://158.69.127.36:25461/juan12/juan12/169957
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBCSN Washington Plus" tvg-logo="" group-title="Sports",USA | NBCSN Washington Plus
+http://158.69.127.36:25461/juan12/juan12/171765
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBCSN Philadelphia" tvg-logo="" group-title="Sports",USA | NBCSN Philadelphia
+http://158.69.127.36:25461/juan12/juan12/171766
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Coronavirus Pandemic RealTime" tvg-logo="https://img2.rtve.es/v/5530085?w=1600&preview=1583356362400.jpg" group-title="PPV",PPV | Coronavirus Pandemic RealTime
+http://158.69.127.36:25461/juan12/juan12/179517
+
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="USA | CNN" tvg-logo="" group-title="Noticias",USA | CNN
+http://158.69.127.36:25461/juan12/juan12/179520
+
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | UNITEL" tvg-logo="" group-title="Bolivia",BOLIVIA | UNITEL
+http://158.69.127.36:25461/juan12/juan12/179532
+
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | BOLIVIAVISION" tvg-logo="" group-title="Bolivia",BOLIVIA | BOLIVIAVISION
+http://158.69.127.36:25461/juan12/juan12/179534
+
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA | BOLIVIA TV" tvg-logo="" group-title="Bolivia",BOLIVIA | BOLIVIA TV
+http://158.69.127.36:25461/juan12/juan12/179535
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Oklahoma City" tvg-logo="" group-title="Latinos USA",USA | Telemundo Oklahoma City
+http://158.69.127.36:25461/juan12/juan12/179537
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Omaha" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/kfdy_c.png" group-title="Latinos USA",USA | Telemundo Omaha
+http://158.69.127.36:25461/juan12/juan12/179538
+
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD (211)" tvg-logo="http://media.entutele.com/channels/big/ae-hd.gif" group-title="Mexico GeoBloqueo FHD",A&E HD (211)
+http://158.69.127.36:25461/juan12/juan12/179539
+
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40 HD (140)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/adn-40-hd.gif" group-title="Mexico GeoBloqueo FHD",ADN 40 HD (140)
+http://158.69.127.36:25461/juan12/juan12/179540
+
+#EXTINF:-1 tvg-id="" tvg-name="AMC (490)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" group-title="Mexico GeoBloqueo FHD",AMC (490)
+http://158.69.127.36:25461/juan12/juan12/179541
+
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD (444)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc-hd.gif" group-title="Mexico GeoBloqueo FHD",AMC HD (444)
+http://158.69.127.36:25461/juan12/juan12/179542
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet (373)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="Mexico GeoBloqueo FHD",Animal Planet (373)
+http://158.69.127.36:25461/juan12/juan12/179543
+
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD (213)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn-hd.gif" group-title="Mexico GeoBloqueo FHD",AXN HD (213)
+http://158.69.127.36:25461/juan12/juan12/179544
+
+#EXTINF:-1 tvg-id="" tvg-name="AyM Sports (576)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif" group-title="Mexico GeoBloqueo FHD",AyM Sports (576)
+http://158.69.127.36:25461/juan12/juan12/179545
+
+#EXTINF:-1 tvg-id="" tvg-name="AZ Clic HD (725)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif" group-title="Mexico GeoBloqueo FHD",AZ Clic HD (725)
+http://158.69.127.36:25461/juan12/juan12/179546
+
+#EXTINF:-1 tvg-id="" tvg-name="AZ Corazón HD (250)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-corazon.gif" group-title="Mexico GeoBloqueo FHD",AZ Corazón HD (250)
+http://158.69.127.36:25461/juan12/juan12/179547
+
+#EXTINF:-1 tvg-id="" tvg-name="AZ Mundo HD (276)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif" group-title="Mexico GeoBloqueo FHD",AZ Mundo HD (276)
+http://158.69.127.36:25461/juan12/juan12/179548
+
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 HD (1)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7-hd.gif" group-title="Mexico GeoBloqueo FHD",Azteca 7 HD (1)
+http://158.69.127.36:25461/juan12/juan12/179549
+
+#EXTINF:-1 tvg-id="" tvg-name="Bandamax (732)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif" group-title="Mexico GeoBloqueo FHD",Bandamax (732)
+http://158.69.127.36:25461/juan12/juan12/179550
+
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang (324)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif" group-title="Mexico GeoBloqueo FHD",Boomerang (324)
+http://158.69.127.36:25461/juan12/juan12/179551
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal de las Estrellas (102)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif" group-title="Mexico GeoBloqueo FHD",Canal de las Estrellas (102)
+http://158.69.127.36:25461/juan12/juan12/179552
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal de las Estrellas HD (2)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2-hd.gif" group-title="Mexico GeoBloqueo FHD",Canal de las Estrellas HD (2)
+http://158.69.127.36:25461/juan12/juan12/179553
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 (105)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5.gif" group-title="Mexico GeoBloqueo FHD",Canal 5 (105)
+http://158.69.127.36:25461/juan12/juan12/179554
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network (320)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="Mexico GeoBloqueo FHD",Cartoon Network (320)
+http://158.69.127.36:25461/juan12/juan12/179555
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD (430)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="Mexico GeoBloqueo FHD",Cinecanal HD (430)
+http://158.69.127.36:25461/juan12/juan12/179556
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal (480)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-w.gif" group-title="Mexico GeoBloqueo FHD",Cinecanal (480)
+http://158.69.127.36:25461/juan12/juan12/179557
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax (481)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax.gif" group-title="Mexico GeoBloqueo FHD",Cinemax (481)
+http://158.69.127.36:25461/juan12/juan12/179558
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Comedy Central FHD " tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif" group-title="Mexico FHD",MX | Comedy Central FHD
+http://158.69.127.36:25461/juan12/juan12/179559
+
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula HD (442)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/de-pelicula-hd.gif" group-title="Mexico GeoBloqueo FHD",De Pelicula HD (442)
+http://158.69.127.36:25461/juan12/juan12/179560
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel (371)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="Mexico GeoBloqueo FHD",Discovery Channel (371)
+http://158.69.127.36:25461/juan12/juan12/179561
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization (382)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif" group-title="Mexico GeoBloqueo FHD",Discovery Civilization (382)
+http://158.69.127.36:25461/juan12/juan12/179562
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids (303)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif" group-title="Mexico GeoBloqueo FHD",Discovery Kids (303)
+http://158.69.127.36:25461/juan12/juan12/179563
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science (381)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif" group-title="Mexico GeoBloqueo FHD",Discovery Science (381)
+http://158.69.127.36:25461/juan12/juan12/179564
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD (351)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif" group-title="Mexico GeoBloqueo FHD",Discovery Theater HD (351)
+http://158.69.127.36:25461/juan12/juan12/179565
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo (383)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif" group-title="Mexico GeoBloqueo FHD",Discovery Turbo (383)
+http://158.69.127.36:25461/juan12/juan12/179566
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD (356)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif" group-title="Mexico GeoBloqueo FHD",Discovery World HD (356)
+http://158.69.127.36:25461/juan12/juan12/179567
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel (312)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif" group-title="Mexico GeoBloqueo FHD",Disney Channel (312)
+http://158.69.127.36:25461/juan12/juan12/179568
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr (308)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif" group-title="Mexico GeoBloqueo FHD",Disney Jr (308)
+http://158.69.127.36:25461/juan12/juan12/179569
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD (322)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif" group-title="Mexico GeoBloqueo FHD",Disney XD (322)
+http://158.69.127.36:25461/juan12/juan12/179570
+
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia (272)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif" group-title="Mexico GeoBloqueo FHD",Distrito Comedia (272)
+http://158.69.127.36:25461/juan12/juan12/179571
+
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment HD (255)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e-entertainment-television.gif" group-title="Mexico GeoBloqueo FHD",E! Entertainment HD (255)
+http://158.69.127.36:25461/juan12/juan12/179572
+
+#EXTINF:-1 tvg-id="" tvg-name="El Garage TV (269)" tvg-logo="http://i.imgur.com/iZBhZOO.jpg" group-title="Mexico GeoBloqueo FHD",El Garage TV (269)
+http://158.69.127.36:25461/juan12/juan12/179573
+
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet (268)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-gourmet.gif" group-title="Mexico GeoBloqueo FHD",El Gourmet (268)
+http://158.69.127.36:25461/juan12/juan12/179574
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Internacional HD (558)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="Mexico GeoBloqueo FHD",ESPN Internacional HD (558)
+http://158.69.127.36:25461/juan12/juan12/179575
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (561)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="Mexico GeoBloqueo FHD",ESPN 2 HD (561)
+http://158.69.127.36:25461/juan12/juan12/179576
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD (520)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3-hd.gif" group-title="Mexico GeoBloqueo FHD",ESPN 3 HD (520)
+http://158.69.127.36:25461/juan12/juan12/179577
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN + HD (516)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif" group-title="Mexico GeoBloqueo FHD",ESPN + HD (516)
+http://158.69.127.36:25461/juan12/juan12/179578
+
+#EXTINF:-1 tvg-id="" tvg-name="Foro TV (104)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/foro-tv.gif" group-title="Mexico GeoBloqueo FHD",Foro TV (104)
+http://158.69.127.36:25461/juan12/juan12/179579
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Channel (251)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="Mexico GeoBloqueo FHD",Fox Channel (251)
+http://158.69.127.36:25461/juan12/juan12/179580
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action HD (416)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif" group-title="Mexico GeoBloqueo FHD",FOX Action HD (416)
+http://158.69.127.36:25461/juan12/juan12/179581
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD (201)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-hd.gif" group-title="Mexico GeoBloqueo FHD",Fox HD (201)
+http://158.69.127.36:25461/juan12/juan12/179582
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life (271)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif" group-title="Mexico GeoBloqueo FHD",Fox Life (271)
+http://158.69.127.36:25461/juan12/juan12/179583
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Movies HD (417)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="Mexico GeoBloqueo FHD",FOX Movies HD (417)
+http://158.69.127.36:25461/juan12/juan12/179584
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Series HD (415)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-premium-series-hd.gif" group-title="Mexico GeoBloqueo FHD",FOX Series HD (415)
+http://158.69.127.36:25461/juan12/juan12/179585
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD (522)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-hd.gif" group-title="Mexico GeoBloqueo FHD",Fox Sports HD (522)
+http://158.69.127.36:25461/juan12/juan12/179586
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD (527)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2-hd.gif" group-title="Mexico GeoBloqueo FHD",Fox Sports 2 HD (527)
+http://158.69.127.36:25461/juan12/juan12/179587
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 3 (178)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-3.gif" group-title="Mexico GeoBloqueo FHD",Fox Sport 3 (178)
+http://158.69.127.36:25461/juan12/juan12/179588
+
+#EXTINF:-1 tvg-id="" tvg-name="FX (258)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif" group-title="Mexico GeoBloqueo FHD",FX (258)
+http://158.69.127.36:25461/juan12/juan12/179589
+
+#EXTINF:-1 tvg-id="" tvg-name="FX HD (209)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx-hd.gif" group-title="Mexico GeoBloqueo FHD",FX HD (209)
+http://158.69.127.36:25461/juan12/juan12/179590
+
+#EXTINF:-1 tvg-id="" tvg-name="Gala TV (109)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif" group-title="Mexico GeoBloqueo FHD",Gala TV (109)
+http://158.69.127.36:25461/juan12/juan12/179591
+
+#EXTINF:-1 tvg-id="" tvg-name="Glitz (270)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/glitz.gif" group-title="Mexico GeoBloqueo FHD",Glitz (270)
+http://158.69.127.36:25461/juan12/juan12/179592
+
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel Latin America (179)" tvg-logo="http://i.imgur.com/ILh9Enp.jpg" group-title="Mexico GeoBloqueo FHD",Golf Channel Latin America (179)
+http://158.69.127.36:25461/juan12/juan12/179593
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge (484)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif" group-title="Mexico GeoBloqueo FHD",Golden Edge (484)
+http://158.69.127.36:25461/juan12/juan12/179594
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden HD (436)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif" group-title="Mexico GeoBloqueo FHD",Golden HD (436)
+http://158.69.127.36:25461/juan12/juan12/179595
+
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD (353)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-hd.gif" group-title="Mexico GeoBloqueo FHD",History Channel HD (353)
+http://158.69.127.36:25461/juan12/juan12/179596
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H (374)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health-hd.gif" group-title="Mexico GeoBloqueo FHD",Discovery H&H (374)
+http://158.69.127.36:25461/juan12/juan12/179597
+
+#EXTINF:-1 tvg-id="" tvg-name="ID (263)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigacion-discovery.gif" group-title="Mexico GeoBloqueo FHD",ID (263)
+http://158.69.127.36:25461/juan12/juan12/179598
+
+#EXTINF:-1 tvg-id="" tvg-name="ISAT (495)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/isat.gif" group-title="Mexico GeoBloqueo FHD",ISAT (495)
+http://158.69.127.36:25461/juan12/juan12/179599
+
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime (379)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif" group-title="Mexico GeoBloqueo FHD",Lifetime (379)
+http://158.69.127.36:25461/juan12/juan12/179600
+
+#EXTINF:-1 tvg-id="" tvg-name="Milenio TV (603)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif" group-title="Mexico GeoBloqueo FHD",Milenio TV (603)
+http://158.69.127.36:25461/juan12/juan12/179601
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD (726)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv.gif" group-title="Mexico GeoBloqueo FHD",MTV HD (726)
+http://158.69.127.36:25461/juan12/juan12/179602
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits (727)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="Mexico GeoBloqueo FHD",MTV Hits (727)
+http://158.69.127.36:25461/juan12/juan12/179603
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD (701)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live-hd.gif" group-title="Mexico GeoBloqueo FHD",MTV Live HD (701)
+http://158.69.127.36:25461/juan12/juan12/179604
+
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Plus (167)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif" group-title="Mexico GeoBloqueo FHD",Multimedios Plus (167)
+http://158.69.127.36:25461/juan12/juan12/179605
+
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Monterrey (2305)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif" group-title="Mexico GeoBloqueo FHD",Multimedios Monterrey (2305)
+http://158.69.127.36:25461/juan12/juan12/179606
+
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic (377)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif" group-title="Mexico GeoBloqueo FHD",National Geographic (377)
+http://158.69.127.36:25461/juan12/juan12/179607
+
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids (2373)" tvg-logo="https://s18.postimg.org/i5axtgpft/NATGEO.png" group-title="Mexico GeoBloqueo FHD",Nat Geo Kids (2373)
+http://158.69.127.36:25461/juan12/juan12/179608
+
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD (355)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild-hd.gif" group-title="Mexico GeoBloqueo FHD",Nat Geo Wild HD (355)
+http://158.69.127.36:25461/juan12/juan12/179609
+
+#EXTINF:-1 tvg-id="" tvg-name="Nick (317)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nickelodeon-nick.gif" group-title="Mexico GeoBloqueo FHD",Nick (317)
+http://158.69.127.36:25461/juan12/juan12/179610
+
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD (315)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-hd.gif" group-title="Mexico GeoBloqueo FHD",Nick HD (315)
+http://158.69.127.36:25461/juan12/juan12/179611
+
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr (310)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-jr.gif" group-title="Mexico GeoBloqueo FHD",Nick Jr (310)
+http://158.69.127.36:25461/juan12/juan12/179612
+
+#EXTINF:-1 tvg-id="" tvg-name="Once TV (111)" tvg-logo="http://media.entutele.com/channels/big/once-tv.gif" group-title="Mexico GeoBloqueo FHD",Once TV (111)
+http://158.69.127.36:25461/juan12/juan12/179613
+
+#EXTINF:-1 tvg-id="" tvg-name="Planet X HD (528)" tvg-logo="http://i.imgur.com/soHz9Aj.jpg" group-title="Mexico GeoBloqueo FHD",Planet X HD (528)
+http://158.69.127.36:25461/juan12/juan12/179614
+
+#EXTINF:-1 tvg-id="" tvg-name="Ritmoson (731)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif" group-title="Mexico GeoBloqueo FHD",Ritmoson (731)
+http://158.69.127.36:25461/juan12/juan12/179615
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD (203)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony-hd.gif" group-title="Mexico GeoBloqueo FHD",Sony HD (203)
+http://158.69.127.36:25461/juan12/juan12/179616
+
+#EXTINF:-1 tvg-id="" tvg-name="Space (491)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="Mexico GeoBloqueo FHD",Space (491)
+http://158.69.127.36:25461/juan12/juan12/179617
+
+#EXTINF:-1 tvg-id="" tvg-name="Space HD (445)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space-hd.gif" group-title="Mexico GeoBloqueo FHD",Space HD (445)
+http://158.69.127.36:25461/juan12/juan12/179618
+
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal (492)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="Mexico GeoBloqueo FHD",Studio Universal (492)
+http://158.69.127.36:25461/juan12/juan12/179619
+
+#EXTINF:-1 tvg-id="" tvg-name="SyFy (257)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif" group-title="Mexico GeoBloqueo FHD",SyFy (257)
+http://158.69.127.36:25461/juan12/juan12/179620
+
+#EXTINF:-1 tvg-id="" tvg-name="TBS Very Funny (273)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif" group-title="Mexico GeoBloqueo FHD",TBS Very Funny (273)
+http://158.69.127.36:25461/juan12/juan12/179621
+
+#EXTINF:-1 tvg-id="" tvg-name="TCM (496)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="Mexico GeoBloqueo FHD",TCM (496)
+http://158.69.127.36:25461/juan12/juan12/179622
+
+#EXTINF:-1 tvg-id="" tvg-name="Teleformula (161)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/teleformula.gif" group-title="Mexico GeoBloqueo FHD",Teleformula (161)
+http://158.69.127.36:25461/juan12/juan12/179623
+
+#EXTINF:-1 tvg-id="" tvg-name="Telehit HD (702)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telehit-hd.gif" group-title="Mexico GeoBloqueo FHD",Telehit HD (702)
+http://158.69.127.36:25461/juan12/juan12/179624
+
+#EXTINF:-1 tvg-id="" tvg-name="The Film Zone HD (440)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif" group-title="Mexico GeoBloqueo FHD",The Film Zone HD (440)
+http://158.69.127.36:25461/juan12/juan12/179625
+
+#EXTINF:-1 tvg-id="" tvg-name="Tiin (325)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tiin.gif" group-title="Mexico GeoBloqueo FHD",Tiin (325)
+http://158.69.127.36:25461/juan12/juan12/179626
+
+#EXTINF:-1 tvg-id="" tvg-name="TLC (386)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlc.gif" group-title="Mexico GeoBloqueo FHD",TLC (386)
+http://158.69.127.36:25461/juan12/juan12/179627
+
+#EXTINF:-1 tvg-id="" tvg-name="TLnovelas (275)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlnovelas.gif" group-title="Mexico GeoBloqueo FHD",TLnovelas (275)
+http://158.69.127.36:25461/juan12/juan12/179628
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT (482)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt.gif" group-title="Mexico GeoBloqueo FHD",TNT (482)
+http://158.69.127.36:25461/juan12/juan12/179629
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD (435)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-hd.gif" group-title="Mexico GeoBloqueo FHD",TNT HD (435)
+http://158.69.127.36:25461/juan12/juan12/179630
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series (266)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif" group-title="Mexico GeoBloqueo FHD",TNT Series (266)
+http://158.69.127.36:25461/juan12/juan12/179631
+
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast (328)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tooncast.gif" group-title="Mexico GeoBloqueo FHD",Tooncast (328)
+http://158.69.127.36:25461/juan12/juan12/179632
+
+#EXTINF:-1 tvg-id="" tvg-name="TruTV HD (215)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif" group-title="Mexico GeoBloqueo FHD",TruTV HD (215)
+http://158.69.127.36:25461/juan12/juan12/179633
+
+#EXTINF:-1 tvg-id="" tvg-name="TVE (651)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tve.gif" group-title="Mexico GeoBloqueo FHD",TVE (651)
+http://158.69.127.36:25461/juan12/juan12/179634
+
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel (256)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif" group-title="Mexico GeoBloqueo FHD",Universal Channel (256)
+http://158.69.127.36:25461/juan12/juan12/179635
+
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD (207)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif" group-title="Mexico GeoBloqueo FHD",Universal Channel HD (207)
+http://158.69.127.36:25461/juan12/juan12/179636
+
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classics (728)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1.gif" group-title="Mexico GeoBloqueo FHD",VH1 Classics (728)
+http://158.69.127.36:25461/juan12/juan12/179637
+
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD (703)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-hd.gif" group-title="Mexico GeoBloqueo FHD",VH1 HD (703)
+http://158.69.127.36:25461/juan12/juan12/179638
+
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD (205)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-channel.gif" group-title="Mexico GeoBloqueo FHD",Warner Channel HD (205)
+http://158.69.127.36:25461/juan12/juan12/179639
+
+#EXTINF:-1 tvg-id="" tvg-name="Wobi HD (387)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/wobi-tv.gif" group-title="Mexico GeoBloqueo FHD",Wobi HD (387)
+http://158.69.127.36:25461/juan12/juan12/179640
+
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD (211)" tvg-logo="http://media.entutele.com/channels/big/ae-hd.gif" group-title="Mexico GeoBloqueo SD",A&E HD (211)
+http://158.69.127.36:25461/juan12/juan12/179641
+
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40 HD (140)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/adn-40-hd.gif" group-title="Mexico GeoBloqueo SD",ADN 40 HD (140)
+http://158.69.127.36:25461/juan12/juan12/179642
+
+#EXTINF:-1 tvg-id="" tvg-name="AMC (490)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc.gif" group-title="Mexico GeoBloqueo SD",AMC (490)
+http://158.69.127.36:25461/juan12/juan12/179643
+
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD (444)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/amc-hd.gif" group-title="Mexico GeoBloqueo SD",AMC HD (444)
+http://158.69.127.36:25461/juan12/juan12/179644
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet (373)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="Mexico GeoBloqueo SD",Animal Planet (373)
+http://158.69.127.36:25461/juan12/juan12/179645
+
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD (213)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/axn-hd.gif" group-title="Mexico GeoBloqueo SD",AXN HD (213)
+http://158.69.127.36:25461/juan12/juan12/179646
+
+#EXTINF:-1 tvg-id="" tvg-name="AyM Sports (576)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/aym-sports.gif" group-title="Mexico GeoBloqueo SD",AyM Sports (576)
+http://158.69.127.36:25461/juan12/juan12/179647
+
+#EXTINF:-1 tvg-id="" tvg-name="AZ Clic HD (725)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-clic.gif" group-title="Mexico GeoBloqueo SD",AZ Clic HD (725)
+http://158.69.127.36:25461/juan12/juan12/179648
+
+#EXTINF:-1 tvg-id="" tvg-name="AZ Corazón HD (250)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-corazon.gif" group-title="Mexico GeoBloqueo SD",AZ Corazón HD (250)
+http://158.69.127.36:25461/juan12/juan12/179649
+
+#EXTINF:-1 tvg-id="" tvg-name="AZ Mundo HD (276)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/az-mundo.gif" group-title="Mexico GeoBloqueo SD",AZ Mundo HD (276)
+http://158.69.127.36:25461/juan12/juan12/179650
+
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 HD (1)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7-hd.gif" group-title="Mexico GeoBloqueo SD",Azteca 7 HD (1)
+http://158.69.127.36:25461/juan12/juan12/179651
+
+#EXTINF:-1 tvg-id="" tvg-name="Bandamax (732)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif" group-title="Mexico GeoBloqueo SD",Bandamax (732)
+http://158.69.127.36:25461/juan12/juan12/179652
+
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang (324)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif" group-title="Mexico GeoBloqueo SD",Boomerang (324)
+http://158.69.127.36:25461/juan12/juan12/179653
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal de las Estrellas (102)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2.gif" group-title="Mexico GeoBloqueo SD",Canal de las Estrellas (102)
+http://158.69.127.36:25461/juan12/juan12/179654
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal de las Estrellas HD (2)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-2-hd.gif" group-title="Mexico GeoBloqueo SD",Canal de las Estrellas HD (2)
+http://158.69.127.36:25461/juan12/juan12/179655
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 (105)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5.gif" group-title="Mexico GeoBloqueo SD",Canal 5 (105)
+http://158.69.127.36:25461/juan12/juan12/179656
+
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network (320)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="Mexico GeoBloqueo SD",Cartoon Network (320)
+http://158.69.127.36:25461/juan12/juan12/179657
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD (430)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-hd.gif" group-title="Mexico GeoBloqueo SD",Cinecanal HD (430)
+http://158.69.127.36:25461/juan12/juan12/179658
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal (480)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinecanal-w.gif" group-title="Mexico GeoBloqueo SD",Cinecanal (480)
+http://158.69.127.36:25461/juan12/juan12/179659
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax (481)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cinemax.gif" group-title="Mexico GeoBloqueo SD",Cinemax (481)
+http://158.69.127.36:25461/juan12/juan12/179660
+
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD (217)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/comedy-central-hd.gif" group-title="Mexico GeoBloqueo SD",Comedy Central HD (217)
+http://158.69.127.36:25461/juan12/juan12/179661
+
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula HD (442)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/de-pelicula-hd.gif" group-title="Mexico GeoBloqueo SD",De Pelicula HD (442)
+http://158.69.127.36:25461/juan12/juan12/179662
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel (371)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="Mexico GeoBloqueo SD",Discovery Channel (371)
+http://158.69.127.36:25461/juan12/juan12/179663
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization (382)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif" group-title="Mexico GeoBloqueo SD",Discovery Civilization (382)
+http://158.69.127.36:25461/juan12/juan12/179664
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids (303)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif" group-title="Mexico GeoBloqueo SD",Discovery Kids (303)
+http://158.69.127.36:25461/juan12/juan12/179665
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science (381)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif" group-title="Mexico GeoBloqueo SD",Discovery Science (381)
+http://158.69.127.36:25461/juan12/juan12/179666
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD (351)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-theater-hd.gif" group-title="Mexico GeoBloqueo SD",Discovery Theater HD (351)
+http://158.69.127.36:25461/juan12/juan12/179667
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo (383)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif" group-title="Mexico GeoBloqueo SD",Discovery Turbo (383)
+http://158.69.127.36:25461/juan12/juan12/179668
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD (356)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-world-hd.gif" group-title="Mexico GeoBloqueo SD",Discovery World HD (356)
+http://158.69.127.36:25461/juan12/juan12/179669
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel (312)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif" group-title="Mexico GeoBloqueo SD",Disney Channel (312)
+http://158.69.127.36:25461/juan12/juan12/179670
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr (308)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif" group-title="Mexico GeoBloqueo SD",Disney Jr (308)
+http://158.69.127.36:25461/juan12/juan12/179671
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD (322)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif" group-title="Mexico GeoBloqueo SD",Disney XD (322)
+http://158.69.127.36:25461/juan12/juan12/179672
+
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia (272)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif" group-title="Mexico GeoBloqueo SD",Distrito Comedia (272)
+http://158.69.127.36:25461/juan12/juan12/179673
+
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment HD (255)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/e-entertainment-television.gif" group-title="Mexico GeoBloqueo SD",E! Entertainment HD (255)
+http://158.69.127.36:25461/juan12/juan12/179674
+
+#EXTINF:-1 tvg-id="" tvg-name="El Garage TV (269)" tvg-logo="http://i.imgur.com/iZBhZOO.jpg" group-title="Mexico GeoBloqueo SD",El Garage TV (269)
+http://158.69.127.36:25461/juan12/juan12/179675
+
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet (268)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/el-gourmet.gif" group-title="Mexico GeoBloqueo SD",El Gourmet (268)
+http://158.69.127.36:25461/juan12/juan12/179676
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Internacional HD (558)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif" group-title="Mexico GeoBloqueo SD",ESPN Internacional HD (558)
+http://158.69.127.36:25461/juan12/juan12/179677
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (561)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="Mexico GeoBloqueo SD",ESPN 2 HD (561)
+http://158.69.127.36:25461/juan12/juan12/179678
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD (520)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3-hd.gif" group-title="Mexico GeoBloqueo SD",ESPN 3 HD (520)
+http://158.69.127.36:25461/juan12/juan12/179679
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN + HD (516)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-hd.gif" group-title="Mexico GeoBloqueo SD",ESPN + HD (516)
+http://158.69.127.36:25461/juan12/juan12/179680
+
+#EXTINF:-1 tvg-id="" tvg-name="Foro TV (104)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/foro-tv.gif" group-title="Mexico GeoBloqueo SD",Foro TV (104)
+http://158.69.127.36:25461/juan12/juan12/179681
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Channel (251)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="Mexico GeoBloqueo SD",Fox Channel (251)
+http://158.69.127.36:25461/juan12/juan12/179682
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Action HD (416)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-action-hd.gif" group-title="Mexico GeoBloqueo SD",FOX Action HD (416)
+http://158.69.127.36:25461/juan12/juan12/179683
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD (201)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-hd.gif" group-title="Mexico GeoBloqueo SD",Fox HD (201)
+http://158.69.127.36:25461/juan12/juan12/179684
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life (271)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-life.gif" group-title="Mexico GeoBloqueo SD",Fox Life (271)
+http://158.69.127.36:25461/juan12/juan12/179685
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Movies HD (417)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-movies-hd.gif" group-title="Mexico GeoBloqueo SD",FOX Movies HD (417)
+http://158.69.127.36:25461/juan12/juan12/179686
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX Series HD (415)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-premium-series-hd.gif" group-title="Mexico GeoBloqueo SD",FOX Series HD (415)
+http://158.69.127.36:25461/juan12/juan12/179687
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD (522)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-hd.gif" group-title="Mexico GeoBloqueo SD",Fox Sports HD (522)
+http://158.69.127.36:25461/juan12/juan12/179688
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD (527)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2-hd.gif" group-title="Mexico GeoBloqueo SD",Fox Sports 2 HD (527)
+http://158.69.127.36:25461/juan12/juan12/179689
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 3 (178)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-3.gif" group-title="Mexico GeoBloqueo SD",Fox Sport 3 (178)
+http://158.69.127.36:25461/juan12/juan12/179690
+
+#EXTINF:-1 tvg-id="" tvg-name="FX (258)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx.gif" group-title="Mexico GeoBloqueo SD",FX (258)
+http://158.69.127.36:25461/juan12/juan12/179691
+
+#EXTINF:-1 tvg-id="" tvg-name="FX HD (209)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fx-hd.gif" group-title="Mexico GeoBloqueo SD",FX HD (209)
+http://158.69.127.36:25461/juan12/juan12/179692
+
+#EXTINF:-1 tvg-id="" tvg-name="Gala TV (109)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif" group-title="Mexico GeoBloqueo SD",Gala TV (109)
+http://158.69.127.36:25461/juan12/juan12/179693
+
+#EXTINF:-1 tvg-id="" tvg-name="Glitz (270)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/glitz.gif" group-title="Mexico GeoBloqueo SD",Glitz (270)
+http://158.69.127.36:25461/juan12/juan12/179694
+
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel Latin America (179)" tvg-logo="http://i.imgur.com/ILh9Enp.jpg" group-title="Mexico GeoBloqueo SD",Golf Channel Latin America (179)
+http://158.69.127.36:25461/juan12/juan12/179695
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge (484)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif" group-title="Mexico GeoBloqueo SD",Golden Edge (484)
+http://158.69.127.36:25461/juan12/juan12/179696
+
+#EXTINF:-1 tvg-id="" tvg-name="Golden HD (436)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif" group-title="Mexico GeoBloqueo SD",Golden HD (436)
+http://158.69.127.36:25461/juan12/juan12/179697
+
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD (353)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-hd.gif" group-title="Mexico GeoBloqueo SD",History Channel HD (353)
+http://158.69.127.36:25461/juan12/juan12/179698
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H (374)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health-hd.gif" group-title="Mexico GeoBloqueo SD",Discovery H&H (374)
+http://158.69.127.36:25461/juan12/juan12/179699
+
+#EXTINF:-1 tvg-id="" tvg-name="ID (263)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigacion-discovery.gif" group-title="Mexico GeoBloqueo SD",ID (263)
+http://158.69.127.36:25461/juan12/juan12/179700
+
+#EXTINF:-1 tvg-id="" tvg-name="ISAT (495)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/isat.gif" group-title="Mexico GeoBloqueo SD",ISAT (495)
+http://158.69.127.36:25461/juan12/juan12/179701
+
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime (379)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/lifetime.gif" group-title="Mexico GeoBloqueo SD",Lifetime (379)
+http://158.69.127.36:25461/juan12/juan12/179702
+
+#EXTINF:-1 tvg-id="" tvg-name="Milenio TV (603)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif" group-title="Mexico GeoBloqueo SD",Milenio TV (603)
+http://158.69.127.36:25461/juan12/juan12/179703
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD (726)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv.gif" group-title="Mexico GeoBloqueo SD",MTV HD (726)
+http://158.69.127.36:25461/juan12/juan12/179704
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits (727)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-hits.gif" group-title="Mexico GeoBloqueo SD",MTV Hits (727)
+http://158.69.127.36:25461/juan12/juan12/179705
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD (701)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live-hd.gif" group-title="Mexico GeoBloqueo SD",MTV Live HD (701)
+http://158.69.127.36:25461/juan12/juan12/179706
+
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Plus (167)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif" group-title="Nacional MX",Multimedios Plus (167)
+http://158.69.127.36:25461/juan12/juan12/179707
+
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios Monterrey (2305)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/multimedios-monterrey.gif" group-title="Nacional MX",Multimedios Monterrey (2305)
+http://158.69.127.36:25461/juan12/juan12/179708
+
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic (377)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif" group-title="Mexico GeoBloqueo SD",National Geographic (377)
+http://158.69.127.36:25461/juan12/juan12/179709
+
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids (2373)" tvg-logo="https://s18.postimg.org/i5axtgpft/NATGEO.png" group-title="Mexico GeoBloqueo SD",Nat Geo Kids (2373)
+http://158.69.127.36:25461/juan12/juan12/179710
+
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD (355)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild-hd.gif" group-title="Mexico GeoBloqueo SD",Nat Geo Wild HD (355)
+http://158.69.127.36:25461/juan12/juan12/179711
+
+#EXTINF:-1 tvg-id="" tvg-name="Nick (317)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nickelodeon-nick.gif" group-title="Mexico GeoBloqueo SD",Nick (317)
+http://158.69.127.36:25461/juan12/juan12/179712
+
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD (315)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-hd.gif" group-title="Mexico GeoBloqueo SD",Nick HD (315)
+http://158.69.127.36:25461/juan12/juan12/179713
+
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr (310)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/nick-jr.gif" group-title="Mexico GeoBloqueo SD",Nick Jr (310)
+http://158.69.127.36:25461/juan12/juan12/179714
+
+#EXTINF:-1 tvg-id="" tvg-name="Once TV (111)" tvg-logo="http://media.entutele.com/channels/big/once-tv.gif" group-title="Mexico GeoBloqueo SD",Once TV (111)
+http://158.69.127.36:25461/juan12/juan12/179715
+
+#EXTINF:-1 tvg-id="" tvg-name="Planet X HD (528)" tvg-logo="http://i.imgur.com/soHz9Aj.jpg" group-title="Mexico GeoBloqueo SD",Planet X HD (528)
+http://158.69.127.36:25461/juan12/juan12/179716
+
+#EXTINF:-1 tvg-id="" tvg-name="Ritmoson (731)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif" group-title="Mexico GeoBloqueo SD",Ritmoson (731)
+http://158.69.127.36:25461/juan12/juan12/179717
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD (203)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/sony-hd.gif" group-title="Mexico GeoBloqueo SD",Sony HD (203)
+http://158.69.127.36:25461/juan12/juan12/179718
+
+#EXTINF:-1 tvg-id="" tvg-name="Space (491)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space.gif" group-title="Mexico GeoBloqueo SD",Space (491)
+http://158.69.127.36:25461/juan12/juan12/179719
+
+#EXTINF:-1 tvg-id="" tvg-name="Space HD (445)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/space-hd.gif" group-title="Mexico GeoBloqueo SD",Space HD (445)
+http://158.69.127.36:25461/juan12/juan12/179720
+
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal (492)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/studio-universal.gif" group-title="Mexico GeoBloqueo SD",Studio Universal (492)
+http://158.69.127.36:25461/juan12/juan12/179721
+
+#EXTINF:-1 tvg-id="" tvg-name="SyFy (257)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/syfy.gif" group-title="Mexico GeoBloqueo SD",SyFy (257)
+http://158.69.127.36:25461/juan12/juan12/179722
+
+#EXTINF:-1 tvg-id="" tvg-name="TBS Very Funny (273)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tbs.gif" group-title="Mexico GeoBloqueo SD",TBS Very Funny (273)
+http://158.69.127.36:25461/juan12/juan12/179723
+
+#EXTINF:-1 tvg-id="" tvg-name="TCM (496)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif" group-title="Mexico GeoBloqueo SD",TCM (496)
+http://158.69.127.36:25461/juan12/juan12/179724
+
+#EXTINF:-1 tvg-id="" tvg-name="Teleformula (161)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/teleformula.gif" group-title="Mexico GeoBloqueo SD",Teleformula (161)
+http://158.69.127.36:25461/juan12/juan12/179725
+
+#EXTINF:-1 tvg-id="" tvg-name="Telehit HD (702)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/telehit-hd.gif" group-title="Mexico GeoBloqueo SD",Telehit HD (702)
+http://158.69.127.36:25461/juan12/juan12/179726
+
+#EXTINF:-1 tvg-id="" tvg-name="The Film Zone HD (440)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif" group-title="Mexico GeoBloqueo SD",The Film Zone HD (440)
+http://158.69.127.36:25461/juan12/juan12/179727
+
+#EXTINF:-1 tvg-id="" tvg-name="Tiin (325)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tiin.gif" group-title="Mexico GeoBloqueo SD",Tiin (325)
+http://158.69.127.36:25461/juan12/juan12/179728
+
+#EXTINF:-1 tvg-id="" tvg-name="TLC (386)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlc.gif" group-title="Mexico GeoBloqueo SD",TLC (386)
+http://158.69.127.36:25461/juan12/juan12/179729
+
+#EXTINF:-1 tvg-id="" tvg-name="TLnovelas (275)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tlnovelas.gif" group-title="Mexico GeoBloqueo SD",TLnovelas (275)
+http://158.69.127.36:25461/juan12/juan12/179730
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT (482)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt.gif" group-title="Mexico GeoBloqueo SD",TNT (482)
+http://158.69.127.36:25461/juan12/juan12/179731
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD (435)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-hd.gif" group-title="Mexico GeoBloqueo SD",TNT HD (435)
+http://158.69.127.36:25461/juan12/juan12/179732
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series (266)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tnt-series.gif" group-title="Mexico GeoBloqueo SD",TNT Series (266)
+http://158.69.127.36:25461/juan12/juan12/179733
+
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast (328)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tooncast.gif" group-title="Mexico GeoBloqueo SD",Tooncast (328)
+http://158.69.127.36:25461/juan12/juan12/179734
+
+#EXTINF:-1 tvg-id="" tvg-name="TruTV HD (215)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/trutv-hd.gif" group-title="Mexico GeoBloqueo SD",TruTV HD (215)
+http://158.69.127.36:25461/juan12/juan12/179735
+
+#EXTINF:-1 tvg-id="" tvg-name="TVE (651)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tve.gif" group-title="Mexico GeoBloqueo SD",TVE (651)
+http://158.69.127.36:25461/juan12/juan12/179736
+
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel (256)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-channel.gif" group-title="Mexico GeoBloqueo SD",Universal Channel (256)
+http://158.69.127.36:25461/juan12/juan12/179737
+
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD (207)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/universal-hd.gif" group-title="Mexico GeoBloqueo SD",Universal Channel HD (207)
+http://158.69.127.36:25461/juan12/juan12/179738
+
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classics (728)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1.gif" group-title="Mexico GeoBloqueo SD",VH1 Classics (728)
+http://158.69.127.36:25461/juan12/juan12/179739
+
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD (703)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/vh1-hd.gif" group-title="Mexico GeoBloqueo SD",VH1 HD (703)
+http://158.69.127.36:25461/juan12/juan12/179740
+
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD (205)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-channel.gif" group-title="Mexico GeoBloqueo SD",Warner Channel HD (205)
+http://158.69.127.36:25461/juan12/juan12/179741
+
+#EXTINF:-1 tvg-id="" tvg-name="Wobi HD (387)" tvg-logo="http://y.cdn.entutele.com/media/channels/big/wobi-tv.gif" group-title="Mexico GeoBloqueo SD",Wobi HD (387)
+http://158.69.127.36:25461/juan12/juan12/179742
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Escuela Tv " tvg-logo="" group-title="PPV",PPV | Escuela Tv
+http://158.69.127.36:25461/juan12/juan12/180046
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Fut Tv" tvg-logo="" group-title="Sports",MX | Fut Tv
+http://158.69.127.36:25461/juan12/juan12/182034
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Metal" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/og_image.png" group-title="Music",USA | Music Choice Metal
+http://158.69.127.36:25461/juan12/juan12/182551
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice 90s" tvg-logo="https://musicchoice.com/wp-content/uploads/2018/05/og_image.png" group-title="Music",USA | Music Choice 90s
+http://158.69.127.36:25461/juan12/juan12/182552
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Hip Hop R&B" tvg-logo="" group-title="Music",USA | Music Choice Hip Hop R&B
+http://158.69.127.36:25461/juan12/juan12/183986
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Brits Plus Hits" tvg-logo="" group-title="Music",USA | Music Choice Brits Plus Hits
+http://158.69.127.36:25461/juan12/juan12/183987
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Dance" tvg-logo="" group-title="Music",USA | Music Choice Dance
+http://158.69.127.36:25461/juan12/juan12/183988
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Hit List" tvg-logo="" group-title="Music",USA | Music Choice Hit List
+http://158.69.127.36:25461/juan12/juan12/183989
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Indie" tvg-logo="" group-title="Music",USA | Music Choice Indie
+http://158.69.127.36:25461/juan12/juan12/183991
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Kidz Only" tvg-logo="" group-title="Music",USA | Music Choice Kidz Only
+http://158.69.127.36:25461/juan12/juan12/183992
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Mexicana" tvg-logo="" group-title="Music",USA | Music Choice Mexicana
+http://158.69.127.36:25461/juan12/juan12/183993
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Musica Urbana" tvg-logo="" group-title="Music",USA | Music Choice Musica Urbana
+http://158.69.127.36:25461/juan12/juan12/183994
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Pop & Country" tvg-logo="" group-title="Music",USA | Music Choice Pop & Country
+http://158.69.127.36:25461/juan12/juan12/183995
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Pop Hits" tvg-logo="" group-title="Music",USA | Music Choice Pop Hits
+http://158.69.127.36:25461/juan12/juan12/183996
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Pop Latino" tvg-logo="" group-title="Music",USA | Music Choice Pop Latino
+http://158.69.127.36:25461/juan12/juan12/183997
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice R&B Soul" tvg-logo="" group-title="Music",USA | Music Choice R&B Soul
+http://158.69.127.36:25461/juan12/juan12/183998
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Rap" tvg-logo="" group-title="Music",USA | Music Choice Rap
+http://158.69.127.36:25461/juan12/juan12/183999
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Rock" tvg-logo="" group-title="Music",USA | Music Choice Rock
+http://158.69.127.36:25461/juan12/juan12/184000
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Teen Beats" tvg-logo="" group-title="Music",USA | Music Choice Teen Beats
+http://158.69.127.36:25461/juan12/juan12/184001
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Todays Country" tvg-logo="" group-title="Music",USA | Music Choice Todays Country
+http://158.69.127.36:25461/juan12/juan12/184002
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Toddler Tunes" tvg-logo="" group-title="Music",USA | Music Choice Toddler Tunes
+http://158.69.127.36:25461/juan12/juan12/184003
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Tropicales" tvg-logo="" group-title="Music",USA | Music Choice Tropicales
+http://158.69.127.36:25461/juan12/juan12/184004
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Music Choice Y2K" tvg-logo="" group-title="Music",USA | Music Choice Y2K
+http://158.69.127.36:25461/juan12/juan12/184005
+
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional FHD" tvg-logo="" group-title="Mexico GeoBloqueo FHD",Telemundo Internacional FHD
+http://158.69.127.36:25461/juan12/juan12/184006
+
+#EXTINF:-1 tvg-id="" tvg-name="CuriosityStream FHD" tvg-logo="" group-title="Mexico GeoBloqueo FHD",CuriosityStream FHD
+http://158.69.127.36:25461/juan12/juan12/184007
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Metro" tvg-logo="" group-title="Argentina",AR | Metro
+http://158.69.127.36:25461/juan12/juan12/185595
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | AmericaTV" tvg-logo="" group-title="Argentina",AR | AmericaTV
+http://158.69.127.36:25461/juan12/juan12/185596
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | /TelefeHD" tvg-logo="" group-title="Argentina",AR | /TelefeHD
+http://158.69.127.36:25461/juan12/juan12/185597
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Canal7" tvg-logo="" group-title="Argentina",AR | Canal7
+http://158.69.127.36:25461/juan12/juan12/185598
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ArtearHD" tvg-logo="" group-title="Argentina",AR | ArtearHD
+http://158.69.127.36:25461/juan12/juan12/185599
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Canal9" tvg-logo="" group-title="Argentina",AR | Canal9
+http://158.69.127.36:25461/juan12/juan12/185600
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TodoNoticias" tvg-logo="" group-title="Argentina",AR | TodoNoticias
+http://158.69.127.36:25461/juan12/juan12/185601
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | America24" tvg-logo="" group-title="Argentina",AR | America24
+http://158.69.127.36:25461/juan12/juan12/185602
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | C5N" tvg-logo="" group-title="Argentina",AR | C5N
+http://158.69.127.36:25461/juan12/juan12/185603
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | CronicaTV" tvg-logo="" group-title="Argentina",AR | CronicaTV
+http://158.69.127.36:25461/juan12/juan12/185604
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | 26_TV_HD" tvg-logo="" group-title="Argentina",AR | 26_TV_HD
+http://158.69.127.36:25461/juan12/juan12/185605
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | La_Nacion" tvg-logo="" group-title="Argentina",AR | La_Nacion
+http://158.69.127.36:25461/juan12/juan12/185606
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Magazine" tvg-logo="" group-title="Argentina",AR | Magazine
+http://158.69.127.36:25461/juan12/juan12/185607
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Encuentro" tvg-logo="" group-title="Argentina",AR | Encuentro
+http://158.69.127.36:25461/juan12/juan12/185608
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Gran_Hermano_24hs" tvg-logo="" group-title="Argentina",AR | Gran_Hermano_24hs
+http://158.69.127.36:25461/juan12/juan12/185609
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Diputados_TV" tvg-logo="" group-title="Argentina",AR | Diputados_TV
+http://158.69.127.36:25461/juan12/juan12/185610
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Canal_90" tvg-logo="" group-title="Argentina",AR | Canal_90
+http://158.69.127.36:25461/juan12/juan12/185611
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | DeporTVHD" tvg-logo="" group-title="Argentina",AR | DeporTVHD
+http://158.69.127.36:25461/juan12/juan12/185612
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TyCSport" tvg-logo="" group-title="Argentina",AR | TyCSport
+http://158.69.127.36:25461/juan12/juan12/185613
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN_HD" tvg-logo="" group-title="Argentina",AR | ESPN_HD
+http://158.69.127.36:25461/juan12/juan12/185614
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN2HD" tvg-logo="" group-title="Argentina",AR | ESPN2HD
+http://158.69.127.36:25461/juan12/juan12/185615
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN3" tvg-logo="" group-title="Argentina",AR | ESPN3
+http://158.69.127.36:25461/juan12/juan12/185616
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPNHD" tvg-logo="" group-title="Argentina",AR | ESPNHD
+http://158.69.127.36:25461/juan12/juan12/185617
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | FoxSports" tvg-logo="" group-title="Argentina",AR | FoxSports
+http://158.69.127.36:25461/juan12/juan12/185618
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | FoxSports2HD" tvg-logo="" group-title="Argentina",AR | FoxSports2HD
+http://158.69.127.36:25461/juan12/juan12/185619
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | FoxSports3HD" tvg-logo="" group-title="Argentina",AR | FoxSports3HD
+http://158.69.127.36:25461/juan12/juan12/185620
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | El_Garage" tvg-logo="" group-title="Argentina",AR | El_Garage
+http://158.69.127.36:25461/juan12/juan12/185621
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Golf_Channel" tvg-logo="" group-title="Argentina",AR | Golf_Channel
+http://158.69.127.36:25461/juan12/juan12/185622
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | NBA_TV" tvg-logo="" group-title="Argentina",AR | NBA_TV
+http://158.69.127.36:25461/juan12/juan12/185623
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | DiscoveryTurbo" tvg-logo="" group-title="Argentina",AR | DiscoveryTurbo
+http://158.69.127.36:25461/juan12/juan12/185624
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | America_Sports" tvg-logo="" group-title="Argentina",AR | America_Sports
+http://158.69.127.36:25461/juan12/juan12/185625
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Eventos1HD" tvg-logo="" group-title="Argentina",AR | Eventos1HD
+http://158.69.127.36:25461/juan12/juan12/185626
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | PAKA_PAKA" tvg-logo="" group-title="Argentina",AR | PAKA_PAKA
+http://158.69.127.36:25461/juan12/juan12/185627
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | CartoonNetwork" tvg-logo="" group-title="Argentina",AR | CartoonNetwork
+http://158.69.127.36:25461/juan12/juan12/185630
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | DisneyXD" tvg-logo="" group-title="Argentina",AR | DisneyXD
+http://158.69.127.36:25461/juan12/juan12/185631
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Discovery_Kids" tvg-logo="" group-title="Argentina",AR | Discovery_Kids
+http://158.69.127.36:25461/juan12/juan12/185632
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Boomerang" tvg-logo="" group-title="Argentina",AR | Boomerang
+http://158.69.127.36:25461/juan12/juan12/185633
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | DisneyJr" tvg-logo="" group-title="Argentina",AR | DisneyJr
+http://158.69.127.36:25461/juan12/juan12/185634
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | BabyTV" tvg-logo="" group-title="Argentina",AR | BabyTV
+http://158.69.127.36:25461/juan12/juan12/185635
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Tooncast" tvg-logo="" group-title="Argentina",AR | Tooncast
+http://158.69.127.36:25461/juan12/juan12/185636
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Nick_Jr" tvg-logo="" group-title="Argentina",AR | Nick_Jr
+http://158.69.127.36:25461/juan12/juan12/185637
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | NatGeo_Kids" tvg-logo="" group-title="Argentina",AR | NatGeo_Kids
+http://158.69.127.36:25461/juan12/juan12/185638
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | DisneyChannelHD" tvg-logo="" group-title="Argentina",AR | DisneyChannelHD
+http://158.69.127.36:25461/juan12/juan12/185639
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | INCAA_Tv" tvg-logo="" group-title="Argentina",AR | INCAA_Tv
+http://158.69.127.36:25461/juan12/juan12/185640
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Cinemax" tvg-logo="" group-title="Argentina",AR | Cinemax
+http://158.69.127.36:25461/juan12/juan12/185641
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TheFilmZoneHD" tvg-logo="" group-title="Argentina",AR | TheFilmZoneHD
+http://158.69.127.36:25461/juan12/juan12/185642
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Volver" tvg-logo="" group-title="Argentina",AR | Volver
+http://158.69.127.36:25461/juan12/juan12/185643
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Space" tvg-logo="" group-title="Argentina",AR | Space
+http://158.69.127.36:25461/juan12/juan12/185644
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | CinecanalHD" tvg-logo="" group-title="Argentina",AR | CinecanalHD
+http://158.69.127.36:25461/juan12/juan12/185645
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT_HD_Arg" tvg-logo="" group-title="Argentina",AR | TNT_HD_Arg
+http://158.69.127.36:25461/juan12/juan12/185646
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNTSeries" tvg-logo="" group-title="Argentina",AR | TNTSeries
+http://158.69.127.36:25461/juan12/juan12/185647
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | FXHD" tvg-logo="" group-title="Argentina",AR | FXHD
+http://158.69.127.36:25461/juan12/juan12/185648
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOXHD" tvg-logo="" group-title="Argentina",AR | FOXHD
+http://158.69.127.36:25461/juan12/juan12/185649
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | SonyHD" tvg-logo="" group-title="Argentina",AR | SonyHD
+http://158.69.127.36:25461/juan12/juan12/185650
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | WarnerHD" tvg-logo="" group-title="Argentina",AR | WarnerHD
+http://158.69.127.36:25461/juan12/juan12/185651
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Universal_Channel_HD" tvg-logo="" group-title="Argentina",AR | Universal_Channel_HD
+http://158.69.127.36:25461/juan12/juan12/185652
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | AXNHD" tvg-logo="" group-title="Argentina",AR | AXNHD
+http://158.69.127.36:25461/juan12/juan12/185653
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Studio_Universal" tvg-logo="" group-title="Argentina",AR | Studio_Universal
+http://158.69.127.36:25461/juan12/juan12/185654
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | AEHD" tvg-logo="" group-title="Argentina",AR | AEHD
+http://158.69.127.36:25461/juan12/juan12/185655
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Europa_Europa" tvg-logo="" group-title="Argentina",AR | Europa_Europa
+http://158.69.127.36:25461/juan12/juan12/185656
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TBS" tvg-logo="" group-title="Argentina",AR | TBS
+http://158.69.127.36:25461/juan12/juan12/185657
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TCM" tvg-logo="" group-title="Argentina",AR | TCM
+http://158.69.127.36:25461/juan12/juan12/185658
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMC" tvg-logo="" group-title="Argentina",AR | AMC
+http://158.69.127.36:25461/juan12/juan12/185659
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ISAT" tvg-logo="" group-title="Argentina",AR | ISAT
+http://158.69.127.36:25461/juan12/juan12/185660
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | A3_Series" tvg-logo="" group-title="Argentina",AR | A3_Series
+http://158.69.127.36:25461/juan12/juan12/185661
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | SyFy" tvg-logo="" group-title="Argentina",AR | SyFy
+http://158.69.127.36:25461/juan12/juan12/185662
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Fox_Life" tvg-logo="" group-title="Argentina",AR | Fox_Life
+http://158.69.127.36:25461/juan12/juan12/185663
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Eurochannel" tvg-logo="" group-title="Argentina",AR | Eurochannel
+http://158.69.127.36:25461/juan12/juan12/185664
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ID" tvg-logo="" group-title="Argentina",AR | ID
+http://158.69.127.36:25461/juan12/juan12/185665
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ComedyCentral" tvg-logo="" group-title="Argentina",AR | ComedyCentral
+http://158.69.127.36:25461/juan12/juan12/185666
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Paramount" tvg-logo="" group-title="Argentina",AR | Paramount
+http://158.69.127.36:25461/juan12/juan12/185667
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Pasiones" tvg-logo="" group-title="Argentina",AR | Pasiones
+http://158.69.127.36:25461/juan12/juan12/185668
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Telemundo_HD" tvg-logo="" group-title="Argentina",AR | Telemundo_HD
+http://158.69.127.36:25461/juan12/juan12/185669
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Lifetime" tvg-logo="" group-title="Argentina",AR | Lifetime
+http://158.69.127.36:25461/juan12/juan12/185670
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Gourmet" tvg-logo="" group-title="Argentina",AR | Gourmet
+http://158.69.127.36:25461/juan12/juan12/185671
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Glitz" tvg-logo="" group-title="Argentina",AR | Glitz
+http://158.69.127.36:25461/juan12/juan12/185672
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Food_Network" tvg-logo="" group-title="Argentina",AR | Food_Network
+http://158.69.127.36:25461/juan12/juan12/185673
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | E_Entertainment_Television" tvg-logo="" group-title="Argentina",AR | E_Entertainment_Television
+http://158.69.127.36:25461/juan12/juan12/185674
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | DiscoveryHomeHealthHD" tvg-logo="" group-title="Argentina",AR | DiscoveryHomeHealthHD
+http://158.69.127.36:25461/juan12/juan12/185675
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Mas_Chic" tvg-logo="" group-title="Argentina",AR | Mas_Chic
+http://158.69.127.36:25461/juan12/juan12/185676
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TLC" tvg-logo="" group-title="Argentina",AR | TLC
+http://158.69.127.36:25461/juan12/juan12/185677
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Discovery_World_HD" tvg-logo="" group-title="Argentina",AR | Discovery_World_HD
+http://158.69.127.36:25461/juan12/juan12/185678
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Hola_TV" tvg-logo="" group-title="Argentina",AR | Hola_TV
+http://158.69.127.36:25461/juan12/juan12/185679
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Canal_Rural" tvg-logo="" group-title="Argentina",AR | Canal_Rural
+http://158.69.127.36:25461/juan12/juan12/185681
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Turismo_Vision_Argentina" tvg-logo="" group-title="Argentina",AR | Turismo_Vision_Argentina
+http://158.69.127.36:25461/juan12/juan12/185682
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Sun_Channel" tvg-logo="" group-title="Argentina",AR | Sun_Channel
+http://158.69.127.36:25461/juan12/juan12/185683
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Canal_21" tvg-logo="" group-title="Argentina",AR | Canal_21
+http://158.69.127.36:25461/juan12/juan12/185684
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Senal_Maria" tvg-logo="" group-title="Argentina",AR | Senal_Maria
+http://158.69.127.36:25461/juan12/juan12/185685
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Nueva_Imagen" tvg-logo="" group-title="Argentina",AR | Nueva_Imagen
+http://158.69.127.36:25461/juan12/juan12/185686
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | EWTN" tvg-logo="" group-title="Argentina",AR | EWTN
+http://158.69.127.36:25461/juan12/juan12/185687
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Telemax" tvg-logo="" group-title="Argentina",AR | Telemax
+http://158.69.127.36:25461/juan12/juan12/185688
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | WOBI" tvg-logo="" group-title="Argentina",AR | WOBI
+http://158.69.127.36:25461/juan12/juan12/185689
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | NatGeoHD" tvg-logo="" group-title="Argentina",AR | NatGeoHD
+http://158.69.127.36:25461/juan12/juan12/185690
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | DiscoveryHD" tvg-logo="" group-title="Argentina",AR | DiscoveryHD
+http://158.69.127.36:25461/juan12/juan12/185691
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | AnimalPlanet" tvg-logo="" group-title="Argentina",AR | AnimalPlanet
+http://158.69.127.36:25461/juan12/juan12/185692
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Theater_HD" tvg-logo="" group-title="Argentina",AR | Theater_HD
+http://158.69.127.36:25461/juan12/juan12/185693
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | HistoryHD" tvg-logo="" group-title="Argentina",AR | HistoryHD
+http://158.69.127.36:25461/juan12/juan12/185694
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TruTV" tvg-logo="" group-title="Argentina",AR | TruTV
+http://158.69.127.36:25461/juan12/juan12/185695
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Canal_a" tvg-logo="" group-title="Argentina",AR | Canal_a
+http://158.69.127.36:25461/juan12/juan12/185696
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Film_Arts" tvg-logo="" group-title="Argentina",AR | Film_Arts
+http://158.69.127.36:25461/juan12/juan12/185697
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | History_2" tvg-logo="" group-title="Argentina",AR | History_2
+http://158.69.127.36:25461/juan12/juan12/185698
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Discovery_Science" tvg-logo="" group-title="Argentina",AR | Discovery_Science
+http://158.69.127.36:25461/juan12/juan12/185700
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Discovery_Civilization" tvg-logo="" group-title="Argentina",AR | Discovery_Civilization
+http://158.69.127.36:25461/juan12/juan12/185701
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | MTV_HD" tvg-logo="" group-title="Argentina",AR | MTV_HD
+http://158.69.127.36:25461/juan12/juan12/185702
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Quiero_HD" tvg-logo="" group-title="Argentina",AR | Quiero_HD
+http://158.69.127.36:25461/juan12/juan12/185703
+
+#EXTINF:-1 tvg-id="muchmusic.ar" tvg-name="AR | Much Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/200px-MuchMusicLA_%282007%29.svg.png" group-title="Music",AR | Much Music
+http://158.69.127.36:25461/juan12/juan12/185704
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | VH1" tvg-logo="" group-title="Argentina",AR | VH1
+http://158.69.127.36:25461/juan12/juan12/185705
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | CM" tvg-logo="" group-title="Argentina",AR | CM
+http://158.69.127.36:25461/juan12/juan12/185706
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Vorterix" tvg-logo="" group-title="Argentina",AR | Vorterix
+http://158.69.127.36:25461/juan12/juan12/185707
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | MTV_Hits" tvg-logo="" group-title="Argentina",AR | MTV_Hits
+http://158.69.127.36:25461/juan12/juan12/185708
+
+#EXTINF:-1 tvg-id="vh1mega.br" tvg-name="AR | VH1 Megahits" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/08b12-vh1megahits.png" group-title="Music",AR | VH1 Megahits
+http://158.69.127.36:25461/juan12/juan12/185709
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | HTV" tvg-logo="" group-title="Argentina",AR | HTV
+http://158.69.127.36:25461/juan12/juan12/185710
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Cana_de_la_ciudad" tvg-logo="" group-title="Argentina",AR | Cana_de_la_ciudad
+http://158.69.127.36:25461/juan12/juan12/185711
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Somos_Sur" tvg-logo="" group-title="Argentina",AR | Somos_Sur
+http://158.69.127.36:25461/juan12/juan12/185712
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Somos_Norte" tvg-logo="" group-title="Argentina",AR | Somos_Norte
+http://158.69.127.36:25461/juan12/juan12/185713
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Somos_Oeste" tvg-logo="" group-title="Argentina",AR | Somos_Oeste
+http://158.69.127.36:25461/juan12/juan12/185714
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Somos_La_Plata" tvg-logo="" group-title="Argentina",AR | Somos_La_Plata
+http://158.69.127.36:25461/juan12/juan12/185715
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | IP_Platense" tvg-logo="" group-title="Argentina",AR | IP_Platense
+http://158.69.127.36:25461/juan12/juan12/185716
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Canal_Universidad" tvg-logo="" group-title="Argentina",AR | Canal_Universidad
+http://158.69.127.36:25461/juan12/juan12/185718
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Argentinisima" tvg-logo="" group-title="Argentina",AR | Argentinisima
+http://158.69.127.36:25461/juan12/juan12/185721
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Telesur" tvg-logo="" group-title="Argentina",AR | Telesur
+http://158.69.127.36:25461/juan12/juan12/185722
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | CNN_Internacional" tvg-logo="" group-title="Argentina",AR | CNN_Internacional
+http://158.69.127.36:25461/juan12/juan12/185723
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | CNN_en_Espanol" tvg-logo="" group-title="Argentina",AR | CNN_en_Espanol
+http://158.69.127.36:25461/juan12/juan12/185724
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | BBC_World_News" tvg-logo="" group-title="Argentina",AR | BBC_World_News
+http://158.69.127.36:25461/juan12/juan12/185725
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Fox_News" tvg-logo="" group-title="Argentina",AR | Fox_News
+http://158.69.127.36:25461/juan12/juan12/185726
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Alljazzera" tvg-logo="" group-title="Argentina",AR | Alljazzera
+http://158.69.127.36:25461/juan12/juan12/185727
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Euronews" tvg-logo="" group-title="Argentina",AR | Euronews
+http://158.69.127.36:25461/juan12/juan12/185728
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Bloomberg" tvg-logo="" group-title="Argentina",AR | Bloomberg
+http://158.69.127.36:25461/juan12/juan12/185729
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | DW" tvg-logo="" group-title="Argentina",AR | DW
+http://158.69.127.36:25461/juan12/juan12/185730
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | RAI" tvg-logo="" group-title="Argentina",AR | RAI
+http://158.69.127.36:25461/juan12/juan12/185731
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TV_Espana" tvg-logo="" group-title="Argentina",AR | TV_Espana
+http://158.69.127.36:25461/juan12/juan12/185732
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Tv_Galicia" tvg-logo="" group-title="Argentina",AR | Tv_Galicia
+http://158.69.127.36:25461/juan12/juan12/185733
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Tv_Chile" tvg-logo="" group-title="Argentina",AR | Tv_Chile
+http://158.69.127.36:25461/juan12/juan12/185734
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Canal_de_las_estrellas" tvg-logo="" group-title="Argentina",AR | Canal_de_las_estrellas
+http://158.69.127.36:25461/juan12/juan12/185735
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TV5_Monde" tvg-logo="" group-title="Argentina",AR | TV5_Monde
+http://158.69.127.36:25461/juan12/juan12/185736
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Arirang" tvg-logo="" group-title="Argentina",AR | Arirang
+http://158.69.127.36:25461/juan12/juan12/185737
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Antena_3" tvg-logo="" group-title="Argentina",AR | Antena_3
+http://158.69.127.36:25461/juan12/juan12/185738
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Canal_U" tvg-logo="" group-title="Argentina",AR | Canal_U
+http://158.69.127.36:25461/juan12/juan12/185739
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | France_24" tvg-logo="" group-title="Argentina",AR | France_24
+http://158.69.127.36:25461/juan12/juan12/185740
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Bandeirantes" tvg-logo="" group-title="Argentina",AR | Bandeirantes
+http://158.69.127.36:25461/juan12/juan12/185741
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | France_24" tvg-logo="" group-title="Argentina",AR | France_24
+http://158.69.127.36:25461/juan12/juan12/185742
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Eventos1HD" tvg-logo="" group-title="Argentina",AR | Eventos1HD
+http://158.69.127.36:25461/juan12/juan12/185743
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Eventos_2_HD" tvg-logo="" group-title="Argentina",AR | Eventos_2_HD
+http://158.69.127.36:25461/juan12/juan12/185744
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | AmericaTV" tvg-logo="" group-title="Argentina",AR | AmericaTV
+http://158.69.127.36:25461/juan12/juan12/185745
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TelefeHD" tvg-logo="" group-title="Argentina",AR | TelefeHD
+http://158.69.127.36:25461/juan12/juan12/185746
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Canal7" tvg-logo="" group-title="Argentina",AR | Canal7
+http://158.69.127.36:25461/juan12/juan12/185747
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ArtearHD" tvg-logo="" group-title="Argentina",AR | ArtearHD
+http://158.69.127.36:25461/juan12/juan12/185748
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Canal9" tvg-logo="" group-title="Argentina",AR | Canal9
+http://158.69.127.36:25461/juan12/juan12/185749
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TodoNoticias" tvg-logo="" group-title="Argentina",AR | TodoNoticias
+http://158.69.127.36:25461/juan12/juan12/185750
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | 26_TV_HD" tvg-logo="" group-title="Argentina",AR | 26_TV_HD
+http://158.69.127.36:25461/juan12/juan12/185751
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | CronicaTV" tvg-logo="" group-title="Argentina",AR | CronicaTV
+http://158.69.127.36:25461/juan12/juan12/185752
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | La_Nacion" tvg-logo="" group-title="Argentina",AR | La_Nacion
+http://158.69.127.36:25461/juan12/juan12/185753
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Magazine" tvg-logo="" group-title="Argentina",AR | Magazine
+http://158.69.127.36:25461/juan12/juan12/185754
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | DeporTVHD" tvg-logo="" group-title="Argentina",AR | DeporTVHD
+http://158.69.127.36:25461/juan12/juan12/185755
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TyCSport" tvg-logo="" group-title="Argentina",AR | TyCSport
+http://158.69.127.36:25461/juan12/juan12/185756
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN_HD" tvg-logo="" group-title="Argentina",AR | ESPN_HD
+http://158.69.127.36:25461/juan12/juan12/185757
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN2HD" tvg-logo="" group-title="Argentina",AR | ESPN2HD
+http://158.69.127.36:25461/juan12/juan12/185758
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN3" tvg-logo="" group-title="Argentina",AR | ESPN3
+http://158.69.127.36:25461/juan12/juan12/185759
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPNHD" tvg-logo="" group-title="Argentina",AR | ESPNHD
+http://158.69.127.36:25461/juan12/juan12/185760
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | FoxSports" tvg-logo="" group-title="Argentina",AR | FoxSports
+http://158.69.127.36:25461/juan12/juan12/185761
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | FoxSports2HD" tvg-logo="" group-title="Argentina",AR | FoxSports2HD
+http://158.69.127.36:25461/juan12/juan12/185762
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | FoxSports3HD" tvg-logo="" group-title="Argentina",AR | FoxSports3HD
+http://158.69.127.36:25461/juan12/juan12/185763
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | El_Garage" tvg-logo="" group-title="Argentina",AR | El_Garage
+http://158.69.127.36:25461/juan12/juan12/185764
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Gran_Hermano_24hs" tvg-logo="" group-title="Argentina",AR | Gran_Hermano_24hs
+http://158.69.127.36:25461/juan12/juan12/185765
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | DisneyChannelHD" tvg-logo="" group-title="Argentina",AR | DisneyChannelHD
+http://158.69.127.36:25461/juan12/juan12/185766
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | CartoonNetwork" tvg-logo="" group-title="Argentina",AR | CartoonNetwork
+http://158.69.127.36:25461/juan12/juan12/185768
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Discovery_Kids" tvg-logo="" group-title="Argentina",AR | Discovery_Kids
+http://158.69.127.36:25461/juan12/juan12/185769
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | INCAA_Tv" tvg-logo="" group-title="Argentina",AR | INCAA_Tv
+http://158.69.127.36:25461/juan12/juan12/185770
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Cinemax" tvg-logo="" group-title="Argentina",AR | Cinemax
+http://158.69.127.36:25461/juan12/juan12/185771
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TheFilmZoneHD" tvg-logo="" group-title="Argentina",AR | TheFilmZoneHD
+http://158.69.127.36:25461/juan12/juan12/185772
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Space" tvg-logo="" group-title="Argentina",AR | Space
+http://158.69.127.36:25461/juan12/juan12/185773
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | CinecanalHD" tvg-logo="" group-title="Argentina",AR | CinecanalHD
+http://158.69.127.36:25461/juan12/juan12/185774
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT_HD_Arg" tvg-logo="" group-title="Argentina",AR | TNT_HD_Arg
+http://158.69.127.36:25461/juan12/juan12/185775
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNTSeries" tvg-logo="" group-title="Argentina",AR | TNTSeries
+http://158.69.127.36:25461/juan12/juan12/185776
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | FXHD" tvg-logo="" group-title="Argentina",AR | FXHD
+http://158.69.127.36:25461/juan12/juan12/185777
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOXHD" tvg-logo="" group-title="Argentina",AR | FOXHD
+http://158.69.127.36:25461/juan12/juan12/185778
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | SonyHD" tvg-logo="" group-title="Argentina",AR | SonyHD
+http://158.69.127.36:25461/juan12/juan12/185779
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | WarnerHD" tvg-logo="" group-title="Argentina",AR | WarnerHD
+http://158.69.127.36:25461/juan12/juan12/185780
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Universal_Channel_HD" tvg-logo="" group-title="Argentina",AR | Universal_Channel_HD
+http://158.69.127.36:25461/juan12/juan12/185781
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | AXNHD" tvg-logo="" group-title="Argentina",AR | AXNHD
+http://158.69.127.36:25461/juan12/juan12/185782
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | AEHD" tvg-logo="" group-title="Argentina",AR | AEHD
+http://158.69.127.36:25461/juan12/juan12/185783
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Europa_Europa" tvg-logo="" group-title="Argentina",AR | Europa_Europa
+http://158.69.127.36:25461/juan12/juan12/185784
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TBS" tvg-logo="" group-title="Argentina",AR | TBS
+http://158.69.127.36:25461/juan12/juan12/185785
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | A3_Series" tvg-logo="" group-title="Argentina",AR | A3_Series
+http://158.69.127.36:25461/juan12/juan12/185786
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | AMC" tvg-logo="" group-title="Argentina",AR | AMC
+http://158.69.127.36:25461/juan12/juan12/185787
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | AnimalPlanet" tvg-logo="" group-title="Argentina",AR | AnimalPlanet
+http://158.69.127.36:25461/juan12/juan12/185788
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ID" tvg-logo="" group-title="Argentina",AR | ID
+http://158.69.127.36:25461/juan12/juan12/185789
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ComedyCentral" tvg-logo="" group-title="Argentina",AR | ComedyCentral
+http://158.69.127.36:25461/juan12/juan12/185790
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Gourmet" tvg-logo="" group-title="Argentina",AR | Gourmet
+http://158.69.127.36:25461/juan12/juan12/185791
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | DiscoveryHomeHealthHD" tvg-logo="" group-title="Argentina",AR | DiscoveryHomeHealthHD
+http://158.69.127.36:25461/juan12/juan12/185792
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Food_Network" tvg-logo="" group-title="Argentina",AR | Food_Network
+http://158.69.127.36:25461/juan12/juan12/185793
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TLC" tvg-logo="" group-title="Argentina",AR | TLC
+http://158.69.127.36:25461/juan12/juan12/185794
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | E_Entertainment_Television" tvg-logo="" group-title="Argentina",AR | E_Entertainment_Television
+http://158.69.127.36:25461/juan12/juan12/185795
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Mas_Chic" tvg-logo="" group-title="Argentina",AR | Mas_Chic
+http://158.69.127.36:25461/juan12/juan12/185796
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Telemundo_HD" tvg-logo="" group-title="Argentina",AR | Telemundo_HD
+http://158.69.127.36:25461/juan12/juan12/185797
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | History 2 FHD" tvg-logo="" group-title="Mexico FHD",MX | History 2 FHD
+http://158.69.127.36:25461/juan12/juan12/185798
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | NatGeoHD" tvg-logo="" group-title="Argentina",AR | NatGeoHD
+http://158.69.127.36:25461/juan12/juan12/185799
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | DiscoveryHD" tvg-logo="" group-title="Argentina",AR | DiscoveryHD
+http://158.69.127.36:25461/juan12/juan12/185800
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Theater_HD" tvg-logo="" group-title="Argentina",AR | Theater_HD
+http://158.69.127.36:25461/juan12/juan12/185801
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | AnimalPlanet" tvg-logo="" group-title="Argentina",AR | AnimalPlanet
+http://158.69.127.36:25461/juan12/juan12/185802
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | HistoryHD" tvg-logo="" group-title="Argentina",AR | HistoryHD
+http://158.69.127.36:25461/juan12/juan12/185803
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | TruTV" tvg-logo="" group-title="Argentina",AR | TruTV
+http://158.69.127.36:25461/juan12/juan12/185804
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Canal_a" tvg-logo="" group-title="Argentina",AR | Canal_a
+http://158.69.127.36:25461/juan12/juan12/185805
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Film_Arts" tvg-logo="" group-title="Argentina",AR | Film_Arts
+http://158.69.127.36:25461/juan12/juan12/185806
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Discovery_World_HD" tvg-logo="" group-title="Argentina",AR | Discovery_World_HD
+http://158.69.127.36:25461/juan12/juan12/185808
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | MTV_HD" tvg-logo="" group-title="Argentina",AR | MTV_HD
+http://158.69.127.36:25461/juan12/juan12/185809
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | Quiero_HD" tvg-logo="" group-title="Argentina",AR | Quiero_HD
+http://158.69.127.36:25461/juan12/juan12/185810
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Paramount FHD" tvg-logo="" group-title="Mexico GeoBloqueo FHD",MX | Paramount FHD
+http://158.69.127.36:25461/juan12/juan12/187574
+
+#EXTINF:-1 tvg-id="" tvg-name="PR | Noticias" tvg-logo="" group-title="Puerto Rico",PR | Noticias
+http://158.69.127.36:25461/juan12/juan12/187929
+
+#EXTINF:-1 tvg-id="" tvg-name="Acento TV" tvg-logo="https://i.imgur.com/zSRGlam.png" group-title="Rep. Dominicana",Acento TV
+http://158.69.127.36:25461/juan12/juan12/189935
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal del Sol 65" tvg-logo="https://i.imgur.com/oGDCtby.png" group-title="Rep. Dominicana",Canal del Sol 65
+http://158.69.127.36:25461/juan12/juan12/189936
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinevision Canal 19" tvg-logo="https://i.imgur.com/1ydFeCk.png" group-title="Rep. Dominicana",Cinevision Canal 19
+http://158.69.127.36:25461/juan12/juan12/189937
+
+#EXTINF:-1 tvg-id="" tvg-name="Color Vision 9" tvg-logo="https://i.imgur.com/lJMPFjP.png" group-title="Rep. Dominicana",Color Vision 9
+http://158.69.127.36:25461/juan12/juan12/189938
+
+#EXTINF:-1 tvg-id="" tvg-name="Comunion TV" tvg-logo="https://i.imgur.com/BNtmf7o.png" group-title="Rep. Dominicana",Comunion TV
+http://158.69.127.36:25461/juan12/juan12/189939
+
+#EXTINF:-1 tvg-id="" tvg-name="DIGITAL 15" tvg-logo="https://i.imgur.com/82on6V1.jpg" group-title="Rep. Dominicana",DIGITAL 15
+http://158.69.127.36:25461/juan12/juan12/189941
+
+#EXTINF:-1 tvg-id="" tvg-name="Microvision 10" tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="Rep. Dominicana",Microvision 10
+http://158.69.127.36:25461/juan12/juan12/189942
+
+#EXTINF:-1 tvg-id="" tvg-name="ONDA TV CANAL 10" tvg-logo="https://i.imgur.com/OE4q3b9.jpg" group-title="Rep. Dominicana",ONDA TV CANAL 10
+http://158.69.127.36:25461/juan12/juan12/189943
+
+#EXTINF:-1 tvg-id="" tvg-name="Ready TV" tvg-logo="https://i.imgur.com/QT78nTj.png" group-title="Rep. Dominicana",Ready TV
+http://158.69.127.36:25461/juan12/juan12/189945
+
+#EXTINF:-1 tvg-id="" tvg-name="Super TV 55 Santiago" tvg-logo="https://i.imgur.com/aJcpxHL.jpg" group-title="Rep. Dominicana",Super TV 55 Santiago
+http://158.69.127.36:25461/juan12/juan12/189946
+
+#EXTINF:-1 tvg-id="" tvg-name="Teleantillas Canal 2" tvg-logo="https://i.imgur.com/LvbsKeG.jpg" group-title="Rep. Dominicana",Teleantillas Canal 2
+http://158.69.127.36:25461/juan12/juan12/189947
+
+#EXTINF:-1 tvg-id="" tvg-name="Telefuturo Canal 23" tvg-logo="https://i.imgur.com/0Bbj2lh.jpg" group-title="Rep. Dominicana",Telefuturo Canal 23
+http://158.69.127.36:25461/juan12/juan12/189950
+
+#EXTINF:-1 tvg-id="" tvg-name="Telenovisa Canal 43" tvg-logo="https://i.imgur.com/Gfxte3t.png" group-title="Rep. Dominicana",Telenovisa Canal 43
+http://158.69.127.36:25461/juan12/juan12/189951
+
+#EXTINF:-1 tvg-id="" tvg-name="pluto test" tvg-logo="https://i.imgur.com/GjQFsf3.png" group-title="Rep. Dominicana",pluto test
+http://158.69.127.36:25461/juan12/juan12/189953
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Law & Crime" tvg-logo="https://i.imgur.com/2PGP9eG.jpg" group-title="USA",USA | Law & Crime
+http://158.69.127.36:25461/juan12/juan12/189954
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | NHL Network" tvg-logo="" group-title="Sports",USA | NHL Network
+http://158.69.127.36:25461/juan12/juan12/189955
+
+#EXTINF:-1 tvg-id="" tvg-name="Azteca uno Chihuahua" tvg-logo="" group-title="Nacional MX",Azteca uno Chihuahua
+http://158.69.127.36:25461/juan12/juan12/192174
+
+#EXTINF:-1 tvg-id="" tvg-name="Nueve Chihuahua" tvg-logo="" group-title="Nacional MX",Nueve Chihuahua
+http://158.69.127.36:25461/juan12/juan12/192175
+
+#EXTINF:-1 tvg-id="" tvg-name="ADN40 Chihuahua" tvg-logo="" group-title="Nacional MX",ADN40 Chihuahua
+http://158.69.127.36:25461/juan12/juan12/192176
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | HGTV" tvg-logo="" group-title="Entretenimiento",MX | HGTV
+http://158.69.127.36:25461/juan12/juan12/192217
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | HGTV FHD" tvg-logo="" group-title="Mexico FHD",MX | HGTV FHD
+http://158.69.127.36:25461/juan12/juan12/192218
+
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas Chihuahua" tvg-logo="" group-title="Nacional MX",Las Estrellas Chihuahua
+http://158.69.127.36:25461/juan12/juan12/192219
+
+#EXTINF:-1 tvg-id="" tvg-name="Imagen Chihuahua" tvg-logo="" group-title="Nacional MX",Imagen Chihuahua
+http://158.69.127.36:25461/juan12/juan12/192220
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 Chihuahua" tvg-logo="" group-title="Nacional MX",Canal 5 Chihuahua
+http://158.69.127.36:25461/juan12/juan12/192221
+
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 Chihuahua" tvg-logo="" group-title="Nacional MX",Azteca 7 Chihuahua
+http://158.69.127.36:25461/juan12/juan12/192222
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 -2 HORAS" tvg-logo="" group-title="Nacional MX",CANAL 5 -2 HORAS
+http://158.69.127.36:25461/juan12/juan12/192223
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 9 -2 HORAS" tvg-logo="" group-title="Nacional MX",CANAL 9 -2 HORAS
+http://158.69.127.36:25461/juan12/juan12/192224
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | TELEVISA PUEBLA " tvg-logo="" group-title="Nacional MX",MX | TELEVISA PUEBLA
+http://158.69.127.36:25461/juan12/juan12/192225
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Televisa Del Bajio" tvg-logo="" group-title="Nacional MX",MX | Televisa Del Bajio
+http://158.69.127.36:25461/juan12/juan12/192226
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | TV 4 Guanajuato" tvg-logo="" group-title="Nacional MX",MX | TV 4 Guanajuato
+http://158.69.127.36:25461/juan12/juan12/192227
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | TV MAS" tvg-logo="" group-title="Nacional MX",MX | TV MAS
+http://158.69.127.36:25461/juan12/juan12/192228
+
+#EXTINF:-1 tvg-id="" tvg-name="CCI Channel (Honduras)" tvg-logo="" group-title="Religion",CCI Channel (Honduras)
+http://158.69.127.36:25461/juan12/juan12/198790
+
+#EXTINF:-1 tvg-id="" tvg-name="Genesis TV" tvg-logo="" group-title="Religion",Genesis TV
+http://158.69.127.36:25461/juan12/juan12/198791
+
+#EXTINF:-1 tvg-id="" tvg-name="TEN (Honduras)" tvg-logo="" group-title="Honduras",TEN (Honduras)
+http://158.69.127.36:25461/juan12/juan12/198792
+
+#EXTINF:-1 tvg-id="" tvg-name="SiTV (Honduras)" tvg-logo="" group-title="Honduras",SiTV (Honduras)
+http://158.69.127.36:25461/juan12/juan12/198793
+
+#EXTINF:-1 tvg-id="" tvg-name="Campus TV (Honduras)" tvg-logo="" group-title="Honduras",Campus TV (Honduras)
+http://158.69.127.36:25461/juan12/juan12/198794
+
+#EXTINF:-1 tvg-id="" tvg-name="Suyapa TV (Honduras)" tvg-logo="" group-title="Religion",Suyapa TV (Honduras)
+http://158.69.127.36:25461/juan12/juan12/198795
+
+#EXTINF:-1 tvg-id="" tvg-name="Teleceiba Canal 7 (Honduras)" tvg-logo="" group-title="Honduras",Teleceiba Canal 7 (Honduras)
+http://158.69.127.36:25461/juan12/juan12/198796
+
+#EXTINF:-1 tvg-id="" tvg-name="ES | Cuatro" tvg-logo="" group-title="Spain",ES | Cuatro
+http://158.69.127.36:25461/juan12/juan12/198797
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC News" tvg-logo="" group-title="Noticias",USA | ABC News
+http://158.69.127.36:25461/juan12/juan12/198798
+
+#EXTINF:-1 tvg-id="" tvg-name="ES | FDF" tvg-logo="" group-title="Spain",ES | FDF
+http://158.69.127.36:25461/juan12/juan12/198799
+
+#EXTINF:-1 tvg-id="" tvg-name="cine accion" tvg-logo="" group-title="Pluto TV",cine accion
+http://158.69.127.36:25461/juan12/juan12/198800
+
+#EXTINF:-1 tvg-id="" tvg-name="cine comedia" tvg-logo="" group-title="Pluto TV",cine comedia
+http://158.69.127.36:25461/juan12/juan12/198801
+
+#EXTINF:-1 tvg-id="" tvg-name="nick clasico" tvg-logo="" group-title="Pluto TV",nick clasico
+http://158.69.127.36:25461/juan12/juan12/198802
+
+#EXTINF:-1 tvg-id="" tvg-name="ES | A3CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" group-title="Cine",ES | A3CINE
+http://158.69.127.36:25461/juan12/juan12/202173
+
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Directv Sports 2" tvg-logo="" group-title="PPV",PPV | Directv Sports 2
+http://158.69.127.36:25461/juan12/juan12/202175
+
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Ecuador HD" tvg-logo="" group-title="Spain",Directv Sports Ecuador HD
+http://158.69.127.36:25461/juan12/juan12/202176
+
+#EXTINF:-1 tvg-id="" tvg-name="GolTV Ecuador" tvg-logo="" group-title="Spain",GolTV Ecuador
+http://158.69.127.36:25461/juan12/juan12/202177
+
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network" tvg-logo="" group-title="Spain",Fight Network
+http://158.69.127.36:25461/juan12/juan12/202178
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Chile" tvg-logo="" group-title="Sports",Fox Sports Chile
+http://158.69.127.36:25461/juan12/juan12/202179
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 Chile" tvg-logo="" group-title="Spain",Fox Sports 2 Chile
+http://158.69.127.36:25461/juan12/juan12/202180
+
+#EXTINF:-1 tvg-id="" tvg-name="Chile | CDF BASICO" tvg-logo="" group-title="Spain",Chile | CDF BASICO
+http://158.69.127.36:25461/juan12/juan12/202182
+
+#EXTINF:-1 tvg-id="" tvg-name="Chile | CDO PREMIUM" tvg-logo="" group-title="Sports",Chile | CDO PREMIUM
+http://158.69.127.36:25461/juan12/juan12/202183
+
+#EXTINF:-1 tvg-id="" tvg-name="PERU | MOVISTAR DEPORTES (E)" tvg-logo="" group-title="Spain",PERU | MOVISTAR DEPORTES (E)
+http://158.69.127.36:25461/juan12/juan12/202184
+
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | VTV" tvg-logo="" group-title="Spain",Deportes | VTV
+http://158.69.127.36:25461/juan12/juan12/202185
+
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="" group-title="Spain",Combate HD
+http://158.69.127.36:25461/juan12/juan12/202186
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DKISS HD" tvg-logo="" group-title="Spain",ES: DKISS HD
+http://158.69.127.36:25461/juan12/juan12/202187
+
+#0 HD
+http://158.69.127.36:25461/juan12/juan12/202188
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="" group-title="Spain",ES: COMEDY CENTRAL HD
+http://158.69.127.36:25461/juan12/juan12/202189
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ESTRENOS HD" tvg-logo="" group-title="Spain",ES: MOVISTAR ESTRENOS HD
+http://158.69.127.36:25461/juan12/juan12/202190
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ACCION FHD" tvg-logo="" group-title="Spain",ES: MOVISTAR ACCION FHD
+http://158.69.127.36:25461/juan12/juan12/202192
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR COMEDIA FHD" tvg-logo="" group-title="Spain",ES: MOVISTAR COMEDIA FHD
+http://158.69.127.36:25461/juan12/juan12/202193
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DRAMA FHD" tvg-logo="" group-title="Spain",ES: MOVISTAR DRAMA FHD
+http://158.69.127.36:25461/juan12/juan12/202194
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR CINEDOC&ROLL FHD" tvg-logo="" group-title="Spain",ES: MOVISTAR CINEDOC&ROLL FHD
+http://158.69.127.36:25461/juan12/juan12/202195
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR CINE ESPAÑOL" tvg-logo="" group-title="Spain",ES: MOVISTAR CINE ESPAÑOL
+http://158.69.127.36:25461/juan12/juan12/202196
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="" group-title="Spain",ES: HOLLYWOOD FHD
+http://158.69.127.36:25461/juan12/juan12/202197
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: TNT HD" tvg-logo="" group-title="Spain",ES: TNT HD
+http://158.69.127.36:25461/juan12/juan12/202198
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC HD" tvg-logo="" group-title="Spain",ES: AMC HD
+http://158.69.127.36:25461/juan12/juan12/202199
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM HD" tvg-logo="" group-title="Spain",ES: TCM HD
+http://158.69.127.36:25461/juan12/juan12/202200
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 HD" tvg-logo="" group-title="Spain",ES: CALLE 13 HD
+http://158.69.127.36:25461/juan12/juan12/202201
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN HD" tvg-logo="" group-title="Spain",ES: AXN HD
+http://158.69.127.36:25461/juan12/juan12/202202
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE HD" tvg-logo="" group-title="Spain",ES: AXN WHITE HD
+http://158.69.127.36:25461/juan12/juan12/202203
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX HD" tvg-logo="" group-title="Spain",ES: FOX HD
+http://158.69.127.36:25461/juan12/juan12/202204
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX LIFE HD" tvg-logo="" group-title="Spain",ES: FOX LIFE HD
+http://158.69.127.36:25461/juan12/juan12/202205
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES HD" tvg-logo="" group-title="Spain",ES: MOVISTAR SERIES HD
+http://158.69.127.36:25461/juan12/juan12/202206
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIESMANIA HD" tvg-logo="" group-title="Spain",ES: MOVISTAR SERIESMANIA HD
+http://158.69.127.36:25461/juan12/juan12/202207
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY CHANNEL SD" tvg-logo="" group-title="Spain",ES: DISCOVERY CHANNEL SD
+http://158.69.127.36:25461/juan12/juan12/202208
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: Caza y Pezca" tvg-logo="" group-title="Spain",ES: Caza y Pezca
+http://158.69.127.36:25461/juan12/juan12/202209
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISION TV HD" tvg-logo="" group-title="Spain",ES: CAZAVISION TV HD
+http://158.69.127.36:25461/juan12/juan12/202210
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: TEN CRIME" tvg-logo="" group-title="Spain",ES: TEN CRIME
+http://158.69.127.36:25461/juan12/juan12/202211
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: CRIMEN + INVESTIGACIÓN" tvg-logo="" group-title="Spain",ES: CRIMEN + INVESTIGACIÓN
+http://158.69.127.36:25461/juan12/juan12/202212
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA HD" tvg-logo="" group-title="Spain",ES: HISTORIA HD
+http://158.69.127.36:25461/juan12/juan12/202213
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO WILD HD" tvg-logo="" group-title="Spain",ES: NAT GEO WILD HD
+http://158.69.127.36:25461/juan12/juan12/202214
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Spain",ES: NATIONAL GEOGRAPHIC HD
+http://158.69.127.36:25461/juan12/juan12/202215
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: VIAJAR HD" tvg-logo="" group-title="Spain",ES: VIAJAR HD
+http://158.69.127.36:25461/juan12/juan12/202216
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY JR" tvg-logo="" group-title="Spain",ES: DISNEY JR
+http://158.69.127.36:25461/juan12/juan12/202217
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL" tvg-logo="" group-title="Spain",ES: DISNEY CHANNEL
+http://158.69.127.36:25461/juan12/juan12/202218
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY XD" tvg-logo="" group-title="Spain",ES: DISNEY XD
+http://158.69.127.36:25461/juan12/juan12/202219
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICK JR SD" tvg-logo="" group-title="Spain",ES: NICK JR SD
+http://158.69.127.36:25461/juan12/juan12/202220
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICKLODEON" tvg-logo="" group-title="Spain",ES: NICKLODEON
+http://158.69.127.36:25461/juan12/juan12/202221
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="" group-title="Spain",ES: EUROSPORT 1 HD
+http://158.69.127.36:25461/juan12/juan12/202223
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR HD" tvg-logo="" group-title="Spain",ES: LALIGA TV BAR HD
+http://158.69.127.36:25461/juan12/juan12/202224
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV Bar OPC2" tvg-logo="" group-title="Spain",ES: LALIGA TV Bar OPC2
+http://158.69.127.36:25461/juan12/juan12/202225
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LALIGA FHD" tvg-logo="" group-title="Spain",ES: MOVISTAR LALIGA FHD
+http://158.69.127.36:25461/juan12/juan12/202226
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LA LIGA  1 FHD" tvg-logo="" group-title="Spain",ES: MOVISTAR LA LIGA  1 FHD
+http://158.69.127.36:25461/juan12/juan12/202227
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LIGA DE CAMPEONES HD" tvg-logo="" group-title="Spain",ES: MOVISTAR LIGA DE CAMPEONES HD
+http://158.69.127.36:25461/juan12/juan12/202228
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES" tvg-logo="" group-title="Spain",ES: MOVISTAR DEPORTES
+http://158.69.127.36:25461/juan12/juan12/202230
+
+#VAMOS HD
+http://158.69.127.36:25461/juan12/juan12/202231
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR GOLF HD" tvg-logo="" group-title="Spain",ES: MOVISTAR GOLF HD
+http://158.69.127.36:25461/juan12/juan12/202232
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: COCINA" tvg-logo="" group-title="Spain",ES: COCINA
+http://158.69.127.36:25461/juan12/juan12/202234
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Adrenalina Sports" tvg-logo="" group-title="Sports FHD",MX | Adrenalina Sports
+http://158.69.127.36:25461/juan12/juan12/202249
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | AYM Sports FHD" tvg-logo="" group-title="Sports FHD",MX | AYM Sports FHD
+http://158.69.127.36:25461/juan12/juan12/202250
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Fox Boston" tvg-logo="" group-title="USA Networks",USA | Fox Boston
+http://158.69.127.36:25461/juan12/juan12/202251
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | CBS Boston" tvg-logo="" group-title="USA Networks",USA | CBS Boston
+http://158.69.127.36:25461/juan12/juan12/202252
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | CBS New Orleans" tvg-logo="" group-title="USA Networks",USA | CBS New Orleans
+http://158.69.127.36:25461/juan12/juan12/202253
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC California" tvg-logo="" group-title="USA Networks",USA | NBC California
+http://158.69.127.36:25461/juan12/juan12/202254
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | Telemundo Las Vegas" tvg-logo="" group-title="Latinos USA",USA | Telemundo Las Vegas
+http://158.69.127.36:25461/juan12/juan12/202255
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | The Pet Collective" tvg-logo="" group-title="USA",USA | The Pet Collective
+http://158.69.127.36:25461/juan12/juan12/202256
+
+#EXTINF:-1 tvg-id="" tvg-name="La Super TV (Colombia)" tvg-logo="" group-title="Colombia",La Super TV (Colombia)
+http://158.69.127.36:25461/juan12/juan12/202257
+
+#EXTINF:-1 tvg-id="" tvg-name="BHTV" tvg-logo="" group-title="Peru",BHTV
+http://158.69.127.36:25461/juan12/juan12/202259
+
+#EXTINF:-1 tvg-id="" tvg-name="Cultura 24" tvg-logo="" group-title="Peru",Cultura 24
+http://158.69.127.36:25461/juan12/juan12/202260
+
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana TV" tvg-logo="" group-title="Peru",Panamericana TV
+http://158.69.127.36:25461/juan12/juan12/202262
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Quiero Tv" tvg-logo="" group-title="Nacional MX",MX | Quiero Tv
+http://158.69.127.36:25461/juan12/juan12/202307
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Jalisco Tv" tvg-logo="" group-title="Nacional MX",MX | Jalisco Tv
+http://158.69.127.36:25461/juan12/juan12/202311
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Asi Sucede TV" tvg-logo="" group-title="Nacional MX",MX | Asi Sucede TV
+http://158.69.127.36:25461/juan12/juan12/202313
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Cadena H" tvg-logo="" group-title="Nacional MX",MX | Cadena H
+http://158.69.127.36:25461/juan12/juan12/202322
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Canal 50.1 XEJ Cd. Juarez" tvg-logo="" group-title="Nacional MX",MX | Canal 50.1 XEJ Cd. Juarez
+http://158.69.127.36:25461/juan12/juan12/202323
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Canal 22" tvg-logo="" group-title="Nacional MX",MX | Canal 22
+http://158.69.127.36:25461/juan12/juan12/202326
+
+#EXTINF:-1 tvg-id="" tvg-name="MX | Once Niños" tvg-logo="" group-title="Kids Latinos",MX | Once Niños
+http://158.69.127.36:25461/juan12/juan12/202327
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 14" tvg-logo="" group-title="Nacional MX",Canal 14
+http://158.69.127.36:25461/juan12/juan12/202328
 #EXTINF:-1 group-title="Entretenimiento", Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
