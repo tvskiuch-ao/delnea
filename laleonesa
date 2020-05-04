@@ -340,7 +340,35 @@ http://streaming.arcast.com.ar:1935/canal6moreno/canal6moreno/chunklist_w2014651
 
 #EXTINF:-1 group-title="ARG ",CANAL 9 DE SALTA
 http://panel.dattalive.com:1935/8250/8250/chunklist_w325606071.m3u8
+#EXTINF: -1 group-title = "BOL ",CADENA A  BO
+http://www.channel.tevemi.com:1935/CadenaABolivia/CadenaABolivia/chunklist_w1306254148.m3u8
 
+#EXTINF: -1 group-title = "BOL ",Retro tv  BO
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2036090099.m3u8
+
+#EXTINF: -1 group-title = "BOL ",unitel  BO
+http://136.243.3.70:1935/Unitel/Unitel/chunklist_w1709501892.m3u8
+
+#EXTINF: -1 group-title = "BOL ",sud americatv BO
+http://stmv2.srvstm.com/sud/sud/playlist.m3u8
+
+#EXTINF: -1 group-title = "BOL ",visiontv  BO
+http://srv1.zcast.com.br/visionrtv/visionrtv/playlist.m3u8
+
+#EXTINF: -1 group-title = "BOL ",tv show  BO
+http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
+
+#EXTINF: -1 group-title = "BOL ",cristal tv  BO
+http://95.211.214.198/bolivia/cristaltv/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 group-title = "BOL ",red uno  BO
+http://136.243.3.70:1935/RedUno/RedUno/chunklist_w372299009.m3u8
+
+#EXTINF: -1 group-title = "BOL ",cultura tv  BO
+http://stmv4.srvstm.com/culturaltv/culturaltv/playlist.m3u8
+
+#EXTINF: -1 group-title = "BOL ",tele estrella  BO
+http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 #EXTINF:-1 group-title="LAT ", Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
 
