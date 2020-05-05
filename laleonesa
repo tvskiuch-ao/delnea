@@ -6359,3 +6359,425 @@ http://158.69.127.36:25461/juan12/juan12/202327
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal 14" tvg-logo="" group-title="Nacional MX",Canal 14
 http://158.69.127.36:25461/juan12/juan12/202328
+
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="MX | A&E " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-a&e.jpg" group-title="TV Entretenimiento",MX | A&E 
+http://futuretvplus.com:25461/live/ram1500/ram1500/168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | ADN40" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-adn40.jpg" group-title="TV México",MX | ADN40
+http://futuretvplus.com:25461/live/ram1500/ram1500/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | AfiZZionados " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-afizzionados.jpg" group-title="TV Deportes",MX | AfiZZionados 
+http://futuretvplus.com:25461/live/ram1500/ram1500/166.m3u8
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="MX | AMC " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-amc%202.0.jpg" group-title="TV Premium",MX | AMC 
+http://futuretvplus.com:25461/live/ram1500/ram1500/216.m3u8
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="MX | Animal Planet " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-animal%20planet.jpg" group-title="TV Cultura",MX | Animal Planet 
+http://futuretvplus.com:25461/live/ram1500/ram1500/167.m3u8
+#EXTINF:-1 tvg-id="antena3.mx" tvg-name="MX | Antena Series" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-antena%203.jpg" group-title="TV Entretenimiento",MX | Antena Series
+http://futuretvplus.com:25461/live/ram1500/ram1500/3.m3u8
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="MX | AXN Series " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-axn.jpg" group-title="TV Entretenimiento",MX | AXN Series 
+http://futuretvplus.com:25461/live/ram1500/ram1500/2001.m3u8
+#EXTINF:-1 tvg-id="azteca13.mx" tvg-name="MX | Azteca 1" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-azteca%201.jpg" group-title="TV México",MX | Azteca 1
+http://futuretvplus.com:25461/live/ram1500/ram1500/1.m3u8
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="MX | Azteca 7" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-azteca%207.jpg" group-title="TV México",MX | Azteca 7
+http://futuretvplus.com:25461/live/ram1500/ram1500/4.m3u8
+#EXTINF:-1 tvg-id="babytv.mx" tvg-name="MX | BabyTV " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-babytv.jpg" group-title="TV Niños",MX | BabyTV 
+http://futuretvplus.com:25461/live/ram1500/ram1500/169.m3u8
+#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="MX | Bandamax " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-bandamax.jpg" group-title="TV Música",MX | Bandamax 
+http://futuretvplus.com:25461/live/ram1500/ram1500/1995.m3u8
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="MX | Boomerang " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-boomerang.jpg" group-title="TV Niños",MX | Boomerang 
+http://futuretvplus.com:25461/live/ram1500/ram1500/1996.m3u8
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX | Canal 5" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-canal%205.jpg" group-title="TV México",MX | Canal 5
+http://futuretvplus.com:25461/live/ram1500/ram1500/8.m3u8
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="MX | Canal Fox" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fox%20channel.jpg" group-title="TV Entretenimiento",MX | Canal Fox
+http://futuretvplus.com:25461/live/ram1500/ram1500/138.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="MX | Cartoon Network " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-cartoon%20network.jpg" group-title="TV Niños",MX | Cartoon Network 
+http://futuretvplus.com:25461/live/ram1500/ram1500/9.m3u8
+#EXTINF:-1 tvg-id="cinecanalhd.mx" tvg-name="MX | Cinecanal " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-cinecanal.jpg" group-title="TV Premium",MX | Cinecanal 
+http://futuretvplus.com:25461/live/ram1500/ram1500/171.m3u8
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="MX | Cinemax " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-cinemax.jpg" group-title="TV Premium",MX | Cinemax 
+http://futuretvplus.com:25461/live/ram1500/ram1500/197.m3u8
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="MX | CNN " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-cnn.jpg" group-title="TV Noticias",MX | CNN 
+http://futuretvplus.com:25461/live/ram1500/ram1500/125.m3u8
+#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-name="MX | De Película " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-de%20pelicula.jpg" group-title="TV Premium",MX | De Película 
+http://futuretvplus.com:25461/live/ram1500/ram1500/198.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="MX | Discovery Channel " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-discovery%20channel.jpg" group-title="TV Cultura",MX | Discovery Channel 
+http://futuretvplus.com:25461/live/ram1500/ram1500/127.m3u8
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="MX | Discovery H&H" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-discovery%20h&h.jpg" group-title="TV Cultura",MX | Discovery H&H
+http://futuretvplus.com:25461/live/ram1500/ram1500/172.m3u8
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="MX | Discovery Investigation " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-discovery%20investigation.jpg" group-title="TV Cultura",MX | Discovery Investigation 
+http://futuretvplus.com:25461/live/ram1500/ram1500/187.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="MX | Discovery Science " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-discovery%20science.jpg" group-title="TV Cultura",MX | Discovery Science 
+http://futuretvplus.com:25461/live/ram1500/ram1500/128.m3u8
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="MX | Discovery Theater" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-discovery%20theater.jpg" group-title="TV Cultura",MX | Discovery Theater
+http://futuretvplus.com:25461/live/ram1500/ram1500/126.m3u8
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="MX | Discovery TLC " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-discovery%20tlc.jpg" group-title="TV Cultura",MX | Discovery TLC 
+http://futuretvplus.com:25461/live/ram1500/ram1500/220.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="MX | Discovery Turbo " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-discovery%20turbo.jpg" group-title="TV Cultura",MX | Discovery Turbo 
+http://futuretvplus.com:25461/live/ram1500/ram1500/174.m3u8
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="MX | Discovery World " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-discovery%20world.jpg" group-title="TV Cultura",MX | Discovery World 
+http://futuretvplus.com:25461/live/ram1500/ram1500/175.m3u8
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="MX | Disney Channel " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-disney%20channel.jpg" group-title="TV Niños",MX | Disney Channel 
+http://futuretvplus.com:25461/live/ram1500/ram1500/129.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="MX | Disney Junior" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-disney%20jr.jpg" group-title="TV Niños",MX | Disney Junior
+http://futuretvplus.com:25461/live/ram1500/ram1500/130.m3u8
+#EXTINF:-1 tvg-id="disneyxd.mx" tvg-name="MX | Disney XD " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-disney%20xd.jpg" group-title="TV Niños",MX | Disney XD 
+http://futuretvplus.com:25461/live/ram1500/ram1500/131.m3u8
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX | Distrito Comedia " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-distrito%20comedia.jpg" group-title="TV Entretenimiento",MX | Distrito Comedia 
+http://futuretvplus.com:25461/live/ram1500/ram1500/176.m3u8
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="MX | E! Entertainment " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-e%20entertainment.jpg" group-title="TV Entretenimiento",MX | E! Entertainment 
+http://futuretvplus.com:25461/live/ram1500/ram1500/132.m3u8
+#EXTINF:-1 tvg-id="espnplushd.mx" tvg-name="MX | ESPN +" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-espn+.jpg" group-title="TV Deportes",MX | ESPN +
+http://futuretvplus.com:25461/live/ram1500/ram1500/133.m3u8
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="MX | ESPN" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-espn.jpg" group-title="TV Deportes",MX | ESPN
+http://futuretvplus.com:25461/live/ram1500/ram1500/134.m3u8
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="MX | ESPN 2 " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-espn2.jpg" group-title="TV Deportes",MX | ESPN 2 
+http://futuretvplus.com:25461/live/ram1500/ram1500/135.m3u8
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="MX | ESPN 3 " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-espn3.jpg" group-title="TV Deportes",MX | ESPN 3 
+http://futuretvplus.com:25461/live/ram1500/ram1500/136.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="MX | Food Network " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-food%20network.jpg" group-title="TV Entretenimiento",MX | Food Network 
+http://futuretvplus.com:25461/live/ram1500/ram1500/137.m3u8
+#EXTINF:-1 tvg-id="forotv.mx" tvg-name="MX | ForoTV " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-forotv.jpg" group-title="TV México",MX | ForoTV 
+http://futuretvplus.com:25461/live/ram1500/ram1500/170.m3u8
+#EXTINF:-1 tvg-id="foxlife.mx" tvg-name="MX | Fox Life " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fox%20life.jpg" group-title="TV Entretenimiento",MX | Fox Life 
+http://futuretvplus.com:25461/live/ram1500/ram1500/140.m3u8
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="MX | Fox News " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fox%20news.jpg" group-title="TV Noticias",MX | Fox News 
+http://futuretvplus.com:25461/live/ram1500/ram1500/139.m3u8
+#EXTINF:-1 tvg-id="foxactionhd.mx" tvg-name="MX | Fox Premium Action " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fox%20premium%20action.jpg" group-title="TV Premium",MX | Fox Premium Action 
+http://futuretvplus.com:25461/live/ram1500/ram1500/178.m3u8
+#EXTINF:-1 tvg-id="foxmovieshd.mx" tvg-name="MX | Fox Premium Comedy" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fox%20premium%20comedy.jpg" group-title="TV Premium",MX | Fox Premium Comedy
+http://futuretvplus.com:25461/live/ram1500/ram1500/145.m3u8
+#EXTINF:-1 tvg-id="foxfamilyhd.mx" tvg-name="MX | Fox Premium Family " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fox%20premium%20family%203.0.jpg" group-title="TV Premium",MX | Fox Premium Family 
+http://futuretvplus.com:25461/live/ram1500/ram1500/179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Premium Series " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fox%20premium%20series.jpg" group-title="TV Premium",MX | Fox Premium Series 
+http://futuretvplus.com:25461/live/ram1500/ram1500/180.m3u8
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="MX | Fox Sports" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fox%20sports.jpg" group-title="TV Deportes",MX | Fox Sports
+http://futuretvplus.com:25461/live/ram1500/ram1500/141.m3u8
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="MX | Fox Sports 2 " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fox%20sports%202.jpg" group-title="TV Deportes",MX | Fox Sports 2 
+http://futuretvplus.com:25461/live/ram1500/ram1500/142.m3u8
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="MX | Fox Sports 3" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fox%20sports%203.jpg" group-title="TV Deportes",MX | Fox Sports 3
+http://futuretvplus.com:25461/live/ram1500/ram1500/143.m3u8
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="MX | FX " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fx.jpg" group-title="TV Premium",MX | FX 
+http://futuretvplus.com:25461/live/ram1500/ram1500/144.m3u8
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="MX | Golden " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-golden.jpg" group-title="TV Premium",MX | Golden 
+http://futuretvplus.com:25461/live/ram1500/ram1500/146.m3u8
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="MX | Golden Plus " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-golden%20plus.jpg" group-title="TV Premium",MX | Golden Plus 
+http://futuretvplus.com:25461/live/ram1500/ram1500/147.m3u8
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="MX | Golden Premier " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-golden-premier.jpg" group-title="TV Premium",MX | Golden Premier 
+http://futuretvplus.com:25461/live/ram1500/ram1500/181.m3u8
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="MX | Gourmet " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-el%20gourmet.jpg" group-title="TV Entretenimiento",MX | Gourmet 
+http://futuretvplus.com:25461/live/ram1500/ram1500/148.m3u8
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="MX | HBO " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-hbo.jpg" group-title="TV Premium",MX | HBO 
+http://futuretvplus.com:25461/live/ram1500/ram1500/182.m3u8
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="MX | HBO 2 " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-hbo2.jpg" group-title="TV Premium",MX | HBO 2 
+http://futuretvplus.com:25461/live/ram1500/ram1500/183.m3u8
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="MX | HBO Family " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-hbo%20family.jpg" group-title="TV Premium",MX | HBO Family 
+http://futuretvplus.com:25461/live/ram1500/ram1500/184.m3u8
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="MX | HBO Plus  " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-hbo%20plus.jpg" group-title="TV Premium",MX | HBO Plus  
+http://futuretvplus.com:25461/live/ram1500/ram1500/185.m3u8
+#EXTINF:-1 tvg-id="maxprime.mx" tvg-name="MX | HBO POP" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-hbo%20pop.jpg" group-title="TV Premium",MX | HBO POP
+http://futuretvplus.com:25461/live/ram1500/ram1500/188.m3u8
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="MX | HBO Signature " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-hbo%20signature.jpg" group-title="TV Premium",MX | HBO Signature 
+http://futuretvplus.com:25461/live/ram1500/ram1500/186.m3u8
+#EXTINF:-1 tvg-id="maxup.mx" tvg-name="MX | HBO Xtreme" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-hbo%20xtreme%202.0.jpg" group-title="TV Premium",MX | HBO Xtreme
+http://futuretvplus.com:25461/live/ram1500/ram1500/189.m3u8
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="MX | HGTV " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-hgtv.jpg" group-title="TV Entretenimiento",MX | HGTV 
+http://futuretvplus.com:25461/live/ram1500/ram1500/149.m3u8
+#EXTINF:-1 tvg-id="historyhd.mx" tvg-name="MX | History" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-history.jpg" group-title="TV Cultura",MX | History
+http://futuretvplus.com:25461/live/ram1500/ram1500/150.m3u8
+#EXTINF:-1 tvg-id="history2.mx" tvg-name="MX | History 2 " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-history%202.jpg" group-title="TV Cultura",MX | History 2 
+http://futuretvplus.com:25461/live/ram1500/ram1500/217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | HolaTV " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-holatv.jpg" group-title="TV Entretenimiento",MX | HolaTV 
+http://futuretvplus.com:25461/live/ram1500/ram1500/1997.m3u8
+#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="MX | Imagen" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-imagen.jpg" group-title="TV México",MX | Imagen
+http://futuretvplus.com:25461/live/ram1500/ram1500/151.m3u8
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="MX | Las Estrellas" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-las%20estrellas.jpg" group-title="TV México",MX | Las Estrellas
+http://futuretvplus.com:25461/live/ram1500/ram1500/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | Las Estrellas -2" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-las%20estrellas%20-2.1.jpg" group-title="TV México",MX | Las Estrellas -2
+http://futuretvplus.com:25461/live/ram1500/ram1500/118932.m3u8
+#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="MX | Lifetime " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-lifetime.jpg" group-title="TV Entretenimiento",MX | Lifetime 
+http://futuretvplus.com:25461/live/ram1500/ram1500/152.m3u8
+#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MX | Mas Chic " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-mas%20chic.jpg" group-title="TV Entretenimiento",MX | Mas Chic 
+http://futuretvplus.com:25461/live/ram1500/ram1500/153.m3u8
+#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="MX | Milenio Noticias" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-milenio.jpg" group-title="TV Noticias",MX | Milenio Noticias
+http://futuretvplus.com:25461/live/ram1500/ram1500/190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | MTV" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-mtv.jpg" group-title="TV Música",MX | MTV
+http://futuretvplus.com:25461/live/ram1500/ram1500/218.m3u8
+#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="MX | Multimedios CDMX" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-canal6%20cdmx.jpg" group-title="TV México",MX | Multimedios CDMX
+http://futuretvplus.com:25461/live/ram1500/ram1500/191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | Multimedios MTY" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-canal6%20mty.jpg" group-title="TV México",MX | Multimedios MTY
+http://futuretvplus.com:25461/live/ram1500/ram1500/125054.m3u8
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="MX | Natgeo" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-national%20geographic%20channel.jpg" group-title="TV Cultura",MX | Natgeo
+http://futuretvplus.com:25461/live/ram1500/ram1500/154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | Natgeo Kids " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-natgeo%20kids.jpg" group-title="TV Niños",MX | Natgeo Kids 
+http://futuretvplus.com:25461/live/ram1500/ram1500/155.m3u8
+#EXTINF:-1 tvg-id="natgeowild.mx" tvg-name="MX | Natgeo Wild " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-natgeo%20wild.jpg" group-title="TV Cultura",MX | Natgeo Wild 
+http://futuretvplus.com:25461/live/ram1500/ram1500/156.m3u8
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="MX | NBA TV " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-nbatv.jpg" group-title="TV Deportes",MX | NBA TV 
+http://futuretvplus.com:25461/live/ram1500/ram1500/157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | Nick" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-nick.jpg" group-title="TV Niños",MX | Nick
+http://futuretvplus.com:25461/live/ram1500/ram1500/118931.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="MX | Nick 2 " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-nick2.jpg" group-title="TV Niños",MX | Nick 2 
+http://futuretvplus.com:25461/live/ram1500/ram1500/221.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="MX | Nicktoons " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-nicktoons.jpg" group-title="TV Niños",MX | Nicktoons 
+http://futuretvplus.com:25461/live/ram1500/ram1500/192.m3u8
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="MX | Outdoor  Channel" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-outdoor%20channel.jpg" group-title="TV Deportes",MX | Outdoor  Channel
+http://futuretvplus.com:25461/live/ram1500/ram1500/158.m3u8
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="MX | Paramount " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-paramount%20channel.jpg" group-title="TV Premium",MX | Paramount 
+http://futuretvplus.com:25461/live/ram1500/ram1500/193.m3u8
+#EXTINF:-1 tvg-id="sonyhd.mx" tvg-name="MX | Sony " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-sony%20channel.jpg" group-title="TV Entretenimiento",MX | Sony 
+http://futuretvplus.com:25461/live/ram1500/ram1500/194.m3u8
+#EXTINF:-1 tvg-id="space.mx" tvg-name="MX | Space " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-space.jpg" group-title="TV Premium",MX | Space 
+http://futuretvplus.com:25461/live/ram1500/ram1500/159.m3u8
+#EXTINF:-1 tvg-id="studiouniversal.mx" tvg-name="MX | Studio Universal " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-studio%20universal.jpg" group-title="TV Entretenimiento",MX | Studio Universal 
+http://futuretvplus.com:25461/live/ram1500/ram1500/160.m3u8
+#EXTINF:-1 tvg-id="syfy.mx" tvg-name="MX | SyFy " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/syfy%202.0.jpg" group-title="TV Entretenimiento",MX | SyFy 
+http://futuretvplus.com:25461/live/ram1500/ram1500/312.m3u8
+#EXTINF:-1 tvg-id="tbs.mx" tvg-name="MX | TBS " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-tbs.jpg" group-title="TV Entretenimiento",MX | TBS 
+http://futuretvplus.com:25461/live/ram1500/ram1500/219.m3u8
+#EXTINF:-1 tvg-id="telemundo.mx" tvg-name="MX | Telemundo Internacional " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-telemundo.jpg" group-title="TV Entretenimiento",MX | Telemundo Internacional 
+http://futuretvplus.com:25461/live/ram1500/ram1500/162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | Televisa MTY" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-televisa.jpg" group-title="TV México",MX | Televisa MTY
+http://futuretvplus.com:25461/live/ram1500/ram1500/1998.m3u8
+#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="MX | TLNovelas" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-tln.jpg" group-title="TV Entretenimiento",MX | TLNovelas
+http://futuretvplus.com:25461/live/ram1500/ram1500/1999.m3u8
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="MX | TNT " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-tnt%202.0.jpg" group-title="TV Entretenimiento",MX | TNT 
+http://futuretvplus.com:25461/live/ram1500/ram1500/163.m3u8
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="MX | TNT Series " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-tnt%20series.jpg" group-title="TV Premium",MX | TNT Series 
+http://futuretvplus.com:25461/live/ram1500/ram1500/164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | Tooncast " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-tooncast.jpg" group-title="TV Niños",MX | Tooncast 
+http://futuretvplus.com:25461/live/ram1500/ram1500/195.m3u8
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="MX | Unicable " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-unicable.jpg" group-title="TV Entretenimiento",MX | Unicable 
+http://futuretvplus.com:25461/live/ram1500/ram1500/2000.m3u8
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="MX | Universal Channel " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-universaltv.jpg" group-title="TV Premium",MX | Universal Channel 
+http://futuretvplus.com:25461/live/ram1500/ram1500/196.m3u8
+#EXTINF:-1 tvg-id="tdn.mx" tvg-name="MX | TUDN" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-tudn.jpg" group-title="TV Deportes",MX | TUDN
+http://futuretvplus.com:25461/live/ram1500/ram1500/161.m3u8
+#EXTINF:-1 tvg-id="warnerchannel.mx" tvg-name="MX | Warner " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-warner%20bros.jpg" group-title="TV Entretenimiento",MX | Warner 
+http://futuretvplus.com:25461/live/ram1500/ram1500/165.m3u8
+#EXTINF:-1 tvg-id="megatv.us" tvg-name="PR | MegaTV" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-megatv%20pr.jpg" group-title="TV Puerto Rico",PR | MegaTV
+http://futuretvplus.com:25461/live/ram1500/ram1500/118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PR | Punto 2" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-punto2%20pr.jpg" group-title="TV Puerto Rico",PR | Punto 2
+http://futuretvplus.com:25461/live/ram1500/ram1500/120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PR | Teleisla" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-teleisla%20pr.jpg" group-title="TV Puerto Rico",PR | Teleisla
+http://futuretvplus.com:25461/live/ram1500/ram1500/119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PR | Telemundo" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-telemundo%20pr.jpg" group-title="TV Puerto Rico",PR | Telemundo
+http://futuretvplus.com:25461/live/ram1500/ram1500/121.m3u8
+#EXTINF:-1 tvg-id="univisionwlii.us" tvg-name="PR | Univision" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-univision%20pr%202.0.jpg" group-title="TV Puerto Rico",PR | Univision
+http://futuretvplus.com:25461/live/ram1500/ram1500/122.m3u8
+#EXTINF:-1 tvg-id="wapatv.us" tvg-name="PR | Wapa" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-wapa%20pr.jpg" group-title="TV Puerto Rico",PR | Wapa
+http://futuretvplus.com:25461/live/ram1500/ram1500/123.m3u8
+#EXTINF:-1 tvg-id="wapa2deportes.us" tvg-name="PR | Wapa 2" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-wapa2%20pr.jpg" group-title="TV Puerto Rico",PR | Wapa 2
+http://futuretvplus.com:25461/live/ram1500/ram1500/124.m3u8
+#EXTINF:-1 tvg-id="aande.us" tvg-name="USA | A&E " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-a&e.jpg" group-title="TV Entretenimiento",USA | A&E 
+http://futuretvplus.com:25461/live/ram1500/ram1500/41.m3u8
+#EXTINF:-1 tvg-id="abcwabc.us" tvg-name="USA | ABC NY" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-abc%20ny.jpg" group-title="TV Networks",USA | ABC NY
+http://futuretvplus.com:25461/live/ram1500/ram1500/34.m3u8
+#EXTINF:-1 tvg-id="amc.us" tvg-name="USA | AMC" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-amc%202.0.jpg" group-title="TV Premium",USA | AMC
+http://futuretvplus.com:25461/live/ram1500/ram1500/44.m3u8
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="USA | Animal Planet" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-animal%20planet.jpg" group-title="TV Cultura",USA | Animal Planet
+http://futuretvplus.com:25461/live/ram1500/ram1500/96.m3u8
+#EXTINF:-1 tvg-id="bet.us" tvg-name="USA | BET " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-bet.jpg" group-title="TV Entretenimiento",USA | BET 
+http://futuretvplus.com:25461/live/ram1500/ram1500/72.m3u8
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="USA | Bein Sport" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-bein%20sport.jpg" group-title="TV Deportes",USA | Bein Sport
+http://futuretvplus.com:25461/live/ram1500/ram1500/61.m3u8
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="USA | Bein Sport Ñ" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-bein%20sport%20%c3%b1.jpg" group-title="TV Deportes",USA | Bein Sport Ñ
+http://futuretvplus.com:25461/live/ram1500/ram1500/38.m3u8
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="USA | Bravo " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-bravo.jpg" group-title="TV Entretenimiento",USA | Bravo 
+http://futuretvplus.com:25461/live/ram1500/ram1500/30.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="USA | Cartoon Network" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-cartoon%20network.jpg" group-title="TV Niños",USA | Cartoon Network
+http://futuretvplus.com:25461/live/ram1500/ram1500/105.m3u8
+#EXTINF:-1 tvg-id="cbswfor.us" tvg-name="USA | CBS 2 NY" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-cbs%20ny.jpg" group-title="TV Networks",USA | CBS 2 NY
+http://futuretvplus.com:25461/live/ram1500/ram1500/73.m3u8
+#EXTINF:-1 tvg-id="cbssportsnetwork.us" tvg-name="USA | CBS Sports Network" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-cbs%20sports.jpg" group-title="TV Networks",USA | CBS Sports Network
+http://futuretvplus.com:25461/live/ram1500/ram1500/75.m3u8
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="USA | Cinemax East" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-cinemax.jpg" group-title="TV Premium",USA | Cinemax East
+http://futuretvplus.com:25461/live/ram1500/ram1500/45.m3u8
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA | CNBC " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-cnbc.jpg" group-title="TV Networks",USA | CNBC 
+http://futuretvplus.com:25461/live/ram1500/ram1500/76.m3u8
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="USA | Cooking Channel " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-cooking%20channel.jpg" group-title="TV Cultura",USA | Cooking Channel 
+http://futuretvplus.com:25461/live/ram1500/ram1500/62.m3u8
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="USA | Destination America" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-destination%20america.jpg" group-title="TV Cultura",USA | Destination America
+http://futuretvplus.com:25461/live/ram1500/ram1500/54.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="USA | Discovery Channel " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-discovery%20channel.jpg" group-title="TV Cultura",USA | Discovery Channel 
+http://futuretvplus.com:25461/live/ram1500/ram1500/46.m3u8
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="USA | Discovery Investigation" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-discovery%20investigation.jpg" group-title="TV Cultura",USA | Discovery Investigation
+http://futuretvplus.com:25461/live/ram1500/ram1500/49.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="USA | Discovery Science " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-discovery%20science.jpg" group-title="TV Cultura",USA | Discovery Science 
+http://futuretvplus.com:25461/live/ram1500/ram1500/50.m3u8
+#EXTINF:-1 tvg-id="discoveryvelocity.us" tvg-name="USA | Discovery Velocity" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-discovery%20velocity.jpg" group-title="TV Deportes",USA | Discovery Velocity
+http://futuretvplus.com:25461/live/ram1500/ram1500/53.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="USA | Disney Junior" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-disney%20jr.jpg" group-title="TV Niños",USA | Disney Junior
+http://futuretvplus.com:25461/live/ram1500/ram1500/106.m3u8
+#EXTINF:-1 tvg-id="doityourselfnetwork.us" tvg-name="USA | DiY " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-diy%20network.jpg" group-title="TV Cultura",USA | DiY 
+http://futuretvplus.com:25461/live/ram1500/ram1500/47.m3u8
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="USA | E! Entertainment " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-e%20entertainment.jpg" group-title="TV Entretenimiento",USA | E! Entertainment 
+http://futuretvplus.com:25461/live/ram1500/ram1500/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | El Rey Network" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-el%20rey%20network.jpg" group-title="TV Networks",USA | El Rey Network
+http://futuretvplus.com:25461/live/ram1500/ram1500/93.m3u8
+#EXTINF:-1 tvg-id="espn.us" tvg-name="USA | ESPN " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-espn.jpg" group-title="TV Deportes",USA | ESPN 
+http://futuretvplus.com:25461/live/ram1500/ram1500/26.m3u8
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="USA | ESPN 2" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-espn2.jpg" group-title="TV Deportes",USA | ESPN 2
+http://futuretvplus.com:25461/live/ram1500/ram1500/63.m3u8
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="USA | ESPN Deportes" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-espn%20deportes.jpg" group-title="TV Deportes",USA | ESPN Deportes
+http://futuretvplus.com:25461/live/ram1500/ram1500/77.m3u8
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="USA | ESPN U" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-espn%20u.jpg" group-title="TV Deportes",USA | ESPN U
+http://futuretvplus.com:25461/live/ram1500/ram1500/64.m3u8
+#EXTINF:-1 tvg-id="estrella.us" tvg-name="USA | EstrellaTV" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-estrellatv%202.0.jpg" group-title="TV Latinos USA",USA | EstrellaTV
+http://futuretvplus.com:25461/live/ram1500/ram1500/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | FishTV" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fishtv.jpg" group-title="TV Deportes",USA | FishTV
+http://futuretvplus.com:25461/live/ram1500/ram1500/59.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="USA | Food Network" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-food%20network.jpg" group-title="TV Entretenimiento",USA | Food Network
+http://futuretvplus.com:25461/live/ram1500/ram1500/60.m3u8
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="USA | Fox 5 NY" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fox%205%20ny.jpg" group-title="TV Networks",USA | Fox 5 NY
+http://futuretvplus.com:25461/live/ram1500/ram1500/82.m3u8
+#EXTINF:-1 tvg-id="foxwofl.us" tvg-name="USA | FOX Business" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fox%20bussines.jpg" group-title="TV Networks",USA | FOX Business
+http://futuretvplus.com:25461/live/ram1500/ram1500/78.m3u8
+#EXTINF:-1 tvg-id="foxsportswestprimeticket.us" tvg-name="USA | FOX Deportes" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fox%20deportes.jpg" group-title="TV Deportes",USA | FOX Deportes
+http://futuretvplus.com:25461/live/ram1500/ram1500/80.m3u8
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="USA | FOX News USA" tvg-logo="http://mundovideomx.tv/imagenes/picons/l/fox.news.png" group-title="TV Networks",USA | FOX News USA
+http://futuretvplus.com:25461/live/ram1500/ram1500/79.m3u8
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="USA | FOX Soccer Plus" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fox%20soccer%20plus.jpg" group-title="TV Deportes",USA | FOX Soccer Plus
+http://futuretvplus.com:25461/live/ram1500/ram1500/32.m3u8
+#EXTINF:-1 tvg-id="foxsportsmidwestindiana.us" tvg-name="USA | FOX Soccer Plus" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fox%20soccer%20plus.jpg" group-title="TV Deportes",USA | FOX Soccer Plus
+http://futuretvplus.com:25461/live/ram1500/ram1500/81.m3u8
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="USA | FOX Sports" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fox%20sports.jpg" group-title="TV Deportes",USA | FOX Sports
+http://futuretvplus.com:25461/live/ram1500/ram1500/27.m3u8
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="USA | Fox Sports 2" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fox%20sports%202.jpg" group-title="TV Deportes",USA | Fox Sports 2
+http://futuretvplus.com:25461/live/ram1500/ram1500/65.m3u8
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="USA | Freeform " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-freeform.jpg" group-title="TV Entretenimiento",USA | Freeform 
+http://futuretvplus.com:25461/live/ram1500/ram1500/84.m3u8
+#EXTINF:-1 tvg-id="fyi.us" tvg-name="USA | FYI " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-fyi.jpg" group-title="TV Entretenimiento",USA | FYI 
+http://futuretvplus.com:25461/live/ram1500/ram1500/85.m3u8
+#EXTINF:-1 tvg-id="galavision.us" tvg-name="USA | Galavision " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-galavision.jpg" group-title="TV Latinos USA",USA | Galavision 
+http://futuretvplus.com:25461/live/ram1500/ram1500/33.m3u8
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="USA | Golf Channel " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-golf%20channel.jpg" group-title="TV Deportes",USA | Golf Channel 
+http://futuretvplus.com:25461/live/ram1500/ram1500/66.m3u8
+#EXTINF:-1 tvg-id="goltvspanish.us" tvg-name="USA | GolTV" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-goltv.jpg" group-title="TV Deportes",USA | GolTV
+http://futuretvplus.com:25461/live/ram1500/ram1500/22.m3u8
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="USA | HBO " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-hbo.jpg" group-title="TV Premium",USA | HBO 
+http://futuretvplus.com:25461/live/ram1500/ram1500/48.m3u8
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="USA | HBO EAST 1" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-hbo%20east.jpg" group-title="TV Premium",USA | HBO EAST 1
+http://futuretvplus.com:25461/live/ram1500/ram1500/102.m3u8
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="USA | HBO East 2" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-hbo%20east.jpg" group-title="TV Premium",USA | HBO East 2
+http://futuretvplus.com:25461/live/ram1500/ram1500/103.m3u8
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="USA | HGTV " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-hgtv.jpg" group-title="TV Cultura",USA | HGTV 
+http://futuretvplus.com:25461/live/ram1500/ram1500/87.m3u8
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="USA | History" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-history.jpg" group-title="TV Cultura",USA | History
+http://futuretvplus.com:25461/live/ram1500/ram1500/42.m3u8
+#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-name="USA | IFC" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-ifc.jpg" group-title="TV Entretenimiento",USA | IFC
+http://futuretvplus.com:25461/live/ram1500/ram1500/58.m3u8
+#EXTINF:-1 tvg-id="ion.us" tvg-name="USA | ionTV " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-iontv.jpg" group-title="TV Entretenimiento",USA | ionTV 
+http://futuretvplus.com:25461/live/ram1500/ram1500/88.m3u8
+#EXTINF:-1 tvg-id="my9wwor.us" tvg-name="USA | MY9 NY" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-my9%20ny.jpg" group-title="TV Networks",USA | MY9 NY
+http://futuretvplus.com:25461/live/ram1500/ram1500/35.m3u8
+#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-name="USA | NBC NY" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-nbc%20ny.jpg" group-title="TV Networks",USA | NBC NY
+http://futuretvplus.com:25461/live/ram1500/ram1500/36.m3u8
+#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="USA | NBC Sports Network " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-nbc%20sports%20network.jpg" group-title="TV Deportes",USA | NBC Sports Network 
+http://futuretvplus.com:25461/live/ram1500/ram1500/67.m3u8
+#EXTINF:-1 tvg-id="nbcuniverso.us" tvg-name="USA | NBC Universo" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-nbc%20universo.jpg" group-title="TV Latinos USA",USA | NBC Universo
+http://futuretvplus.com:25461/live/ram1500/ram1500/31.m3u8
+#EXTINF:-1 tvg-id="olympicchannel.us" tvg-name="USA | Olympic Channel" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-olympic%20channel.jpg" group-title="TV Deportes",USA | Olympic Channel
+http://futuretvplus.com:25461/live/ram1500/ram1500/90.m3u8
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="USA | OWN" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-own.jpg" group-title="TV Entretenimiento",USA | OWN
+http://futuretvplus.com:25461/live/ram1500/ram1500/56.m3u8
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="USA | Oxygen " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-oxygen.jpg" group-title="TV Entretenimiento",USA | Oxygen 
+http://futuretvplus.com:25461/live/ram1500/ram1500/68.m3u8
+#EXTINF:-1 tvg-id="wpix.us" tvg-name="USA | PIX 11 NY" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-pix%2011%20ny.jpg" group-title="TV Networks",USA | PIX 11 NY
+http://futuretvplus.com:25461/live/ram1500/ram1500/37.m3u8
+#EXTINF:-1 tvg-id="poptv.us" tvg-name="USA | PopTV" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-pop.jpg" group-title="TV Entretenimiento",USA | PopTV
+http://futuretvplus.com:25461/live/ram1500/ram1500/91.m3u8
+#EXTINF:-1 tvg-id="revolt.us" tvg-name="USA | REVOLT " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-revolt.jpg" group-title="TV Entretenimiento",USA | REVOLT 
+http://futuretvplus.com:25461/live/ram1500/ram1500/92.m3u8
+#EXTINF:-1 tvg-id="showtimeshowcase.us" tvg-name="USA | Showcase" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-showcase.jpg" group-title="TV Premium",USA | Showcase
+http://futuretvplus.com:25461/live/ram1500/ram1500/101.m3u8
+#EXTINF:-1 tvg-id="thelonghonrnetwork.us" tvg-name="USA | Showtime Beyond" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-showtime%20beyond%202.0.jpg" group-title="TV Entretenimiento",USA | Showtime Beyond
+http://futuretvplus.com:25461/live/ram1500/ram1500/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | Showtime Next" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-showtime%20next%202.0.jpg" group-title="TV Entretenimiento",USA | Showtime Next
+http://futuretvplus.com:25461/live/ram1500/ram1500/86.m3u8
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="USA | Showtime West " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-showtime%20west%202.0.jpg" group-title="TV Premium",USA | Showtime West 
+http://futuretvplus.com:25461/live/ram1500/ram1500/40.m3u8
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="USA | Showtime Women" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-showtime%20women%202.0.jpg" group-title="TV Premium",USA | Showtime Women
+http://futuretvplus.com:25461/live/ram1500/ram1500/104.m3u8
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="USA | Sportsman " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-sportsman%20channel.jpg" group-title="TV Deportes",USA | Sportsman 
+http://futuretvplus.com:25461/live/ram1500/ram1500/71.m3u8
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="USA | Starz in Black" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-starz%20in%20black.jpg" group-title="TV Premium",USA | Starz in Black
+http://futuretvplus.com:25461/live/ram1500/ram1500/120845.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | StarZ Classic" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-starz%20classic.jpg" group-title="TV Premium",USA | StarZ Classic
+http://futuretvplus.com:25461/live/ram1500/ram1500/120847.m3u8
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="USA | Starz Western" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-starz%20western.jpg" group-title="TV Premium",USA | Starz Western
+http://futuretvplus.com:25461/live/ram1500/ram1500/120846.m3u8
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="USA | SyFy" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/syfy%202.0.jpg" group-title="TV Entretenimiento",USA | SyFy
+http://futuretvplus.com:25461/live/ram1500/ram1500/43.m3u8
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="USA | TBS" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-tbs.jpg" group-title="TV Entretenimiento",USA | TBS
+http://futuretvplus.com:25461/live/ram1500/ram1500/57.m3u8
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="USA | Telemundo 47" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-telemundo%2047.jpg" group-title="TV Latinos USA",USA | Telemundo 47
+http://futuretvplus.com:25461/live/ram1500/ram1500/7.m3u8
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="USA | Tennis Channel" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-tennis%20channel.jpg" group-title="TV Deportes",USA | Tennis Channel
+http://futuretvplus.com:25461/live/ram1500/ram1500/94.m3u8
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="USA | TLC" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-tlc%20usa.jpg" group-title="TV Entretenimiento",USA | TLC
+http://futuretvplus.com:25461/live/ram1500/ram1500/51.m3u8
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="USA | TNT " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-tnt%202.0.jpg" group-title="TV Premium",USA | TNT 
+http://futuretvplus.com:25461/live/ram1500/ram1500/28.m3u8
+#EXTINF:-1 tvg-id="travel.us" tvg-name="USA | Travel Channel" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-trvl%20channel.jpg" group-title="TV Cultura",USA | Travel Channel
+http://futuretvplus.com:25461/live/ram1500/ram1500/116.m3u8
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="USA | TruTV USA" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-trutv.jpg" group-title="TV Entretenimiento",USA | TruTV USA
+http://futuretvplus.com:25461/live/ram1500/ram1500/52.m3u8
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="USA | TUDN" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-tudn.jpg" group-title="TV Deportes",USA | TUDN
+http://futuretvplus.com:25461/live/ram1500/ram1500/186448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | UFC Fight Pass 1" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-ufc%20fight%20pass.jpg" group-title="TV Deportes",USA | UFC Fight Pass 1
+http://futuretvplus.com:25461/live/ram1500/ram1500/95.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | UFC Fight Pass 2" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-ufc%20fight%20pass.jpg" group-title="TV Deportes",USA | UFC Fight Pass 2
+http://futuretvplus.com:25461/live/ram1500/ram1500/117.m3u8
+#EXTINF:-1 tvg-id="unimas.us" tvg-name="USA | Unimas NY" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-unimas%20ny.jpg" group-title="TV Latinos USA",USA | Unimas NY
+http://futuretvplus.com:25461/live/ram1500/ram1500/29.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | Univision 41 NY" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-univsion%2041%20ny.jpg" group-title="TV Latinos USA",USA | Univision 41 NY
+http://futuretvplus.com:25461/live/ram1500/ram1500/186447.m3u8
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA | USA Network" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-usa%20network.jpg" group-title="TV Networks",USA | USA Network
+http://futuretvplus.com:25461/live/ram1500/ram1500/97.m3u8
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="USA | VH1 " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-vh1.jpg" group-title="TV Música",USA | VH1 
+http://futuretvplus.com:25461/live/ram1500/ram1500/69.m3u8
+#EXTINF:-1 tvg-id="viceland.us" tvg-name="USA | Vice" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-vice.jpg" group-title="TV Premium",USA | Vice
+http://futuretvplus.com:25461/live/ram1500/ram1500/98.m3u8
+#EXTINF:-1 tvg-id="wgnamerica.us" tvg-name="USA | WGN 9" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-wgn%209.jpg" group-title="TV Entretenimiento",USA | WGN 9
+http://futuretvplus.com:25461/live/ram1500/ram1500/100.m3u8
+#EXTINF:-1 tvg-id="wgnamerica.us" tvg-name="USA | WGN America" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-wgn%20america.jpg" group-title="TV Entretenimiento",USA | WGN America
+http://futuretvplus.com:25461/live/ram1500/ram1500/99.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | WWE Network" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-wwe%20network.jpg" group-title="TV Deportes",USA | WWE Network
+http://futuretvplus.com:25461/live/ram1500/ram1500/46100.m3u8
+#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="USA | Yes Network " tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-yes%20network.jpg" group-title="TV Deportes",USA | Yes Network 
+http://futuretvplus.com:25461/live/ram1500/ram1500/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOM | Microvision Canal 10" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-microvision.jpg" group-title="TV Republica Dominicana",DOM | Microvision Canal 10
+http://futuretvplus.com:25461/live/ram1500/ram1500/99515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOM | RomanaTV Canal 42" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-romanatv.jpg" group-title="TV Republica Dominicana",DOM | RomanaTV Canal 42
+http://futuretvplus.com:25461/live/ram1500/ram1500/99514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOM | Tele Antillas Canal 2" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-tele%20antillas.jpg" group-title="TV Republica Dominicana",DOM | Tele Antillas Canal 2
+http://futuretvplus.com:25461/live/ram1500/ram1500/99489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOM | Teleuniverso Canal 29" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-teleuniverso.jpg" group-title="TV Republica Dominicana",DOM | Teleuniverso Canal 29
+http://futuretvplus.com:25461/live/ram1500/ram1500/99434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX 1" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-+18.jpg" group-title="TV +18",XXX 1
+http://futuretvplus.com:25461/live/ram1500/ram1500/46101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX 2" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-+18.jpg" group-title="TV +18",XXX 2
+http://futuretvplus.com:25461/live/ram1500/ram1500/46104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX 3" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-+18.jpg" group-title="TV +18",XXX 3
+http://futuretvplus.com:25461/live/ram1500/ram1500/46099.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX 4" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-+18.jpg" group-title="TV +18",XXX 4
+http://futuretvplus.com:25461/live/ram1500/ram1500/46103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXX 5" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-+18.jpg" group-title="TV +18",XXX 5
+http://futuretvplus.com:25461/live/ram1500/ram1500/46105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV | CONCACAF Liga de Campeones" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-concacaf%20champions%20league.jpg" group-title="TV PPV (Apagados debido al CO-VID19)",PPV | CONCACAF Liga de Campeones
+http://futuretvplus.com:25461/live/ram1500/ram1500/183127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV | La Liga Santander" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-la%20liga.jpg" group-title="TV PPV (Apagados debido al CO-VID19)",PPV | La Liga Santander
+http://futuretvplus.com:25461/live/ram1500/ram1500/183126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV | Liga MX" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-ligamx.jpg" group-title="TV PPV (Apagados debido al CO-VID19)",PPV | Liga MX
+http://futuretvplus.com:25461/live/ram1500/ram1500/183125.m3u8
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="PPV | NFL Network" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-nfl%20ntwork.jpg" group-title="TV PPV (Apagados debido al CO-VID19)",PPV | NFL Network
+http://futuretvplus.com:25461/live/ram1500/ram1500/39.m3u8
+#EXTINF:-1 tvg-id="nflredzone.us" tvg-name="PPV | NFL Red Zone" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-nfl%20red%20zone.jpg" group-title="TV PPV (Apagados debido al CO-VID19)",PPV | NFL Red Zone
+http://futuretvplus.com:25461/live/ram1500/ram1500/20.m3u8
+#EXTINF:-1 tvg-id="nflsundayticket710.us" tvg-name="PPV | NFL Sunday Ticket" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-nfl%20sunday%20ticket.jpg" group-title="TV PPV (Apagados debido al CO-VID19)",PPV | NFL Sunday Ticket
+http://futuretvplus.com:25461/live/ram1500/ram1500/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PPV | UEFA Champions League" tvg-logo="http://mundovideomx.tv/imagenes/picons/piconsbyteku/teku-uefa%20champions%20league.jpg" group-title="TV PPV (Apagados debido al CO-VID19)",PPV | UEFA Champions League
+http://futuretvplus.com:25461/live/ram1500/ram1500/183128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Tyler Rake" tvg-logo="http://futuretvplus.com:25461/live/images/d689f837508437a2ce7058f1c9edc52b.jpg" group-title="TV 24/7 Películas de la semana",24/7 | Tyler Rake
+http://futuretvplus.com:25461/live/ram1500/ram1500/186450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dos policías rebeldes 3" tvg-logo="http://futuretvplus.com:25461/live/images/8dc989f9f52260cdbb9f734a344d1fd5.jpg" group-title="TV 24/7 Películas de la semana",24/7 | Dos policías rebeldes 3
+http://futuretvplus.com:25461/live/ram1500/ram1500/186451.m3u8
+
