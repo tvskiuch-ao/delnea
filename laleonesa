@@ -39,6 +39,8 @@ http://stmv2.srvstm.com/brasil2/brasil2/playlist.m3u8
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
 #EXTINF: -1 group-title = "BOL ",CADENA A  BO
 http://www.channel.tevemi.com:1935/CadenaABolivia/CadenaABolivia/chunklist_w1306254148.m3u8
+#EXTINF:-1 group-title="LAT ",ACS Network
+https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
 
 #EXTINF: -1 group-title = "BOL ",Retro tv  BO
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2036090099.m3u8
