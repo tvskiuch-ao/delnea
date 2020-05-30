@@ -328,364 +328,6 @@ http://coninfo.net:1935/13maxhd/live_720p/chunklist_w821416899.m3u8
 #EXTINF:-1 group-title="ARG ", CANAL 6 DE MORENO
 http://streaming.arcast.com.ar:1935/canal6moreno/canal6moreno/chunklist_w2014651117.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Alf" tvg-logo="" group-title="24/7",Alf
-http://roedor.xyz/REGIO2O2O/mc.php?c=278&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Animaniacs" tvg-logo="" group-title="24/7",Animaniacs
-http://roedor.xyz/REGIO2O2O/mc.php?c=279&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bob Sponja" tvg-logo="" group-title="24/7",Bob Sponja
-http://roedor.xyz/REGIO2O2O/mc.php?c=280&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas" tvg-logo="" group-title="24/7",Cantinflas
-http://roedor.xyz/REGIO2O2O/mc.php?c=281&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito" tvg-logo="" group-title="24/7",Chespirito
-http://roedor.xyz/REGIO2O2O/mc.php?c=282&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Correcaminos" tvg-logo="" group-title="24/7",Correcaminos
-http://roedor.xyz/REGIO2O2O/mc.php?c=283&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dr House" tvg-logo="" group-title="24/7",Dr House
-http://roedor.xyz/REGIO2O2O/mc.php?c=284&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball GT" tvg-logo="" group-title="24/7",Dragon Ball GT
-http://roedor.xyz/REGIO2O2O/mc.php?c=285&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball" tvg-logo="" group-title="24/7",Dragon Ball
-http://roedor.xyz/REGIO2O2O/mc.php?c=286&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball SUPER" tvg-logo="" group-title="24/7",Dragon Ball SUPER
-http://roedor.xyz/REGIO2O2O/mc.php?c=287&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Z" tvg-logo="" group-title="24/7",Dragon Ball Z
-http://roedor.xyz/REGIO2O2O/mc.php?c=288&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | El chavo del 8" tvg-logo="" group-title="24/7",El chavo del 8
-http://roedor.xyz/REGIO2O2O/mc.php?c=289&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="" group-title="24/7",Futurama
-http://roedor.xyz/REGIO2O2O/mc.php?c=291&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Pantera Rosa" tvg-logo="" group-title="24/7",La Pantera Rosa
-http://roedor.xyz/REGIO2O2O/mc.php?c=292&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Teoria Del Big Bang" tvg-logo="" group-title="24/7",La Teoria Del Big Bang
-http://roedor.xyz/REGIO2O2O/mc.php?c=293&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los 3 chiflados" tvg-logo="" group-title="24/7",Los 3 chiflados
-http://roedor.xyz/REGIO2O2O/mc.php?c=295&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Caballeros del Zodiaco" tvg-logo="" group-title="24/7",Los Caballeros del Zodiaco
-http://roedor.xyz/REGIO2O2O/mc.php?c=297&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson 2" tvg-logo="" group-title="24/7",Los Simpson 2
-http://roedor.xyz/REGIO2O2O/mc.php?c=299&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson" tvg-logo="" group-title="24/7",Los Simpson
-http://roedor.xyz/REGIO2O2O/mc.php?c=300&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Malcolm El De En Medio" tvg-logo="" group-title="24/7",Malcolm El De En Medio
-http://roedor.xyz/REGIO2O2O/mc.php?c=301&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Mr. Bean" tvg-logo="" group-title="24/7",Mr. Bean
-http://roedor.xyz/REGIO2O2O/mc.php?c=302&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Naruto" tvg-logo="" group-title="24/7",Naruto
-http://roedor.xyz/REGIO2O2O/mc.php?c=303&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Padre De Familia" tvg-logo="" group-title="24/7",Padre De Familia
-http://roedor.xyz/REGIO2O2O/mc.php?c=304&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peliculas 2018" tvg-logo="" group-title="24/7",Peliculas 2018
-http://roedor.xyz/REGIO2O2O/mc.php?c=305&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="" group-title="24/7",Pokemon
-http://roedor.xyz/REGIO2O2O/mc.php?c=308&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Smallville" tvg-logo="" group-title="24/7",Smallville
-http://roedor.xyz/REGIO2O2O/mc.php?c=309&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | South Park" tvg-logo="" group-title="24/7",South Park
-http://roedor.xyz/REGIO2O2O/mc.php?c=310&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Thundercats" tvg-logo="" group-title="24/7",Thundercats
-http://roedor.xyz/REGIO2O2O/mc.php?c=311&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Un Agente De Familia" tvg-logo="" group-title="24/7",Un Agente De Familia
-http://roedor.xyz/REGIO2O2O/mc.php?c=312&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Un Show MAS" tvg-logo="" group-title="24/7",Un Show MAS
-http://roedor.xyz/REGIO2O2O/mc.php?c=313&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | X-men" tvg-logo="" group-title="24/7",X-men
-http://roedor.xyz/REGIO2O2O/mc.php?c=314&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",NBC Universo
-http://stream.pcriot.com/5aMd/ftv.php/universoeast/N0339/master.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",A&E
-http://roedor.xyz/REGIO2O2O/mc.php?c=1&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",AXN
-http://roedor.xyz/REGIO2O2O/mc.php?c=2&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Az Corazon
-http://roedor.xyz/REGIO2O2O/mc.php?c=4&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Az Mundo
-http://roedor.xyz/REGIO2O2O/mc.php?c=5&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",AMC
-http://roedor.xyz/REGIO2O2O/mc.php?c=7&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",BBC World
-http://roedor.xyz/REGIO2O2O/mc.php?c=10&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Baby TV
-http://roedor.xyz/REGIO2O2O/mc.php?c=11&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Bloomberg
-http://roedor.xyz/REGIO2O2O/mc.php?c=13&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",CNN Espanol
-http://roedor.xyz/REGIO2O2O/mc.php?c=14&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",CNN Internacional
-http://roedor.xyz/REGIO2O2O/mc.php?c=15&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cable Noticias
-http://roedor.xyz/REGIO2O2O/mc.php?c=16&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Canal Claro
-http://roedor.xyz/REGIO2O2O/mc.php?c=17&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Canal de las estrellas Latino
-http://roedor.xyz/REGIO2O2O/mc.php?c=18&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cartoon Network
-http://roedor.xyz/REGIO2O2O/mc.php?c=21&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cine Canal
-http://roedor.xyz/REGIO2O2O/mc.php?c=22&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cine Latino
-http://roedor.xyz/REGIO2O2O/mc.php?c=23&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",City TV
-http://roedor.xyz/REGIO2O2O/mc.php?c=26&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Cinema
-http://roedor.xyz/REGIO2O2O/mc.php?c=27&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Music 1
-http://roedor.xyz/REGIO2O2O/mc.php?c=28&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Music 2
-http://roedor.xyz/REGIO2O2O/mc.php?c=29&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Sports
-http://roedor.xyz/REGIO2O2O/mc.php?c=30&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Claro Sports Latinoamerica
-http://roedor.xyz/REGIO2O2O/mc.php?c=31&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Comedy Central
-http://roedor.xyz/REGIO2O2O/mc.php?c=32&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Concert Channel
-http://roedor.xyz/REGIO2O2O/mc.php?c=33&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DHE
-http://roedor.xyz/REGIO2O2O/mc.php?c=34&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DW
-http://roedor.xyz/REGIO2O2O/mc.php?c=35&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DW America
-http://roedor.xyz/REGIO2O2O/mc.php?c=36&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",De Pelicula
-http://roedor.xyz/REGIO2O2O/mc.php?c=37&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Dia TV
-http://roedor.xyz/REGIO2O2O/mc.php?c=38&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Channel
-http://roedor.xyz/REGIO2O2O/mc.php?c=39&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Home and Health
-http://roedor.xyz/REGIO2O2O/mc.php?c=40&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Kids
-http://roedor.xyz/REGIO2O2O/mc.php?c=41&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Science
-http://roedor.xyz/REGIO2O2O/mc.php?c=42&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Theater
-http://roedor.xyz/REGIO2O2O/mc.php?c=43&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery Turbo
-http://roedor.xyz/REGIO2O2O/mc.php?c=44&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Discovery World
-http://roedor.xyz/REGIO2O2O/mc.php?c=45&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Disney
-http://roedor.xyz/REGIO2O2O/mc.php?c=46&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Disney JR
-http://roedor.xyz/REGIO2O2O/mc.php?c=47&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Disney XD
-http://roedor.xyz/REGIO2O2O/mc.php?c=48&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",E !
-http://roedor.xyz/REGIO2O2O/mc.php?c=49&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",El Gourmet
-http://roedor.xyz/REGIO2O2O/mc.php?c=50&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn 1 Sur
-http://roedor.xyz/REGIO2O2O/mc.php?c=51&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn 2 Sur
-http://roedor.xyz/REGIO2O2O/mc.php?c=52&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn 3 Sur
-http://roedor.xyz/REGIO2O2O/mc.php?c=53&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn Plus Sur
-http://roedor.xyz/REGIO2O2O/mc.php?c=54&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Europa Europa
-http://roedor.xyz/REGIO2O2O/mc.php?c=55&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",FX
-http://roedor.xyz/REGIO2O2O/mc.php?c=56&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox
-http://roedor.xyz/REGIO2O2O/mc.php?c=57&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Action
-http://roedor.xyz/REGIO2O2O/mc.php?c=58&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Cinema
-http://roedor.xyz/REGIO2O2O/mc.php?c=60&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Cinema Subtitulado
-http://roedor.xyz/REGIO2O2O/mc.php?c=61&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Classics
-http://roedor.xyz/REGIO2O2O/mc.php?c=62&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Comedy
-http://roedor.xyz/REGIO2O2O/mc.php?c=63&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Family
-http://roedor.xyz/REGIO2O2O/mc.php?c=64&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Life
-http://roedor.xyz/REGIO2O2O/mc.php?c=65&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Movies
-http://roedor.xyz/REGIO2O2O/mc.php?c=67&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox News
-http://roedor.xyz/REGIO2O2O/mc.php?c=68&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Series
-http://roedor.xyz/REGIO2O2O/mc.php?c=69&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Premium Series Subtitulado
-http://roedor.xyz/REGIO2O2O/mc.php?c=70&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports 1 MX
-http://roedor.xyz/REGIO2O2O/mc.php?c=71&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports 1 Sur
-http://roedor.xyz/REGIO2O2O/mc.php?c=72&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports 2 Sur
-http://roedor.xyz/REGIO2O2O/mc.php?c=73&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports 2 MX
-http://roedor.xyz/REGIO2O2O/mc.php?c=74&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports 3 MX
-http://roedor.xyz/REGIO2O2O/mc.php?c=75&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fox Sports 3 Sur
-http://roedor.xyz/REGIO2O2O/mc.php?c=76&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",France 24
-http://roedor.xyz/REGIO2O2O/mc.php?c=77&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Fx Movie
-http://roedor.xyz/REGIO2O2O/mc.php?c=78&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Glitz
-http://roedor.xyz/REGIO2O2O/mc.php?c=80&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Golden
-http://roedor.xyz/REGIO2O2O/mc.php?c=81&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Golden Premium
-http://roedor.xyz/REGIO2O2O/mc.php?c=82&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Golf Channel
-http://roedor.xyz/REGIO2O2O/mc.php?c=83&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO
-http://roedor.xyz/REGIO2O2O/mc.php?c=84&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO 2
-http://roedor.xyz/REGIO2O2O/mc.php?c=85&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Family
-http://roedor.xyz/REGIO2O2O/mc.php?c=86&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Signature
-http://roedor.xyz/REGIO2O2O/mc.php?c=87&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO Subtitulado
-http://roedor.xyz/REGIO2O2O/mc.php?c=88&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HBO plus
-http://roedor.xyz/REGIO2O2O/mc.php?c=89&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HLN
-http://roedor.xyz/REGIO2O2O/mc.php?c=90&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",HTV
-http://roedor.xyz/REGIO2O2O/mc.php?c=91&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",History Channel
-http://roedor.xyz/REGIO2O2O/mc.php?c=92&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",H2
-http://roedor.xyz/REGIO2O2O/mc.php?c=93&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Hola TV
-http://roedor.xyz/REGIO2O2O/mc.php?c=94&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",I.Sat
-http://roedor.xyz/REGIO2O2O/mc.php?c=95&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Investigation Discovery
-http://roedor.xyz/REGIO2O2O/mc.php?c=96&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Lifetime
-http://roedor.xyz/REGIO2O2O/mc.php?c=97&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",MTV
-http://roedor.xyz/REGIO2O2O/mc.php?c=98&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",MTV Hits
-http://roedor.xyz/REGIO2O2O/mc.php?c=99&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Mas Chic
-http://roedor.xyz/REGIO2O2O/mc.php?c=100&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Win Sports
-http://roedor.xyz/REGIO2O2O/mc.php?c=101&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Warner Channel
-http://roedor.xyz/REGIO2O2O/mc.php?c=102&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Vh1 Classic
-http://roedor.xyz/REGIO2O2O/mc.php?c=103&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Vh1
-http://roedor.xyz/REGIO2O2O/mc.php?c=104&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Univision
-http://roedor.xyz/REGIO2O2O/mc.php?c=105&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Universal Channel
-http://roedor.xyz/REGIO2O2O/mc.php?c=106&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Unicable
-http://roedor.xyz/REGIO2O2O/mc.php?c=107&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Tru TV
-http://roedor.xyz/REGIO2O2O/mc.php?c=108&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Tve
-http://roedor.xyz/REGIO2O2O/mc.php?c=109&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Tooncast
-http://roedor.xyz/REGIO2O2O/mc.php?c=110&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Telemundo 
-http://roedor.xyz/REGIO2O2O/mc.php?c=111&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TNT Series
-http://roedor.xyz/REGIO2O2O/mc.php?c=112&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TNT
-http://roedor.xyz/REGIO2O2O/mc.php?c=113&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TLC
-http://roedor.xyz/REGIO2O2O/mc.php?c=114&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TCM
-http://roedor.xyz/REGIO2O2O/mc.php?c=115&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TBS
-http://roedor.xyz/REGIO2O2O/mc.php?c=116&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Sundance Channel
-http://roedor.xyz/REGIO2O2O/mc.php?c=117&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Studio Universal
-http://roedor.xyz/REGIO2O2O/mc.php?c=118&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Space
-http://roedor.xyz/REGIO2O2O/mc.php?c=119&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Sony
-http://roedor.xyz/REGIO2O2O/mc.php?c=120&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Pasiones
-http://roedor.xyz/REGIO2O2O/mc.php?c=122&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Paramount Channel
-http://roedor.xyz/REGIO2O2O/mc.php?c=123&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nickelodeon
-http://roedor.xyz/REGIO2O2O/mc.php?c=124&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nick Jr
-http://roedor.xyz/REGIO2O2O/mc.php?c=125&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nick 2
-http://roedor.xyz/REGIO2O2O/mc.php?c=126&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nat Geo Wild
-http://roedor.xyz/REGIO2O2O/mc.php?c=127&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nat Geo Mex
-http://roedor.xyz/REGIO2O2O/mc.php?c=128&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nat Geo Kids Mex
-http://roedor.xyz/REGIO2O2O/mc.php?c=129&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nat Geo Kids
-http://roedor.xyz/REGIO2O2O/mc.php?c=130&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",National Geographic Channel
-http://roedor.xyz/REGIO2O2O/mc.php?c=131&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Mtv Live
-http://roedor.xyz/REGIO2O2O/mc.php?c=133&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Max Up
-http://roedor.xyz/REGIO2O2O/mc.php?c=134&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Max Prime
-http://roedor.xyz/REGIO2O2O/mc.php?c=135&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Max
-http://roedor.xyz/REGIO2O2O/mc.php?c=136&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn U
-http://roedor.xyz/REGIO2O2O/mc.php?c=138&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn Sec Network
-http://roedor.xyz/REGIO2O2O/mc.php?c=139&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn
-http://roedor.xyz/REGIO2O2O/mc.php?c=140&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn 2
-http://roedor.xyz/REGIO2O2O/mc.php?c=141&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Espn 3
-http://roedor.xyz/REGIO2O2O/mc.php?c=142&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Galatv
-http://roedor.xyz/REGIO2O2O/mc.php?c=143&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Las Estrellas
-http://roedor.xyz/REGIO2O2O/mc.php?c=144&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Canal 5
-http://roedor.xyz/REGIO2O2O/mc.php?c=145&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Azteca Uno
-http://roedor.xyz/REGIO2O2O/mc.php?c=146&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Azteca 7
-http://roedor.xyz/REGIO2O2O/mc.php?c=147&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",ADN 40
-http://roedor.xyz/REGIO2O2O/mc.php?c=148&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Foro TV
-http://roedor.xyz/REGIO2O2O/mc.php?c=149&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Multimedios
-http://roedor.xyz/REGIO2O2O/mc.php?c=150&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",TelefÃ³rmula
-http://roedor.xyz/REGIO2O2O/mc.php?c=151&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Televisa MTY
-http://roedor.xyz/REGIO2O2O/mc.php?c=152&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Boomerang
-http://roedor.xyz/REGIO2O2O/mc.php?c=153&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Distrito Comedia
-http://roedor.xyz/REGIO2O2O/mc.php?c=154&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Baby First
-http://roedor.xyz/REGIO2O2O/mc.php?c=155&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Animal Planet
-http://roedor.xyz/REGIO2O2O/mc.php?c=315&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cinemax
-http://roedor.xyz/REGIO2O2O/mc.php?c=316&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DirecTV Sports 1
-http://roedor.xyz/REGIO2O2O/mc.php?c=317&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DirecTV Sports 2
-http://roedor.xyz/REGIO2O2O/mc.php?c=318&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",DirecTV Sports Plus
-http://roedor.xyz/REGIO2O2O/mc.php?c=319&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Univision Deportes
-http://roedor.xyz/REGIO2O2O/mc.php?c=320&f.m3u8
-
 #EXTINF:-1 group-title="PARAGUAY ",FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
 
@@ -3350,1181 +2992,239 @@ https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/retro-tv.png" group-title="44- MUSICA",Retro TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?GrupoTopIptv
 
-#EXTINF:-1,italia:RAI 4 FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8535
-
-#EXTINF:-1,italia:RAI GULP
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8537
-
-#EXTINF:-1,italia:TG NORBA 24
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8538
-
-#EXTINF:-1,italia:TG COM24
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8539
-
-#EXTINF:-1,italia:FOX CRIME HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8540
-
-#EXTINF:-1,italia:FOOD NETWORK
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8541
-
-#EXTINF:-1,italia:FOCUS
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8542
-
-#EXTINF:-1,italia:DISCOVERY CHANNEL FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8543
-
-#EXTINF:-1,italia:CIELO HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8544
-
-#EXTINF:-1,italia:RAI YOYO HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8547
-
-#EXTINF:-1,italia:RAI STORIA
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8548
-
-#EXTINF:-1,italia:RAI 5 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8551
-
-#EXTINF:-1,italia:RAI 4 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8552
-
-#EXTINF:-1,italia:RAI 3 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8553
-
-#EXTINF:-1,italia:RAI 2 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8554
-
-#EXTINF:-1,italia:PARAMOUNT CHANNEL
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8555
-
-#EXTINF:-1,italia:LA 5
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8556
-
-#EXTINF:-1,italia:Italia 1 SD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8557
-
-#EXTINF:-1,italia:MEDIASET ITALIA 2
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8558
-
-#EXTINF:-1,italia:MEDIASET EXTRA
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8559
-
-#EXTINF:-1,italia:RAI 1 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8560
-
-#EXTINF:-1,italia:REAL TIME FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8563
-
-#EXTINF:-1,italia:RSI LA 2 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8564
-
-#EXTINF:-1,italia:NICK JR
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8565
-
-#EXTINF:-1,italia:FOX LIFE FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8566
-
-#EXTINF:-1,italia:ITALIA 1 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8567
-
-#EXTINF:-1,italia:BLAZE HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8568
-
-#EXTINF:-1,italia:LEI
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8570
-
-#EXTINF:-1,italia:LA EFFE
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8571
-
-#EXTINF:-1,italia:COMEDY CENTRAL
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8572
-
-#EXTINF:-1,italia:DISCOVERY HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8573
-
-#EXTINF:-1,italia:CACCIA & PESCA HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8574
-
-#EXTINF:-1,italia:LA 7 D SD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8575
-
-#EXTINF:-1,italia:NAT GEO WILD HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8576
-
-#EXTINF:-1,italia:RAI 2 FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8577
-
-#EXTINF:-1,italia:RAI 3 FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8578
-
-#EXTINF:-1,italia:ITALIA 1 FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8580
-
-#EXTINF:-1,italia:TV 8 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8581
-
-#EXTINF:-1,italia:NOVE HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8582
-
-#EXTINF:-1,italia:GIALLO
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8583
-
-#EXTINF:-1,italia:LA 7 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8584
-
-#EXTINF:-1,Russia:DISCOVERY SCIENCE HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8585
-
-#EXTINF:-1,italia:BABY TV HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8586
-
-#EXTINF:-1,italia:DOVE TV
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8589
-
-#EXTINF:-1,italia:DMAX HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8590
-
-#EXTINF:-1,italia:DEA KIDS
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8591
-
-#EXTINF:-1,italia:DISNEY JR
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8592
-
-#EXTINF:-1,italia:CI CRIME INVESTIGATION FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8594
-
-#EXTINF:-1,italia:CI CRIME & INVESTIGATION HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8595
-
-#EXTINF:-1,italia:FOX LIFE HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8596
-
-#EXTINF:-1,italia:FOX FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8597
-
-#EXTINF:-1,italia:SKY ATLANTIC FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8598
-
-#EXTINF:-1,italia:SKY ATLANTIC HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8599
-
-#EXTINF:-1,italia:SKY UNO HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8600
-
-#EXTINF:-1,italia:TV 8
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8601
-
-#EXTINF:-1,italia:Rai Scuola
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8603
-
-#EXTINF:-1,italia:SPIKE
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8605
-
-#EXTINF:-1,italia:SKY ARTE FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8606
-
-#EXTINF:-1,italia:SKY ARTE HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8607
-
-#EXTINF:-1,italia:RAI 1 FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8608
-
-#EXTINF:-1,italia:FRISBEE
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8609
-
-#EXTINF:-1,italia:SUPER!
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8610
-
-#EXTINF:-1,italia:RAI YOYO FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8611
-
-#EXTINF:-1,italia:K2
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8613
-
-#EXTINF:-1,italia:CARTOONITO
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8614
-
-#EXTINF:-1,italia:BOING
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8615
-
-#EXTINF:-1,italia:IRIS
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8616
-
-#EXTINF:-1,italia:MEDIASET 20 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8617
-
-#EXTINF:-1,italia:RETE 4 FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8618
-
-#EXTINF:-1,italia:Nat Geo Wild FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8619
-
-#EXTINF:-1,italia:Nat Geo FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8620
-
-#EXTINF:-1,italia:LA 7 FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8621
-
-#EXTINF:-1,italia:History FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8623
-
-#EXTINF:-1,italia:PESCA & CACCIA FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8624
-
-#EXTINF:-1,italia:DMAX FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8625
-
-#EXTINF:-1,italia:Rai Premium FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8626
-
-#EXTINF:-1,italia:Rai Premium SD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8628
-
-#EXTINF:-1,italia:SKY CINEMA SUSPENSE HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8630
-
-#EXTINF:-1,italia:SKY CINEMA UNO HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8633
-
-#EXTINF:-1,italia:Sky Cinema Uno FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8634
-
-#EXTINF:-1,italia:Sky CInema Uno 24 FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8635
-
-#EXTINF:-1,italia:Sky Cinema Drama HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8636
-
-#EXTINF:-1,italia:Sky Cinema Due HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8637
-
-#EXTINF:-1,italia:Sky Cinema Due +24 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8638
-
-#EXTINF:-1,italia:Sky Cinema Romance HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8639
-
-#EXTINF:-1,italia:Sky Cinema Action HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8641
-
-#EXTINF:-1,italia:Sky Cinema Family HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8642
-
-#EXTINF:-1,italia:SKY CINEMA SUSPENSE FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8646
-
-#EXTINF:-1,italia:SKY CINEMA UNO FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8647
-
-#EXTINF:-1,italia:SKY Primafila 1 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8649
-
-#EXTINF:-1,italia:SKY PrimaFila 2 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8650
-
-#EXTINF:-1,italia:SKY Primafila 3 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8651
-
-#EXTINF:-1,italia:SKY Primafila 4 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8652
-
-#EXTINF:-1,italia:SKY Primafila 5 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8653
-
-#EXTINF:-1,italia:SKY Primafila 6 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8654
-
-#EXTINF:-1,italia:SKY Primafila 7 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8655
-
-#EXTINF:-1,italia:SKY Primafila 8 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8656
-
-#EXTINF:-1,italia:SKY Primafila 9 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8657
-
-#EXTINF:-1,italia:SKY Primafila 11 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8659
-
-#EXTINF:-1,italia:SKY Primafila 12 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8660
-
-#EXTINF:-1,italia:SKY Primafila 13 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8661
-
-#EXTINF:-1,italia:SKY Primafila 15 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8663
-
-#EXTINF:-1,italia:SPORT ITALIA
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8700
-
-#EXTINF:-1,italia:Rai Sport 1
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8701
-
-#EXTINF:-1,italia:SKY SPORTS FOOTBALL HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8702
-
-#EXTINF:-1,italia:SKY SPORTS FOOTBALL FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8703
-
-#EXTINF:-1,italia:SKY SPORTS UNO HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8704
-
-#EXTINF:-1,italia:SKY SPORTS COLLECTION FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8707
-
-#EXTINF:-1,italia:SKY SPORTS COLLECTION HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8708
-
-#EXTINF:-1,italia:SKY SPORTS NBA FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8709
-
-#EXTINF:-1,italia:DAZN 1 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8710
-
-#EXTINF:-1,italia:SKY CALCIO 1 FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8718
-
-#EXTINF:-1,italia:SKY CALCIO 2 FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8719
-
-#EXTINF:-1,italia:SKY CALCIO 3 FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8720
-
-#EXTINF:-1,italia:Sky Calcio 4 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8721
-
-#EXTINF:-1,italia:Sky Calcio 5 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8722
-
-#EXTINF:-1,italia:Sky MotoGP FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8723
-
-#EXTINF:-1,italia:Sky Sport 1 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8724
-
-#EXTINF:-1,italia:SKY Sport 2
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8725
-
-#EXTINF:-1,italia:Sky Sport 252 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8726
-
-#EXTINF:-1,italia:Sky Sport 253 FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8727
-
-#EXTINF:-1,italia:Sky Sport 253 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8728
-
-#EXTINF:-1,italia:Sky Sport 255 FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8729
-
-#EXTINF:-1,italia:Sky Sport 255 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8730
-
-#EXTINF:-1,italia:Sky Supercalcio Serie A
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8731
-
-#EXTINF:-1,italia:Torino Channel
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8732
-
-#EXTINF:-1,italia:Eurosport 2 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8758
-
-#EXTINF:-1,italia:Milan Tv HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8761
-
-#EXTINF:-1,italia:Roma Channel HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8764
-
-#EXTINF:-1,italia:Inter Channel
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8766
-
-#EXTINF:-1,italia:JUVENTUS CHANNEL
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8767
-
-#EXTINF:-1,italia:Lazio Channel
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8768
-
-#EXTINF:-1,italia: CA | MEDIASET ITALIA
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8884
-
-#EXTINF:-1,Hindi:Star Gold FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8937
-
-#EXTINF:-1,Hindi:Star Plus FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8938
-
-#EXTINF:-1,Hindi:Zee Cinema FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8939
-
-#EXTINF:-1,Hindi:Sony TV FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8940
-
-#EXTINF:-1,Hindi:Sony Max FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8941
-
-#EXTINF:-1,UK INDIA |HUM EUROPE
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8945
-
-#EXTINF:-1,Hindi:Star Bharat
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8946
-
-#EXTINF:-1,Hindi:SONY SAB
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8947
-
-#EXTINF:-1,Hindi:B4U Music
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8948
-
-#EXTINF:-1,Hindi:B4U Movies
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8949
-
-#EXTINF:-1,Hindi:Colors Cineplex
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8950
-
-#EXTINF:-1,Hindi:Colors Rishtey
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8951
-
-#EXTINF:-1,Hindi:COLORS FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8952
-
-#EXTINF:-1,Hindi:Star Gold FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8954
-
-#EXTINF:-1,Hindi:Zee Cinema HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8955
-
-#EXTINF:-1,Hindi:Colours
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8956
-
-#EXTINF:-1,Hindi:Star GOLD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8957
-
-#EXTINF:-1,Hindi:Star Plus
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8958
-
-#EXTINF:-1,Hindi:Sony Max HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8959
-
-#EXTINF:-1,Hindi:Sony Max FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8961
-
-#EXTINF:-1,Hindi:Zing SD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/8962
-
-#EXTINF:-1,italia:Rai 1
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9882
-
-#EXTINF:-1,italia:Rai 3
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9884
-
-#EXTINF:-1,italia:Canale 5
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9885
-
-#EXTINF:-1,italia:Italia Uno
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9886
-
-#EXTINF:-1,italia:Fox
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9887
-
-#EXTINF:-1,italia:Fox Crime
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9888
-
-#EXTINF:-1,italia:Fox Life
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9889
-
-#EXTINF:-1,italia:Discovery HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9890
-
-#EXTINF:-1,italia:NatGeo HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9891
-
-#EXTINF:-1,italia:NatgeoWild HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9892
-
-#EXTINF:-1,italia:Sky Atlantic HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9893
-
-#EXTINF:-1,italia:Sky Uno HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9894
-
-#EXTINF:-1,italia:Sky Cinema 1 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9895
-
-#EXTINF:-1,italia:Sky Cinema Suspense HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9896
-
-#EXTINF:-1,italia:Sky Cinema Comedy HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9897
-
-#EXTINF:-1,italia:Sky Cinema Collection HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9898
-
-#EXTINF:-1,italia:Sky Cinema Family HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9899
-
-#EXTINF:-1,italia:Sky Cinema Due HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9900
-
-#EXTINF:-1,italia:Sky Cinema Action HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9901
-
-#EXTINF:-1,italia:Sky Cinema romance HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9902
-
-#EXTINF:-1,italia:Sky Cinema Due 24HD IT
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9904
-
-#EXTINF:-1,italia:Sky Cinema Drama HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9905
-
-#EXTINF:-1,italia:Premium Comedy
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9906
-
-#EXTINF:-1,italia:Premium Crime
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9907
-
-#EXTINF:-1,italia:Premium Emotion
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9908
-
-#EXTINF:-1,italia:Premium Energy
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9909
-
-#EXTINF:-1,italia:Premium Action
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9910
-
-#EXTINF:-1,italia:Premium Cinema HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9911
-
-#EXTINF:-1,italia:Sky MotoGp HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9912
-
-#EXTINF:-1,italia:Sky Sport Arena HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9913
-
-#EXTINF:-1,italia:Sky Sport Serie A HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9914
-
-#EXTINF:-1,italia:Sky Sport NBA HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9915
-
-#EXTINF:-1,italia:Sky Sport Football HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9916
-
-#EXTINF:-1,italia:Sky Sport Collection HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9917
-
-#EXTINF:-1,italia:Sky Sport F1HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9918
-
-#EXTINF:-1,italia:Sky Calcio 1 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9919
-
-#EXTINF:-1,italia:Sky Calcio 2 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9920
-
-#EXTINF:-1,italia:Sky Calcio 3 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9921
-
-#EXTINF:-1,italia:Sky Calcio 4 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9922
-
-#EXTINF:-1,italia:Sky Sport Uno HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/9924
-
-#EXTINF:-1,spain:La 1 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11776
-
-#EXTINF:-1,spain:La 2 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11777
-
-#EXTINF:-1,spain:Antena 3 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11778
-
-#EXTINF:-1,spain:Cuatro HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11779
-
-#EXTINF:-1,spain:Telecinco HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11780
-
-#EXTINF:-1,spain:La Sexta HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11781
-
-#EXTINF:-1,spain:#0 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11782
-
-#EXTINF:-1,spain:Fox HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11783
-
-#EXTINF:-1,spain:Fox Life HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11784
-
-#EXTINF:-1,spain:AXN White HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11785
-
-#EXTINF:-1,spain:SyFy HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11786
-
-#EXTINF:-1,spain:Calle 13 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11787
-
-#EXTINF:-1,spain:TCM HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11788
-
-#EXTINF:-1,spain:Cosmo HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11789
-
-#EXTINF:-1,spain:ENERGY
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11790
-
-#EXTINF:-1,spain:FDF
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11791
-
-#EXTINF:-1,spain:NEOX
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11792
-
-#EXTINF:-1,spain:AMC HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11793
-
-#EXTINF:-1,spain:BE MAD HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11794
-
-#EXTINF:-1,spain:A3SERIES HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11796
-
-#EXTINF:-1,spain:Hollywood HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11797
-
-#EXTINF:-1,spain:PARAMOUNT CHANNEL
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11798
-
-#EXTINF:-1,spain:Movistar Accion HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11799
-
-#EXTINF:-1,spain:Movistar CineDoc&Roll HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11800
-
-#EXTINF:-1,spain:Movistar Series HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11801
-
-#EXTINF:-1,spain:Movistar Series Mania HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11802
-
-#EXTINF:-1,spain:Movistar Estrenos HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11803
-
-#EXTINF:-1,spain:Movistar Drama HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11804
-
-#EXTINF:-1,spain:Movistar Comedia HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11805
-
-#EXTINF:-1,spain:MOVISTAR DCine Ñ
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11806
-
-#EXTINF:-1,spain:MOVISTAR TOROS HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11807
-
-#EXTINF:-1,spain:Movistar Vamos HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11808
-
-#EXTINF:-1,spain:TELEDEPORTE HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11809
-
-#EXTINF:-1,spain:24 Horas
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11811
-
-#EXTINF:-1,spain:National Geographic HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11812
-
-#EXTINF:-1,spain:NAT GEO WILD HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11813
-
-#EXTINF:-1,spain:Caza y Pesca HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11814
-
-#EXTINF:-1,spain:Viajar HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11815
-
-#EXTINF:-1,spain:CRIMEN + INVESTIGACION
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11816
-
-#EXTINF:-1,spain:HISTORIA HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11817
-
-#EXTINF:-1,spain:DISCOVERY HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11818
-
-#EXTINF:-1,spain:CANAL COCINA HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11819
-
-#EXTINF:-1,spain:DECASA HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11820
-
-#EXTINF:-1,spain:CLAN HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11821
-
-#EXTINF:-1,spain:BLAZE
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11822
-
-#EXTINF:-1,spain:TNT HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11823
-
-#EXTINF:-1,spain:SUNDANCE HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11824
-
-#EXTINF:-1,spain:DKISS
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11825
-
-#EXTINF:-1,spain:DIVINITY
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11826
-
-#EXTINF:-1,spain:NOVA
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11827
-
-#EXTINF:-1,spain:Odisea
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11828
-
-#EXTINF:-1,spain:TEN
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11829
-
-#EXTINF:-1,spain:Canal Sur Andalucia HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11830
-
-#EXTINF:-1,spain:MTV ESP
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11831
-
-#EXTINF:-1,spain:Toros TV HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11832
-
-#EXTINF:-1,spain:Canal Sur Turismo
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11833
-
-#EXTINF:-1,spain:MOVISTAR LA LIGA HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11834
-
-#EXTINF:-1,spain:Movistar Deportes  HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11835
-
-#EXTINF:-1,spain:Movistar Futbol HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11836
-
-#EXTINF:-1,spain:Movistar Golf HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11837
-
-#EXTINF:-1,spain:Movistar Formula 1 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11838
-
-#EXTINF:-1,spain:EUROSPORT 1 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11839
-
-#EXTINF:-1,spain:EUROSPORT 2
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11840
-
-#EXTINF:-1,spain:REAL MADRID TV
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11841
-
-#EXTINF:-1,spain:Movistar DEPORTE 1 (SOLO EVENTOS)
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11842
-
-#EXTINF:-1,spain:MOVISTAR LA LIGA 1
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11843
-
-#EXTINF:-1,spain:BOING
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11845
-
-#EXTINF:-1,spain:DISNEY JR
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11846
-
-#EXTINF:-1,spain:BABY TV
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11847
-
-#EXTINF:-1,spain:Canal PANDA
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/11848
-
-#EXTINF:-1,,portuguese:RTP 1
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12708
-
-#EXTINF:-1,,portuguese:RTP 1 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12709
-
-#EXTINF:-1,,portuguese:RTP 1 FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12710
-
-#EXTINF:-1,,portuguese:RTP 2 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12712
-
-#EXTINF:-1,,portuguese:RTP 2 FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12713
-
-#EXTINF:-1,,portuguese:RTP 3
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12714
-
-#EXTINF:-1,,portuguese:RTP 3 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12715
-
-#EXTINF:-1,,portuguese:RTP 3 FHD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12716
-
-#EXTINF:-1,,portuguese:RTP MEMORIA
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12719
-
-#EXTINF:-1,,portuguese:RTP Africa
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12720
-
-#EXTINF:-1,,portuguese:AMC
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12721
-
-#EXTINF:-1,,portuguese:Nat Geo
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12722
-
-#EXTINF:-1,,portuguese:AXN Black
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12723
-
-#EXTINF:-1,,portuguese:AXN White
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12724
-
-#EXTINF:-1,,portuguese:Fox Comedy
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12725
-
-#EXTINF:-1,,portuguese:Fox Life
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12727
-
-#EXTINF:-1,,portuguese:Fox Movies
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12728
-
-#EXTINF:-1,,portuguese:Sic Noticias
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12729
-
-#EXTINF:-1,,portuguese:CMTV
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12730
-
-#EXTINF:-1,,portuguese:Sic Mulher
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12731
-
-#EXTINF:-1,,portuguese:SIC Caras
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12732
-
-#EXTINF:-1,,portuguese:SIC Radical
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12733
-
-#EXTINF:-1,,portuguese:TVCINE TOP
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12734
-
-#EXTINF:-1,,portuguese:TVCINE EDITION
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12735
-
-#EXTINF:-1,,portuguese:TVCINE 3 EMOTION
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12736
-
-#EXTINF:-1,,portuguese:TVCINE ACTION
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12737
-
-#EXTINF:-1,,portuguese:TV SERIES
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12738
-
-#EXTINF:-1,,portuguese:HOLLYWOOD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12739
-
-#EXTINF:-1,,portuguese:ARTV
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12740
-
-#EXTINF:-1,,portuguese:BIGGS
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12741
-
-#EXTINF:-1,,portuguese:Bloomberg
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12742
-
-#EXTINF:-1,,portuguese:SYFY
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12743
-
-#EXTINF:-1,,portuguese:11 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12744
-
-#EXTINF:-1,,portuguese:24 KITCHEN HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12745
-
-#EXTINF:-1,,portuguese:AFRO MUSIC
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12747
-
-#EXTINF:-1,,portuguese:AMC HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12748
-
-#EXTINF:-1,,portuguese:AXN BLACK HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12749
-
-#EXTINF:-1,,portuguese:AXN HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12750
-
-#EXTINF:-1,,portuguese:BABY TV
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12752
-
-#EXTINF:-1,,portuguese:BLAZE
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12753
-
-#EXTINF:-1,,portuguese:BTV HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12755
-
-#EXTINF:-1,,portuguese:CA?A E PESCA
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12756
-
-#EXTINF:-1,,portuguese:CA?AVISION
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12757
-
-#EXTINF:-1,,portuguese:CANAL HISTORIA
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12758
-
-#EXTINF:-1,,portuguese:CANAL PANDA
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12759
-
-#EXTINF:-1,,portuguese:CANAL Q
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12760
-
-#EXTINF:-1,,portuguese:CANCAO NOVA
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12761
-
-#EXTINF:-1,,portuguese:CARTOON NETWORK
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12762
-
-#EXTINF:-1,,portuguese:CBS REALITY
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12763
-
-#EXTINF:-1,,portuguese:CINEMUNDO HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12764
-
-#EXTINF:-1,,portuguese:CMTV HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12765
-
-#EXTINF:-1,,portuguese:DISCOVERY
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12767
-
-#EXTINF:-1,,portuguese:DISNEY CHANNEL
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12768
-
-#EXTINF:-1,,portuguese:DISNEY JUNIOR
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12769
-
-#EXTINF:-1,,portuguese:E! ENTERTAINMENT
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12770
-
-#EXTINF:-1,,portuguese:ELEVEN  2 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12771
-
-#EXTINF:-1,,portuguese:ELEVEN 6 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12774
-
-#EXTINF:-1,,portuguese:ELEVEN 1 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12775
-
-#EXTINF:-1,,portuguese:EUROSPORT  1 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12777
-
-#EXTINF:-1,,portuguese:FIGHT NETWORK HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12778
-
-#EXTINF:-1,,portuguese:FINE LIVING NETWORK HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12779
-
-#EXTINF:-1,,portuguese:FOOD NETWORK HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12780
-
-#EXTINF:-1,,portuguese:GLOBO PORTUGAL
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12787
-
-#EXTINF:-1,,portuguese:GLOBO PORTUGAL HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12788
-
-#EXTINF:-1,,portuguese:ID INVESTIGATION DISCOVERY HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12790
-
-#EXTINF:-1,,portuguese:JIM JAM
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12791
-
-#EXTINF:-1,,portuguese:KOMBAT SPORT
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12792
-
-#EXTINF:-1,,portuguese:MCM POP
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12794
-
-#EXTINF:-1,,portuguese:MCM TOP
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12795
-
-#EXTINF:-1,,portuguese:MEZZO-LIVE HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12796
-
-#EXTINF:-1,,portuguese:MTV PORTUGAL HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12798
-
-#EXTINF:-1,,portuguese:NAT GEO WILD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12800
-
-#EXTINF:-1,,portuguese:NICKELODEON
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12803
-
-#EXTINF:-1,,portuguese:NOS STUDIOS HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12804
-
-#EXTINF:-1,,portuguese:ODISSEIA HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12805
-
-#EXTINF:-1,,portuguese:PANDA BIGSS
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12806
-
-#EXTINF:-1,,portuguese:PORTO CANAL HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12808
-
-#EXTINF:-1,,portuguese:SIC
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12810
-
-#EXTINF:-1,,portuguese:SIC CARAS HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12811
-
-#EXTINF:-1,,portuguese:SIC HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12812
-
-#EXTINF:-1,,portuguese:Sic Kids HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12814
-
-#EXTINF:-1,,portuguese:SIC MULHER HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12815
-
-#EXTINF:-1,,portuguese:SIC RADICAL HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12817
-
-#EXTINF:-1,,portuguese:SPORTING TV HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12818
-
-#EXTINF:-1,,portuguese:SYFY-HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12819
-
-#EXTINF:-1,,portuguese:TLC
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12820
-
-#EXTINF:-1,,portuguese:TPA
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12822
-
-#EXTINF:-1,,portuguese:TV RECORD HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12824
-
-#EXTINF:-1,,portuguese:TV SERIES HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12825
-
-#EXTINF:-1,,portuguese:TVCINE TOP HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12826
-
-#EXTINF:-1,,portuguese:TVI
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12855
-
-#EXTINF:-1,,portuguese:TVI 24
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12856
-
-#EXTINF:-1,,portuguese:TVI FICCAO
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12857
-
-#EXTINF:-1,,portuguese:TVI HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12858
-
-#EXTINF:-1,,portuguese:TVI REALITY
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12859
-
-#EXTINF:-1,,portuguese:VH1
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12860
-
-#EXTINF:-1,,portuguese:TVCINE ACTION
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12861
-
-#EXTINF:-1,,portuguese:DISCOVERY HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12862
-
-#EXTINF:-1,,portuguese:ODISSEIA
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12863
-
-#EXTINF:-1,,portuguese:AXN
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12864
-
-#EXTINF:-1,,portuguese:Cinemundo
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12865
-
-#EXTINF:-1,,portuguese:MTV Portugal
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12866
-
-#EXTINF:-1,,portuguese:ZAP VIVA HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12867
-
-#EXTINF:-1,,portuguese:GLOBO NOW HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12868
-
-#EXTINF:-1,,portuguese:MY CUISINE
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12869
-
-#EXTINF:-1,,portuguese:TV RECORD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12870
-
-#EXTINF:-1,,portuguese:Porto Canal
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12871
-
-#EXTINF:-1,,portuguese:Sporting TV
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12872
-
-#EXTINF:-1,,portuguese:SPORT TV + HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12873
-
-#EXTINF:-1,,portuguese:SPORT TV 1
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12874
-
-#EXTINF:-1,,portuguese:SPORT TV 1 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12875
-
-#EXTINF:-1,,portuguese:SPORT TV 2
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12876
-
-#EXTINF:-1,,portuguese:SPORT TV 2 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12877
-
-#EXTINF:-1,,portuguese:SPORT TV 3
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12878
-
-#EXTINF:-1,,portuguese:SPORT TV 3 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12879
-
-#EXTINF:-1,,portuguese:SPORT TV 4
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12880
-
-#EXTINF:-1,,portuguese:SPORT TV 4 HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12881
-
-#EXTINF:-1,,portuguese:SPORT TV 5
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12882
-
-#EXTINF:-1,,portuguese:SPORT TV NBA  HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12884
-
-#EXTINF:-1,,portuguese:Eurosport 1
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12885
-
-#EXTINF:-1,,portuguese:Eurosport 2
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12886
-
-#EXTINF:-1,,portuguese:Eleven Sports 3
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12887
-
-#EXTINF:-1,,portuguese:Eleven Sports 6
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12888
-
-#EXTINF:-1,,portuguese:Eleven Sports 5
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12889
-
-#EXTINF:-1,,portuguese:Eleven Sports 4
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12890
-
-#EXTINF:-1,,portuguese:Eleven Sports 2
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12891
-
-#EXTINF:-1,,portuguese:Eleven Sports 1
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12892
-
-#EXTINF:-1,portuguese:NOS STUDIO HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12908
-
-#EXTINF:-1,portuguese:TRAVEL CHANNEL HD
-http://newshqip.dyndns.tv:8080/extreamnew123456/ansjahanshsksn78jshn/12918
+#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/19/11/12/12/25/0815514.jpg", Sonic La Pelicula   
+http://regioflix.club/REGIO2020/280520XX/50010REGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-jkH0werDWpo/Xd7UDi6NOOI/AAAAAAAAapI/utwQuo6yT2QlLK9l0kdFpRF8ME0XXZkWQCLcBGAsYHQ/s1600/bad%2Bboys.jpg", Bad Boys Por Siempre   
+http://regioflix.club/REGIO2020/280520XX/Bad.boys.for.life.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2019/12/aves.jpg?resize=626%2C900&ssl=1", Aves de Presa   
+http://regioflix.club/REGIO2020/280520XX/Birds.of.prey.and.the.fantabulous.emancipation.of.one.harley.quinn.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://pulpfictioncine.com/download/multimedia.normal.970e7424cc462181.626c6f6f6473686f742d313230333839345f6e6f726d616c2e6a706567.jpeg", Bloodshot   
+http://regioflix.club/REGIO2020/280520XX/Bloodshot.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://storage.googleapis.com/revista-instinto-media/2019/10/8f87b6f8-362420id2c_terminatordarkfate_intl_campb_27x40_1sheet_spn.jpg", Terminator Destino Oculto   
+http://regioflix.club/REGIO2020/280520XX/Terminator.dark.fate.2019.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://mx.web.img3.acsta.net/pictures/19/11/22/00/39/4534283.jpghttps://vignette.wikia.nocookie.net/disneyypixar/images/d/df/Frozen_2_Poster_2.jpg/revision/latest/scale-to-width-down/340?cb=20191209215445&path-prefix=es", Frozen II  
+https://onedrive.live.com/download.aspx?cid=E44DF942B91FC749&resid=E44DF942B91FC749%212324&authkey=AGLkRGxFUx18oro
+#EXTINF:0 group-title="peliculas" tvg-logo="https://echosrecordbar.co.za/storage/106172/conversions/106323-large.jpg", Terra Willy Un Planeta Inexplorado  
+http://regioflix.club/REGIO2020/280520XX/Terra.willy.unexplored.planet.2019.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img2.acsta.net/pictures/19/08/01/10/23/4884537.jpg", Jugando Con Fuego  
+http://regioflix.club/REGIO2020/280520XX/Jugando.con.fuego.SrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/pictures/19/04/29/10/44/0186539.jpg", Geminis  
+http://regioflix.club/REGIO2020/280520XX/g3m1mn1.m4n.2019.SrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/20/01/08/16/54/5502811.jpg", Diamantes En Bruto  
+http://regioflix.club/REGIO2020/280520XX/Diamantes.en.bruto.SrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71xvPKq5FgL._SY450_.jpg", Bohemmian Rapsody  
+http://regioflix.club/REGIO2020/280520XX/b0h3m14nr4ps0dySrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/5/5e/Poster_11.jpg/revision/latest?cb=20120408193130&path-prefix=es", La Profecia del 11.11.11  
+http://regioflix.club/REGIO2020/280520XX/LaProfeciaDel11.11.11.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/9/99/Zombieland_2_Poster_La.png/revision/latest?cb=20190909163524&path-prefix=es", Zombilandia 2 Tiro de Gracia  
+http://regioflix.club/REGIO2020/280520XX/ZombilandiaTiroDeGraciaSrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/d/da/ILYM.jpg/revision/latest?cb=20110324040702&path-prefix=es", Te Amo Brother  
+https://ryzen.hlssrv.com/hls_serve_mp4/yYSYjLeZa4yYTuLWirMN.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/frozen_2_p_243_ster_oficial_7aa7c384.jpeg?region=0%2C0%2C770%2C1100", Frozen 2 DVD Screner  
+http://regioflix.club/REGIO2020/280520XX/fr0z3n.2.2019.dvds.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/malefica-poster-1551884950.jpg", Malefica 2  
+http://regioflix.club/REGIO2020/280520XX/m4l3f1c3nt.m1str3ss.0f.3v1l.2019.srregio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.sectorcine.com/wp-content/uploads/2019/12/escuadron-6-poster.jpg", Escuadron 6  
+http://regioflix.club/REGIO2020/280520XX/Escuadron6SrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://mouse.latercera.com/wp-content/uploads/2019/04/addams-family-poster-1.jpg", La Familia Addams: Halloween  
+http://regioflix.club/REGIO2020/280520XX/th3.4dd4ms.f4m1ly.2019.SrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/19/09/05/10/45/5824406.jpg", RAMBO 2019  
+http://regioflix.club/REGIO2020/280520XX/r4mb0.l4st.bl00d.2019.hdrip.720p.latinoSrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://miro.medium.com/max/675/1*5KYt7zDm6vFjQYijC6lDrQ.jpeg", Boda Sangrienta  
+http://regioflix.club/REGIO2020/280520XX/boda.sangrienta.sr.regio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/19/07/30/09/09/0763744.jpg", IT: Capitulo 2  
+http://regioflix.club/REGIO2020/280520XX/IT2.SRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/poster-joker-2-1567010576.jpg", Joker  
+http://regioflix.club/REGIO2020/280520XX/joksrregiobrs.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/90/12/42/20081902.jpg", Nueve Reinas  
+http://regioflix.club/REGIO2020/280520XX/NueveReinasSrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i2.wp.com/comingsoon.com.mx/wp-content/uploads/2019/08/poster-historias-de-miedo-para-contar-en-la-oscuridad.jpg?resize=303%2C450&ssl=1", Historias de Miedo para contar en la Oscuridad  
+http://regioflix.club/REGIO2020/280520XX/sc4ry.st0r13s.t0.t3ll.1n.th3.d4rk.2019.brrs.SrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.excelsior.com.mx/media//inside-the-note/pictures/2019/03/21/dora_la_exploradora_pelicula_poster.jpg", Dora La Exploradora y la Ciudad Perdida 
+http://regioflix.club/REGIO2020/280520XX/d0r4.4nd.th3.l0st.c1ty.0.g0ld.2019.SrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61F9FP1NvSL.jpg", COCO  
+http://regioflix.club/REGIO2020/280520XX/coco.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cartel-el-camino-netflix-1569313372.jpg?resize=480:*", El Camino  
+http://regioflix.club/REGIO2020/280520XX/ElCaminoUnapel%C3%ADculadeBreakingBad.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41ZNxjju0XL.jpg", Fast And Furios Hobbs And Shaw  
+http://regioflix.club/REGIO2020/280520XX/f4st.4nd.fur10us.h0bbs.4nd.sh4w.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://regaloseuropa.com/WebRoot/Store14/Shops/0c13511c-26f9-4901-9cf0-c456b0c1e853/5CA6/0414/B799/FAB3/63DE/0A48/3534/0187/Poster_Disney_El_Rey_Leon_Simba.jpg", El Rey Leon 2019  
+http://regioflix.club/REGIO2020/280520XX/th3.l10n.k1ng.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://d9nvuahg4xykp.cloudfront.net/1000688362882447428/6840842068782473800.jpg", KIN  
+http://regioflix.club/REGIO2020/280520XX/k1n.2018.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/poster-de-lona-vinilica-toy-story-4-D_NQ_NP_638722-MLA31114800027_062019-Q.jpg", Toy Story 4  
+http://regioflix.club/REGIO2020/280520XX/t0y.st0ry.4.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://pbs.twimg.com/media/EAR5XXoXUAcZfts.jpg", Teen Titans Go vs Teen Titans  
+http://regioflix.club/REGIO2020/280520XX/t33n.t1t4ns.g0.vs.t33n.t1t4ns.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://pbs.twimg.com/media/C90UIBXUwAA5lsR.jpg", Mexico Barbaro 2018  
+http://regioflix.club/REGIO2020/280520XX/m3x1c0.b4rb4r0.2018.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.movienco.co.uk/carteles/14800/14865/004.jpg", Una Foto Antes de Morir  
+http://regioflix.club/REGIO2020/280520XX/f0t0.n4.p4my4t.2018.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2019/03/spiderman-lejos-casa.jpg?itok=5Pggz3yG", Spider Man Lejos de Casa  
+http://regioflix.club/REGIO2020/280520XX/sp1d3r.m4n.f4r.fr0m.h0m3.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.cinematerial.com/p/500x/emi8atu3/anna-french-movie-poster.jpg?v=1560522294", Anna  
+http://regioflix.club/REGIO2020/280520XX/4nn4.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img2.acsta.net/r_1280_720/pictures/19/05/08/16/59/2526525.jpg", Aladino  
+http://regioflix.club/REGIO2020/280520XX/aladin2019SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video113/v4/dc/5c/d8/dc5cd867-e794-0386-6f76-0a4e580a2cfe/pr_source.lsr/268x0w.jpg", Anabelle 3  
+http://regioflix.club/REGIO2020/280520XX/4nn4b3ll3.3.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://posterspy.com/wp-content/uploads/2018/09/Childs-Play.jpg", Childs Play 2019  
+http://regioflix.club/REGIO2020/280520XX/ch1lds.pl4y.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://www.adnradio.cl/images/2019050933969640.jpg", X-MEN Dark Phoenix  
+http://regioflix.club/REGIO2020/280520XX/x.m3n.d4rk.ph03n1x.2019.brrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img2.acsta.net/pictures/19/05/08/16/46/4235211.jpg", Godzilla El Rey de los Monstruos  
+http://regioflix.club/REGIO2020/280520XX/g0dz1ll4.k1ng.0f.m0nst3r.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn4.gsc.com.my/WebLITE/Applications/MovieManagement/uploaded/pics/2019/John_Wick_3_Parabellum/John_wick3_new_keyart_500.jpg", Jhon Wick 3  
+http://regioflix.club/REGIO2020/280520XX/j0hn.w1ck.3.p4b3llum.2019.brrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://prensaescenario.files.wordpress.com/2018/11/la-vida-secreta-de-tus-mascotas-2-poster.jpg?w=505", La Vida Secreta de tus Mascotas 2  
+http://regioflix.club/REGIO2020/280520XX/th3.s3cr3t.l1f3.0f.p3ts.2.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://pics.filmaffinity.com/uglydolls-187959511-large.jpg", Uglydolls: Extraordinariamente feos  
+http://regioflix.club/REGIO2020/280520XX/uglyd0lls.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/05/a0/6d/05a06df19eb5a96d5d2442c3b2d0d766.jpg", Maestras del Engaño  
+http://regioflix.club/REGIO2020/280520XX/th3.hustl3.2019.brrs.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2019/04/Rocketman-poster-2.jpg", Rocketman SUB  
+http://regioflix.club/REGIO2020/280520XX/r0k3tm4n.2019.hdrip.720p.subesp.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.mundopeliculas.tv/wp-content/uploads/2019/01/la-razon-de-estar-contigo-4-646x1024.jpg", La Razon de Estar con Tigo: Un Nuevo Viaje  
+http://regioflix.club/REGIO2020/280520XX/4.d0gs.j0urn3y.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/poster-original-de-cine-avengers-endgame-vengadores-end-game-D_NQ_NP_971781-MLM29887883019_042019-F.jpg", Avengers End Game  
+http://regioflix.club/REGIO2020/280520XX/4v3ng3rs.3ndg4m3.2019.brrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGViZWEwOGItMGZlMC00YzE1LTk5ZWItMGYxYjhhMjBmNDMwXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg", Nada Es Privado  
+http://regioflix.club/REGIO2020/280520XX/th3.gr34t.h4ck.2019.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://www.revistabrooke.com/wp-content/uploads/2019/06/ni-en-tus-sue%C3%B1os-peli-2019-poster.jpg", Ni En Tus Sueños  
+http://regioflix.club/REGIO2020/280520XX/NiEnSusSue%C3%B1osSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/19/04/02/13/08/3361614.jpg", Shazam  
+http://regioflix.club/REGIO2020/280520XX/shazam720pSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-curse-of-la-llorona-poster-1550734214.jpg?crop=1xw:1xh;center,top&resize=480:*", La Llorona  
+http://regioflix.club/REGIO2020/280520XX/lalloronaSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-curse-of-la-llorona-poster-1550734214.jpg?crop=1xw:1xh;center,top&resize=480:*", La Llorona SUBTITULADA  
+http://regioflix.club/REGIO2020/280520XX/lalloronaSUBSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/el_gran_asalto_211.jpg", El Gran Asalto  
+http://regioflix.club/REGIO2020/280520XX/ElGranAsalto.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/18/01/27/16/40/3850432.jpg", El Ritual  
+http://regioflix.club/REGIO2020/280520XX/ElRitual.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://elfinalde.com/wp-content/uploads/2016/09/k9quViLJvizFReyZAwjqXz7MD2C-683x1024.jpg", Como entrenar a tu Dragon  
+http://regioflix.club/REGIO2020/280520XX/comoentrenaratudragon.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://www.cinepremiere.com.mx/assets/images/noticias/2014/04-abril/Poster-Dragon.jpg", Como entrenar a tu Dragon 2  
+http://regioflix.club/REGIO2020/280520XX/comoentrenaratudragon2.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://static.posters.cz/image/750/poster/como-entrenar-a-tu-dragon-3-one-sheet-i70043.jpg", Como entrenar a tu Dragon 3  
+http://regioflix.club/REGIO2020/280520XX/Comoentrenaratudragon3SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/77721.jpg", Hellboy  
+http://regioflix.club/REGIO2020/280520XX/HellboySRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/736x/a8/d7/f3/a8d7f32bc734d20e82bcd909dea54bcc.jpg", I Love Dogs Una Comedia Sin Malas Pulgas  
+http://regioflix.club/REGIO2020/280520XX/dogdaysSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://flxt.tmsimg.com/assets/p15952868_b_v9_aa.jpg", Zombie a los 17  
+http://regioflix.club/REGIO2020/280520XX/zombieat17SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA2YTI5YjUtZWI4Zi00NWQ5LWFiYmEtOTBmNTUyNDAwNjllXkEyXkFqcGdeQXVyNjIzNzM4NzA@._V1_.jpg", Misterio a Bordo  
+http://regioflix.club/REGIO2020/280520XX/misterioabordoSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41P8CcVmx0L.jpg", Ong Bak  
+http://regioflix.club/REGIO2020/280520XX/OngBakSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71jOztWX9YL._SL1259_.jpg", Dumbo  
+http://regioflix.club/REGIO2020/280520XX/dumb02019SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/710M3Z0kIqL._SL1197_.jpg", Detective Picachu  
+http://regioflix.club/REGIO2020/280520XX/DetectivePicachuSRREGIOHDS.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img2.acsta.net/r_1280_720/pictures/18/11/15/10/52/3730528.jpg", Parque Magico  
+http://regioflix.club/REGIO2020/280520XX/w0nd3rp4rk2019hdsSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/S_834710-MLA29510175011_022019-O.jpg", A dos Metros de ti  
+http://regioflix.club/REGIO2020/280520XX/f1v3f33t4p4rt2019hdripSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/mi_mascota_es_un_leon.jpg", Mi Mascota Es Un Leon  
+http://regioflix.club/REGIO2020/280520XX/m143tl3l10nbl4nc2018SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.cinematerial.com/p/500x/zf2ztida/la-boda-de-mi-mejor-amigo-mexican-movie-poster.jpg", La Boda De Mi Mejor Amigo  
+http://regioflix.club/REGIO2020/280520XX/l4b0d4d3m1m3j0r4m1g02019SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.ebayimg.com/images/g/F3QAAOSwF5tbbjWl/s-l300.jpg", Dragon Ball Super Broly  
+http://regioflix.club/REGIO2020/280520XX/dr4g0nb4llsup3rbr0ly2019brrip720platinoV2SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.compucalitv.com/wp-content/uploads/2019/05/batman-tortugas-ninja-2019-hd-1080p-720p-latino-portada.jpg", Batman vs Tortujas Ninja  
+http://regioflix.club/REGIO2020/280520XX/b4tm4nvst33n4g3mut4ntn1nj4turtl3s2019SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cholilaonline.com/wp-content/uploads/2019/04/Poster_Cementerio_De_Animales.jpg", Cementerio Maldito 2019  
+http://regioflix.club/REGIO2020/280520XX/p3t.s3m3nt3ry.2019.hc.hdrip.720p.latinoSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.ecartelera.com/carteles/14200/14204/003.jpg", Felix Dia De Tu Muerte 2  
+http://regioflix.club/REGIO2020/280520XX/h4ppyd34thd4ytw02019SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://2.bp.blogspot.com/-XZblfz92hrE/XDUaih8_-II/AAAAAAAAqQA/M17NCYefJ24NkSk4r4zMByWpvpckfHagwCLcBGAs/s00/Maligno_Poster_2_JPosters.jpg", Maligno  
+http://regioflix.club/REGIO2020/280520XX/th3pr0d1gySRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.shopify.com/s/files/1/0747/3829/products/mL1886_1024x1024.jpg?v=1535993102", Unfriended Dark Web  
+http://regioflix.club/REGIO2020/280520XX/Unfriend.DarkWeb.SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://1.bp.blogspot.com/-zbz7Esih6WI/W-3mA7q7HnI/AAAAAAAAqI8/WvmQO8T2qMcA_cH79dfElxa0jFLOgM0FgCLcBGAs/s00/No_Mires_Look_Away_Poster_JPosters.jpg", No Mires  
+http://regioflix.club/REGIO2020/280520XX/NoMiresSrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyOTkwNDc1N15BMl5BanBnXkFtZTgwNzkyMzk3NjM@._V1_.jpg", Lego Movie 2da Parte  
+http://regioflix.club/REGIO2020/280520XX/LegoMovie2019SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.cinematerial.com/p/500x/thvlphez/rendel-finnish-movie-poster.jpg", Rendel  
+http://regioflix.club/REGIO2020/280520XX/rendel.SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://2.bp.blogspot.com/-3mEI0AVbJPg/WqAsvlJ0RPI/AAAAAAAAodw/Hcvxrhd7lsQCJaBtJhSPNT0EE_P6372YwCLcBGAs/s00/Vedad_O_Reto_Poster_Teaser_Latino_JPosters.jpg", Verdad o Reto  
+https://archive.org/download/vorSrRegio/vorSrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/e1/ee/09/e1ee09adc205a8d659dd0e8f9ec3aeba.jpg", Aquaman  
+http://regioflix.club/REGIO2020/280520XX/Aquaman.SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://2.bp.blogspot.com/-uIvXL3ptjbA/XAa7UCfWz4I/AAAAAAAAqLI/dNr8LlCmBXAaqkxilVWT1srA2qaBdgjbgCLcBGAs/s00/Cadaver_Poster_2-JPosters.jpg", Cadaver  
+http://regioflix.club/REGIO2020/280520XX/c4d4v3r2018SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://mx.web.img3.acsta.net/pictures/18/05/14/22/39/1904920.jpg", Pesadilla En El Infierno  
+http://regioflix.club/REGIO2020/280520XX/PesadillaEnElInfierno.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.cinematerial.com/p/500x/anxhfrdx/t-34-russian-movie-poster.jpg", T-34 SUBTITULADA  
+http://regioflix.club/REGIO2020/280520XX/T-34.Sub.SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://mx.web.img3.acsta.net/pictures/19/03/14/18/09/5749412.jpg", Nacido Para Ser Rey  
+http://regioflix.club/REGIO2020/280520XX/NacidoParaSerReySrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/18/12/03/12/00/1528300.jpg", Glass  
+http://regioflix.club/REGIO2020/280520XX/GlassSrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1t8xCe9jwL._SL1500_.jpg", Infinity War  
+http://regioflix.club/REGIO2020/280520XX/InfinityWarSrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://elinformanteperu.com/wp-content/uploads/2019/02/Afiche-mani.jpg", El Manicomio La Cuna Del Terror  
+http://regioflix.club/REGIO2020/280520XX/ElManicomioLaCunaDelTerrorSrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://img.tviso.com/ES/poster/w430/0a/90/0a9095e82c7186dd9edb8902342266b4.jpg", Un Golpe Sobrenatural  
+https://archive.org/download/navidad321SrRegio_201904/navidad321SrRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/poster-lona-vinilica-coco-D_NQ_NP_915189-MLA27017444936_032018-F.jpg", Coco  
+http://regioflix.club/REGIO2020/280520XX/coco.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/yugiohenespanol/images/8/81/Yugioh_Pelicula_Poster_2.png/revision/latest?cb=20151212010332&path-prefix=es", Yu Gi Oh El Lado Oscuro De Las Dimensiones  
+http://regioflix.club/REGIO2020/280520XX/Yu-Gi-Oh.El.Lado.Oscuro.de.las.Dimensiones.SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/736x/09/37/f1/0937f1747dc79bc6ddc44ff39c4a3043.jpg", Mis Huellas A Casa  
+http://regioflix.club/REGIO2020/280520XX/Mis.Huellas.A.Casa.SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/poster-de-cine-bumblebee-transformers-john-cena-D_NQ_NP_780296-MLM28802122657_112018-F.jpg", Bumblebee  
+http://regioflix.club/REGIO2020/280520XX/Bumblebee.SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://mx.web.img3.acsta.net/pictures/19/11/22/00/39/4534283.jpg", Cindy La Regia  
+https://archive.org/download/gamers_202002/gamers.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://http2.mlstatic.com/regreso-al-futuro-poster-30x46cm-back-to-the-future-po095-D_NQ_NP_935111-MLM20493561423_112015-F.jpg", Volver al Futuro  
+https://archive.org/download/qwerty_202001/qwerty.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51URcEemjTL.jpg", Volver al Futuro 2  
+https://archive.org/download/qwerty2/qwerty2.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/14/04/28/11/11/012699.jpg", Volver al Futuro 3  
+https://archive.org/download/qwerty3/qwerty3.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://gnula.nu/wp-content/uploads/2019/09/Tod@s_caen_poster_mexico.jpg", Todas Caen  
+https://superb.hlssrv.com/hls_serve_mp4/PvR18OORPNa5WCotQueL.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/17/02/08/13/46/111920.jpg", Your Name  
+https://archive.org/download/258DocNameRegio/258DocNameRegio.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MjQ3MjI5MV5BMl5BanBnXkFtZTgwNjczMDE4NTM@._V1_.jpg", Jhonny English 3.0  
+https://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://imgc.allpostersimages.com/img/print/posters/regreso-al-futuro_a-G-1651411-0.jpg", Volver al Futuro  
+https://archive.org/download/VolvAFuSRREGIO/VolvAFuSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0Nzg2Mzg2OV5BMl5BanBnXkFtZTgwNjE1NDM4NTM@._V1_.jpg", La Bruja en la Ventana SUBTITULADO  
+https://archive.org/download/70452SRREGIO/70452SRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/e/ee/Eso_%281990%29_Car%C3%A1tula.jpg/revision/latest?cb=20171020012317&path-prefix=es", Eso (It) 1990  
+https://archive.org/download/17350SRREGIO/17350SRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTU0MjAwMDkxNV5BMl5BanBnXkFtZTgwMTA4ODIxNjM@._V1_.jpg", Next Gen | SRREGIO.NET
+https://archive.org/download/n3xSRR3610/n3xSRR3610.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_32657_27.jpg", Tragedy Girls | SRREGIO.NET
+https://archive.org/download/tr4gSRREG10/tr4gSRREG10.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://fdzeta.com/subir/images/jLGYP.jpg", Todo Poderoso    
+https://bit.ly/2GajoTS
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/95/6e/17/956e17f1164ebb2a6d9a95e6a89f4041.jpg", La Leyenda de la Nahuala    
+https://bit.ly/2wBzaYz
+#EXTINF:0 group-title="peliculas" tvg-logo="https://3.bp.blogspot.com/-nFLhtyQDFR4/Vux-PnZCpZI/AAAAAAAAirU/F3mcY7HNSn067Zy3LkRDonZbjMMM3GxkQ/s00/Que_Culpa_Tiene_el_Ni%25C3%25B1o_Poster_JPosters.jpg", Que Culpa Tiene el Nino    
+https://bit.ly/2wBG4x8
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/78/40/96/20433085.jpg", La Fuerza De La Ilusion    
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg", Cuando nos Conocimos    
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/180520re/la-forma-del-agua/135589642-3-esl-ES/La-forma-del-agua.jpg", La Forma del Agua SUBTITULADO    
+https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg", Nosotros Los Nobles    
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg", The Cloverfield Paradox    
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg", Terminus    
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg", Deadpool    
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg", Intensamente    
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg", JIGSAW VIII    
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina    
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO    
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
