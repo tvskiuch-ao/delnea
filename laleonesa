@@ -2214,6 +2214,323 @@ https://593b04c4c5670.streamlock.net/8134/8134/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-NxeQx17jc7E/Wn9lvKl4XyI/AAAAAAAAgwk/yg9OmGL8ZdoUeruk7i0dYYzmhDa4xOB8gCK8BGAs/s225/2018-02-10.png", Gracia TV (Chile)
 http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8
+#EXTINF:-1 group-title="LAT ", Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",MULTIMEDIOS
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 group-title="LAT ",PortalFoxMix Tv
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
+
+#EXTINF:-1 group-title="LAT ",Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 group-title="LAT ",TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+
+#EXTINF:-1 group-title="LAT ", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+
+#EXTINF:-1 group-title="LAT ", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+
+#EXTINF:-1 group-title="LAT ", Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 group-title="LAT ",Capital 21 Mexico City
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+
+#EXTINF:-1 group-title="LAT ",Multimedios (Mexico)
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 group-title="LAT ",Canal Once (Mexico)
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 group-title="LAT ",15 TV
+http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
+
+#EXTINF:-1,Bolivia 2 FTA
+http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Latinos:TV Chile
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+
+#EXTINF:-1 group-title="LAT ",Carolina TV (Chile)
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Holvoet TV Chile
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+
+#EXTINF:-1 group-title="LAT ",Digital 15
+http://bit.ly/2CLgJ6u
+
+#EXTINF:-1 group-title="ARG ", CANAL 5
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESREPDOM.png
+
+#EXTINF:-1 group-title="LAT ", CANAL 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
+#EXTINF:-1 group-title="ARG ", Canal 26 | HD
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ", El Garaje TV | SD
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ",Canal 9 (Argentina)
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ",24/7 Noticias
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ",Music Top (ARG)
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ",ARGENTINA:Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 group-title="ARG ",Canal 26 1
+http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 group-title="ARG ",Canal 26 2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 group-title="ARG ",Canal 26 3
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 group-title="ARG ",Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 group-title="ARG ",Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 group-title="LAT ", Telered | SD
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", TV Sur | SD
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", Ticavision | SD
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Telesur (Costa Rica)
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Canal UCR
+http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", Tele Islas | SD
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+
+#EXTINF:-1,TV Noticias 7.3 (Peru)
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
+
+#EXTINF:-1,Monterrico TV (Peru)
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+
+#EXTINF:-1,CTV Peru
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Ovacion
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1,Central TV Perú
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",NexTV (Panama)
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+
+#EXTINF:-1,Wow TV (El Salvador)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1 group-title="LAT ",TEN Canal 10 (Honduras)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+
+#EXTINF:-1 group-title="ARG ",CANAL 6
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+
+#EXTINF:-1 group-title="LAT ", M2O TV | SD
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="LAT ", Retro TV | SD
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", DJIng Ibiza | HD
+http://www.djing.com/tv/ibiza.m3u8
+
+#EXTINF:-1 group-title="LAT ", Capital TV | SD
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+
+#EXTINF:-1 group-title="LAT ", Radio Sanborja (Peru) | SD
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", Radio Contact Feel Good | HD
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+
+#EXTINF:-1 group-title="LAT ", Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Futuro 88.9 (Chile)
+http://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",La Mega Mundial (EU)
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Melody Channel (EU)
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+#EXTINF:-1 group-title="ARG ",Music Top (Argentina)
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Portal Foxmix (Chile)
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", DeporTV | SD
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8?
+
+#EXTINF:-1 group-title="LAT ", Antares TV | SD
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ",Lancelot TV PELI
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:-1 group-title="MX ", Multimedios Laguna | HD
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 group-title="MX ", Canal 20 Zacatecas | SD
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", 15TV Sabinas | SD
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", La Xarxa | SD
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", ETBSAT | SD
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+#EXTINF:-1 group-title="LAT ", Lebrija TV | SD
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+
+#EXTINF:-1 group-title="LAT ", TV Galicia America | SD
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", TV Galicia Europa | SD
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", Canal 4 Tenerife | SD
+https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
+
+#EXTINF:-1 group-title="LAT ", TeleSafor | HD
+http://video.telesafor.com/hls/video_high.m3u8
+
+#EXTINF:-1 group-title="LAT ", 7TV | SD
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+
+#EXTINF:-1 group-title="LAT ", Camara de Diputados | SD
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
+
+#EXTINF:-1 group-title="LAT ", TV Senado | HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+
+#EXTINF:-1 group-title="ARG ", Canal Provincial | SD
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1 group-title="LAT ", Teleceiba Canal 7 | SD
+http://190.11.224.14:8134/liveevent.m3u8
+
+#EXTINF:-1 group-title="LAT ", TEN Honduras | HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com ACENTO TV
+http://acentotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com CANAL CAPITAL HD
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com CANAL DEL SOL 65
+http://canaldelsol01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com CNC3
+http://161.0.157.8/PLTV/88888888/224/3221226845/index.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com COLOSAL TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com COMUNION TV
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com EDE TV
+http://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_b1894400_slNLD.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com EL LIDER
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com ESPERANZA TV USA
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com MANGO TV RD
+http://mangotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com MICROVISION 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com MONTE MARIA CA
+http://162.212.176.51:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com RED ADVENIR
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com RTQ QUERETARO
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com RTV ARNHEM
+http://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/chunklist_b1894400_slNLD.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com TELECENTRO 13
+http://stream.grupotelemicro.com/13.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com TELEMAR CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com TEN CANAL 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8
+
+#EXTINF:-1 group-title="MX ", MX: achoAPPS.com TV COSMOS
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+
+#EXTINF:-1 group-title="LAT ", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-1 group-title="MX ", Capital 21 Mexico City
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&amp;set-cc-attribute=cc
+
+#EXTINF:-1 group-title="MX ", Azteca Uno
+http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+
+#EXTINF:-1 group-title="MX ", RCG TV1
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1 group-title="MX ", RCG TV2
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
+#EXTINF:-1 group-title="MX ", Multimedios CDMX
+http://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 group-title="MX ", Sipse TV Cancun
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+
+#EXTINF:-1 group-title="MX ", RCG | SD achoAPPS.com
+http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="CHILE" logo="https://lh3.googleusercontent.com/-TmPM1gqdUS8/Wn9m_65JtNI/AAAAAAAAgw4/Kr6ucgq8g7wJsJ6oiIHaSrEA3R5A6I7ggCK8BGAs/s132/2018-02-10.png", PinguinoTV
 http://streaming.elpinguino.com:1935/live/pinguinotv_240p/playlist.m3u8
@@ -3228,3 +3545,78 @@ https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:0 group-title="peliculas" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO    
 https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5bb055c6d84d3_pIi99YX0L6YzTHDzt8r7oLG01Ky.jpg group-title="PELICULAS",ZONA HOSTIL
+https://content-na.drive.amazonaws.com/cdproxy/share/xIXDLu6cWaceilrBcOwr12MuFt50z91TFbRboGvda5X/nodes/hrSGz5KCR5a1IYQf7cbPlw?nonce=hk29noG8jJnAL6YAX5J_UCxM_O6Gsxdne9yR0tW1U93MQyRFhwYiVKDVRUqJ26AN
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5cc25eed9c594_nWVSoHKWPBFx6DVuBGXQ8KFP5wx.jpg group-title="PELICULAS",FRANCOTIRADOR
+https://content-na.drive.amazonaws.com/cdproxy/share/jVS86E9cwSVuuzw0QIULQ5GY4OoOydLnmdnGqJhFHTH/nodes/ro2ZNsCHStyvARPBWY9clg?nonce=GLGxfyax2Aq0gbtqbLKm_8C2mXXuLQNq3RITrfODC4Dl_v5QlYFaJyvGEWFgWpE4
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5c9def50761b0_mSqJzD857y3MSxHgW6ItZMoSUfa.jpg group-title="PELICULAS",NACE UNA LEYENDA
+https://content-na.drive.amazonaws.com/cdproxy/share/GyAUWDP7icY5Ne3I2sMyai2kupTqt7rNC2y8e4HbNPC/nodes/08r6bkqFQ7SwpffuzIQkyw?nonce=6PcyuiWp2Uj4ANGerLdzkEzdejFEAbg6R7XGup0S77XO2FxlAvxsB5qMtFgXpe89
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5c3571997a079_bWWAlKUaIrBI7NtvjKGcui5y1DN.jpg group-title="PELICULAS",ACUSADA
+https://content-na.drive.amazonaws.com/cdproxy/share/UYvevQKRZ2PMfT2xtxuJCQE983mYyO6f7tRKjp3xUcu/nodes/XqbcN_MNTcu0LapUf5GhmA?nonce=9hynM3sUr8fgT45ywzmBsmvEa7UVI-NS8fdwT1Zd1u-e1YKT8BX3zxLbMDwaZhTe
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5c4b85ae55167_fmv5fgkOCEBBY972oa6hrkLZi8I.jpg group-title="PELICULAS",POLAR
+https://content-na.drive.amazonaws.com/cdproxy/share/tmh4NaWoRP2srZaEhesR4w70ChGLpr8atlSiRvHEfBJ/nodes/gxQTA1kqQsGrHiXOiuEyQQ?nonce=d6AVVlgRKew4BrZgWkyqYW5jJBaqcJOoCr7h2ZznsQ1F66AHZfHlAoEkWXipDmEW
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5bfb55c32d777_Aqhl55vpzxNFqVfc2DpedUsR39L.jpg group-title="PELICULAS",ESCAPE
+https://content-na.drive.amazonaws.com/cdproxy/share/jfTyMe5JcjXLeYAPs4r6NBlhbkO2lEC3cwcF2FMecGr/nodes/3iX3rFoMSKujtkWYG5SCvQ?nonce=e_eblNRg9MmzTQ1Q0lKShX3c1sII-W4BWUItNPbmEqviX4fMm4bgp7aog2_t0jpQ
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5c47a0323d186_v0QEhPYZngTzntKSvXXRbqcyVEQ.jpg group-title="PELICULAS",ROBIN HOOD
+https://content-na.drive.amazonaws.com/cdproxy/share/NTOXTbB986Sj1FWrCVi6XKY1iaz0nd21J3FGKUpqXOg/nodes/N4KAwj2QTk6kL75S1YrR6A?nonce=KJGZ3XcPcdl7TEhhtH8SPXY62Z6cMqQMveuZtT56DEupiI9g_rht-RKV5u_dzFUG
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5be23a79e98f8_vI3NHbePBV1pC60HYo5xEQKFR1H.jpg group-title="PELICULAS",EL ASEDIO JADOTVILLE
+https://content-na.drive.amazonaws.com/cdproxy/share/nZuuYWBizVdGATuzWJtM0PwtQVd6A7RE0ONqQu4WKf9/nodes/5xNOR1vKSUWYG74PSFwD9g?nonce=wYgZ31pY74GVYQYN7bZPsc4DSCj54BmKTVUSrwuZDzykz0E24RUQa7sEVP0KshvF
+
+#EXTINF:-1 tvg-logo=https://www.pelisplay.tv/pelicula/dentro-del-volcan group-title="PELICULAS",DENTRO DEL VOLCAN
+https://content-na.drive.amazonaws.com/cdproxy/share/R3BMIytSccP4enRUWX8HOMKyGc0I3wWmoDhiMns371C/nodes/8wrs7FmkRcaOE9UOn3O9Vg?nonce=DpOw9oio8mZTd5U4UQ6M_Jfysz2lCEGF32l7xRvkHV8J7jAO-pFg2sRVAHPes-RG
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5be20ee29ba43_kCNl4QPstAqChFD0NnLpbDFG8ul.jpg group-title="PELICULAS",MANIAC
+https://content-na.drive.amazonaws.com/cdproxy/share/7ucMFBtLpXPTeNKseihBUPFZem870i6w9cN1kcdLvnp/nodes/Vz6N2_tBTIKnNpW3nPGo6Q?nonce=sGUxcvP1gmQrE4NTg56NKIMV9tZ5b3Afn9mC6KUHu8mStt6Wx8WR15OQPAbUSnP-
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5cb65ef987185_pR0BEqHfc9UHx2BPIuqU5CG6Fdi.jpg group-title="PELICULAS",HELLBOY
+https://content-na.drive.amazonaws.com/cdproxy/share/JcXNRuETdQOmiKERzOqKotgkhdr6Jmsiw6slphkAVq3/nodes/DU7EoPu0SLG66GFqZvoquw?nonce=QbYAwzOB5UVNNSRpge9MqCcY4YKDeAuk2rI62VvbUDJUqxDLWq_2s5pLgx_3HP8i
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5c96b22570585_2GDxKKxnaoF0a1GEDdXT7Dytnuj.jpg group-title="PELICULAS",JEFA POR ACCIDENTE
+https://content-na.drive.amazonaws.com/cdproxy/share/kGXQQHjt3U6zx5d3r74sE5HvmsYbUbopPnXhvaXT6g/nodes/xOWU-YiRTQmUJfR9YAtRQw?nonce=wOJ_KPuNBsZmczPphqfUwizYO2CBVkFqTCHoxDYBgAFRlqnyQQAug-sm_obleadk
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5c9024091e862_kojrGQcMrVPSUxZkJDqDCUXOC6P.jpg group-title="PELICULAS",BURN OUT
+https://content-na.drive.amazonaws.com/cdproxy/share/wYfeN6CS1QeEiF5TdVT6wMxHzHbXJ4u60C1QSwgElLE/nodes/k8iR7IhTTsCkL74auYS4BQ?nonce=Q3YHDVustjUdqByolXQSGV2Wg6V2Gdoy0a9C4OZBarMz8wJlYg7EWbzHYXfxXMZd
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5c9033807875e_tajm7Hs5GuJxtIAaAbROO5Wc779.jpg group-title="PELICULAS",TRIPLE FRONTERA
+https://content-na.drive.amazonaws.com/cdproxy/share/mjum17KXJHA0btA2qH339Pfi7DWz0zDbFWT6iJ4c0WZ/nodes/i6xSJzoYS_iqbB84eunSrA?nonce=qPfbUIHya4rW3vmgXWLkFkupplRWWs2_R1vSN96dQJ40vOBeaSa1madfN_1HjOGg
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5c1b1b4d33909_rR7wg3h1n3f9xa0k8Hnc7fcSWVl.jpg"PELICULAS",MISION SUBMARINO
+https://content-na.drive.amazonaws.com/cdproxy/share/tklXpBUeJK6eV78Z63HyXw6CSxXUXAch9cyRk36MftQ/nodes/8R-bcwIVQnG958RmDZtW1g?nonce=vNMtyp-qEXOf8k7F8B7tg24WHmgKiaDqHOS9mx-QxnvnmC2s5DpebpBT98EbFLHw
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5c0de981cc719_6NmsbUJqnopbnLun2E4KvtVNj8T.jpg group-title="PELICULAS",THE CLOVEHITCH KILLER
+https://content-na.drive.amazonaws.com/cdproxy/share/2ZNc9l6GGPIpDtcAv2eNa7eLpXzAlVB7Qc08GvzvAGi/nodes/568Y3bICQ-uY8brAkPlNWg?nonce=vRfI5-cigcvbert20r7flq2hMUDcZjpNYaaekqjC6yk9jAeYUd5dmiPyZjNix61p
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5bfb51a58b3a1_A2jQjfisMuEj7LfaJUF23Gdbrw8.jpg group-title="PELICULAS",MILLA
+https://content-na.drive.amazonaws.com/cdproxy/share/hXrTizgGwROVCZDU3kM4QYrI2sSDrGYLYTQ24IQQzEN/nodes/3jWAaHvVQF-zWOGg5eUARQ?nonce=CWhh4UngOi6Dz0BwWgE3tIA5Rd3N70aJOnAhlGVrpAMNlEGep1xMsyTCm32e9Xlf
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5c096def18a52_2k78NzbfOuSeJYSSV7RmYBlgiOc.jpg group-title="PELICULAS",NICKE JAM
+https://content-na.drive.amazonaws.com/cdproxy/share/4NTTG7MAqiBAsCPmBCobHuCz9vTGoEePzublSXbIgsh/nodes/E5sEbQKaS92_98LREBwcug?nonce=iwd11zEq3B-VzFOuF5Ep8D4vbcgle1PJSmVHOxekAFcVR48S_8uTYIdgjuNC9mVB
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5bf5f38c46e92_53cCw1weALlERwAieFQs5yvarFt.jpg group-title="PELICULAS",MATAR O MORIR
+https://content-na.drive.amazonaws.com/cdproxy/share/w3ade7ldcQMVrJNkkE2AmxT2yTS3T6iURlFe7Uchse9/nodes/jEqCbS2EQTK6pZzSR4HC3A?nonce=d11qOx6p69L6D-8g0jB0BQA0Wkm8GuFaVgCm3Oba3ve2r6VW_7W33FhWPCMBz3Bg
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5badc68a68fc5_5tNrlxFAmlcMArbMwG9qnOu0C06.jpg group-title="PELICULAS",TE ATRAPE
+https://content-na.drive.amazonaws.com/cdproxy/share/Dky0lT6I6VG83mqPcfogi7Zp99WyenTf8z8xDsJ484z/nodes/mZRWcDvcQfmu8zahYePNlg?nonce=oqRXCs9vFi1DAv-oMV5KyvdUokYX3mQW7JdS5CtIdxLji6bbG6f1do4z1Z8apmkm
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5b82305d5d8b7_huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg group-title="PELICULAS",SLENDER MAN
+https://content-na.drive.amazonaws.com/cdproxy/share/sTPmCELnba1iFrABjUhC7dZr58u0b0JoodU619z4mW5/nodes/58h_jHF1SV-htYaK7_R-6Q?nonce=BTYcVoGkHbNHRu02c3LRpuVuOAXwDs0ZGHdDW2B5UVLFIv7YRGEoNtMPE6OMw39c
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5b8210221ed78_6KFvIeIuM5wNHx8WYxSdEPv8kit.jpg group-title="PELICULAS",EXTINCION
+https://content-na.drive.amazonaws.com/cdproxy/share/gMxzCd3Bg6W7W5txRPgUeB0ydPYW810QlEkcOkQpQYG/nodes/WHoOgVBWTkyaqdTbqbydmg?nonce=Ym6clLfChEQhSK0hg-ExgkTy20KmGhnLt_jC4CmMGHrIk9WUishbpuPwZlB-8D_J
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5b8210ce07ebf_7cLehlXHADXTSILmjVnERRlQ57H.jpg group-title="PELICULAS",EL REHEN
+https://content-na.drive.amazonaws.com/cdproxy/share/MSVLbc7jeM5ZCsOOt7QTKHg1Hrkl9kkegjs1mWFXsWg/nodes/HGQdbg-RTa-r1I9W2dQhEg?nonce=aTuDj1S2NUWtBeANn07xoMCnqMWHa0YkDZjL1avWpnmuQjzWegsNbH3_3ruRcFzS
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5b81dd60ad4c9_kO3vLcLvqtVG2zBajNHuYSGITmx.jpg group-title="PELICULAS",DE SICARIO A YOUTUBER
+https://content-na.drive.amazonaws.com/cdproxy/share/Uh1j7gMGbZlHugAjtqrElIx1SM841wcXBJUxboR1ipr/nodes/aVwxwhO-SjyNfOIkHaSpnw?nonce=GfmlAeTh8s-l48VMN2-fVANKRhS6d97gZOi9z1_St1DZWpBQVqYC3B-q_lNI0Ctl
+
+#EXTINF:-1 tvg-logo="https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5b7e7d341d48f_3hkImCSIM8ROpTSA8EF2joYdBNd.jpg group-title="PELICULAS",EL JUSTICIERO
+https://content-na.drive.amazonaws.com/cdproxy/share/YlhJ6FiERHBQ6Qpuw8eIdVrLBCdgKejxZQezsDH3InJ/nodes/z4UM1frbQfKz8ZcIoU4A3g?nonce=qVOOZaocRbKgDc-WVqO0IRi9K0lEuxuhcb43ARe3-wRKIPuMovlroVvxpJgi
+
