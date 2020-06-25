@@ -334,9 +334,9 @@ http://159.203.148.226/live/farra_low.m3u8
 #EXTINF:-1 group-title="PARAGUAY ",CANAL 13 RPC PY
 http://174.138.118.252/live/canal13stream.m3u8
 
-#EXTINF:-1 group-title="PARAGUAY ",TELEFUTURO
+#EXTINF:-1 group-title="PARAGUAY ",TELEFUTURO PY
 https://dcunilive75-lh.akamaihd.net/i/dclive_1@803849/master.m3u8?hdnea=st=1593105787~exp=1593106187~acl=/i/dclive_1@803849*~hmac=6fd5f3623cf64bc2457c28b61f6c2f655192fe56d5b574f55fc35d0ef8753f42
-#EXTINF:-1 group-title="PARAGUAY ",LATELE
+#EXTINF:-1 group-title="PARAGUAY ",LATELE PY
 https://dcunilive4-lh.akamaihd.net/i/dclive_1@680459/master.m3u8?hdnea=st=1593106293~exp=1593106693~acl=/i/dclive_1@680459*~hmac=13e8c6200143520d3213a8819c8482e59afce36e8903c9ca183e92a6bc85e-faa
 #EXTINF:-1 group-title="PARAGUAY ",UNICANAL PY
 http://45.55.127.106/live/unicanal_low.m3u8
@@ -346,6 +346,14 @@ http://54.94.130.159:1935/live/heistream/chunklist_w1495124591.m3u8
 
 #EXTINF:-1 group-title="PARAGUAY ",GEN TV py
 https://gruponacion.castr.io/edge/live_9ff9073080be11e9b616571fef7afaa2/playlist.m3u8
+#EXTINF:-1 group-title="PARAGUAY ",MI TV PY
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY ",RCC TV PY
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
+
+#EXTINF:-1 group-title="PARAGUAY ",MAS TV PY
+https://www.okparaguay.com/mas-tv/?video_embed=90
 
 #EXTINF: -1 group-title = "BOL ",CADENA A  BO
 http://www.channel.tevemi.com:1935/CadenaABolivia/CadenaABolivia/chunklist_w1306254148.m3u8
