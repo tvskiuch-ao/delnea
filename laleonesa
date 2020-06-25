@@ -334,9 +334,10 @@ http://159.203.148.226/live/farra_low.m3u8
 #EXTINF:-1 group-title="PARAGUAY ",CANAL 13 RPC PY
 http://174.138.118.252/live/canal13stream.m3u8
 
-#EXTINF:-1 group-title="PARAGUAY ",RPC PARAGUAY
-http://174.138.118.252/live/canal13stream_low.m3u8
-
+#EXTINF:-1 group-title="PARAGUAY ",TELEFUTURO
+https://dcunilive75-lh.akamaihd.net/i/dclive_1@803849/master.m3u8?hdnea=st=1593105787~exp=1593106187~acl=/i/dclive_1@803849*~hmac=6fd5f3623cf64bc2457c28b61f6c2f655192fe56d5b574f55fc35d0ef8753f42
+#EXTINF:-1 group-title="PARAGUAY ",LATELE
+https://dcunilive4-lh.akamaihd.net/i/dclive_1@680459/master.m3u8?hdnea=st=1593106293~exp=1593106693~acl=/i/dclive_1@680459*~hmac=13e8c6200143520d3213a8819c8482e59afce36e8903c9ca183e92a6bc85e-faa
 #EXTINF:-1 group-title="PARAGUAY ",UNICANAL PY
 http://45.55.127.106/live/unicanal_low.m3u8
 
