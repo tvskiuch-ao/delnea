@@ -72,8 +72,6 @@ http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w825181457.m3u8
 #EXTINF: -1 group-title = "BR ",TV BIRIGUI  BR
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
-#EXTINF:-1 group-title="LAT ",ACS 
-https://stmv1.questreaming.com/acstv/acstv/playlist.m3u8
 #EXTINF:-1 group-title="LAT ",CGTN Espaniol
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 group-title="ARG ",chacra tv
@@ -319,7 +317,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0102
 #EXTINF:-1 group-title="ARG ",UNITEVE VILLA AMRIA
 http://stmv1.questreaming.com/uniteve/uniteve/playlist.m3u8?wowzasessionid=1242977139
 
-#EXTINF:0,EXTRA TV 42
+#EXTINF:-1 group-title="ARG ",EXTRA TV 42
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCR0014
 
 #EXTINF:-1 group-title="ARG ",13 MAX TV CORRIENTE
@@ -354,7 +352,140 @@ https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 
 #EXTINF:-1 group-title="PARAGUAY ",MAS TV PY
 https://www.okparaguay.com/mas-tv/?video_embed=90
-
+#EXTINF: -1 group-title = "BR ",TV PADRE CICERO
+https://59f2354c05961.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero.smil/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV GUARANY
+http://01.paineldevideo.com/rtguarany/rtguarany/chunklist_w1701752279.m3u8
+#EXTINF: -1 group-title = "BR ",LITORAL TV
+https://596639ebdd89b.streamlock.net:443/8048/8048/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV JAGUAR
+https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV SERRA VERDE
+https://stmv6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV O POVO
+http://srv3.zoeweb.tv:1935/z01-live/stream/chunklist_w1852370021.m3u8
+#EXTINF: -1 group-title = "BR ",TV ARACATI
+https://livefocamundo.com:8081/8148/index.m3u8
+#EXTINF: -1 group-title = "BR ",TV RIO LARGO
+https://stmv1.mycast.com.br/tvriolargo/tvriolargo/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV MACEIÓ
+http://173.236.10.10:1935/toptv/toptv/chunklist_w1587235228.m3u8
+#EXTINF: -1 group-title = "BR ",TVI CAETANO
+https://stmv1.mycast.com.br/rivonaldi/rivonaldi/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV FÉ BRASIL
+https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
+#EXTINF: -1 group-title = "BR ",TV LIBERDADE
+https://stmv1.ifantasy.com.br/washington/washington/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",RECORD NEWS
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV ALTERNATIVA
+https://stmv4.srvstm.com/wagner1168/wagner1168/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",ESPIA WEB TV
+https://cdn.jmvstream.com/w/AVJ-9137/playlist/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",VIA MORENA
+https://59f2354c05961.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV PANTANAL
+https://stream1.asaweb.com.br:444/tvpantanalms/tvpantanalms/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",IGREJA BATISTA
+https://59f2354c05961.streamlock.net:1443/semeandoamordedeus/_definst_/semeandoamordedeus/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",NOVA TV NEWS
+https://stmv6.srvstm.com/novatvn/novatvn/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",NTV
+http://srv02.brasilstream.com.br:8080/live/ntv/ntv/mono.m3u8
+#EXTINF: -1 group-title = "BR ",TV SETE LAGOAS
+http://wz4.dnip.com.br/tvsetelagoas/tvsetelagoas.sdp/chunklist_w1759111241.m3u8
+#EXTINF: -1 group-title = "BR ",DIARIO DO SERTAO
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w331490148.m3u8
+#EXTINF: -1 group-title = "BR ",TVPARANA TURISMO
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF: -1 group-title = "BR ",CANAL 10 FOZ DO IGUACU
+http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/chunklist_w1527030704.m3u8
+#EXTINF: -1 group-title = "BR ",TV CARIOCA
+https://5d2c98775bafe.streamlock.net:443/8180/8180/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV METROPO RIO
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",CAXIA TV RJ
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV OPCAO
+https://stmv4.srvstm.com/wladimyr5849/wladimyr5849/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV PONTA DA SERRA
+https://stmv6.srvstm.com/tvpontadaserra/tvpontadaserra/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",RDCTV
+https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",STUDIO TV
+https://streamingtv.ddoti.com.br/hls/stream.m3u8
+#EXTINF: -1 group-title = "BR ",TV CIDADE 10
+rtmp://streaming.procergs.com.br/tve/stve
+#EXTINF: -1 group-title = "BR ",TV CACHOEIRA
+http://stream.novotempo.com/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV CIDADE FARROUPILHA
+http://209.126.127.101:1935/tvcidade/tvcidade/chunklist_w1967793962.m3u8
+#EXTINF: -1 group-title = "BR ",PREMIER TV
+http://200.194.238.229:8383/live/primer/index.m3u8
+#EXTINF: -1 group-title = "BR ",TVLITORAL PANORAMA
+http://streaming03.zas.media:1935/panorama/panorama/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",GENTV 26 HD
+http://wse5.player.tv.br:1935/aovivo/aovivo/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV FLORIPA
+http://hls.fm1.com.br:8080/hls/tvfloripa.m3u8
+#EXTINF: -1 group-title = "BR ",RECORD NEWS LIVE
+https://www.youtube.com/embed/live_stream?channel=UCuiLR4p6wQ3xLEm15pEn1Xw&autoplay=1
+#EXTINF: -1 group-title = "BR ",VIVA WEB TV
+http://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV CAPITAL 777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV DIGITAL BIRIGUI
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",SEXY KPOP TV
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TOP MIX TV gospel
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV ITAPETININGA
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF: -1 group-title = "BR ",TV GUARULHOS
+http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",BLUE TV
+http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV NOVA ONDA
+https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TVIDEONEWS
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",THATHI TV
+https://thathi.akamaized.net/edge/live_d4f1bcf0e51f11e984d8672fa9a5f10a/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV ALVORADA SERTANEJA
+http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV VERBO DIVINO
+https://livefocamundo.com:8081/8280/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title = "BR ",ALPHA CHANNEL TV
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV ALVORADA SAT
+https://srv2.zcast.com.br/alvoradasat/alvoradasat/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",MKK WEB TV
+http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV INTERLAGOS
+http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",CINE TRIANON TV
+https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV ITABAIANINHA
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV BAND MT
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV BRASIL OESTE
+https://5d82644094cc0.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",40 GRAUS TV
+https://5d23bdca513db.streamlock.net/40graustv/40graustv/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV CIDADE CUPIRA
+https://video01.kshost.com.br/web7949/web7949/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV NATAL
+https://stmv6.srvstm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV FUTURO
+https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF: -1 group-title = "BR ",TV CIDADE OESTE
+http://209.222.17.241:5080/LiveApp/streams/083687260640701234040186.m3u8
+#EXTINF: -1 group-title = "BR ",TV SANTANA
+https://59f2354c05961.streamlock.net:1443/santana01/_definst_/santana01/playlist.m3u8
+#EXTINF:-1 group-title="ESP ",EL TORO TV
+https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
 #EXTINF: -1 group-title = "BOL ",CADENA A  BO
 http://www.channel.tevemi.com:1935/CadenaABolivia/CadenaABolivia/chunklist_w1306254148.m3u8
 
