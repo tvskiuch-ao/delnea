@@ -325,6 +325,8 @@ http://coninfo.net:1935/13maxhd/live_720p/chunklist_w821416899.m3u8
 
 #EXTINF:-1 group-title="ARG ", CANAL 6 DE MORENO
 http://streaming.arcast.com.ar:1935/canal6moreno/canal6moreno/chunklist_w2014651117.m3u8
+#EXTINF:-1 group-title="ESP ",BLAZE
+https://www.verahoratv.com/tv/documentales/blaze.php
 
 #EXTINF:-1 group-title="PARAGUAY ",FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
