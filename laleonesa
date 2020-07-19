@@ -322,7 +322,90 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCR0014
 
 #EXTINF:-1 group-title="ARG ",13 MAX TV CORRIENTE
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w821416899.m3u8
-
+#EXTINF:-1 group-title="CINE ",MEXICO", Azteca 7
+http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+#EXTINF:-1 group-title="CINE ",Azteca Uno
+http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+#EXTINF:-1 group-title="CINE ",Puñal Tv
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+#EXTINF:-1 group-title="CINE ",Vintage
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=fd421ec2-2288-45af-94c1-eb78f4584f71&deviceLat=25.7657&deviceLon=-100.2159&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=c616eafd-aa31-4ad7-b513-5771897422a4&userId=&serverSideAds=true
+#EXTINF:-1 group-title="CINE ",Nick Clásico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=fd421ec2-2288-45af-94c1-eb78f4584f71&deviceLat=25.7657&deviceLon=-100.2159&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=34.0.1847.116&includeExtendedEvents=false&sid=299954ee-c89c-455f-9393-ccffdfe5a901&userId=&serverSideAds=true
+#EXTINF:-1 group-title="CINE ",NickJR Club
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=70e04e3a-6cc4-490d-a4ad-59607842f648&deviceLat=25.7657&deviceLon=-100.2159&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=67deb07a-6f65-4c90-83b4-01d40a3b1840&userId=&serverSideAds=true
+#EXTINF:-1 group-title="CINE ",Pluto Tv Competencias
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=70e04e3a-6cc4-490d-a4ad-59607842f648&deviceLat=25.7657&deviceLon=-100.2159&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=67deb07a-6f65-4c90-83b4-01d40a3b1840&userId=&serverSideAds=true
+#EXTINF:-1 group-title="CINE ",Pluto Tv Naturaleza
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=fd421ec2-2288-45af-94c1-eb78f4584f71&deviceLat=25.7657&deviceLon=-100.2159&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=3f299e7d-2a1c-4ca5-bda1-5a06ea5387e9&userId=&serverSideAds=true
+#EXTINF:-1 group-title="CINE ",Pluto Tv Novelas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=70e04e3a-6cc4-490d-a4ad-59607842f648&deviceLat=25.7657&deviceLon=-100.2159&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=67deb07a-6f65-4c90-83b4-01d40a3b1840&userId=&serverSideAds=true
+#EXTINF:-1 group-title="CINE ",Pluto Tv Reality
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=70e04e3a-6cc4-490d-a4ad-59607842f648&deviceLat=25.7657&deviceLon=-100.2159&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=67deb07a-6f65-4c90-83b4-01d40a3b1840&userId=&serverSideAds=true
+#EXTINF:-1 group-title="CINE ",Pluto Tv Series
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=70e04e3a-6cc4-490d-a4ad-59607842f648&deviceLat=25.7657&deviceLon=-100.2159&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=67deb07a-6f65-4c90-83b4-01d40a3b1840&userId=&serverSideAds=true
+#EXTINF:-1 group-title="CINE ",Series Latinas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=70e04e3a-6cc4-490d-a4ad-59607842f648&deviceLat=25.7657&deviceLon=-100.2159&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=67deb07a-6f65-4c90-83b4-01d40a3b1840&userId=&serverSideAds=true
+#EXTINF:-1 group-title="CINE ",Series Retro
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=70e04e3a-6cc4-490d-a4ad-59607842f648&deviceLat=25.7657&deviceLon=-100.2159&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=67deb07a-6f65-4c90-83b4-01d40a3b1840&userId=&serverSideAds=true
+#EXTINF:-1 group-title="CINE ",Cine Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=70e04e3a-6cc4-490d-a4ad-59607842f648&deviceLat=25.7657&deviceLon=-100.2159&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=67deb07a-6f65-4c90-83b4-01d40a3b1840&userId=&serverSideAds=true
+#EXTINF:-1 group-title="CINE ",Anime
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=70e04e3a-6cc4-490d-a4ad-59607842f648&deviceLat=25.7657&deviceLon=-100.2159&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=67deb07a-6f65-4c90-83b4-01d40a3b1840&userId=&serverSideAds=true
+#EXTINF:-1 group-title="CINE ",Cine
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=70e04e3a-6cc4-490d-a4ad-59607842f648&deviceLat=25.7657&deviceLon=-100.2159&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=67deb07a-6f65-4c90-83b4-01d40a3b1840&userId=&serverSideAds=true
+#EXTINF:-1 group-title="CINE ",Cine Comedia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=70e04e3a-6cc4-490d-a4ad-59607842f648&deviceLat=25.7657&deviceLon=-100.2159&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=67deb07a-6f65-4c90-83b4-01d40a3b1840&userId=&serverSideAds=true
+#EXTINF:-1 group-title="CINE ",Cine Estelar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=70e04e3a-6cc4-490d-a4ad-59607842f648&deviceLat=25.7657&deviceLon=-100.2159&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=67deb07a-6f65-4c90-83b4-01d40a3b1840&userId=&serverSideAds=true
+#EXTINF:-1 group-title="CINE ",Cine Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=70e04e3a-6cc4-490d-a4ad-59607842f648&deviceLat=25.7657&deviceLon=-100.2159&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=67deb07a-6f65-4c90-83b4-01d40a3b1840&userId=&serverSideAds=true
+#EXTINF:-1 group-title="CINE ",Deportes
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.2.3-c80b4c39772e60debecf1303d2fd9b01f3b97319&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=70e04e3a-6cc4-490d-a4ad-59607842f648&deviceLat=25.7657&deviceLon=-100.2159&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&sid=67deb07a-6f65-4c90-83b4-01d40a3b1840&userId=&serverSideAds=true
+#EXTINF:-1 group-title="CINE ",TVS DE TODOS
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+#EXTINF:-1 group-title="CINE ",MEGAVISION
+http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+#EXTINF:-1 group-title="CINE ",Canal M UY
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master.m3u8
+#EXTINF:-1 group-title="CINE ",CANAL AME 47
+http://ss6.domint.net:2028/ame_str/amecanal47/chunklist_w573523760.m3u8
+#EXTINF:-1 group-title="CINE ",ES NE TV
+https://zypelive-lh.akamaihd.net/i/default_1@745572/index_288_av-p.m3u8?F38b1dF4=5e23d03f828a5300018c8e45&6pLKMQ3y=Sqi3Ng90&video_id=5d0000b80c4ebb590e80e184&sd=10&dw=10800&rebase=on
+#EXTINF:-1 group-title="CINE ",MEGAVISION CANAL 43 HD
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w792904637.m3u8
+#EXTINF:-1 group-title="CINE ",STV EL CAMAL FAMILIAR
+http://tiquiciatv.com:1935/stv/web/chunklist_w915494086.m3u8
+#EXTINF:-1 group-title="CINE ",TELENOVISA 43
+http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w120013135.m3u8
+#EXTINF:-1 group-title="CINE ",TV LATINA HD
+https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CINE ",TA HD
+https://youvideostreaming.club/hls/tvec4.m3u8
+#EXTINF:-1 group-title="CINE ",SERCANO
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/master.m3u8
+#EXTINF:-1 group-title="CINE ",CINELIFE  USA
+https://magselect-stirr.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="CINE ",VITATO TV HD
+https://d2nvs31859zcd8.cloudfront.net/d41b4200f4010b15a52e_vitatotv1_38187489952_1455592231/480p30/index-dvr.m3u8
+#EXTINF:-1 group-title="CINE ",MOVIEMIX USA
+https://sonar.sinclair.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 group-title="CINE ",GH TELEVISION HD
+http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
+#EXTINF:-1 group-title="CINE ",GDM TELEVISION HD
+https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/chunks.m3u8
+#EXTINF:-1 group-title="CINE ",PHTV CANAL 34
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+#EXTINF:-1 group-title="CINE ",PUNTA CANATV CANAL 8
+https://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CINE ",TELECINCO CANAL 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:-1 group-title="CINE ",CANAL MULTIMEDIOS 5 TELECREATIVA
+https://cdn2.zencast.tv:30443/telecreativa/live/chunks.m3u8
+#EXTINF:-1 group-title="CINE ",TELEUNION CANAL 16
+http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w2042982926.m3u8
+#EXTINF:-1 group-title="CINE ",EWTN CANAL CATÓLICO
+http://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_640x360_800k.m3u8
 #EXTINF:-1 group-title="ARG ", CANAL 6 DE MORENO
 http://streaming.arcast.com.ar:1935/canal6moreno/canal6moreno/chunklist_w2014651117.m3u8
 #EXTINF:-1 group-title="ESP ",BLAZE
