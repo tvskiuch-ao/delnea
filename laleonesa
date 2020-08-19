@@ -17,7 +17,8 @@ http://www.coninfo.net:1935/9linklive/live/chunklist_w1517576469.m3u8
 
 #EXTINF:-1 group-title="ARG ",Ciudad TV Chaco
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
-
+#EXTINF:-1 group-title="ARG ",CANAL 11 IGUAZU
+https://59537faa0729a.streamlock.net:443/cadenahitiguazu/cadenahitiguazu/playlist.m3u8
 #EXTINF:-1 group-title="ARG ",canal 4 posadas
 https://589ff3c36f7e8.streamlock.net/canal4/canal4/playlist.m3u8
 #EXTINF:-1 group-title="ARG ",12 POSADAS
@@ -319,7 +320,50 @@ http://stmv1.questreaming.com/uniteve/uniteve/playlist.m3u8?wowzasessionid=12429
 
 #EXTINF:-1 group-title="ARG ",EXTRA TV 42
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCR0014
-
+#EXTINF:-1 group-title="24/7 ",Aliniginas Ancestrales
+http://links.iptvlogin.com:80/live/asd123456/asd123456/202855.ts
+#EXTINF:-1 group-title="24/7 ",Mr Bean
+http://links.iptvlogin.com:80/live/asd123456/asd123456/202881.ts
+#EXTINF:-1 group-title="24/7 ",Los 3 Chiflados
+http://links.iptvlogin.com:80/live/asd123456/asd123456/202886.ts
+#EXTINF:-1 group-title="24/7 ",Cantinflas (Animado)
+http://links.iptvlogin.com:80/live/asd123456/asd123456/202885.ts
+#EXTINF:-1 group-title="24/7 ",El Chapulin Colorado
+http://links.iptvlogin.com:80/live/asd123456/asd123456/202888.ts
+#EXTINF:-1 group-title="24/7 ",El Chavo Del 8
+http://links.iptvlogin.com:80/live/asd123456/asd123456/202889.ts
+#EXTINF:-1 group-title="24/7 ",EL Chavo Animado
+http://links.iptvlogin.com:80/live/asd123456/asd123456/202890.ts
+#EXTINF:-1 group-title="24/7 ",ALF
+http://links.iptvlogin.com:80/live/asd123456/asd123456/202914.ts
+#EXTINF:-1 group-title="24/7 ",Donde Esta Wally
+http://links.iptvlogin.com:80/live/asd123456/asd123456/202939.ts
+#EXTINF:-1 group-title="24/7 ",Coraje el Perro Cobarde
+http://links.iptvlogin.com:80/live/asd123456/asd123456/202937.ts
+#EXTINF:-1 group-title="24/7 ",Garfield
+http://links.iptvlogin.com:80/live/asd123456/asd123456/202949.ts
+#EXTINF:-1 group-title="24/7 ",La Pantera Rosa
+http://links.iptvlogin.com:80/live/asd123456/asd123456/202953.ts
+#EXTINF:-1 group-title="24/7 ",Los Picapiedras
+http://links.iptvlogin.com:80/live/asd123456/asd123456/202955.ts
+#EXTINF:-1 group-title="24/7 ",Los Picapiedras (Pequeños)
+http://links.iptvlogin.com:80/live/asd123456/asd123456/202956.ts
+#EXTINF:-1 group-title="24/7 ",Los Pitufos
+http://links.iptvlogin.com:80/live/asd123456/asd123456/202968.ts
+#EXTINF:-1 group-title="24/7 ",Tom y Jerry
+http://links.iptvlogin.com:80/live/asd123456/asd123456/202978.ts
+#EXTINF:-1 group-title="24/7 ",Pato Aventura
+http://links.iptvlogin.com:80/live/asd123456/asd123456/202980.ts
+#EXTINF:-1 group-title="24/7 ",Don Gato y su Pandilla
+http://links.iptvlogin.com:80/live/asd123456/asd123456/203007.ts
+#EXTINF:-1 group-title="24/7 ",Gasparin
+http://links.iptvlogin.com:80/live/asd123456/asd123456/203008.ts
+#EXTINF:-1 group-title="24/7 ",Los Supersonico
+http://links.iptvlogin.com:80/live/asd123456/asd123456/203010.ts
+#EXTINF:-1 group-title="24/7 ",La Pequeña Lulu
+http://links.iptvlogin.com:80/live/asd123456/asd123456/203016.ts
+#EXTINF:-1 group-title="24/7 ",El Gallo Claudio
+http://links.iptvlogin.com:80/live/asd123456/asd123456/203027.ts
 #EXTINF:-1 group-title="ARG ",13 MAX TV CORRIENTE
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w821416899.m3u8
 #EXTINF:-1 group-title="CINE ",MEXICO", Azteca 7
