@@ -1,2 +1,0 @@
-# delnea
-casa de barro
