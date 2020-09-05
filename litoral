@@ -45,6 +45,117 @@ http://s8.stweb.tv:1935/chacra/live/playlist.m3u8
 #EXTINF:-1 group-title="ARG ",Garage tv
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 
+#EXTINF:-1 group-title="ESP ",Energy HD
+https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8
+#EXTINF:-1 group-title="ESP ",Divinity HD
+https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
+#EXTINF:-1 group-title="ESP ",Be Mad HD
+https://linear02-i.akamaihd.net/hls/live/837815/bemad/01.m3u8
+#EXTINF:-1 group-title="ESP ",Boing HD
+https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
+#EXTINF:-1 group-title="ESP ",Canal 45 TV
+https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
+#EXTINF:-1 group-title="ESP ",Costa Noroeste TV
+https://limited08.todostreaming.es/live/noroestetv-livestream.m3u8
+#EXTINF:-1 group-title="ESP ",Interalmería TV
+https://interalmeria.tv/directo/live.m3u8
+#EXTINF:-1 group-title="ESP ",Torrevisión
+https://api.new.livestream.com/accounts/2614936/events/1848989/live.m3u8
+#EXTINF:-1 group-title="ESP ",Cadena Elite Granada
+https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
+#EXTINF:-1 group-title="ESP ",CostadelSol TV
+https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
+#EXTINF:-1 group-title="ESP ",Cancionero TV
+http://89.140.99.41/hls/cancionero.m3u8
+#EXTINF:-1 group-title="ESP ",Canal 25 Barbastro TV
+https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+#EXTINF:-1 group-title="ESP ",Mírame TV
+https://593fa17dec176.streamlock.net:455/mirametv/mirametv/master.m3u8
+#EXTINF:-1 group-title="ESP ",Popular TV Cantabria
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:-1 group-title="ESP ",Visión 6 TV
+https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
+#EXTINF:-1 group-title="ESP ",Imás TV
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
+#EXTINF:-1 group-title="ESP ",Manzanares10TV
+https://secure.todostreaming.es/live/manzanares-livestream.m3u8
+#EXTINF:-1 group-title="ESP ",TV Benavente
+https://593fa17dec176.streamlock.net/gcm5/gcm5/playlist.m3u8
+#EXTINF:-1 group-title="ESP ",Canal Terres de l'Ebre
+https://liveingesta119.cdnmedia.tv/canaltetvlive/smil:live.smil/master.m3u8
+#EXTINF:-1 group-title="ESP ",El 9 TV
+https://liveingesta119.cdnmedia.tv/9tvlive/smil:live.smil/master.m3u8
+#EXTINF:-1 group-title="ESP ",Canal Reus TV
+https://liveingesta118.cdnmedia.tv/canalreustvlive/smil:live.smil/master.m3u8
+#EXTINF:-1 group-title="ESP ",Canal Terrassa
+https://liveingesta119.cdnmedia.tv/canalterrassatvlive/smil:canalterrassatv.smil/master.m3u8
+#EXTINF:-1 group-title="ESP ",Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1 group-title="CINE ",Pluto TV Cine
+http://stitcher.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ", Pluto TV Cine Terror
+http://stitcher.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Viajes
+http://stitcher.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Cine Drama
+http://stitcher.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Cocina
+http://stitcher.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ", Pluto TV Novelas
+http://stitcher.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Series
+http://stitcher.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Anime
+http://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Reality
+http://stitcher.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Investiga
+http://stitcher.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Junior
+http://stitcher.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Cine Estelar
+http://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Hogar
+http://stitcher.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV  Competencias
+http://stitcher.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Kids
+http://stitcher.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Velocidad
+http://stitcher.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Cine Familia
+http://stitcher.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Teen
+http://stitcher.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Cine Romance
+http://stitcher.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Animales
+http://stitcher.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Series Latina
+http://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Naturaleza
+http://stitcher.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Cine Suspenso
+http://stitcher.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV MasterChef
+http://stitcher.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Cine
+http://stitcher.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Series Retro
+http://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Anime Accion
+http://stitcher.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Estrellas de Accion
+http://stitcher.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="CINE ",Pluto TV Star Trek
+http://stitcher.pluto.tv/stitch/hls/channel/5ec5761aabe4690007f6e047/master.m3u8?terminate=false&deviceId=0&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=Chrome&sid=999&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
+#EXTINF:-1 group-title="LAT ",MANGO TV RD
+http://mangotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 group-title="LAT ",UFC NETWORK
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 group-title="LAT ",DRAGON BALL Z
+http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
+
 #EXTINF:-1 group-title="24/7 ",Aliniginas Ancestrales
 http://links.iptvlogin.com:80/live/asd123456/asd123456/202855.ts
 #EXTINF:-1 group-title="24/7 ",Mr Bean
