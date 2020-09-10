@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:-1 group-title="CINE ",TAQUILLA 1
+http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/13.ts
 #EXTINF:-1 group-title="ARG ",13 Max
 http://coninfo.net:1935/13maxhd/live/chunklist_w1734556634.m3u8
 #EXTINF:-1 group-title="ARG ",canal 11 formosa
