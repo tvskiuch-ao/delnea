@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:-1 group-title="ARG ",JENY LA PARAGUAYA
+https://live-ak.vimeocdn.com/exp=1600572630~acl=%2Feea26276-a8e7-4982-87f0-0af760fc19a1%2F%2A~hmac=093e2b28ae3d1e69b563dee40f3107dc5f155db81ee07cc3c29d47512861b683/eea26276-a8e7-4982-87f0-0af760fc19a1/hls.m3u8?min_seconds=30
 #EXTINF:-1 group-title="ARG ",13 Max
 http://coninfo.net:1935/13maxhd/live/chunklist_w1734556634.m3u8
 #EXTINF:-1 group-title="ARG ",canal 11 formosa
