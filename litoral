@@ -1,7 +1,5 @@
 
 #EXTM3U
-#EXTINF:-1 group-title="ARG ",JENY LA PARAGUAYA
-https://live-ak.vimeocdn.com/exp=1600572630~acl=%2Feea26276-a8e7-4982-87f0-0af760fc19a1%2F%2A~hmac=093e2b28ae3d1e69b563dee40f3107dc5f155db81ee07cc3c29d47512861b683/eea26276-a8e7-4982-87f0-0af760fc19a1/hls.m3u8?min_seconds=30
 #EXTINF:-1 group-title="ARG ",13 Max
 http://coninfo.net:1935/13maxhd/live/chunklist_w1734556634.m3u8
 #EXTINF:-1 group-title="ARG ",canal 11 formosa
@@ -157,6 +155,15 @@ http://mangotv01.streamprolive.com/hls/live.m3u8
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:-1 group-title="LAT ",DRAGON BALL Z
 http://alhls.cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
+
+#EXTINF:-1 group-title="LAT ",EuroLatina TV
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+#EXTINF:-1 group-title="LAT ",Telemúsica Colombia
+https://5f2eaf2aa4061.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8
+#EXTINF:-1 group-title="LAT ",Top Latino TV Perú
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+#EXTINF:-1 group-title="LAT ",Music Top Argentina
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="24/7 ",Aliniginas Ancestrales
 http://links.iptvlogin.com:80/live/asd123456/asd123456/202855.ts
