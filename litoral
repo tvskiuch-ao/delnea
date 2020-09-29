@@ -45,6 +45,27 @@ http://s8.stweb.tv:1935/chacra/live/playlist.m3u8
 #EXTINF:-1 group-title="ARG ",Garage tv
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 
+#EXTINF:-1 group-title="DEP ",FOX SPORT
+http://95.216.102.177/look/fox_sport/index.m3u8
+#EXTINF:-1 group-title="DEP ",FOX SPORT 1
+http://95.216.102.177/look/fox_sport_1/index.m3u8
+#EXTINF:-1 group-title="DEP ",FOX SPORT 2
+http://95.216.102.177/look/fox_sport_2/index.m3u8
+#EXTINF:-1 group-title="DEP ",FOX SPORT 3
+http://95.216.102.177/look/fox_sport_3/index.m3u8
+#EXTINF:-1 group-title="DEP ",ESPEN
+http://95.216.102.177/look/espn/index.m3u8
+#EXTINF:-1 group-title="DEP ",ESPEN2
+http://95.216.102.177/look/espn_2/index.m3u8
+#EXTINF:-1 group-title="DEP ",ESPEN3
+http://95.216.102.177/look/espn_3/index.m3u8
+#EXTINF:-1 group-title="DEP ",TYC SPORT
+http://95.216.102.177/look/tyc_sport/index.m3u8
+#EXTINF:-1 group-title="DEP ",WIN SPORT
+http://95.216.102.177/look/win_sport/index.m3u8
+#EXTINF:-1 group-title="DEP ",CDF
+http://95.216.102.177/look/cdf/index.m3u8
+
 #EXTINF:-1 group-title="ESP ",Energy HD
 https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8
 #EXTINF:-1 group-title="ESP ",Divinity HD
